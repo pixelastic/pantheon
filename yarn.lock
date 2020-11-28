@@ -7365,7 +7365,7 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hogan.js@3.0.2, hogan.js@^3.0.2:
+hogan.js@^3.0.2:
   version "3.0.2"
   resolved "https://registry.npmjs.org/hogan.js/-/hogan.js-3.0.2.tgz#4cd9e1abd4294146e7679e41d7898732b02c7bfd"
   integrity sha1-TNnhq9QpQUbnZ55B14mHMrAse/0=
@@ -9868,11 +9868,6 @@ media-typer@0.3.0:
   resolved "https://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
 
-medium-zoom@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmjs.org/medium-zoom/-/medium-zoom-1.0.6.tgz#9247f21ca9313d8bbe9420aca153a410df08d027"
-  integrity sha512-UdiUWfvz9fZMg1pzf4dcuqA0W079o0mpqbTnOz5ip4VGYX96QjmbM+OgOU/0uOzAytxC0Ny4z+VcYQnhdifimg==
-
 mem@^4.3.0:
   version "4.3.0"
   resolved "https://registry.npmjs.org/mem/-/mem-4.3.0.tgz#461af497bc4ae09608cdb2e60eefb69bff744178"
@@ -10818,6 +10813,11 @@ norska-theme-default@^1.2.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/norska-theme-default/-/norska-theme-default-1.2.0.tgz#79a3b9e41e90247cd45d6cd2f3e0707ad1f0698c"
   integrity sha512-rVF0fGILXgkzSmGV2NfhVqedaQX3SpFs+t4ixo97DkASRWXLPzMCr4Qgg67FaNj/p+YrMLhKTYE6c0jt9K1b+g==
+
+norska-theme-search-infinite@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npmjs.org/norska-theme-search-infinite/-/norska-theme-search-infinite-0.0.2.tgz#4496bf83521a0273ee7baa51ab5179ab15b35d44"
+  integrity sha512-AaNeYmC5kixC/ld7abpPs8Jiiv0+hXL4p6HlulOnbD9SQb8yxbL2MPrnlRzHygasdtRewail7OgMxVHumpBocA==
 
 norska@1.4.0:
   version "1.4.0"
