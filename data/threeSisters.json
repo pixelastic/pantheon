@@ -1,10 +1,10 @@
 {
   "alignment": "Good",
   "description": "The Three Sisters are a collective entity worshiped in Arcadia as a deity.",
-  "domains": [""],
+  "domains": [],
   "name": "Three Sisters",
+  "picture": null,
   "slug": "threeSisters",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Three_Sisters",
   "worshipers": ["Arcadians"]

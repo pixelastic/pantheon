@@ -4,9 +4,9 @@
   "domains": ["Animals", "Good", "Knowledge", "Law", "Travel"],
   "favoredWeapon": "Shortbow",
   "name": "Gruhastha",
+  "picture": null,
   "slug": "gruhastha",
   "symbol": "Mandala with four open books as gates of the compass points",
-  "symbolPicture": null,
   "titles": ["The Keeper"],
   "url": "https://pathfinderwiki.com/wiki/Gruhastha",
   "worshipers": ["Vudrani"]

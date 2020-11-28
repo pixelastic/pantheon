@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Charm", "Evil", "Trickery"],
   "favoredWeapon": "Battleaxe",
   "name": "Verex",
+  "picture": null,
   "slug": "verex",
   "symbol": "Rat with gold coin",
-  "symbolPicture": null,
   "titles": ["The Despoiler"],
   "url": "https://pathfinderwiki.com/wiki/Verex",
   "worshipers": ["Orcs"]

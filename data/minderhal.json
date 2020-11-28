@@ -4,10 +4,10 @@
   "domains": ["Artifice", "Earth", "Evil", "Law", "Strength"],
   "favoredWeapon": "Warhammer",
   "name": "Minderhal",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Minderhal_holy_symbol.jpg",
   "pronunciation": "MIN-dehr-hawl",
   "slug": "minderhal",
   "symbol": "Anvil in triangle, with moon, planet, star at its corners",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Minderhal_holy_symbol.jpg",
   "titles": [
     "He Who Makes and Unmakes (shortened form: The Maker)",
     "Lawgiver",

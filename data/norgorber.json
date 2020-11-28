@@ -4,10 +4,10 @@
   "domains": ["Charm", "Death", "Evil", "Knowledge", "Trickery"],
   "favoredWeapon": "Short sword",
   "name": "Norgorber",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
   "pronunciation": "NOR-gore-ber",
   "slug": "norgorber",
   "symbol": "One-eyed mask",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
   "titles": [
     "Reaper of Reputation",
     "Father Skinsaw",

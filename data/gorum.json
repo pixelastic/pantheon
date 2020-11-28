@@ -4,10 +4,10 @@
   "domains": ["Chaos", "Destruction", "Glory", "Strength", "War"],
   "favoredWeapon": "Greatsword",
   "name": "Gorum",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gorum_holy_symbol.jpg",
   "pronunciation": "GOR-um",
   "slug": "gorum",
   "symbol": "Sword in mountain",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gorum_holy_symbol.jpg",
   "titles": ["Our Lord in Iron"],
   "url": "https://pathfinderwiki.com/wiki/Gorum",
   "worshipers": [

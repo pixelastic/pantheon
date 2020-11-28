@@ -4,8 +4,8 @@
   "domains": ["Chaos", "Charm", "Good", "Luck", "Travel"],
   "favoredWeapon": "Bo staff",
   "name": "Kofusachi",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Kofusachi_holy_symbol.jpg",
   "slug": "kofusachi",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Kofusachi_holy_symbol.jpg",
   "titles": ["The Laughing God"],
   "url": "https://pathfinderwiki.com/wiki/Kofusachi",
   "worshipers": [""]

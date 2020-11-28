@@ -4,9 +4,9 @@
   "domains": ["Good", "Healing", "Protection", "Strength", "War"],
   "favoredWeapon": "Shortspear",
   "name": "Cihua Couatl",
+  "picture": null,
   "slug": "cihuaCouatl",
   "symbol": "Two couatls consuming each other's tails with their wings overlapping in the centre",
-  "symbolPicture": null,
   "titles": ["The War Children"],
   "url": "https://pathfinderwiki.com/wiki/Cihua_Couatl",
   "worshipers": ["And Warriors", "Couatls", "Healers", "Midwives"]

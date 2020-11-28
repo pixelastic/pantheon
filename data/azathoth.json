@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Destruction", "Madness", "Sun", "Void"],
   "favoredWeapon": "Warhammer",
   "name": "Azathoth",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/[[Image:Azathoth.jpg|250px|Azathoth.]]",
   "slug": "azathoth",
   "symbol": "Eight pointed star",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/[[Image:Azathoth.jpg|250px|Azathoth.]]",
   "titles": [
     "The Daemon Sultan,",
     "The Primal Chaos,",

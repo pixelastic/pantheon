@@ -4,9 +4,9 @@
   "domains": ["Animal", "Darkness", "Evil", "Luck", "Trickery"],
   "favoredWeapon": "Dagger",
   "name": "Lao Shu Po",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lao_Shu_Po_holy_symbol.jpg",
   "slug": "laoShuPo",
   "symbol": "Emaciated rat",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lao_Shu_Po_holy_symbol.jpg",
   "titles": ["Old Rat Woman"],
   "url": "https://pathfinderwiki.com/wiki/Lao_Shu_Po",
   "worshipers": [""]

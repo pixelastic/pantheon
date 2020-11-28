@@ -4,9 +4,9 @@
   "domains": ["Good", "Nobility", "Protection", "Strength"],
   "favoredWeapon": "Warhammer",
   "name": "Trudd",
+  "picture": null,
   "slug": "trudd",
   "symbol": "Rune-carved stone throne",
-  "symbolPicture": null,
   "titles": ["The Mighty"],
   "url": "https://pathfinderwiki.com/wiki/Trudd",
   "worshipers": [""]

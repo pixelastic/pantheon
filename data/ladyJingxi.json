@@ -1,11 +1,11 @@
 {
   "alignment": "Neutral Good",
   "description": "Lady Jingxi is a minor Tian Xia goddess who instructs her followers to create master works of poetry.",
-  "domains": [""],
+  "domains": [],
   "favoredWeapon": "Fighting fan",
   "name": "Lady Jingxi",
+  "picture": null,
   "slug": "ladyJingxi",
-  "symbolPicture": null,
   "titles": ["The Poet of Dawn and Dusk"],
   "url": "https://pathfinderwiki.com/wiki/Lady_Jingxi",
   "worshipers": [""]

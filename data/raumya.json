@@ -1,11 +1,11 @@
 {
   "alignment": "Neutral Evil",
   "description": "Raumya is a male Vudran god appearing as the foul enemy in the Azvadeva Pujila and other tales.",
-  "domains": [""],
+  "domains": [],
   "favoredWeapon": "Trident",
   "name": "Raumya",
+  "picture": null,
   "slug": "raumya",
-  "symbolPicture": null,
   "titles": ["The Evil Prince"],
   "url": "https://pathfinderwiki.com/wiki/Raumya",
   "worshipers": ["Vudrani"]

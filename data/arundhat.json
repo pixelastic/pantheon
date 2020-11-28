@@ -1,10 +1,10 @@
 {
   "alignment": "Neutral Good",
   "description": "Arundhat is a goddess of the Vudran pantheon known as the bringer of blossoms and scent.",
-  "domains": [""],
+  "domains": [],
   "name": "Arundhat",
+  "picture": null,
   "slug": "arundhat",
-  "symbolPicture": null,
   "titles": ["The Sacred Perfume"],
   "url": "https://pathfinderwiki.com/wiki/Arundhat",
   "worshipers": [""]

@@ -4,10 +4,10 @@
   "domains": ["Chaos", "Evil", "Nobility", "Scalykind", "War"],
   "favoredWeapon": "Dagger",
   "name": "Ydersius",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
   "pronunciation": "yeh-DER-see-us",
   "slug": "ydersius",
   "symbol": "Snake skull and ouroboros",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
   "titles": [
     "The Headless King, Lord of Coiling Poison, the Father of Serpents, the Primal Coil, the Sundered God, the Slumbering Speaker Below, the Severed God"
   ],

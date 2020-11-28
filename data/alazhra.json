@@ -4,9 +4,9 @@
   "domains": ["Darkness", "Evil", "Repose", "Travel"],
   "favoredWeapon": "Dagger",
   "name": "Alazhra",
+  "picture": null,
   "slug": "alazhra",
   "symbol": "Jar containing a ghost",
-  "symbolPicture": null,
   "titles": ["The Dream Eater"],
   "url": "https://pathfinderwiki.com/wiki/Alazhra",
   "worshipers": ["Night Hags"]

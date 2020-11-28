@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Earth", "Protection", "Strength"],
   "favoredWeapon": "Greatsword",
   "name": "Ashukharma",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
   "slug": "ashukharma",
   "symbol": "A deep, jagged gorge in dry earth",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
   "titles": ["The Divine Divide"],
   "url": "https://pathfinderwiki.com/wiki/Ashukharma",
   "worshipers": ["Vudrani"]

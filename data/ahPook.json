@@ -4,9 +4,9 @@
   "domains": ["Darkness", "Death", "Destruction", "Evil", "Void"],
   "favoredWeapon": "Terbutje",
   "name": "Ah Pook",
+  "picture": null,
   "slug": "ahPook",
   "symbol": "Skull with a crescent eclipse",
-  "symbolPicture": null,
   "titles": ["The Destroyer"],
   "url": "https://pathfinderwiki.com/wiki/Ah_Pook",
   "worshipers": ["Arcadians"]

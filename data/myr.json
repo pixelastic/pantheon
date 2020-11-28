@@ -4,9 +4,9 @@
   "domains": ["Glory", "Good", "Law", "Nobility", "Strength"],
   "favoredWeapon": "Longsword",
   "name": "Myr",
+  "picture": null,
   "slug": "myr",
   "symbol": "Branching tree and roots",
-  "symbolPicture": null,
   "titles": ["The Guide of Perfection"],
   "url": "https://pathfinderwiki.com/wiki/Myr",
   "worshipers": ["Azlanti"]

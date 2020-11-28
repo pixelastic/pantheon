@@ -4,9 +4,9 @@
   "domains": ["Air", "Chaos", "Destruction", "Water", "Weather"],
   "favoredWeapon": "Nine-ring broadsword",
   "name": "Hei Feng",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Hei_Feng_holy_symbol.jpg",
   "slug": "heiFeng",
   "symbol": "Lightning bolt arcing out of a dark storm cloud",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Hei_Feng_holy_symbol.jpg",
   "titles": ["Duke of Thunder"],
   "url": "https://pathfinderwiki.com/wiki/Hei_Feng",
   "worshipers": ["Tengu"]

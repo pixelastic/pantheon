@@ -4,10 +4,10 @@
   "domains": ["Fire", "Glory", "Good", "Healing", "Sun"],
   "favoredWeapon": "Scimitar",
   "name": "Sarenrae",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
   "pronunciation": "SAER-en-ray ",
   "slug": "sarenrae",
   "symbol": "Angelic ankh",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
   "titles": [
     "The Dawnflower",
     "The Cleansing Light",

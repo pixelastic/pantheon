@@ -4,9 +4,9 @@
   "domains": ["Animal", "Good", "Law", "Sun"],
   "favoredWeapon": "Morningstar",
   "name": "Easivra",
+  "picture": null,
   "slug": "easivra",
   "symbol": "Eagle head in profile",
-  "symbolPicture": null,
   "titles": ["The Dawn Eagle"],
   "url": "https://pathfinderwiki.com/wiki/Easivra",
   "worshipers": ["Sabosan"]

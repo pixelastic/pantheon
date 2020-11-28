@@ -4,8 +4,8 @@
   "domains": ["Animal", "Chaos", "Liberation", "Travel", "Trickery"],
   "favoredWeapon": "Quarterstaff",
   "name": "Sun Wukong",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sun_Wukong_holy_symbol.jpg",
   "slug": "sunWukong",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sun_Wukong_holy_symbol.jpg",
   "titles": ["The Monkey King"],
   "url": "https://pathfinderwiki.com/wiki/Sun_Wukong",
   "worshipers": [""]

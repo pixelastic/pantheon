@@ -4,9 +4,9 @@
   "domains": ["Artifice", "Community", "Good", "Knowledge"],
   "favoredWeapon": "Heavy shield",
   "name": "Mazludeh",
+  "picture": null,
   "slug": "mazludeh",
   "symbol": "Seven eggs encircled by an ouroboros",
-  "symbolPicture": null,
   "titles": ["Mother of Hearth and Wall"],
   "url": "https://pathfinderwiki.com/wiki/Mazludeh",
   "worshipers": ["Holomog"]

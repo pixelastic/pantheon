@@ -4,9 +4,9 @@
   "domains": ["Animal", "Glory", "Good", "Plant", "Sun"],
   "favoredWeapon": "Scythe",
   "name": "Jaidi",
+  "picture": null,
   "slug": "jaidi",
   "symbol": "Shepherd's crook bearing a sun",
-  "symbolPicture": null,
   "titles": ["The Blessing and Bounty"],
   "url": "https://pathfinderwiki.com/wiki/Jaidi",
   "worshipers": ["Azlanti"]

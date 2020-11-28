@@ -4,10 +4,10 @@
   "domains": ["Glory", "Good", "Law", "Sun", "War"],
   "favoredWeapon": "Longsword",
   "name": "Iomedae",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
   "pronunciation": "ahy-OH-meh-day",
   "slug": "iomedae",
   "symbol": "Sword and sun",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
   "titles": ["The Inheritor", "Light of the Sword", "Lady of Valor"],
   "url": "https://pathfinderwiki.com/wiki/Iomedae",
   "worshipers": ["Knights", "Paladins", "Warriors"]

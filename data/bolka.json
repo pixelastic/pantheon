@@ -4,9 +4,9 @@
   "domains": ["Charm", "Community", "Good", "Healing"],
   "favoredWeapon": "Mace",
   "name": "Bolka",
+  "picture": null,
   "slug": "bolka",
   "symbol": "Golden bejeweled ring",
-  "symbolPicture": null,
   "titles": ["The Golden Gift"],
   "url": "https://pathfinderwiki.com/wiki/Bolka",
   "worshipers": [""]

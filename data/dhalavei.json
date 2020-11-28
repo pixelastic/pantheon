@@ -4,8 +4,8 @@
   "domains": ["Destruction", "Evil", "Knowledge", "Law", "Trickery"],
   "favoredWeapon": "Temple sword",
   "name": "Dhalavei",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
   "slug": "dhalavei",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
   "titles": ["The Unsuspected Rot", "Goddess of internal decay"],
   "url": "https://pathfinderwiki.com/wiki/Dhalavei",
   "worshipers": ["Vudrani"]

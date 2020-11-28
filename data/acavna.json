@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Darkness", "Protection", "Repose", "War"],
   "favoredWeapon": "Spear",
   "name": "Acavna",
+  "picture": null,
   "slug": "acavna",
   "symbol": "Crossed spears over a full moon",
-  "symbolPicture": null,
   "titles": ["The Shield"],
   "url": "https://pathfinderwiki.com/wiki/Acavna",
   "worshipers": ["Azlanti"]

@@ -1,10 +1,10 @@
 {
   "alignment": "",
   "description": "Yahaiya, the Cry in the Wastes, is a deity worshiped in the city of Yalakheen in Qadira. Supplicants who venture to Yalakheen and bleed out on her altar from the wound of a silver knife have their prayer to her come true.",
-  "domains": [""],
+  "domains": [],
   "name": "Yahaiya",
+  "picture": null,
   "slug": "yahaiya",
-  "symbolPicture": null,
   "titles": ["The Cry in the Wastes"],
   "url": "https://pathfinderwiki.com/wiki/Yahaiya",
   "worshipers": [""]

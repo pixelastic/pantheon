@@ -4,10 +4,10 @@
   "domains": ["Death", "Healing", "Knowledge", "Repose", "Water"],
   "favoredWeapon": "Dagger",
   "name": "Pharasma",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
   "pronunciation": "fah-RAZ-mah",
   "slug": "pharasma",
   "symbol": "Spiraling comet",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
   "titles": [
     "Lady of Graves",
     "Lady of Mysteries",

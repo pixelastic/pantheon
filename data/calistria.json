@@ -4,10 +4,10 @@
   "domains": ["Chaos", "Charm", "Knowledge", "Luck", "Trickery"],
   "favoredWeapon": "Whip",
   "name": "Calistria",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Calistria_holy_symbol.jpg",
   "pronunciation": "kah-LISS-tree-ah",
   "slug": "calistria",
   "symbol": "Three daggers",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Calistria_holy_symbol.jpg",
   "titles": [
     "The Savored Sting",
     "The Lady in the Room",

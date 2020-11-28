@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Evil", "War", "Water"],
   "favoredWeapon": "Greataxe",
   "name": "Thremyr",
+  "picture": null,
   "slug": "thremyr",
   "symbol": "Frozen blue gemstone",
-  "symbolPicture": null,
   "titles": ["The First Jarl"],
   "url": "https://pathfinderwiki.com/wiki/Thremyr",
   "worshipers": ["Frost Giants"]

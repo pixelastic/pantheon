@@ -4,9 +4,9 @@
   "domains": ["Destruction", "Earth", "Evil", "Liberation", "Void"],
   "favoredWeapon": "Meteor hammer",
   "name": "Scal",
+  "picture": null,
   "slug": "scal",
   "symbol": "Burning meteor impacting the ground",
-  "symbolPicture": null,
   "titles": ["Calm after the Storm"],
   "url": "https://pathfinderwiki.com/wiki/Scal",
   "worshipers": [""]

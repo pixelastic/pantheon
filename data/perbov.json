@@ -1,10 +1,10 @@
 {
   "alignment": "Unknown",
   "description": "Perbov is a minor giant god thought to only be worshiped in the Iobarian city of Okormirr. The ruler of that settlement, Druid-King Aalgin, requires all residents to swear fealty to Perbov, and he maintains that the nearby Lake of Mists and Veils is actually the god's sweat.",
-  "domains": [""],
+  "domains": [],
   "name": "Perbov",
+  "picture": null,
   "slug": "perbov",
-  "symbolPicture": null,
   "titles": ["The Father of the North"],
   "url": "https://pathfinderwiki.com/wiki/Perbov",
   "worshipers": ["Iobaria", "People Of Okormirr"]

@@ -4,9 +4,9 @@
   "domains": ["Artifice", "Chaos", "Destruction", "Madness", "Water"],
   "favoredWeapon": "Sickle",
   "name": "Speakers of the Depths",
+  "picture": null,
   "slug": "speakersOfTheDepths",
   "symbol": "Eyeless serpent twisted into an infinity symbol to feed upon its own tail",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Speakers_of_the_Depths",
   "worshipers": ["Proteans"]

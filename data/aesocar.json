@@ -4,9 +4,9 @@
   "domains": ["Artifice", "Good", "Healing", "Law", "Protection"],
   "favoredWeapon": "Mancatcher",
   "name": "Aesocar",
+  "picture": null,
   "slug": "aesocar",
   "symbol": "Enclosed six-pointed star",
-  "symbolPicture": null,
   "titles": ["The Healing Touch"],
   "url": "https://pathfinderwiki.com/wiki/Aesocar",
   "worshipers": [""]

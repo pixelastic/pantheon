@@ -4,10 +4,10 @@
   "domains": ["Chaos", "Charm", "Good", "Strength", "Travel"],
   "favoredWeapon": "Rapier",
   "name": "Cayden Cailean",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Cayden_Cailean_holy_symbol.jpg",
   "pronunciation": "KAY-den KAY-lee-en",
   "slug": "caydenCailean",
   "symbol": "Tankard",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Cayden_Cailean_holy_symbol.jpg",
   "titles": [
     "The Accidental God",
     "The Drunken God",

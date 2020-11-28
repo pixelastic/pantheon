@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Darkness", "Earth", "Madness", "Strength"],
   "favoredWeapon": "Whip",
   "name": "Abhoth",
+  "picture": null,
   "slug": "abhoth",
   "symbol": "Tentacle coiled around a disembodied eye",
-  "symbolPicture": null,
   "titles": [
     "The Source of Uncleanness",
     "The Primal Clay of Life's First Lurch",

@@ -4,8 +4,8 @@
   "domains": ["Chaos", "Knowledge", "Madness", "Rune", "Void"],
   "favoredWeapon": "Varies, but daggers are common",
   "name": "Outer God",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "slug": "outerGod",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Outer_God",
   "worshipers": [

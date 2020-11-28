@@ -1,10 +1,10 @@
 {
   "alignment": "Neutral",
   "description": "Likha is a female Vudran goddess. Her avatar told the history of the world to the sage Balazastrin and he wrote it down in the Mizravrtta Brahmodya.",
-  "domains": [""],
+  "domains": [],
   "name": "Likha",
+  "picture": null,
   "slug": "likha",
-  "symbolPicture": null,
   "titles": ["The Teller"],
   "url": "https://pathfinderwiki.com/wiki/Likha",
   "worshipers": ["Vudrani"]

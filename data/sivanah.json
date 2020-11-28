@@ -4,10 +4,10 @@
   "domains": ["Knowledge", "Madness", "Magic", "Rune", "Trickery"],
   "favoredWeapon": "Bladed scarf",
   "name": "Sivanah",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
   "pronunciation": "siv-AHN-ah",
   "slug": "sivanah",
   "symbol": "Veils tied in circle",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
   "titles": ["Goddess of Illusions", "The Seventh Veil"],
   "url": "https://pathfinderwiki.com/wiki/Sivanah",
   "worshipers": ["Illusionists", "Tricksters"]

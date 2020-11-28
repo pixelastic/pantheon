@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Death", "Evil", "Plant", "Void"],
   "favoredWeapon": "Flail",
   "name": "Nhimbaloth",
+  "picture": null,
   "slug": "nhimbaloth",
   "symbol": "Dripping skull with jaw stuffed with wet moss",
-  "symbolPicture": null,
   "titles": ["The Empty Death"],
   "url": "https://pathfinderwiki.com/wiki/Nhimbaloth",
   "worshipers": [""]

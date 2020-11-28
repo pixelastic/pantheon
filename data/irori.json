@@ -4,10 +4,10 @@
   "domains": ["Healing", "Knowledge", "Law", "Rune", "Strength"],
   "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike)",
   "name": "Irori",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
   "pronunciation": "ih-ROHR-ee",
   "slug": "irori",
   "symbol": "Blue hand",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
   "titles": [
     "Master of Masters",
     "Iro-Shu and the Enlightened One (in Tian Xia)",

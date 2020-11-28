@@ -4,9 +4,9 @@
   "domains": ["Artifice", "Earth", "Good", "Knowledge", "Magic"],
   "favoredWeapon": "Dagger",
   "name": "Yuelral",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yuelral_holy_symbol.jpg",
   "slug": "yuelral",
   "symbol": "Three overlapping crystals",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yuelral_holy_symbol.jpg",
   "titles": ["The Wise"],
   "url": "https://pathfinderwiki.com/wiki/Yuelral",
   "worshipers": ["Elves"]

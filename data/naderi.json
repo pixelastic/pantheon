@@ -4,9 +4,9 @@
   "domains": ["Charm", "Nobility", "Repose", "Water"],
   "favoredWeapon": "Dagger",
   "name": "Naderi",
+  "picture": null,
   "slug": "naderi",
   "symbol": "Ornate golden dagger",
-  "symbolPicture": null,
   "titles": ["The Lost Maiden"],
   "url": "https://pathfinderwiki.com/wiki/Naderi",
   "worshipers": ["Hopeless Lovers"]

@@ -4,10 +4,10 @@
   "domains": ["Community", "Glory", "Knowledge", "Law", "Protection"],
   "favoredWeapon": "Longsword",
   "name": "Aroden",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Aroden_holy_symbol.jpg",
   "pronunciation": "AIR-oh-den",
   "slug": "aroden",
   "symbol": "Eye of Aroden",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Aroden_holy_symbol.jpg",
   "titles": ["Last of the First Humans", "The Last Azlanti", "Living God"],
   "url": "https://pathfinderwiki.com/wiki/Aroden",
   "worshipers": [

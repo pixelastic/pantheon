@@ -1,10 +1,10 @@
 {
   "alignment": "",
   "description": "Azhia is a now-forgotten god of an unknown pantheon. Almost dead, Azhia's body hangs in the throne room of Betzebbul, the palace of Archdevil Baalzebul. The Lord of the Flies endlessly feasts upon the near-dead god's flesh.",
-  "domains": [""],
+  "domains": [],
   "name": "Azhia",
+  "picture": null,
   "slug": "azhia",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Azhia",
   "worshipers": [""]

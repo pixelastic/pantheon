@@ -4,10 +4,10 @@
   "domains": ["Artifice", "Chaos", "Darkness", "Travel", "Void"],
   "favoredWeapon": "Dagger",
   "name": "Nocticula",
+  "picture": null,
   "pronunciation": "nok-TICK-you-lah",
   "slug": "nocticula",
   "symbol": "Moon with a pair of smirking lips and a seven-pointed crown",
-  "symbolPicture": null,
   "titles": ["The Redeemer Queen"],
   "url": "https://pathfinderwiki.com/wiki/Nocticula",
   "worshipers": ["Artists And Exiles Assumed"]

@@ -4,10 +4,10 @@
   "domains": ["Death", "Evil", "Magic", "Strength", "War"],
   "favoredWeapon": "Scythe",
   "name": "Urgathoa",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Urgathoa_symbol.jpg",
   "pronunciation": "oor-gah-THO-ah",
   "slug": "urgathoa",
   "symbol": "Skull-decorated fly",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Urgathoa_symbol.jpg",
   "titles": ["The Pallid Princess,", "Lady Despair"],
   "url": "https://pathfinderwiki.com/wiki/Urgathoa",
   "worshipers": [""]

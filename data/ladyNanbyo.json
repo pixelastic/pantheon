@@ -4,8 +4,8 @@
   "domains": ["Chaos", "Destruction", "Evil", "Fire", "Plant"],
   "favoredWeapon": "Warhammer",
   "name": "Lady Nanbyo",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lady_Nanbyo_holy_symbol.jpg",
   "slug": "ladyNanbyo",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lady_Nanbyo_holy_symbol.jpg",
   "titles": ["The Widow of Suffering"],
   "url": "https://pathfinderwiki.com/wiki/Lady_Nanbyo",
   "worshipers": [""]

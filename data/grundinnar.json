@@ -4,9 +4,9 @@
   "domains": ["Community", "Good", "Law", "Protection"],
   "favoredWeapon": "Hammer",
   "name": "Grundinnar",
+  "picture": null,
   "slug": "grundinnar",
   "symbol": "Glowing golden hammer",
-  "symbolPicture": null,
   "titles": ["The Peacemaker"],
   "url": "https://pathfinderwiki.com/wiki/Grundinnar",
   "worshipers": [""]

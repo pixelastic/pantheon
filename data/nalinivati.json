@@ -4,9 +4,9 @@
   "domains": ["Charm", "Magic", "Nobility", "Rune", "Scalykind"],
   "favoredWeapon": "Urumi, bite",
   "name": "Nalinivati",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nalinivati_holy_symbol.jpg",
   "slug": "nalinivati",
   "symbol": "Lotus flower wherein a snake lies coiled",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nalinivati_holy_symbol.jpg",
   "titles": ["The Serpent's Kiss", "First Mother (nagaji)"],
   "url": "https://pathfinderwiki.com/wiki/Nalinivati",
   "worshipers": ["Lovers", "Naga", "Nagaji", "Snake Cults", "Sorcerers"]

@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Destruction", "Evil", "Scalykind", "Trickery"],
   "favoredWeapon": "Bite or whip",
   "name": "Dahak",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dahak_holy_symbol.jpg",
   "slug": "dahak",
   "symbol": "Falling burning scale or star",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dahak_holy_symbol.jpg",
   "titles": [
     "The False Wyrm",
     "Sorrowmaker",

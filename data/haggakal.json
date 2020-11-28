@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Evil", "Madness", "Strength"],
   "favoredWeapon": "greatclub",
   "name": "Haggakal",
+  "picture": null,
   "slug": "haggakal",
   "symbol": "Leering ogre face",
-  "symbolPicture": null,
   "titles": [],
   "url": "https://pathfinderwiki.com/wiki/Haggakal",
   "worshipers": ["Ogres"]

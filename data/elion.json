@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Community", "Good", "Travel", "Weather"],
   "favoredWeapon": "Longbow",
   "name": "Elion",
+  "picture": null,
   "slug": "elion",
   "symbol": "Compass",
-  "symbolPicture": null,
   "titles": ["The Farseeker"],
   "url": "https://pathfinderwiki.com/wiki/Elion",
   "worshipers": [""]

@@ -4,10 +4,10 @@
   "domains": ["Animal", "Community", "Good", "Law", "Plant"],
   "favoredWeapon": "Longbow",
   "name": "Erastil",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Erastil_holy_symbol.jpg",
   "pronunciation": "eh-RAS-til",
   "slug": "erastil",
   "symbol": "Bow and arrow",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Erastil_holy_symbol.jpg",
   "titles": ["Old Deadeye, Stag God, Estig the Hunter"],
   "url": "https://pathfinderwiki.com/wiki/Erastil",
   "worshipers": ["Farmers", "Hunters", "Tradesmen"]

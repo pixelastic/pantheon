@@ -4,9 +4,9 @@
   "domains": ["Artifice", "Good", "Law", "Scalykind", "Travel"],
   "favoredWeapon": "Bite or quarterstaff",
   "name": "Apsu",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
   "slug": "apsu",
   "symbol": "Silver dragon above mirror or pool",
-  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
   "titles": ["Waybringer", "The Exiled Wyrm", "Maker of All"],
   "url": "https://pathfinderwiki.com/wiki/Apsu",
   "worshipers": ["Dragons"]

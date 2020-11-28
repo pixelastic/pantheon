@@ -1,10 +1,10 @@
 {
   "alignment": "Chaotic Evil",
   "description": "According to the myths of dragonkind, Tiamat, along with her mate Apsu, is one of the two original beings.",
-  "domains": [""],
+  "domains": [],
   "name": "Tiamat",
+  "picture": null,
   "slug": "tiamat",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Tiamat",
   "worshipers": [""]

@@ -22,7 +22,7 @@
     "ci": "./scripts/ci",
     "cms": "./scripts/cms",
     "data:index": "node ./scripts/data-index.js",
-    "data:update": "node ./scripts/data-update.js",
+    "data:generate": "node ./scripts/data-generate.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",

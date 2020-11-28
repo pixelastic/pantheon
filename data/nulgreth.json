@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Evil", "Strength", "War"],
   "favoredWeapon": "Orc double axe",
   "name": "Nulgreth",
+  "picture": null,
   "slug": "nulgreth",
   "symbol": "Bloody double axe",
-  "symbolPicture": null,
   "titles": ["The Blood God"],
   "url": "https://pathfinderwiki.com/wiki/Nulgreth",
   "worshipers": ["Orcs"]

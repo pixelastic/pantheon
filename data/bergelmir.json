@@ -4,9 +4,9 @@
   "domains": ["Chaos", "Community", "Good", "Knowledge"],
   "favoredWeapon": "Quarterstaff",
   "name": "Bergelmir",
+  "picture": null,
   "slug": "bergelmir",
   "symbol": "Three bolts of lightning",
-  "symbolPicture": null,
   "titles": ["Mother of Memories"],
   "url": "https://pathfinderwiki.com/wiki/Bergelmir",
   "worshipers": ["Storm Giants"]

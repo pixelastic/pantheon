@@ -4,9 +4,9 @@
   "domains": ["Air", "Chaos", "Evil", "Weather"],
   "favoredWeapon": "Falchion",
   "name": "Rull",
+  "picture": null,
   "slug": "rull",
   "symbol": "Thunder cloud and lightning",
-  "symbolPicture": null,
   "titles": ["The Thunderer"],
   "url": "https://pathfinderwiki.com/wiki/Rull",
   "worshipers": ["Orcs"]

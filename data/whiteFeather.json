@@ -1,10 +1,10 @@
 {
   "alignment": "Unknown",
   "description": "The White Feather is the name of a guiding spirit or deity whose followers have recently emigrated to Qadira from the east. These monastic wanderers preach peaceful meditation, self-improvement, quiet contemplation, and the laying down of all trappings of societal status and material wealth. Their non-violent nature has brought them into conflict with Satrap Xerbystes II, who sees them as a distraction from his ambitions of a war with Taldor.",
-  "domains": [""],
+  "domains": [],
   "name": "White Feather",
+  "picture": null,
   "slug": "whiteFeather",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/White_Feather",
   "worshipers": [""]

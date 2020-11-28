@@ -1,10 +1,10 @@
 {
   "alignment": "Unknown",
   "description": "The child-goddess is the object of veneration for the Cult of the Child-Goddess, which is located in the Ankar-Te district of the Varisian city of Kaer Maga. It is not known whether the child-goddess is an actual deity, a hoax used to generate income for the cult, or something more innocuous, though at least one of her followers draws divine magic through faith in her.\n\nThe child-goddess (or -goddesses, as the exact number is not known) dwells within the Palace of the Child-Goddess, a flat-topped pyramid with a single, massive door. From here, metal, windowless palanquins are carried throughout the district by carriers. Each palanquin is a metal box six feet long and four feet high and carried by zombie servants or half-naked, oiled male slaves. Judging from their dress, the cult is believed to have originated in distant Vudra. Followers approach these processions and drop coins in the tithe-bags attached to the palanquins.\n\nIn Kaer Maga&mdash;the only known place in the Inner Sea region where the cult is active&mdash;the faithful are led by the High Priestess Shamalay Kasan, a Vudrani woman who is also one of the most powerful figures in the district of Ankar-Te, if not the entire city.",
-  "domains": [""],
+  "domains": [],
   "name": "Child-Goddess",
+  "picture": null,
   "slug": "childGoddess",
-  "symbolPicture": null,
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Child-Goddess",
   "worshipers": ["Citizens Of Kaer Maga"]
