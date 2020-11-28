@@ -1,0 +1,28 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "Asmodeus is the most powerful of the nine archdevils that inhabit Hell, and the only one of Hell's rulers to claim full divinity. It was he who is credited with the penning the contract of creation, within which his followers believe is hidden the means for their patron's eventual rise to supremacy.",
+  "domains": ["Evil", "Fire", "Law", "Magic", "Trickery"],
+  "favoredWeapon": "Mace",
+  "name": "Asmodeus",
+  "pronunciation": "as-MO-day-us",
+  "slug": "asmodeus",
+  "symbol": "Red pentagram: the Archstar",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Asmodeus_holy_symbol.jpg",
+  "titles": [
+    "The Archfiend",
+    "Dark Prince",
+    "The First",
+    "God-Fiend",
+    "King of Hell",
+    "Lord of Darkness",
+    "Lord of Hell",
+    "Lord of the Pit",
+    "Master of Witches",
+    "Prince of Darkness",
+    "Prince of Devils",
+    "Prince of Hell",
+    "Prince of Law",
+    "Ruler of Hell"
+  ],
+  "worshipers": ["Bureaucrats", "Slavers", "Tyrants"]
+}

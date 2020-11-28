@@ -1,0 +1,11 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "Diomazul is a minor Vudran war god represented as a serpent with many arms each holding a blade. He is known to be brutal in battle.",
+  "domains": [""],
+  "favoredWeapon": "Scimitar",
+  "name": "Diomazul",
+  "slug": "diomazul",
+  "symbolPicture": null,
+  "titles": ["Serpent of Eighty Blades"],
+  "worshipers": ["Vudrani"]
+}

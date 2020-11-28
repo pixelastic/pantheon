@@ -1,0 +1,19 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Known to her faithful as the Dawnflower, the Healing Flame, and the Everlight, Sarenrae is a goddess who teaches temperance and patience in all things. Compassion and peace are her greatest virtues, and if enemies of the faith can be redeemed, they should be.",
+  "domains": ["Fire", "Glory", "Good", "Healing", "Sun"],
+  "favoredWeapon": "Scimitar",
+  "name": "Sarenrae",
+  "pronunciation": "SAER-en-ray ",
+  "slug": "sarenrae",
+  "symbol": "Angelic ankh",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
+  "titles": [
+    "The Dawnflower",
+    "The Cleansing Light",
+    "The Everlight",
+    "The Healing Light",
+    "The Healing Flame"
+  ],
+  "worshipers": ["Farmers", "Healers", "Redeemed Evil Doers"]
+}

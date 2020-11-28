@@ -1,0 +1,13 @@
+{
+  "alignment": "Neutral Evil",
+  "description": "Droskar is a member of the dwarven pantheon and the patron deity of the duergar. He believes that sufficient toil leads to eventual success, and that those who fail simply weren't trying hard enough. In the pursuit of this goal, Droskar believes that one should be free to do whatever is necessary to accomplish one's goal, even if that includes lying, cheating, the exploitation of others, or even worse crimes. His symbol is a stone arch with a fire burning beneath it.",
+  "domains": ["Artifice", "Charm", "Darkness", "Evil", "Trickery"],
+  "favoredWeapon": "Light hammer",
+  "name": "Droskar",
+  "pronunciation": "DROH-skar",
+  "slug": "droskar",
+  "symbol": "Fire under stone arch",
+  "symbolPicture": null,
+  "titles": ["The Dark Smith", "Master of the Dark Furnace"],
+  "worshipers": ["Duergar", "Dwarves"]
+}

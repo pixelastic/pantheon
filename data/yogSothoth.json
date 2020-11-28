@@ -1,0 +1,19 @@
+{
+  "alignment": "Chaotic Neutral",
+  "description": "Yog-Sothoth is the Outer God of gates, space and time. One of the most powerful and enigmatic deities of the Great Beyond, he is said to be a terrible, self-aware manifestation of the Dimension of Time.",
+  "domains": ["Chaos", "Darkness", "Knowledge", "Travel", "Void"],
+  "favoredWeapon": "Dagger",
+  "name": "Yog-Sothoth",
+  "slug": "yogSothoth",
+  "symbol": "Black spiral",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
+  "titles": ["Lurker at the Threshold", "The Key and the Gate", "The Watcher"],
+  "worshipers": [
+    "Alchemists",
+    "Arcane Spellcasters",
+    "Isolated Lunatics",
+    "Sorcerers",
+    "Witches",
+    "Wizards"
+  ]
+}

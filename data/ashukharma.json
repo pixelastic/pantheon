@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Neutral",
+  "description": "Ashukharma is the Vudran goddess of canyons and cliffs. She is the jilted lover of Dinehdal, god of mountain peaks, and lover of Matravash, goddess of the Matra River; her tale draws prayers from scorned lovers and those dealing with rifts between themselves and their friends or families.",
+  "domains": ["Chaos", "Earth", "Protection", "Strength"],
+  "favoredWeapon": "Greatsword",
+  "name": "Ashukharma",
+  "slug": "ashukharma",
+  "symbol": "A deep, jagged gorge in dry earth",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
+  "titles": ["The Divine Divide"],
+  "worshipers": ["Vudrani"]
+}

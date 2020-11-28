@@ -1,0 +1,19 @@
+{
+  "alignment": "Neutral Evil",
+  "description": "Norgorber is known as a Taldan deity of thievery and assassination, as well as a keeper of secrets. He is called the 'Reaper of Reputation' by some, but has more insidious titles among his other worshipers. He remains an enigma to most, and his true motives are unknown. Many of his own followers remain ignorant of his plans and designs. Norgorber is the only evil deity amongst the Ascended.",
+  "domains": ["Charm", "Death", "Evil", "Knowledge", "Trickery"],
+  "favoredWeapon": "Short sword",
+  "name": "Norgorber",
+  "pronunciation": "NOR-gore-ber",
+  "slug": "norgorber",
+  "symbol": "One-eyed mask",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
+  "titles": [
+    "Reaper of Reputation",
+    "Father Skinsaw",
+    "The Gray Master",
+    "Blackfingers",
+    "King of Thieves"
+  ],
+  "worshipers": ["Assassins", "Murderers", "Spies", "Thieves"]
+}

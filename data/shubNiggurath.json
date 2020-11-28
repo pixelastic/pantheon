@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Shub-Niggurath is an Outer God belonging to a group of immensely powerful, yet inscrutable beings called the Elder Mythos, or the gods of the Dark Tapestry. Shub-Niggurath is the fertility deity of that pantheon. Her unholy symbol consists of three goat heads attached at the neck, with horns pointed outward to form a circular shape.",
+  "domains": ["Animal", "Chaos", "Evil", "Plant", "Void"],
+  "favoredWeapon": "Dagger",
+  "name": "Shub-Niggurath",
+  "slug": "shubNiggurath",
+  "symbol": "Radially arrayed goat heads",
+  "symbolPicture": null,
+  "titles": ["Black Goat of the Woods with a Thousand Young"],
+  "worshipers": ["Old Cults"]
+}

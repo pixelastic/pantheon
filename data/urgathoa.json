@@ -1,0 +1,13 @@
+{
+  "alignment": "Neutral Evil",
+  "description": "Urgathoa is the Varisian goddess of physical excess, disease, and the undead. She is mostly worshiped by dark necromancers, the undead, and those wishing to become undead. Sometimes those who live gluttonous lifestyles make supplication to her, as do those suffering from a serious illness.",
+  "domains": ["Death", "Evil", "Magic", "Strength", "War"],
+  "favoredWeapon": "Scythe",
+  "name": "Urgathoa",
+  "pronunciation": "oor-gah-THO-ah",
+  "slug": "urgathoa",
+  "symbol": "Skull-decorated fly",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Urgathoa_symbol.jpg",
+  "titles": ["The Pallid Princess,", "Lady Despair"],
+  "worshipers": [""]
+}

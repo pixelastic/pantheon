@@ -1,0 +1,13 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Torag is a stoic and serious god who values honor, planning, and well-made steel. He is an often distant deity, lending magical power to his clerics, but leaving his followers to make their own way through life, knowing that this will make them strong and determined.",
+  "domains": ["Artifice", "Earth", "Good", "Law", "Protection"],
+  "favoredWeapon": "Warhammer",
+  "name": "Torag",
+  "pronunciation": "TORR-awg",
+  "slug": "torag",
+  "symbol": "Iron hammer",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Torag_holy_symbol.jpg",
+  "titles": ["Father of Creation Father of Dwarvenkind"],
+  "worshipers": ["Dwarves"]
+}

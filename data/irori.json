@@ -1,0 +1,18 @@
+{
+  "alignment": "Lawful Neutral",
+  "description": "Irori is the god of enlightenment, self-perfection, knowledge, healing, and inner strength. His followers claim that he was once a mortal who achieved absolute physical and mental perfection and thus attained divinity of his own volition. He is one of the core gods of, if not the most powerful deity of, the Vudrani pantheon, but has an increasing following in the Inner Sea region as well.",
+  "domains": ["Healing", "Knowledge", "Law", "Rune", "Strength"],
+  "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike)",
+  "name": "Irori",
+  "pronunciation": "ih-ROHR-ee",
+  "slug": "irori",
+  "symbol": "Blue hand",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
+  "titles": [
+    "Master of Masters",
+    "Iro-Shu and the Enlightened One (in Tian Xia)",
+    "The Perfect Human (in Vudra)",
+    "The Perfect Man"
+  ],
+  "worshipers": ["Dwarves", "Green Dragons", "Monks", "Vudrani"]
+}

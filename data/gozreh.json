@@ -1,0 +1,18 @@
+{
+  "alignment": "Neutral",
+  "description": "Gozreh is a dualistic deity of nature, a god of the storm and sky and also a goddess of the wave and surf. Born of the ocean's fury and the wind's wrath, Gozreh is a fickle deity.",
+  "domains": ["Air", "Animal", "Plant", "Water", "Weather"],
+  "favoredWeapon": "Trident",
+  "name": "Gozreh",
+  "pronunciation": "GOHZ-ray",
+  "slug": "gozreh",
+  "symbol": "Dripping leaf",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gozreh_holy_symbol.jpg",
+  "titles": [
+    "The Wind and the Waves",
+    "Ioz'om, the Sky Father",
+    "Hyjarth & Tourithia",
+    "She Who Guides the Wind and the Waves"
+  ],
+  "worshipers": ["Druids", "Farmers", "Sailors", "Woodsmen"]
+}

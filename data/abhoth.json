@@ -1,0 +1,16 @@
+{
+  "alignment": "Chaotic Neutral",
+  "description": "Abhoth is the Outer God of disease, fecundity, and oozes.",
+  "domains": ["Chaos", "Darkness", "Earth", "Madness", "Strength"],
+  "favoredWeapon": "Whip",
+  "name": "Abhoth",
+  "slug": "abhoth",
+  "symbol": "Tentacle coiled around a disembodied eye",
+  "symbolPicture": null,
+  "titles": [
+    "The Source of Uncleanness",
+    "The Primal Clay of Life's First Lurch",
+    "The Unclean God"
+  ],
+  "worshipers": ["Cultists"]
+}

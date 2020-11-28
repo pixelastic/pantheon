@@ -1,0 +1,20 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Shelyn is the goddess of art, beauty, love, and music, and the half-sister of Zon-Kuthon. She started life as a relatively minor deity of beauty, art, and music, but with the destruction of her unnamed mother, the former goddess of love, Shelyn gained her mother's portfolio. Shelyn continues to focus on beauty and the related areas of art and music, and has expanded upon her mother's relatively narrow view of love to include all forms of the emotion.",
+  "domains": ["Air", "Charm", "Good", "Luck", "Protection"],
+  "favoredWeapon": "Current: Glaive Azlanti period: Dagger",
+  "name": "Shelyn",
+  "pronunciation": "SHEHL-ihn",
+  "slug": "shelyn",
+  "symbol": "Multicolored Songbird",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shelyn_holy_symbol.jpeg",
+  "titles": [
+    "The Eternal Rose",
+    "The Lady of Chrysanthemums (Tian Xia)",
+    "Syriss",
+    "The Incorruptible",
+    "The Eternal Maiden",
+    "Song of the Prism"
+  ],
+  "worshipers": ["Artists", "Lovers", "Poets"]
+}

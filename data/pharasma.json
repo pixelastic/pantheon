@@ -1,0 +1,20 @@
+{
+  "alignment": "Neutral",
+  "description": "\"The Lady of Graves\", Pharasma is the goddess who shepherds Golarion's recently-departed souls to their final reward. Upon death, souls migrate via the River of Souls to Pharasma's Boneyard in the Outer Sphere, which sits atop an impossibly tall spire that pierces the Astral Plane.",
+  "domains": ["Death", "Healing", "Knowledge", "Repose", "Water"],
+  "favoredWeapon": "Dagger",
+  "name": "Pharasma",
+  "pronunciation": "fah-RAZ-mah",
+  "slug": "pharasma",
+  "symbol": "Spiraling comet",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
+  "titles": [
+    "Lady of Graves",
+    "Lady of Mysteries",
+    "Mother of Souls",
+    "Gray Lady",
+    "The Survivor",
+    "The Spiral of Fate"
+  ],
+  "worshipers": ["Midwives", "Morticians", "Pregnant Women"]
+}

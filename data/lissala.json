@@ -1,0 +1,27 @@
+{
+  "alignment": "Modern Worship Lawful Evil Ancient Azlant Lawful Neutral",
+  "description": "Lissala is the goddess of runes, fate, and the reward of service, and was once a major religious force in the empire of Thassilon. She was depicted either as a stern woman with no mouth, or as a creature with a snake's lower half, a human woman's upper half, six wings, and a Sihedron for a head.",
+  "domains": [
+    "Knowledge",
+    "Law",
+    "Law",
+    "Modern Worship Evil",
+    "Nobility",
+    "Nobility",
+    "Rune",
+    "Rune Ancient Azlant Knowledge"
+  ],
+  "favoredWeapon": "Whip",
+  "name": "Lissala",
+  "pronunciation": "lis-SALL-uh",
+  "slug": "lissala",
+  "symbol": "Sihedron",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sihedron_Rune.jpg",
+  "titles": [
+    "Modern worship",
+    "The Sihedron Scion",
+    "Ancient Azlant",
+    "The Order of Virtue"
+  ],
+  "worshipers": ["Azlanti", "Rune Giants", "Thassilonians"]
+}

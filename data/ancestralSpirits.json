@@ -1,0 +1,11 @@
+{
+  "alignment": "Neutral",
+  "description": "Among the giants of the Storval Plateau, the veneration and worship of ancestral spirits or ancestral ghosts is a common religious practice. This is especially true among the taiga giants, who incorporate communion with these spirits into their daily lives.",
+  "domains": ["Death", "Divination", "Knowledge", "Luck", "Protection"],
+  "favoredWeapon": "club",
+  "name": "Ancestral Spirits",
+  "slug": "ancestralSpirits",
+  "symbolPicture": null,
+  "titles": ["The Ancestors", "Father", "Mother", "The Spirits of the Earth"],
+  "worshipers": ["Stone Giants", "Taiga Giants"]
+}

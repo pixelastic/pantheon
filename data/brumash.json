@@ -1,0 +1,10 @@
+{
+  "alignment": "Unknown",
+  "description": "Brumash is the name the orcs of the Dead Eye tribe give to the deity they worship. They believe him to be the father of Rovagug and the entire orc race, and look down on all other orc deities as newcomers, usurpers, and upstarts, and gleefully oppose their worshipers at every turn. Some academics speculate that Brumash might be a gestalt of Verex the Blood God and Zagresh the Destroyer.",
+  "domains": [""],
+  "name": "Brumash",
+  "slug": "brumash",
+  "symbolPicture": null,
+  "titles": [""],
+  "worshipers": ["Orcs Of The Dead Eye Tribe"]
+}

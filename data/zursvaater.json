@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "Zursvaater is the father of the fire giants, having created them millennia ago by granting them the secrets of fire and metal in exchange for their devotion. He is a secretive deity who instructed his followers to abandon inter-tribal warfare and instead attack other races.",
+  "domains": ["Evil", "Fire", "Law", "Trickery", "War"],
+  "favoredWeapon": "Greatsword",
+  "name": "Zursvaater",
+  "slug": "zursvaater",
+  "symbol": "Helm with huge fangs",
+  "symbolPicture": null,
+  "titles": ["Prince of Steel"],
+  "worshipers": ["Fire Giants Slag Giants"]
+}

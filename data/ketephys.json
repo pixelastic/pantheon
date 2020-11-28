@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Good",
+  "description": "Ketephys is the tight-lipped elven god of the hunt, who instructs his followers to care for the forest and defend it from his arch-enemy Treerazer.",
+  "domains": ["Animal", "Chaos", "Good", "Plant", "Weather"],
+  "favoredWeapon": "Bow",
+  "name": "Ketephys",
+  "slug": "ketephys",
+  "symbol": "Hawk with moon and sun",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ketephys_holy_symbol.jpg",
+  "titles": ["The Hunter"],
+  "worshipers": ["Elves"]
+}

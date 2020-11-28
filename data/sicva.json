@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "Sicva is a goddess of domination, invasive species, and oppression worshiped by the humans of ancient Azlant. She champions the corruption of good ideals into oppression and tasks her followers with spreading invasive species to damage indigenous ecosystems.",
+  "domains": ["Animal", "Evil", "Law", "Nobility", "Strength"],
+  "favoredWeapon": "Lasso",
+  "name": "Sicva",
+  "slug": "sicva",
+  "symbol": "Virus",
+  "symbolPicture": null,
+  "titles": ["Mistress of All"],
+  "worshipers": [""]
+}

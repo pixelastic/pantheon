@@ -1,0 +1,13 @@
+{
+  "alignment": "Chaotic Neutral",
+  "description": "Nocticula, the Redeemer Queen, is a goddess of artists, midnight and exiles, and a former demon lord who concerned herself then with the metaphysical qualities of darkness and lust. She excelled in seduction, beauty, cruelty, and sadism.",
+  "domains": ["Artifice", "Chaos", "Darkness", "Travel", "Void"],
+  "favoredWeapon": "Dagger",
+  "name": "Nocticula",
+  "pronunciation": "nok-TICK-you-lah",
+  "slug": "nocticula",
+  "symbol": "Moon with a pair of smirking lips and a seven-pointed crown",
+  "symbolPicture": null,
+  "titles": ["The Redeemer Queen"],
+  "worshipers": ["Artists And Exiles Assumed"]
+}

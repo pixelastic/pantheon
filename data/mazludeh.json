@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Mazludeh was an empyreal lord worshiped by the residents of Udo (an ancient city-state) responsible for organizing the Celestial Concordance which established the celestial sponsorship of the nation of Holomog to protect millions from the chaos of the Age of Darkness. She is now their matron goddess.",
+  "domains": ["Artifice", "Community", "Good", "Knowledge"],
+  "favoredWeapon": "Heavy shield",
+  "name": "Mazludeh",
+  "slug": "mazludeh",
+  "symbol": "Seven eggs encircled by an ouroboros",
+  "symbolPicture": null,
+  "titles": ["Mother of Hearth and Wall"],
+  "worshipers": ["Holomog"]
+}

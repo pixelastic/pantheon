@@ -1,0 +1,17 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "\n\nMinderhal is the smith-god of the stone giants. The primary deity of evil stone giants, he represents how traditions can both enhance a culture's accomplishments and cause it to stagnate at the same time.",
+  "domains": ["Artifice", "Earth", "Evil", "Law", "Strength"],
+  "favoredWeapon": "Warhammer",
+  "name": "Minderhal",
+  "pronunciation": "MIN-dehr-hawl",
+  "slug": "minderhal",
+  "symbol": "Anvil in triangle, with moon, planet, star at its corners",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Minderhal_holy_symbol.jpg",
+  "titles": [
+    "He Who Makes and Unmakes (shortened form: The Maker)",
+    "Lawgiver",
+    "Lord of Giants"
+  ],
+  "worshipers": ["Esp Stone Giants", "Giantkind"]
+}

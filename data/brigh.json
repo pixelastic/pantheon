@@ -1,0 +1,25 @@
+{
+  "alignment": "Neutral",
+  "description": "Brigh is the goddess of invention and seems to particularly favor creations that take on a life of their own, like clockworks or constructs. Unfortunately, the sort of creative minds who engage in the sort of invention that Brigh most favors, are those who are not prone to worship or evangelization&mdash;they tend to devote themselves to invention instead. As a result, her following is not very large.\n\nNo one seems to know whether Brigh was once a mortal granted divinity or whether she was a construct granted not only life but a potent spark of true divinity.",
+  "domains": ["Artifice", "Earth", "Fire", "Knowledge"],
+  "favoredWeapon": "Light hammer",
+  "name": "Brigh",
+  "pronunciation": "BRY",
+  "slug": "brigh",
+  "symbol": "Bronze feminine mask with forehead rune",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Brigh_Mask.jpg",
+  "titles": [
+    "Bronze Lady",
+    "The Whisper in Bronze",
+    "The Whisperer in Bronze",
+    "The Whisper in the Bronze"
+  ],
+  "worshipers": [
+    "Androids",
+    "Gnomes",
+    "Half Elves",
+    "Half Orcs",
+    "Humans",
+    "Sentient Constructs"
+  ]
+}

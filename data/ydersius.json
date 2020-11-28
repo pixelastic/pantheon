@@ -1,0 +1,24 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "The ancient deity Ydersius is the patron of the serpentfolk, a race of snake-like monstrous humanoids who battled humans of ancient Azlant during the Age of Legend. A deity of unquenched passion and anger, the generally more cerebral serpentfolk used him as an example of all that was potent and primal in their psyche.",
+  "domains": ["Chaos", "Evil", "Nobility", "Scalykind", "War"],
+  "favoredWeapon": "Dagger",
+  "name": "Ydersius",
+  "pronunciation": "yeh-DER-see-us",
+  "slug": "ydersius",
+  "symbol": "Snake skull and ouroboros",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
+  "titles": [
+    "The Headless King, Lord of Coiling Poison, the Father of Serpents, the Primal Coil, the Sundered God, the Slumbering Speaker Below, the Severed God"
+  ],
+  "worshipers": [
+    "Assassins",
+    "Boggards",
+    "Human Snake Cults",
+    "Lizardfolk",
+    "Nagas",
+    "Serpentfolk",
+    "Sorcerers With The Serpentine Bloodline",
+    "Troglodytes"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "The goddess Gyronna is also known as the Angry Hag, and for good reason.",
+  "domains": ["Chaos", "Destruction", "Evil", "Madness"],
+  "favoredWeapon": "Dagger",
+  "name": "Gyronna",
+  "slug": "gyronna",
+  "symbol": "Single bloodshot eye",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gyronna_holy_symbol.jpg",
+  "titles": ["The Angry Hag, Hag Queen"],
+  "worshipers": ["Called Gyronnans", "Fallen Or Destitute Women"]
+}

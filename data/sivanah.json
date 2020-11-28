@@ -1,0 +1,13 @@
+{
+  "alignment": "Neutral",
+  "description": "Sivanah is the patron goddess of illusion magic, tricksters, and those who keep secrets. She is also known as the \"Seventh Veil\", a name taken from the clothing she is most often depicted wearing. Her holy symbol is a circle made of six dull-colored veils tied end-to-end.",
+  "domains": ["Knowledge", "Madness", "Magic", "Rune", "Trickery"],
+  "favoredWeapon": "Bladed scarf",
+  "name": "Sivanah",
+  "pronunciation": "siv-AHN-ah",
+  "slug": "sivanah",
+  "symbol": "Veils tied in circle",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
+  "titles": ["Goddess of Illusions", "The Seventh Veil"],
+  "worshipers": ["Illusionists", "Tricksters"]
+}

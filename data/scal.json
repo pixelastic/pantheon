@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Evil",
+  "description": "Scal is a deity of annihilation, catharsis, and purity worshiped by the humans of ancient Azlant. He teaches his followers to shed their imperfections not by repressing or subduing them, but rather by harnessing and releasing their inner darkness upon threats to a righteous existence.",
+  "domains": ["Destruction", "Earth", "Evil", "Liberation", "Void"],
+  "favoredWeapon": "Meteor hammer",
+  "name": "Scal",
+  "slug": "scal",
+  "symbol": "Burning meteor impacting the ground",
+  "symbolPicture": null,
+  "titles": ["Calm after the Storm"],
+  "worshipers": [""]
+}

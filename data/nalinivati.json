@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral",
+  "description": "Nalinivati is the patron naga goddess of the snake-like humanoids known as the nagaji. She is most popular in the Tian Xia realm she founded, Nagajor, but is also commonly worshiped in Dtang Ma, Xa Hoi, and Xidao. Her holy symbol is a lotus flower wherein a snake lies coiled. Snakes are naturally considered holy animals to those of her faith.\n\nShe was once a mortal naga sorceress and, through her magical powers and many daughters, established Nagajor and its major institutions, which persist today. Her female descendants continue to rule Nagajor as Matriarchs.\n\nShe ascended to divinity through unknown means near the end of her life, and is now worshipped in many neighboring nations, as well as her home Nagajor.\n\nGenealogy and heritage is important to Nalinivati and her worshippers. She judges based on family as well as individual merit.\n\nSaid to have created the nagaji, Nalinivati long ago gifted the race with free will. They number among her most devout non-naga worshipers.\n\nNalinivati has been romantically linked with the kitsune deity Daikitsu, although both deities deny this claim.",
+  "domains": ["Charm", "Magic", "Nobility", "Rune", "Scalykind"],
+  "favoredWeapon": "Urumi, bite",
+  "name": "Nalinivati",
+  "slug": "nalinivati",
+  "symbol": "Lotus flower wherein a snake lies coiled",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nalinivati_holy_symbol.jpg",
+  "titles": ["The Serpent's Kiss", "First Mother (nagaji)"],
+  "worshipers": ["Lovers", "Naga", "Nagaji", "Snake Cults", "Sorcerers"]
+}

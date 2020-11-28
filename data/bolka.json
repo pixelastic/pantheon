@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Bolka is the dwarven goddess of marriage. She is the daughter of the dwarven god Torag and his wife Folgrit. Bolka is said to be a beautiful dwarven maiden. As the dwarves' goddess of marriage she helps reluctant suitors summon the courage to ask out their partner and helps foster love between the partners in an arranged marriage.",
+  "domains": ["Charm", "Community", "Good", "Healing"],
+  "favoredWeapon": "Mace",
+  "name": "Bolka",
+  "slug": "bolka",
+  "symbol": "Golden bejeweled ring",
+  "symbolPicture": null,
+  "titles": ["The Golden Gift"],
+  "worshipers": [""]
+}

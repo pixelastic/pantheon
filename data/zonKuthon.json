@@ -1,0 +1,13 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "The deity Zon-Kuthon possesses one of the most twisted and evil minds in the Great Beyond. His position as god of pain is well earned, and he has been the root of countless tortures, murders, and worse throughout time.",
+  "domains": ["Darkness", "Death", "Destruction", "Evil", "Law"],
+  "favoredWeapon": "Spiked chain",
+  "name": "Zon-Kuthon",
+  "pronunciation": "ZONN-koo-THON",
+  "slug": "zonKuthon",
+  "symbol": "Chained skull",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zon-Kuthon_holy_symbol.jpeg",
+  "titles": ["The Midnight Lord", "The Dark Prince", "The Prince of Pain"],
+  "worshipers": ["Masochists", "Sadists"]
+}

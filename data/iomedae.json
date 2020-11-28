@@ -1,0 +1,13 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Iomedae is the goddess of righteous valor, justice, and honor. Having served as Aroden's herald, she inherited many of the Last Azlanti's followers upon his death, and continues to espouse the ideas of honor and righteousness in the defense of good and the battle against evil.",
+  "domains": ["Glory", "Good", "Law", "Sun", "War"],
+  "favoredWeapon": "Longsword",
+  "name": "Iomedae",
+  "pronunciation": "ahy-OH-meh-day",
+  "slug": "iomedae",
+  "symbol": "Sword and sun",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
+  "titles": ["The Inheritor<br \\>Light of the Sword<br \\>Lady of Valor"],
+  "worshipers": ["Knights", "Paladins", "Warriors"]
+}

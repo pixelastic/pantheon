@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Omrataji is the Vudran god of silver.",
+  "domains": ["Artifice", "Earth", "Good", "Nobility"],
+  "favoredWeapon": "Spiked chain",
+  "name": "Omrataji",
+  "slug": "omrataji",
+  "symbol": "A shimmering silver star",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Omrataji_holy_symbol.jpg",
+  "titles": ["The Spirit in Silver"],
+  "worshipers": ["Vudrani"]
+}

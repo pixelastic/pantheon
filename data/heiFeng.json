@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Neutral",
+  "description": "The Tian Xia god Hei Feng's domain is the sea and the sky, whether it brings good fortune or ill. His holy symbol is a lightning bolt arcing out of a dark storm cloud. He is the patron deity of tengu and is worshiped in many lands. He often appears as a powerful tengu swordsman with a nine-ring broadsword and is accompanied by divine servants known as the counts of wind, rain, thunder, and lightning.\n\nA group of tengu Hei Fengan priests known as the Sunderstorm Covenant were key contributors to the establishment of the tengu nation of Kwanlai, though their creed of overwhelming response to any slight has caused their faith to lose influence.",
+  "domains": ["Air", "Chaos", "Destruction", "Water", "Weather"],
+  "favoredWeapon": "Nine-ring broadsword",
+  "name": "Hei Feng",
+  "slug": "heiFeng",
+  "symbol": "Lightning bolt arcing out of a dark storm cloud",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Hei_Feng_holy_symbol.jpg",
+  "titles": ["Duke of Thunder"],
+  "worshipers": ["Tengu"]
+}

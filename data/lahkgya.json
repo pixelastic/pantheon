@@ -1,0 +1,10 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Lahkgya is a male Vudran god, often prayed to by hunters to protect them and their homes from Sikari macaque swarms.",
+  "domains": [""],
+  "name": "Lahkgya",
+  "slug": "lahkgya",
+  "symbolPicture": null,
+  "titles": ["Of the Red Face", "Patron of Monkeys"],
+  "worshipers": ["Hunters", "Vudrani"]
+}

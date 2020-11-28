@@ -1,0 +1,17 @@
+{
+  "alignment": "Evil",
+  "description": "Vasaghati is a grim goddess of the Vudran pantheon interested in bring corruption and destruction to the world, especially organizations.",
+  "domains": [""],
+  "name": "Vasaghati",
+  "slug": "vasaghati",
+  "symbol": "Circle: inner circumference lined with triangles",
+  "symbolPicture": null,
+  "titles": [
+    "The Betrayer",
+    "The Decay from Within",
+    "The Knife in the Dark",
+    "The Lady of Knives",
+    "The Poisoned Chalice"
+  ],
+  "worshipers": ["Secret Cultists"]
+}

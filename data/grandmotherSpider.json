@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral",
+  "description": "Grandmother Spider is known as a mythical figure in the Mwangi Expanse where she is thought to be a hoarder, and a tale about her is associated with bags of holding. The legend tells of a young man given a bag by Grandmother Spider in exchange for him using it to collect every animal in the jungle and bringing them to her web. He instead left with the bag, which the legend claims is the reason why spiders of the Expanse are so hostile to humans.",
+  "domains": ["Charm", "Community", "Darkness", "Luck", "Trickery"],
+  "favoredWeapon": "Net",
+  "name": "Grandmother Spider",
+  "slug": "grandmotherSpider",
+  "symbol": "Four-pointed hollow webbed diamond",
+  "symbolPicture": null,
+  "titles": ["Nana Anadi", "The Weaver"],
+  "worshipers": ["Anadi", "People Of Nurvatchta"]
+}

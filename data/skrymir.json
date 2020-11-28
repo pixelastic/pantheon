@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Good",
+  "description": "Skrymir is the trickster god of the storm giants, and is said to be related to Bergelmir. Numerous giant clans have varying interpretations of their relationship, saying that they are either mother and son, cousins, or siblings. Skrymir often travels the land in disguise, and rewards those who pass his tests of wit.",
+  "domains": ["Chaos", "Good", "Magic", "Trickery"],
+  "favoredWeapon": "Rapier",
+  "name": "Skrymir",
+  "slug": "skrymir",
+  "symbol": "Coastlines pierced by blades",
+  "symbolPicture": null,
+  "titles": ["The Seeker of Sunsets"],
+  "worshipers": ["Storm Giants"]
+}

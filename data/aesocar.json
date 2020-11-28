@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Aesocar is a god of healing and human health that was worshiped in ancient Azlant.\n\n",
+  "domains": ["Artifice", "Good", "Healing", "Law", "Protection"],
+  "favoredWeapon": "Mancatcher",
+  "name": "Aesocar",
+  "slug": "aesocar",
+  "symbol": "Enclosed six-pointed star",
+  "symbolPicture": null,
+  "titles": ["The Healing Touch"],
+  "worshipers": [""]
+}

@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Good",
+  "description": "\n\nKazutal is an Arcadian goddess of community, liberty, and safety.",
+  "domains": ["Community", "Good", "Liberation", "Protection", "Strength"],
+  "favoredWeapon": "Machete",
+  "name": "Kazutal",
+  "slug": "kazutal",
+  "symbol": "Jaguar's head on a green circle",
+  "symbolPicture": null,
+  "titles": ["Mother Jaguar"],
+  "worshipers": ["Arcadians"]
+}

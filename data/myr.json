@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Myr is a goddess of perfection and respect for one's ancestors worshiped by the inhabitants of ancient Azlant. She teaches that the body and life should be cherished by those who wish to achieve amazing accomplishments, and that those with the means and resources should aid the less fortunate.",
+  "domains": ["Glory", "Good", "Law", "Nobility", "Strength"],
+  "favoredWeapon": "Longsword",
+  "name": "Myr",
+  "slug": "myr",
+  "symbol": "Branching tree and roots",
+  "symbolPicture": null,
+  "titles": ["The Guide of Perfection"],
+  "worshipers": ["Azlanti"]
+}

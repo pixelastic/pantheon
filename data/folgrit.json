@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Folgrit is the wife of Torag, and thus has a prominent role in the dwarven pantheon, having mothered several demigod children. She is patient with her husband and tries to stop him worrying too much, but also makes sure he is aware of the burden of responsibility he bears. Folgrit is the goddess of wives, mothers, and children, and tangentially the goddess of widows and orphans.",
+  "domains": ["Community", "Good", "Law", "Nobility"],
+  "favoredWeapon": "Quarterstaff",
+  "name": "Folgrit",
+  "slug": "folgrit",
+  "symbol": "Rune-carved hearth",
+  "symbolPicture": null,
+  "titles": ["The Watchful Mother"],
+  "worshipers": [""]
+}

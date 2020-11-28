@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral",
+  "description": "Fandarra is an ancient deity worshiped primarily by stone giants, although she is also followed by the primitive humanoid races of northern Avistan.",
+  "domains": ["Community", "Death", "Earth", "Knowledge", "Plant"],
+  "favoredWeapon": "Stone dagger",
+  "name": "Fandarra",
+  "slug": "fandarra",
+  "symbol": "Mountain and moon",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fandarra_holy_symbol.jpg",
+  "titles": ["Blood Mother", "The Bleeding Stone", "The Earth Seer"],
+  "worshipers": [""]
+}

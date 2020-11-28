@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Haggakal is an ogre god, the offspring of an evil deity and a giant. His followers believe him to be a round ogre face in the sky (the moon). For them, the waning moon is the time to hunt and to raid while the waxing moon symbolizes the time of their god's return. Other myths interpret the moon's phases as the incestuous relationship Haggakal has with his twin sister and the resulting pregnancy.",
+  "domains": ["Chaos", "Evil", "Madness", "Strength"],
+  "favoredWeapon": "greatclub",
+  "name": "Haggakal",
+  "slug": "haggakal",
+  "symbol": "Leering ogre face",
+  "symbolPicture": null,
+  "titles": [],
+  "worshipers": ["Ogres"]
+}

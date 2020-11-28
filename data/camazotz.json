@@ -1,0 +1,16 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "The obscure god Camazotz appears as an enormous and terrifying man-like bat that takes delight in hunting mortals during the darkness. An ancient and obscure deity, Camazotz shows little real interest in the affairs of his mortal followers except to receive offerings and sacrifices. He expects fanaticism from his followers, and perceives failure as weakness.",
+  "domains": ["Animal", "Chaos", "Darkness", "Evil", "Trickery"],
+  "favoredWeapon": "Javelin",
+  "name": "Camazotz",
+  "slug": "camazotz",
+  "symbol": "Bat-shaped rune",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Camazotz_by_Butterfrog.jpg",
+  "titles": [
+    "Master of Black Wings",
+    "Lord of Stolen Blood",
+    "The Hungry Dark"
+  ],
+  "worshipers": [""]
+}

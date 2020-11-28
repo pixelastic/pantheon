@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Varg the Iron Warrior is the patron orc god of siege engines and complex warfare.",
+  "domains": ["Chaos", "Earth", "Evil", "War"],
+  "favoredWeapon": "Greataxe",
+  "name": "Varg",
+  "slug": "varg",
+  "symbol": "Crumbling, smoking tower",
+  "symbolPicture": null,
+  "titles": ["The Iron Warrior"],
+  "worshipers": ["Orcs"]
+}

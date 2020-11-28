@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Neutral",
+  "description": "Alseta is the Taldan goddess of doorways, portals, thresholds, and the transition from year to year. She maintains favorable relations with most civilized deities, watching over their domains in times of their absence or playing hostess for gatherings of gods. She is informally the goddess of teleportation, which comes with her dominion over doorways, though this additional aspect of her portfolio is unofficial. Elves also consider her the patron deity of elf gates, though again, this is not part of her official portfolio.",
+  "domains": ["Community", "Law", "Magic", "Protection"],
+  "favoredWeapon": "Dagger",
+  "name": "Alseta",
+  "slug": "alseta",
+  "symbol": "Two faces in profile",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Alseta_and_an_elf_gate.jpg",
+  "titles": ["The Welcomer"],
+  "worshipers": [""]
+}

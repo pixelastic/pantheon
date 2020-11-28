@@ -1,0 +1,22 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Nyarlathotep is one of the Outer Gods of the Dark Tapestry who takes on thousands of forms, each having its own cult, unholy symbol, and favoured weapon. Unlike the other Outer Gods, Nyarlathotep seems to enjoy manipulating mortals and driving them to madness. It is believed that he is has prepared for the apocalyptic return of Great Old Ones on countless planets.",
+  "domains": [
+    "Chaos",
+    "Evil",
+    "Knowledge",
+    "Magic Trickery BP Air FS Darkness HD"
+  ],
+  "favoredWeapon": "Quarterstaff BP Punching dagger FS  Dagger HD",
+  "name": "Nyarlathotep",
+  "slug": "nyarlathotep",
+  "symbol": "Inverted ankh BP Featureless face FS  Circle with winglike arms HD",
+  "symbolPicture": null,
+  "titles": [
+    "The Crawling Chaos,",
+    "The Faceless Sphinx FS ,",
+    "The Haunter of the Dark HD ,",
+    "The Black Pharaoh BP"
+  ],
+  "worshipers": ["Old Cults"]
+}

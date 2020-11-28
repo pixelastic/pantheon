@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Apsu is the patron deity of all good and metallic dragons, and one of the oldest gods of the Great Beyond. Along with Tiamat, he is (at least according to draconic lore) believed to be one of the two original creator beings of the multiverse.",
+  "domains": ["Artifice", "Good", "Law", "Scalykind", "Travel"],
+  "favoredWeapon": "Bite or quarterstaff",
+  "name": "Apsu",
+  "slug": "apsu",
+  "symbol": "Silver dragon above mirror or pool",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
+  "titles": ["Waybringer", "The Exiled Wyrm", "Maker of All"],
+  "worshipers": ["Dragons"]
+}

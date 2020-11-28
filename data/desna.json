@@ -1,0 +1,30 @@
+{
+  "alignment": "Chaotic Good",
+  "description": "Desna was one of the first deities, but while her peers burdened themselves with the task of creating Golarion, she spent her time building the heavens. She knew that there would be plenty of time for her and her followers to explore the many wonders of the world later. She's changed little since those earlier days, and she and her followers delight in exploring the world.",
+  "domains": ["Chaos", "Good", "Liberation", "Luck", "Travel"],
+  "favoredWeapon": "Starknife",
+  "name": "Desna",
+  "pronunciation": "DEZ-nuh",
+  "slug": "desna",
+  "symbol": "Butterfly",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Desna_holy_symbol_2.jpg",
+  "titles": [
+    "The Song of the Spheres",
+    "The Great Dreamer",
+    "Starsong",
+    "The Tender of Dreams",
+    "Lady Luck",
+    "Resplendent Goddess of Fortune",
+    "Goddess of the North Star",
+    "Queen of the North Star",
+    "Mother Moon",
+    "The Wandering Star"
+  ],
+  "worshipers": [
+    "Astronomers",
+    "Gamblers",
+    "Musicians",
+    "Travelers",
+    "Varisians"
+  ]
+}

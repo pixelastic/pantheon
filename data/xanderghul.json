@@ -1,0 +1,20 @@
+{
+  "alignment": "Lawful Evil",
+  "description": "Xanderghul was the runelord of pride, Satrap of Cyrusian, and first amongst equals. Xanderghul claimed that the lands of Cyrusian were the ancient heartland or capital of the Thassilonian empire and he was probably right. He wanted Cyrusian to be a paradise for the elite of Thassilon, better than all of the other domains.\n\nXanderghul held himself above all of the other runelords, priding himself on avoiding the mere squabbles of the other six. He was a master of diplomacy and single-handedly held the empire together. He was publicly known as a devotee of the deity known as the Peacock Spirit; none knew that the Peacock Spirit was none other than Xanderghul himself, a secret which he has managed to keep to the present day. Xanderghul was so powerful that he was even able to seek advice from the legendary first linnorm Fafnheir and survive.\n\nHe was a patron of the arts and master of his weapon of rule, which was a lucerne hammer. While this might make Xanderghul sound like a wise and noble ruler, in truth he was arrogant beyond all reason. His ego grew with every new achievement and every passing year.",
+  "domains": ["Evil", "Law", "Trickery"],
+  "favoredWeapon": "Lucerne hammer",
+  "name": "Xanderghul",
+  "pronunciation": "ZAHN-dur-gool",
+  "slug": "xanderghul",
+  "symbol": "Large peacock feather with an open eye",
+  "symbolPicture": null,
+  "titles": [
+    "Runelord of Pride",
+    "Satrap of Cyrusian",
+    "Holder of the Peacock Throne",
+    "Lord of Illusion",
+    "Master of the Unblinking Eye",
+    "Heir of First King Xin and Rightful Emperor of Thassilon"
+  ],
+  "worshipers": ["Aesthetics", "Mages", "Scholars"]
+}

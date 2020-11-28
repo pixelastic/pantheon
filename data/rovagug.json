@@ -1,0 +1,20 @@
+{
+  "alignment": "Chaotic Evil",
+  "description": "Imprisoned since the Age of Creation, the god Rovagug seeks only to destroy creation and the other gods. Believed to be imprisoned in a state of torpor somewhere deep within Golarion, his increasingly restless stirrings are taken by many to be the cause of volcanic activity and earthquakes.",
+  "domains": ["Chaos", "Destruction", "Evil", "War", "Weather"],
+  "favoredWeapon": "Greataxe",
+  "name": "Rovagug",
+  "pronunciation": "ROH-vah-gug",
+  "slug": "rovagug",
+  "symbol": "Fanged spider",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Rovagug_holy_symbol.jpg",
+  "titles": [
+    "The Rough Beast",
+    "The Destroyer",
+    "Enemy of the Gods",
+    "The Great Destroyer",
+    "The Unmaker",
+    "The Worldbreaker"
+  ],
+  "worshipers": ["Gnolls", "Orcs", "Savage Tribes"]
+}

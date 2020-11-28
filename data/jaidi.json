@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral Good",
+  "description": "Jaidi is a goddess of agriculture worshiped by the people of ancient Azlant. She represents the pleasure that one feels when contributing hard work for the community as a whole.\n\n",
+  "domains": ["Animal", "Glory", "Good", "Plant", "Sun"],
+  "favoredWeapon": "Scythe",
+  "name": "Jaidi",
+  "slug": "jaidi",
+  "symbol": "Shepherd's crook bearing a sun",
+  "symbolPicture": null,
+  "titles": ["The Blessing and Bounty"],
+  "worshipers": ["Azlanti"]
+}

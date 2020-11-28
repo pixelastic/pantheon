@@ -1,0 +1,12 @@
+{
+  "alignment": "Lawful Good",
+  "description": "Shizuru is the Tian-Min goddess of the sun, honor, ancestors, and swordplay. As she holds swordplay in her portfolio, Shizuru is also the patron of samurai and other noble and honourable swordsmen and women.",
+  "domains": ["Glory", "Good", "Law", "Repose", "Sun"],
+  "favoredWeapon": "Katana",
+  "name": "Shizuru",
+  "slug": "shizuru",
+  "symbol": "Katana in front of the sun",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shizuru_holy_symbol.jpg",
+  "titles": ["Empress of Heaven"],
+  "worshipers": ["Minkai And Other Tian", "Samurai"]
+}

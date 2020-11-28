@@ -1,0 +1,12 @@
+{
+  "alignment": "Neutral",
+  "description": "Nivi Rhombodazzle is the only gnomish racial deity, though she is mostly revered among svirfneblin in the Darklands and is barely known on Golarion's surface.\n\nShe appears as a deep gnome with eyes that glimmer like gems. Her holy symbol is a gem cut into the shape of a six-sided die with seven pips on one side.",
+  "domains": ["Community", "Earth", "Luck", "Trickery"],
+  "favoredWeapon": "Light hammer",
+  "name": "Nivi Rhombodazzle",
+  "slug": "niviRhombodazzle",
+  "symbol": "Seven-pipped gem die",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nivi_Rhombodazzle_holy_symbol.jpg",
+  "titles": ["The Grey Polychrome"],
+  "worshipers": ["Bleachlings", "Svirfneblin"]
+}

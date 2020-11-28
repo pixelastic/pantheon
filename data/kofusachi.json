@@ -1,0 +1,11 @@
+{
+  "alignment": "Chaotic Good",
+  "description": "Kofusachi is a Tian-Hwan god of joy and prosperity, and is primarily worshiped in the Tian Xia nations of Hongal, Hwanggot, and Tianjing. His holy symbol is a string of seven coins.",
+  "domains": ["Chaos", "Charm", "Good", "Luck", "Travel"],
+  "favoredWeapon": "Bo staff",
+  "name": "Kofusachi",
+  "slug": "kofusachi",
+  "symbolPicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Kofusachi_holy_symbol.jpg",
+  "titles": ["The Laughing God"],
+  "worshipers": [""]
+}

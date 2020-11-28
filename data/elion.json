@@ -1,0 +1,12 @@
+{
+  "alignment": "Chaotic Good",
+  "description": "\n\nElion is a deity of exploration and discovery worshiped by the humans of ancient Azlant. He teaches his followers to explore and find the best that creation provides, and is credited with the creation of the first wayfinder.",
+  "domains": ["Chaos", "Community", "Good", "Travel", "Weather"],
+  "favoredWeapon": "Longbow",
+  "name": "Elion",
+  "slug": "elion",
+  "symbol": "Compass",
+  "symbolPicture": null,
+  "titles": ["The Farseeker"],
+  "worshipers": [""]
+}
