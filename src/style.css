@@ -1,1 +1,8 @@
 @import 'theme:style.css';
+
+@import '_styles/header.css';
+@import '_styles/toggle.css';
+@import '_styles/tags.css';
+@import '_styles/sortBy.css';
+@import '_styles/hits.css';
+@import '_styles/pagination.css';

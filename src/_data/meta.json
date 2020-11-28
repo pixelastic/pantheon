@@ -1,6 +1,6 @@
 {
-  "description": "Your website description. You can overwrite it in any pug file",
-  "title": "Default page title. You can overwrite it in any pug file",
-  "twitter": "yourusername",
-  "productionUrl": "http://www.your-production-url.com/"
+  "description": "Search into all Pathfinder gods",
+  "title": "Gods",
+  "twitter": "pixelastic",
+  "productionUrl": "https://gamemaster.pixelastic.com/gods/"
 }

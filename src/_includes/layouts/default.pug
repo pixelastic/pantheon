@@ -1,0 +1,8 @@
+doctype html
+html(lang='en')
+  +norska_head
+  body.bg-indigo-8
+    block content
+
+  script!=`window.CONFIG = ${JSON.stringify(data.config)}`
+  +norska_scripts
