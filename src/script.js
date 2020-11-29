@@ -3,5 +3,8 @@
 // And have the default theme do the lazyload
 const theme = require('norska-theme-search-infinite/src/script.js');
 (async () => {
-  await theme.init();
+  await theme.init({
+    placeholder: 'Search for any name, domain or title',
+    hitName: 'god',
+  });
 })();
