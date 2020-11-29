@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Brumash",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "brumash",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Brumash",

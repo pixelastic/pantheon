@@ -6,6 +6,9 @@
   "name": "Aroden",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Aroden_holy_symbol.jpg",
   "pronunciation": "AIR-oh-den",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "aroden",
   "symbol": "Eye of Aroden",
   "titles": ["Last of the First Humans", "The Last Azlanti", "Living God"],

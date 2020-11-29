@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Child-Goddess",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "childGoddess",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Child-Goddess",

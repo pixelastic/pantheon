@@ -5,6 +5,9 @@
   "favoredWeapon": "Longbow",
   "name": "General Susumu",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/General_Susumu_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "generalSusumu",
   "titles": ["The Black Daimyo"],
   "url": "https://pathfinderwiki.com/wiki/General_Susumu",

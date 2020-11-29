@@ -5,6 +5,9 @@
   "favoredWeapon": "Longspear",
   "name": "Tsukiyo",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Tsukiyo_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "tsukiyo",
   "symbol": "Jade crescent moon",
   "titles": ["Prince of the Moon"],

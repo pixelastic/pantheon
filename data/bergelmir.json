@@ -5,6 +5,9 @@
   "favoredWeapon": "Quarterstaff",
   "name": "Bergelmir",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "bergelmir",
   "symbol": "Three bolts of lightning",
   "titles": ["Mother of Memories"],

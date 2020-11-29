@@ -5,6 +5,9 @@
   "favoredWeapon": "club",
   "name": "Ancestral Spirits",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ancestralSpirits",
   "titles": ["The Ancestors", "Father", "Mother", "The Spirits of the Earth"],
   "url": "https://pathfinderwiki.com/wiki/Ancestral_Spirits",

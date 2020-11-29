@@ -6,6 +6,9 @@
   "name": "Calistria",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Calistria_holy_symbol.jpg",
   "pronunciation": "kah-LISS-tree-ah",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "calistria",
   "symbol": "Three daggers",
   "titles": [

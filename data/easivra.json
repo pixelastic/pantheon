@@ -5,6 +5,9 @@
   "favoredWeapon": "Morningstar",
   "name": "Easivra",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "easivra",
   "symbol": "Eagle head in profile",
   "titles": ["The Dawn Eagle"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Temple sword",
   "name": "Dhalavei",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "dhalavei",
   "titles": ["The Unsuspected Rot", "Goddess of internal decay"],
   "url": "https://pathfinderwiki.com/wiki/Dhalavei",

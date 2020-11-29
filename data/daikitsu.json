@@ -5,6 +5,9 @@
   "favoredWeapon": "Flail",
   "name": "Daikitsu",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Daikitsu_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "daikitsu",
   "symbol": "Nine-tailed fox",
   "titles": ["Lady of Foxes"],

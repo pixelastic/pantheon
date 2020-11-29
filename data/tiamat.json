@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Tiamat",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "tiamat",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Tiamat",

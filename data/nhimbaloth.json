@@ -5,6 +5,9 @@
   "favoredWeapon": "Flail",
   "name": "Nhimbaloth",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "nhimbaloth",
   "symbol": "Dripping skull with jaw stuffed with wet moss",
   "titles": ["The Empty Death"],

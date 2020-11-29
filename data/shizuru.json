@@ -5,6 +5,9 @@
   "favoredWeapon": "Katana",
   "name": "Shizuru",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shizuru_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "shizuru",
   "symbol": "Katana in front of the sun",
   "titles": ["Empress of Heaven"],

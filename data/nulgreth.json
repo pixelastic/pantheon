@@ -5,6 +5,9 @@
   "favoredWeapon": "Orc double axe",
   "name": "Nulgreth",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "nulgreth",
   "symbol": "Bloody double axe",
   "titles": ["The Blood God"],

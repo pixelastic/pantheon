@@ -5,6 +5,9 @@
   "favoredWeapon": "Greataxe",
   "name": "Thremyr",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "thremyr",
   "symbol": "Frozen blue gemstone",
   "titles": ["The First Jarl"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Terbutje",
   "name": "Ah Pook",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ahPook",
   "symbol": "Skull with a crescent eclipse",
   "titles": ["The Destroyer"],

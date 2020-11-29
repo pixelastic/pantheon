@@ -5,6 +5,9 @@
   "favoredWeapon": "Machete",
   "name": "Kazutal",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "kazutal",
   "symbol": "Jaguar's head on a green circle",
   "titles": ["Mother Jaguar"],

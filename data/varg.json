@@ -5,6 +5,9 @@
   "favoredWeapon": "Greataxe",
   "name": "Varg",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "varg",
   "symbol": "Crumbling, smoking tower",
   "titles": ["The Iron Warrior"],

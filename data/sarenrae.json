@@ -6,6 +6,9 @@
   "name": "Sarenrae",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
   "pronunciation": "SAER-en-ray ",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "sarenrae",
   "symbol": "Angelic ankh",
   "titles": [

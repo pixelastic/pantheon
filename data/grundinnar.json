@@ -5,6 +5,9 @@
   "favoredWeapon": "Hammer",
   "name": "Grundinnar",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "grundinnar",
   "symbol": "Glowing golden hammer",
   "titles": ["The Peacemaker"],

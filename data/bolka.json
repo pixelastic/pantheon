@@ -5,6 +5,9 @@
   "favoredWeapon": "Mace",
   "name": "Bolka",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "bolka",
   "symbol": "Golden bejeweled ring",
   "titles": ["The Golden Gift"],

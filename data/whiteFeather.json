@@ -4,6 +4,9 @@
   "domains": [],
   "name": "White Feather",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "whiteFeather",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/White_Feather",

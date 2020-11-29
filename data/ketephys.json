@@ -5,6 +5,9 @@
   "favoredWeapon": "Bow",
   "name": "Ketephys",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ketephys_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "ketephys",
   "symbol": "Hawk with moon and sun",
   "titles": ["The Hunter"],

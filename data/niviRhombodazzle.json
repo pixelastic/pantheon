@@ -5,6 +5,9 @@
   "favoredWeapon": "Light hammer",
   "name": "Nivi Rhombodazzle",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nivi_Rhombodazzle_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "niviRhombodazzle",
   "symbol": "Seven-pipped gem die",
   "titles": ["The Grey Polychrome"],

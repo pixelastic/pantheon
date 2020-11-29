@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Chamidu",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "chamidu",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Chamidu",

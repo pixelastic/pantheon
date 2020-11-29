@@ -5,6 +5,9 @@
   "favoredWeapon": "Trident",
   "name": "Raumya",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "raumya",
   "titles": ["The Evil Prince"],
   "url": "https://pathfinderwiki.com/wiki/Raumya",

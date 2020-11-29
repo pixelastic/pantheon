@@ -5,6 +5,9 @@
   "favoredWeapon": "Rapier",
   "name": "Skrymir",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "skrymir",
   "symbol": "Coastlines pierced by blades",
   "titles": ["The Seeker of Sunsets"],

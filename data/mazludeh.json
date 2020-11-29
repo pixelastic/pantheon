@@ -5,6 +5,9 @@
   "favoredWeapon": "Heavy shield",
   "name": "Mazludeh",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "mazludeh",
   "symbol": "Seven eggs encircled by an ouroboros",
   "titles": ["Mother of Hearth and Wall"],

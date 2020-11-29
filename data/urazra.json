@@ -5,6 +5,9 @@
   "favoredWeapon": "Spiked gauntlet",
   "name": "Urazra",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "urazra",
   "symbol": "Bear totem",
   "titles": ["Breaker of Bones", "Gore Pelt", "The Red Bear"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Warhammer",
   "name": "Trudd",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "trudd",
   "symbol": "Rune-carved stone throne",
   "titles": ["The Mighty"],

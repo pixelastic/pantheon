@@ -5,6 +5,9 @@
   "favoredWeapon": "Quarterstaff",
   "name": "Folgrit",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "folgrit",
   "symbol": "Rune-carved hearth",
   "titles": ["The Watchful Mother"],

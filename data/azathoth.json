@@ -5,6 +5,9 @@
   "favoredWeapon": "Warhammer",
   "name": "Azathoth",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/[[Image:Azathoth.jpg|250px|Azathoth.]]",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "azathoth",
   "symbol": "Eight pointed star",
   "titles": [

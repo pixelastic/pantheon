@@ -6,6 +6,9 @@
   "name": "Irori",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
   "pronunciation": "ih-ROHR-ee",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "irori",
   "symbol": "Blue hand",
   "titles": [

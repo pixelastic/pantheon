@@ -5,6 +5,9 @@
   "favoredWeapon": "Meteor hammer",
   "name": "Scal",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "scal",
   "symbol": "Burning meteor impacting the ground",
   "titles": ["Calm after the Storm"],

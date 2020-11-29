@@ -6,6 +6,9 @@
   "name": "Ydersius",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
   "pronunciation": "yeh-DER-see-us",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "ydersius",
   "symbol": "Snake skull and ouroboros",
   "titles": [

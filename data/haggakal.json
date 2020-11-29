@@ -5,6 +5,9 @@
   "favoredWeapon": "greatclub",
   "name": "Haggakal",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "haggakal",
   "symbol": "Leering ogre face",
   "titles": [],

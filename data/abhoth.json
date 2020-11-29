@@ -5,6 +5,9 @@
   "favoredWeapon": "Whip",
   "name": "Abhoth",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "abhoth",
   "symbol": "Tentacle coiled around a disembodied eye",
   "titles": [

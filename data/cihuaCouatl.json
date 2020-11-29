@@ -5,6 +5,9 @@
   "favoredWeapon": "Shortspear",
   "name": "Cihua Couatl",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "cihuaCouatl",
   "symbol": "Two couatls consuming each other's tails with their wings overlapping in the centre",
   "titles": ["The War Children"],

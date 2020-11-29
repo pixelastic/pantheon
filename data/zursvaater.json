@@ -5,6 +5,9 @@
   "favoredWeapon": "Greatsword",
   "name": "Zursvaater",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "zursvaater",
   "symbol": "Helm with huge fangs",
   "titles": ["Prince of Steel"],

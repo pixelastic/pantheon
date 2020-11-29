@@ -19,7 +19,7 @@ const _ = require('golgoth/lib/lodash');
       'unordered(titles)',
       'unordered(domains)',
     ],
-    customRanking: [],
+    customRanking: ['desc(ranking.hasPicture)'],
     attributesForFaceting: ['alignment', 'domains'],
     attributesToSnippet: ['description'],
   };

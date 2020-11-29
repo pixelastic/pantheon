@@ -6,6 +6,9 @@
   "name": "Milani",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Milani_holy_symbol.jpg",
   "pronunciation": "meh-LAW-nee",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "milani",
   "symbol": "Rose on bloody street",
   "titles": ["The Everbloom"],

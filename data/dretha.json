@@ -5,6 +5,9 @@
   "favoredWeapon": "Scimitar",
   "name": "Dretha",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dretha.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "dretha",
   "symbol": "Two gauntleted fists",
   "titles": ["Dark Mother"],

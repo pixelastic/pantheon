@@ -6,6 +6,9 @@
   "name": "Pharasma",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
   "pronunciation": "fah-RAZ-mah",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "pharasma",
   "symbol": "Spiraling comet",
   "titles": [

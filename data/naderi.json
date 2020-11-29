@@ -5,6 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Naderi",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "naderi",
   "symbol": "Ornate golden dagger",
   "titles": ["The Lost Maiden"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Scythe",
   "name": "Jaidi",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "jaidi",
   "symbol": "Shepherd's crook bearing a sun",
   "titles": ["The Blessing and Bounty"],

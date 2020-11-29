@@ -6,6 +6,9 @@
   "name": "Gorum",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gorum_holy_symbol.jpg",
   "pronunciation": "GOR-um",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "gorum",
   "symbol": "Sword in mountain",
   "titles": ["Our Lord in Iron"],

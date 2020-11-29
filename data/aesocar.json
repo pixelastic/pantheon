@@ -5,6 +5,9 @@
   "favoredWeapon": "Mancatcher",
   "name": "Aesocar",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "aesocar",
   "symbol": "Enclosed six-pointed star",
   "titles": ["The Healing Touch"],

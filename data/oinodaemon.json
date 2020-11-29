@@ -5,6 +5,9 @@
   "name": "Oinodaemon",
   "picture": null,
   "pronunciation": "OIN-oh-day-mon",
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "oinodaemon",
   "titles": [
     "The Bound Prince",

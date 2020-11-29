@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Ragdya",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ragdya",
   "titles": ["The Sage on the Mountain"],
   "url": "https://pathfinderwiki.com/wiki/Ragdya",

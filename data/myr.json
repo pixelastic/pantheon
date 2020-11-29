@@ -5,6 +5,9 @@
   "favoredWeapon": "Longsword",
   "name": "Myr",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "myr",
   "symbol": "Branching tree and roots",
   "titles": ["The Guide of Perfection"],

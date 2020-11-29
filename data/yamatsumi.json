@@ -5,6 +5,9 @@
   "favoredWeapon": "Tetsubo",
   "name": "Yamatsumi",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yamatsumi_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "yamatsumi",
   "symbol": "Erupting, snow-capped volcano",
   "titles": ["The Mountain Lord"],

@@ -6,6 +6,9 @@
   "name": "Nethys",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nethys_holy_symbol.jpg",
   "pronunciation": "NETH-uhs",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "nethys",
   "symbol": "Two-toned mask",
   "titles": ["The All-Seeing Eye"],

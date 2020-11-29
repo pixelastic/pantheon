@@ -5,6 +5,9 @@
   "favoredWeapon": "Lasso",
   "name": "Sicva",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "sicva",
   "symbol": "Virus",
   "titles": ["Mistress of All"],

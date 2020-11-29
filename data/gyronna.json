@@ -5,6 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Gyronna",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gyronna_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "gyronna",
   "symbol": "Single bloodshot eye",
   "titles": ["The Angry Hag, Hag Queen"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Yuelral",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yuelral_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "yuelral",
   "symbol": "Three overlapping crystals",
   "titles": ["The Wise"],

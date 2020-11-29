@@ -5,6 +5,9 @@
   "favoredWeapon": "Naginata",
   "name": "Fumeiyoshi",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "fumeiyoshi",
   "titles": ["Lord of Envy"],
   "url": "https://pathfinderwiki.com/wiki/Fumeiyoshi",

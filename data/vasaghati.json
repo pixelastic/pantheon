@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Vasaghati",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "vasaghati",
   "symbol": "Circle: inner circumference lined with triangles",
   "titles": [

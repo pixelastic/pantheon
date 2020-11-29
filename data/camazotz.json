@@ -5,6 +5,9 @@
   "favoredWeapon": "Javelin",
   "name": "Camazotz",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Camazotz_by_Butterfrog.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "camazotz",
   "symbol": "Bat-shaped rune",
   "titles": [

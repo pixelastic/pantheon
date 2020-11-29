@@ -5,6 +5,9 @@
   "favoredWeapon": "Longbow",
   "name": "Elion",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "elion",
   "symbol": "Compass",
   "titles": ["The Farseeker"],

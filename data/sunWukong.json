@@ -5,6 +5,9 @@
   "favoredWeapon": "Quarterstaff",
   "name": "Sun Wukong",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sun_Wukong_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "sunWukong",
   "titles": ["The Monkey King"],
   "url": "https://pathfinderwiki.com/wiki/Sun_Wukong",

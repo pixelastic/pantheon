@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Roidira",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "roidira",
   "titles": ["Dark Sister of Knowledge"],
   "url": "https://pathfinderwiki.com/wiki/Roidira",

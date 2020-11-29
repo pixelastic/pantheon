@@ -10,6 +10,9 @@
   "favoredWeapon": "Quarterstaff BP Punching dagger FS  Dagger HD",
   "name": "Nyarlathotep",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "nyarlathotep",
   "symbol": "Inverted ankh BP Featureless face FS  Circle with winglike arms HD",
   "titles": [

@@ -5,6 +5,9 @@
   "favoredWeapon": "Heavy flail",
   "name": "Lanishra",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "lanishra",
   "symbol": "Sabre-tooth tiger skull",
   "titles": ["The Slavelord"],

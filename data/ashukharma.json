@@ -5,6 +5,9 @@
   "favoredWeapon": "Greatsword",
   "name": "Ashukharma",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "ashukharma",
   "symbol": "A deep, jagged gorge in dry earth",
   "titles": ["The Divine Divide"],

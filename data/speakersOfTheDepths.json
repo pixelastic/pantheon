@@ -5,6 +5,9 @@
   "favoredWeapon": "Sickle",
   "name": "Speakers of the Depths",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "speakersOfTheDepths",
   "symbol": "Eyeless serpent twisted into an infinity symbol to feed upon its own tail",
   "titles": [""],

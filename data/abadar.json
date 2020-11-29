@@ -8,6 +8,9 @@
   "name": "Abadar",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Abadar_holy_symbol.jpg",
   "pronunciation": "AH-bah-dar",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "abadar",
   "symbol": "Golden key",
   "titles": [

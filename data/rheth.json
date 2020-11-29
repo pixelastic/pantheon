@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Rheth",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "rheth",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Rheth",

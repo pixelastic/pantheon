@@ -5,6 +5,9 @@
   "favoredWeapon": "Net",
   "name": "Grandmother Spider",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "grandmotherSpider",
   "symbol": "Four-pointed hollow webbed diamond",
   "titles": ["Nana Anadi", "The Weaver"],

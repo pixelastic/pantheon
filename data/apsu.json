@@ -5,6 +5,9 @@
   "favoredWeapon": "Bite or quarterstaff",
   "name": "Apsu",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "apsu",
   "symbol": "Silver dragon above mirror or pool",
   "titles": ["Waybringer", "The Exiled Wyrm", "Maker of All"],

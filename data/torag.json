@@ -6,6 +6,9 @@
   "name": "Torag",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Torag_holy_symbol.jpg",
   "pronunciation": "TORR-awg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "torag",
   "symbol": "Iron hammer",
   "titles": ["Father of Creation Father of Dwarvenkind"],

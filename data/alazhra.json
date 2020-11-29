@@ -5,6 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Alazhra",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "alazhra",
   "symbol": "Jar containing a ghost",
   "titles": ["The Dream Eater"],

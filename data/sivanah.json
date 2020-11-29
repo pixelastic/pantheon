@@ -6,6 +6,9 @@
   "name": "Sivanah",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
   "pronunciation": "siv-AHN-ah",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "sivanah",
   "symbol": "Veils tied in circle",
   "titles": ["Goddess of Illusions", "The Seventh Veil"],

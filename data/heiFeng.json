@@ -5,6 +5,9 @@
   "favoredWeapon": "Nine-ring broadsword",
   "name": "Hei Feng",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Hei_Feng_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "heiFeng",
   "symbol": "Lightning bolt arcing out of a dark storm cloud",
   "titles": ["Duke of Thunder"],

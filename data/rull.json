@@ -5,6 +5,9 @@
   "favoredWeapon": "Falchion",
   "name": "Rull",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "rull",
   "symbol": "Thunder cloud and lightning",
   "titles": ["The Thunderer"],

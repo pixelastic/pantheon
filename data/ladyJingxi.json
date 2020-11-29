@@ -5,6 +5,9 @@
   "favoredWeapon": "Fighting fan",
   "name": "Lady Jingxi",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ladyJingxi",
   "titles": ["The Poet of Dawn and Dusk"],
   "url": "https://pathfinderwiki.com/wiki/Lady_Jingxi",

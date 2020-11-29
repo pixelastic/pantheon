@@ -5,6 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Shub-Niggurath",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "shubNiggurath",
   "symbol": "Radially arrayed goat heads",
   "titles": ["Black Goat of the Woods with a Thousand Young"],

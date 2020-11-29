@@ -6,6 +6,9 @@
   "name": "Iomedae",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
   "pronunciation": "ahy-OH-meh-day",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "iomedae",
   "symbol": "Sword and sun",
   "titles": ["The Inheritor", "Light of the Sword", "Lady of Valor"],

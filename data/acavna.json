@@ -5,6 +5,9 @@
   "favoredWeapon": "Spear",
   "name": "Acavna",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "acavna",
   "symbol": "Crossed spears over a full moon",
   "titles": ["The Shield"],

@@ -5,6 +5,9 @@
   "favoredWeapon": "Hand crossbow",
   "name": "Ulon",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ulon",
   "symbol": "Black pentagon within a purple circle",
   "titles": ["The Web"],

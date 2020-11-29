@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Three Sisters",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "threeSisters",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Three_Sisters",

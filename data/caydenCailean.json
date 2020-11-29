@@ -6,6 +6,9 @@
   "name": "Cayden Cailean",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Cayden_Cailean_holy_symbol.jpg",
   "pronunciation": "KAY-den KAY-lee-en",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "caydenCailean",
   "symbol": "Tankard",
   "titles": [

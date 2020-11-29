@@ -6,6 +6,9 @@
   "name": "Urgathoa",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Urgathoa_symbol.jpg",
   "pronunciation": "oor-gah-THO-ah",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "urgathoa",
   "symbol": "Skull-decorated fly",
   "titles": ["The Pallid Princess,", "Lady Despair"],

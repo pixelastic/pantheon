@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Yahaiya",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "yahaiya",
   "titles": ["The Cry in the Wastes"],
   "url": "https://pathfinderwiki.com/wiki/Yahaiya",

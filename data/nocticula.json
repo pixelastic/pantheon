@@ -6,6 +6,9 @@
   "name": "Nocticula",
   "picture": null,
   "pronunciation": "nok-TICK-you-lah",
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "nocticula",
   "symbol": "Moon with a pair of smirking lips and a seven-pointed crown",
   "titles": ["The Redeemer Queen"],

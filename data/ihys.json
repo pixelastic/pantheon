@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Ihys",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "ihys",
   "titles": ["The First"],
   "url": "https://pathfinderwiki.com/wiki/Ihys",

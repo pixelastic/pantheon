@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Azhia",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "azhia",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Azhia",

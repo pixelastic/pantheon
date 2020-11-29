@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Prathos",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "prathos",
   "titles": ["The Howling Eye"],
   "url": "https://pathfinderwiki.com/wiki/Prathos",

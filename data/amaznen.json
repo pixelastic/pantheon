@@ -5,6 +5,9 @@
   "favoredWeapon": "Light hammer",
   "name": "Amaznen",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "amaznen",
   "symbol": "Gears that resemble an eye",
   "titles": ["The Father of Invention"],

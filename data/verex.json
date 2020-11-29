@@ -5,6 +5,9 @@
   "favoredWeapon": "Battleaxe",
   "name": "Verex",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "verex",
   "symbol": "Rat with gold coin",
   "titles": ["The Despoiler"],

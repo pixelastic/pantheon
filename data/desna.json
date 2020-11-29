@@ -6,6 +6,9 @@
   "name": "Desna",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Desna_holy_symbol_2.jpg",
   "pronunciation": "DEZ-nuh",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "desna",
   "symbol": "Butterfly",
   "titles": [

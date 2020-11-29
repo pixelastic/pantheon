@@ -6,6 +6,9 @@
   "name": "Shelyn",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shelyn_holy_symbol.jpeg",
   "pronunciation": "SHEHL-ihn",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "shelyn",
   "symbol": "Multicolored Songbird",
   "titles": [

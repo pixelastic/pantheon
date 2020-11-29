@@ -5,6 +5,9 @@
   "favoredWeapon": "Light pick",
   "name": "Dranngvit",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "dranngvit",
   "symbol": "Crossed picks",
   "titles": ["The Debt Minder"],

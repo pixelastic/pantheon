@@ -5,6 +5,9 @@
   "favoredWeapon": "Scimitar",
   "name": "Diomazul",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "diomazul",
   "titles": ["Serpent of Eighty Blades"],
   "url": "https://pathfinderwiki.com/wiki/Diomazul",

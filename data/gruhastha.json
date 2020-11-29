@@ -5,6 +5,9 @@
   "favoredWeapon": "Shortbow",
   "name": "Gruhastha",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "gruhastha",
   "symbol": "Mandala with four open books as gates of the compass points",
   "titles": ["The Keeper"],

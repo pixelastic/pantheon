@@ -4,6 +4,9 @@
   "domains": [],
   "name": "Likha",
   "picture": null,
+  "ranking": {
+    "hasPicture": false
+  },
   "slug": "likha",
   "titles": ["The Teller"],
   "url": "https://pathfinderwiki.com/wiki/Likha",

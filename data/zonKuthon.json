@@ -6,6 +6,9 @@
   "name": "Zon-Kuthon",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zon-Kuthon_holy_symbol.jpeg",
   "pronunciation": "ZONN-koo-THON",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "zonKuthon",
   "symbol": "Chained skull",
   "titles": ["The Midnight Lord", "The Dark Prince", "The Prince of Pain"],

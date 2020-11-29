@@ -5,6 +5,9 @@
   "favoredWeapon": "Urumi, bite",
   "name": "Nalinivati",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nalinivati_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "nalinivati",
   "symbol": "Lotus flower wherein a snake lies coiled",
   "titles": ["The Serpent's Kiss", "First Mother (nagaji)"],

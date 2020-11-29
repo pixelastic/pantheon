@@ -5,6 +5,9 @@
   "favoredWeapon": "Shuriken",
   "name": "Yaezhing",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yaezhing_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "yaezhing",
   "titles": ["Minister of Blood"],
   "url": "https://pathfinderwiki.com/wiki/Yaezhing",

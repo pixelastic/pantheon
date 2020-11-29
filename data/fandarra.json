@@ -5,6 +5,9 @@
   "favoredWeapon": "Stone dagger",
   "name": "Fandarra",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fandarra_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "fandarra",
   "symbol": "Mountain and moon",
   "titles": ["Blood Mother", "The Bleeding Stone", "The Earth Seer"],

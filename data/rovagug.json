@@ -6,6 +6,9 @@
   "name": "Rovagug",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Rovagug_holy_symbol.jpg",
   "pronunciation": "ROH-vah-gug",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "rovagug",
   "symbol": "Fanged spider",
   "titles": [

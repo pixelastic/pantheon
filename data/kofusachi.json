@@ -5,6 +5,9 @@
   "favoredWeapon": "Bo staff",
   "name": "Kofusachi",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Kofusachi_holy_symbol.jpg",
+  "ranking": {
+    "hasPicture": true
+  },
   "slug": "kofusachi",
   "titles": ["The Laughing God"],
   "url": "https://pathfinderwiki.com/wiki/Kofusachi",
