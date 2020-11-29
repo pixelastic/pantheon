@@ -6,7 +6,8 @@
   "name": "Apsu",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "apsu",
   "symbol": "Silver dragon above mirror or pool",

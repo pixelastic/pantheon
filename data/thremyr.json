@@ -6,7 +6,8 @@
   "name": "Thremyr",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "thremyr",
   "symbol": "Frozen blue gemstone",

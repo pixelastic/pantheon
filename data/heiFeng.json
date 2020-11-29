@@ -6,7 +6,8 @@
   "name": "Hei Feng",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Hei_Feng_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "heiFeng",
   "symbol": "Lightning bolt arcing out of a dark storm cloud",

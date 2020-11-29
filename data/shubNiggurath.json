@@ -6,7 +6,8 @@
   "name": "Shub-Niggurath",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "shubNiggurath",
   "symbol": "Radially arrayed goat heads",

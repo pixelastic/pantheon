@@ -6,7 +6,8 @@
   "name": "Lady Nanbyo",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lady_Nanbyo_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "ladyNanbyo",
   "titles": ["The Widow of Suffering"],

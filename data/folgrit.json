@@ -6,7 +6,8 @@
   "name": "Folgrit",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "folgrit",
   "symbol": "Rune-carved hearth",

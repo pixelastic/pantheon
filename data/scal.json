@@ -6,7 +6,8 @@
   "name": "Scal",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "scal",
   "symbol": "Burning meteor impacting the ground",

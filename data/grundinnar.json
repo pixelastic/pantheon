@@ -6,7 +6,8 @@
   "name": "Grundinnar",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "grundinnar",
   "symbol": "Glowing golden hammer",

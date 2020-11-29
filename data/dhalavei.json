@@ -6,7 +6,8 @@
   "name": "Dhalavei",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "dhalavei",
   "titles": ["The Unsuspected Rot", "Goddess of internal decay"],

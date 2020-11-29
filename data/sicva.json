@@ -6,7 +6,8 @@
   "name": "Sicva",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "sicva",
   "symbol": "Virus",

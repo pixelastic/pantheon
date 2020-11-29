@@ -5,7 +5,8 @@
   "name": "Suyuddha",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "suyuddha",
   "titles": ["The Warrior Queen"],

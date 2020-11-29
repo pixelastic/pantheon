@@ -6,7 +6,8 @@
   "name": "Ulon",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "ulon",
   "symbol": "Black pentagon within a purple circle",

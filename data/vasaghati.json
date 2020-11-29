@@ -5,7 +5,8 @@
   "name": "Vasaghati",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "vasaghati",
   "symbol": "Circle: inner circumference lined with triangles",

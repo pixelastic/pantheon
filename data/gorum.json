@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gorum_holy_symbol.jpg",
   "pronunciation": "GOR-um",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": true
   },
   "slug": "gorum",
   "symbol": "Sword in mountain",

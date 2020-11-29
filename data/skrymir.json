@@ -6,7 +6,8 @@
   "name": "Skrymir",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "skrymir",
   "symbol": "Coastlines pierced by blades",

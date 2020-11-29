@@ -6,7 +6,8 @@
   "name": "Outer God",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "outerGod",
   "titles": [""],

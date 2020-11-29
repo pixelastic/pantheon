@@ -6,7 +6,8 @@
   "name": "Varg",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "varg",
   "symbol": "Crumbling, smoking tower",

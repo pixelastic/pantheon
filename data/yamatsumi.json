@@ -6,7 +6,8 @@
   "name": "Yamatsumi",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yamatsumi_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "yamatsumi",
   "symbol": "Erupting, snow-capped volcano",

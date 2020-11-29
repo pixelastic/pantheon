@@ -6,7 +6,8 @@
   "name": "Trudd",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "trudd",
   "symbol": "Rune-carved stone throne",

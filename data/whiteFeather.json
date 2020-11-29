@@ -5,7 +5,8 @@
   "name": "White Feather",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "whiteFeather",
   "titles": [""],

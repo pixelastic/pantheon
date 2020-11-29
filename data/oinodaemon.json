@@ -6,7 +6,8 @@
   "picture": null,
   "pronunciation": "OIN-oh-day-mon",
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "oinodaemon",
   "titles": [

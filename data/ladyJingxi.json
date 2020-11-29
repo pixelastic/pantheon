@@ -6,7 +6,8 @@
   "name": "Lady Jingxi",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "ladyJingxi",
   "titles": ["The Poet of Dawn and Dusk"],

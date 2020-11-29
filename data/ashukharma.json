@@ -6,7 +6,8 @@
   "name": "Ashukharma",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "ashukharma",
   "symbol": "A deep, jagged gorge in dry earth",

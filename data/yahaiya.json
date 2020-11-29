@@ -5,7 +5,8 @@
   "name": "Yahaiya",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "yahaiya",
   "titles": ["The Cry in the Wastes"],

@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Milani_holy_symbol.jpg",
   "pronunciation": "meh-LAW-nee",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "milani",
   "symbol": "Rose on bloody street",

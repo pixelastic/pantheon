@@ -6,7 +6,8 @@
   "name": "Mazludeh",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "mazludeh",
   "symbol": "Seven eggs encircled by an ouroboros",

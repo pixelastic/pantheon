@@ -6,7 +6,8 @@
   "name": "Omrataji",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Omrataji_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "omrataji",
   "symbol": "A shimmering silver star",

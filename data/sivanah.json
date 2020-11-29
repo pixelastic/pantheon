@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
   "pronunciation": "siv-AHN-ah",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "sivanah",
   "symbol": "Veils tied in circle",

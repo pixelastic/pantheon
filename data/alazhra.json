@@ -6,7 +6,8 @@
   "name": "Alazhra",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "alazhra",
   "symbol": "Jar containing a ghost",

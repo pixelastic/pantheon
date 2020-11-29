@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Minderhal_holy_symbol.jpg",
   "pronunciation": "MIN-dehr-hawl",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "minderhal",
   "symbol": "Anvil in triangle, with moon, planet, star at its corners",

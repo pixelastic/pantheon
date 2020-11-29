@@ -16,7 +16,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sihedron_Rune.jpg",
   "pronunciation": "lis-SALL-uh",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "lissala",
   "symbol": "Sihedron",

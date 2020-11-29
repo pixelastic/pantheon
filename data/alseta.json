@@ -6,7 +6,8 @@
   "name": "Alseta",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Alseta_and_an_elf_gate.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "alseta",
   "symbol": "Two faces in profile",

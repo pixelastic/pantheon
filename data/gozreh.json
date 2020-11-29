@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gozreh_holy_symbol.jpg",
   "pronunciation": "GOHZ-ray",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": true
   },
   "slug": "gozreh",
   "symbol": "Dripping leaf",

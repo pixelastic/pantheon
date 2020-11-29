@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Erastil_holy_symbol.jpg",
   "pronunciation": "eh-RAS-til",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": true
   },
   "slug": "erastil",
   "symbol": "Bow and arrow",

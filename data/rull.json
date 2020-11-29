@@ -6,7 +6,8 @@
   "name": "Rull",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "rull",
   "symbol": "Thunder cloud and lightning",

@@ -6,7 +6,8 @@
   "name": "Bergelmir",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "bergelmir",
   "symbol": "Three bolts of lightning",

@@ -5,7 +5,8 @@
   "name": "Three Sisters",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "threeSisters",
   "titles": [""],

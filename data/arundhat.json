@@ -5,7 +5,8 @@
   "name": "Arundhat",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "arundhat",
   "titles": ["The Sacred Perfume"],

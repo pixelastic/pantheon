@@ -5,7 +5,8 @@
   "name": "Brumash",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "brumash",
   "titles": [""],

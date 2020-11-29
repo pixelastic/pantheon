@@ -6,7 +6,8 @@
   "name": "Zursvaater",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "zursvaater",
   "symbol": "Helm with huge fangs",

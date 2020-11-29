@@ -5,7 +5,8 @@
   "name": "Tiamat",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "tiamat",
   "titles": [""],

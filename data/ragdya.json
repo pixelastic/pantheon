@@ -5,7 +5,8 @@
   "name": "Ragdya",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "ragdya",
   "titles": ["The Sage on the Mountain"],

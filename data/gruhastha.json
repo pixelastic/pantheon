@@ -6,7 +6,8 @@
   "name": "Gruhastha",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "gruhastha",
   "symbol": "Mandala with four open books as gates of the compass points",

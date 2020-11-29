@@ -5,7 +5,8 @@
   "name": "Roidira",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "roidira",
   "titles": ["Dark Sister of Knowledge"],

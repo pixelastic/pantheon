@@ -6,7 +6,8 @@
   "name": "Nhimbaloth",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "nhimbaloth",
   "symbol": "Dripping skull with jaw stuffed with wet moss",

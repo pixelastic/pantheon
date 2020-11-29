@@ -6,7 +6,8 @@
   "name": "Amaznen",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "amaznen",
   "symbol": "Gears that resemble an eye",

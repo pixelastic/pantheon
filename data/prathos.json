@@ -5,7 +5,8 @@
   "name": "Prathos",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "prathos",
   "titles": ["The Howling Eye"],

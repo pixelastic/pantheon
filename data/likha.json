@@ -5,7 +5,8 @@
   "name": "Likha",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "likha",
   "titles": ["The Teller"],

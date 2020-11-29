@@ -6,7 +6,8 @@
   "name": "Myr",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "myr",
   "symbol": "Branching tree and roots",

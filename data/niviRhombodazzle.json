@@ -6,7 +6,8 @@
   "name": "Nivi Rhombodazzle",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nivi_Rhombodazzle_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "niviRhombodazzle",
   "symbol": "Seven-pipped gem die",

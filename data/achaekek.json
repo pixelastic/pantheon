@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Red_Mantis_symbol.jpg",
   "pronunciation": "uh-CHAY-kek",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "achaekek",
   "symbol": "Crossed mantis claws",

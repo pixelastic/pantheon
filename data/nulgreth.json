@@ -6,7 +6,8 @@
   "name": "Nulgreth",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "nulgreth",
   "symbol": "Bloody double axe",

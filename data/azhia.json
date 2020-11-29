@@ -5,7 +5,8 @@
   "name": "Azhia",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "azhia",
   "titles": [""],

@@ -6,7 +6,8 @@
   "name": "Fumeiyoshi",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "fumeiyoshi",
   "titles": ["Lord of Envy"],

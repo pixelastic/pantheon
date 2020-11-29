@@ -6,7 +6,8 @@
   "name": "Haggakal",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "haggakal",
   "symbol": "Leering ogre face",

@@ -5,7 +5,8 @@
   "name": "Perbov",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "perbov",
   "titles": ["The Father of the North"],

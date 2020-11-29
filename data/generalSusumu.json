@@ -6,7 +6,8 @@
   "name": "General Susumu",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/General_Susumu_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "generalSusumu",
   "titles": ["The Black Daimyo"],

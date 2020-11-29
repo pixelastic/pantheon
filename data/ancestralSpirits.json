@@ -6,7 +6,8 @@
   "name": "Ancestral Spirits",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "ancestralSpirits",
   "titles": ["The Ancestors", "Father", "Mother", "The Spirits of the Earth"],

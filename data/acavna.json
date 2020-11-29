@@ -6,7 +6,8 @@
   "name": "Acavna",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "acavna",
   "symbol": "Crossed spears over a full moon",

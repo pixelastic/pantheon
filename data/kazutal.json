@@ -6,7 +6,8 @@
   "name": "Kazutal",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "kazutal",
   "symbol": "Jaguar's head on a green circle",

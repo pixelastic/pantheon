@@ -6,7 +6,8 @@
   "name": "Easivra",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "easivra",
   "symbol": "Eagle head in profile",

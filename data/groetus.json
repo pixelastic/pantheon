@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Groetus_holy_symbol.jpg",
   "pronunciation": "GRO-tus",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "groetus",
   "symbol": "Skull-faced moon",

@@ -6,7 +6,8 @@
   "name": "Shizuru",
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shizuru_holy_symbol.jpg",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": false
   },
   "slug": "shizuru",
   "symbol": "Katana in front of the sun",

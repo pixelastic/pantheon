@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Asmodeus_holy_symbol.jpg",
   "pronunciation": "as-MO-day-us",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": true
   },
   "slug": "asmodeus",
   "symbol": "Red pentagram: the Archstar",

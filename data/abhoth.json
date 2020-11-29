@@ -6,7 +6,8 @@
   "name": "Abhoth",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "abhoth",
   "symbol": "Tentacle coiled around a disembodied eye",

@@ -7,7 +7,8 @@
   "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
   "pronunciation": "NOR-gore-ber",
   "ranking": {
-    "hasPicture": true
+    "hasPicture": true,
+    "isMajor": true
   },
   "slug": "norgorber",
   "symbol": "One-eyed mask",

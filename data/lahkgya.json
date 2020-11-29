@@ -5,7 +5,8 @@
   "name": "Lahkgya",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "lahkgya",
   "titles": ["Of the Red Face", "Patron of Monkeys"],

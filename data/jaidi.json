@@ -6,7 +6,8 @@
   "name": "Jaidi",
   "picture": null,
   "ranking": {
-    "hasPicture": false
+    "hasPicture": false,
+    "isMajor": false
   },
   "slug": "jaidi",
   "symbol": "Shepherd's crook bearing a sun",
