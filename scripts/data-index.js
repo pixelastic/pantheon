@@ -21,7 +21,7 @@ const _ = require('golgoth/lib/lodash');
     ],
     customRanking: ['desc(ranking.isMajor)', 'desc(ranking.hasPicture)'],
     attributesForFaceting: ['alignment', 'domains'],
-    attributesToSnippet: ['description'],
+    attributesToSnippet: ['description:45'],
   };
 
   indexing.verbose();

@@ -4,7 +4,7 @@
   "domains": ["Chaos", "Destruction", "Madness", "Sun", "Void"],
   "favoredWeapon": "Warhammer",
   "name": "Azathoth",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/[[Image:Azathoth.jpg|250px|Azathoth.]]",
+  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Azathoth.jpg",
   "ranking": {
     "hasPicture": true,
     "isMajor": false
@@ -12,9 +12,9 @@
   "slug": "azathoth",
   "symbol": "Eight pointed star",
   "titles": [
-    "The Daemon Sultan,",
-    "The Primal Chaos,",
-    "The Blind Formless Chaos That Lies Behind the Stars,",
+    "The Daemon Sultan",
+    "The Primal Chaos",
+    "The Blind Formless Chaos That Lies Behind the Stars",
     "Blind Idiot God"
   ],
   "url": "https://pathfinderwiki.com/wiki/Azathoth",

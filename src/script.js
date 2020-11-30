@@ -6,5 +6,16 @@ const theme = require('norska-theme-search-infinite/src/script.js');
   await theme.init({
     placeholder: 'Search for any name, domain or title',
     hitName: 'god',
+    transforms: {
+      shortDescription(item) {
+        return item._snippetResult.description.value;
+      },
+      titles(item) {
+        return item.titles.join(', ');
+      },
+      domains(item) {
+        return item.domains.join(', ');
+      },
+    },
   });
 })();

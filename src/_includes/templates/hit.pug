@@ -1,6 +1,24 @@
-.pt-1.px-1.pb-01
-  a.text-2.bold.block(href="{{url}}" target="_blank") {{{title}}} {{{name}}}
-  |{{#picture}}
-  a(href="{{url}}" target="_blank")
-    img.w-100p(src="{{picture}}")
-  |{{/picture}}
+a.block.pt-1.px-1.pb-01(href="{{url}}" target="_blank")
+  .flex.items-center
+    .flex-auto
+      .inline.bold.text-3 {{{name}}}
+      |{{#pronunciation}}
+      .inline.italic.pl-01 ({{pronunciation}})
+      |{{/pronunciation}}
+
+  .flex
+    .flex-auto.p-1 {{{shortDescription}}}
+    |{{#picture}}
+    .block.flex-none.w-25p.mt-2
+      img.h-100p.max-h-12(src="{{picture}}" alt="{{symbol}}")
+    |{{/picture}}
+  
+  div
+    .bold.inline-block.pr-01 Alignment:
+    .italic.inline {{{alignment}}}
+  div
+    .bold.inline-block.pr-01 Also known as:
+    .italic.inline {{{titles}}}
+  div
+    .bold.inline-block.pr-01 Domains:
+    .italic.inline {{{domains}}}
