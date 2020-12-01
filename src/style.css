@@ -1,5 +1,21 @@
 @import 'theme:style.css';
 
+html {
+  /* We don't have any additional filter, so we hide the icon */
+  .__filters {
+    @apply hidden;
+  }
+  .bg-theme {
+    @apply bg-indigo-8;
+  }
+  .js-masonryBrick:hover {
+    @apply bg-purple-1;
+  }
+  .ais-highlight {
+    @apply indigo;
+  }
+}
+
 @screen md {
   body {
     .js-masonryWall {
