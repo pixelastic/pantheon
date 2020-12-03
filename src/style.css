@@ -15,11 +15,3 @@ html {
     @apply indigo;
   }
 }
-
-@screen md {
-  body {
-    .js-masonryWall {
-      @apply grid-cols-w-20;
-    }
-  }
-}
