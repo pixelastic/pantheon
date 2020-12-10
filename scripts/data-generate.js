@@ -1,6 +1,6 @@
 const path = require('path');
 const helper = require('../lib/main.js');
-const pMap = require('golgoth/lib/pMap');
+const pMap = require('golgoth/pMap');
 const writeJson = require('firost/writeJson');
 
 (async () => {
