@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "norska": "1.13.0",
+    "norska": "1.14.0",
     "norska-theme-search-infinite": "0.3.0"
   },
   "devDependencies": {
