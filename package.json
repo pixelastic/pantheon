@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "norska": "1.16.0",
-    "norska-theme-search-infinite": "0.3.0"
+    "norska": "2.3.0",
+    "norska-theme-search-infinite": "1.0.0"
   },
   "devDependencies": {
     "aberlaas": "1.18.1",
     "algolia-indexing": "1.2.0",
-    "aoinan": "1.1.0",
+    "aoinan": "2.0.0",
     "firost": "2.13.0",
     "golgoth": "2.0.0"
   },
