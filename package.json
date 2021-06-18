@@ -4,7 +4,7 @@
     "norska-theme-search-infinite": "1.0.0"
   },
   "devDependencies": {
-    "aberlaas": "1.23.1",
+    "aberlaas": "1.24.0",
     "algolia-indexing": "1.2.0",
     "aoinan": "2.1.0",
     "firost": "2.14.0",
