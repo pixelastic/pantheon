@@ -1,4 +1,4 @@
-const theme = require('norska-theme-search-infinite');
+const theme = require('norska-theme-search');
 module.exports = {
   theme,
 };

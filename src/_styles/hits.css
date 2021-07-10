@@ -1,0 +1,33 @@
+/**
+ * Hits
+ **/
+.ais-Hits-list {
+  @apply flex pb-1;
+}
+.ais-Hits-item {
+  @apply flex-none flex flex-col flex-no-wrap w-100p;
+}
+@screen xl {
+  .ais-Hits-item {
+    @apply w-50p;
+  }
+}
+
+/* Empty results */
+#hits > div:first-child {
+  @apply flex-auto flex flex-col flex-no-wrap;
+}
+.ais-Hits--empty {
+  @apply flex-auto flex flex-col flex-no-wrap;
+}
+
+/* Highlight */
+.__title .ais-highlight {
+  @apply yellow-5 bg-transparent underline;
+}
+.__description .ais-highlight {
+  @apply bg-red bg-opacity-10p red-8 bold;
+}
+.__authors .ais-highlight {
+  @apply bg-transparent red-8 bold underline;
+}

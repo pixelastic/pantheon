@@ -3,14 +3,14 @@ const readJson = require('firost/readJson');
 const glob = require('firost/glob');
 const consoleError = require('firost/consoleError');
 const pMap = require('golgoth/pMap');
-const config = require('../src/_data/config.js');
+const config = require('../src/_scripts/config.js');
 const _ = require('golgoth/lodash');
 
 (async function () {
   const credentials = {
-    appId: config.algolia.appId,
+    appId: config.credentials.appId,
     apiKey: process.env.ALGOLIA_API_KEY,
-    indexName: config.algolia.indexName,
+    indexName: config.credentials.indexName,
   };
   const settings = {
     searchableAttributes: [
@@ -25,7 +25,7 @@ const _ = require('golgoth/lodash');
       'asc(name)',
     ],
     attributesForFaceting: ['alignment', 'domains'],
-    attributesToSnippet: ['description:45'],
+    attributesToSnippet: ['description:75'],
   };
 
   indexing.verbose();
