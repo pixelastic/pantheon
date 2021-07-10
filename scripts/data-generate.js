@@ -9,7 +9,7 @@ const { writeJson, spinner } = require('firost');
   const gods = await helper.allNames();
   const progress = spinner(gods.length);
   await pMap(
-    [gods[0]],
+    gods,
     async (godName, index) => {
       try {
         const record = await helper.record(godName);
