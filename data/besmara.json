@@ -1,6 +1,6 @@
 {
   "alignment": "Chaotic Neutral",
-  "description": "\n\nBesmara, making raids on places such as Hell, Elysium, Axis, and Heaven. Pirates don't tend to be a very religious lot, and generally only call on her on their death bed or if in extreme danger. Those few priests who do devote themselves to her generally also are captains of their own raiding ships and have a fierce reputation. Her symbol is the jolly roger, a universal emblem of piracy, normally a white skull and crossbones on a black field.",
+  "description": "Besmara, making raids on places such as Hell, Elysium, Axis, and Heaven. Pirates don't tend to be a very religious lot, and generally only call on her on their death bed or if in extreme danger. Those few priests who do devote themselves to her generally also are captains of their own raiding ships and have a fierce reputation. Her symbol is the jolly roger, a universal emblem of piracy, normally a white skull and crossbones on a black field.",
   "domains": ["Chaos", "Trickery", "War", "Water", "Weather"],
   "favoredWeapon": "Rapier",
   "name": "Besmara",

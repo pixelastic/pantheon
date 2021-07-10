@@ -11,7 +11,17 @@ const writeJson = require('firost/writeJson');
     async (godName, index) => {
       try {
         const record = await helper.record(godName);
-        const { slug } = record;
+        const { slug, picture } = record;
+
+        // Download the picture in ./pictures, with the right extension
+        await helper.download(picture);
+        // const extname = path.extname(picture)
+        // console.info({ extname })
+        // Also, remove the background
+        // Get image information
+        // await
+        // const picturePath = path.resolve('./src/pictures/', `${slug}
+
         const filepath = path.resolve(`./data/${slug}.json`);
         await writeJson(record, filepath);
       } catch (err) {

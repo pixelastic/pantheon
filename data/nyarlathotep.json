@@ -7,7 +7,7 @@
     "Knowledge",
     "Magic Trickery BP Air FS Darkness HD"
   ],
-  "favoredWeapon": "Quarterstaff BP Punching dagger FS  Dagger HD",
+  "favoredWeapon": "QuarterstaffBP Punching daggerFS DaggerHD",
   "name": "Nyarlathotep",
   "picture": null,
   "ranking": {
@@ -15,12 +15,12 @@
     "isMajor": false
   },
   "slug": "nyarlathotep",
-  "symbol": "Inverted ankh BP Featureless face FS  Circle with winglike arms HD",
+  "symbol": "Inverted ankhBP Featureless faceFS Circle with winglike armsHD",
   "titles": [
     "The Crawling Chaos",
-    "The Faceless Sphinx FS ",
-    "The Haunter of the Dark HD ",
-    "The Black Pharaoh BP"
+    "The Faceless SphinxFS",
+    "The Haunter of the DarkHD",
+    "The Black PharaohBP"
   ],
   "url": "https://pathfinderwiki.com/wiki/Nyarlathotep",
   "worshipers": ["Old Cults"]

@@ -1,6 +1,6 @@
 {
   "alignment": "Neutral Good",
-  "description": "Qi Zhong is the Tian Xia deity of magic and healing. Originally worshiped by the Tian-Shu, he is now popular in Jinin, Quain, Tianjing, Xidao, and Zi Ha. His holy symbol is a wagon wheel with spokes made of the five elements: water, earth, metal, fire, and wood.\n\nOne sect of Qi Zhong worshipers has combined his divine magic with alchemy, though this is not a widely accepted form of his worship. Their practices can be found in the five volume scroll known as the Five Spoked Cycle. Qi Zhong is said to have taught the secrets of Pei Zin herbalism with Irori prior to the Master of Masters' ascension.",
+  "description": "Qi Zhong is the Tian Xia deity of magic and healing. Originally worshiped by the Tian-Shu, he is now popular in Jinin, Quain, Tianjing, Xidao, and Zi Ha. His holy symbol is a wagon wheel with spokes made of the five elements: water, earth, metal, fire, and wood.",
   "domains": ["Good", "Healing", "Knowledge", "Magic", "Protection"],
   "favoredWeapon": "Heavy mace",
   "name": "Qi Zhong",
