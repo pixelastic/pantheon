@@ -1,5 +1,6 @@
 const path = require('path');
 const helper = require('../lib/main.js');
+const picture = require('../lib/picture.js');
 const pMap = require('golgoth/pMap');
 const { writeJson, spinner } = require('firost');
 
@@ -8,14 +9,15 @@ const { writeJson, spinner } = require('firost');
   const gods = await helper.allNames();
   const progress = spinner(gods.length);
   await pMap(
-    gods,
+    [gods[0]],
     async (godName, index) => {
       try {
         const record = await helper.record(godName);
         const { slug, name } = record;
 
         // Download the picture in ./pictures, with the right extension
-        await helper.download(record);
+        const picturePath = await picture.download(record);
+        await picture.removeBackground(picturePath);
         // const extname = path.extname(picture)
         // console.info({ extname })
         // Also, remove the background
@@ -27,7 +29,7 @@ const { writeJson, spinner } = require('firost');
         await writeJson(record, filepath);
         progress.tick(name);
       } catch (err) {
-        progress.error();
+        progress.failure();
         console.info(err);
         console.info({ index, godName });
         process.exit(0);
