@@ -1,6 +1,5 @@
 const path = require('path');
 const helper = require('../lib/main.js');
-const picture = require('../lib/picture.js');
 const pMap = require('golgoth/pMap');
 const { writeJson, spinner } = require('firost');
 
@@ -15,15 +14,8 @@ const { writeJson, spinner } = require('firost');
         const record = await helper.record(godName);
         const { slug, name } = record;
 
-        // Download the picture in ./pictures, with the right extension
-        const picturePath = await picture.download(record);
-        await picture.removeBackground(picturePath);
-        // const extname = path.extname(picture)
-        // console.info({ extname })
-        // Also, remove the background
-        // Get image information
-        // await
-        // const picturePath = path.resolve('./src/pictures/', `${slug}
+        // If there is an image in ./src/pictures/{slug}.png
+        // extract data from imoen
 
         const filepath = path.resolve(`./data/${slug}.json`);
         await writeJson(record, filepath);
