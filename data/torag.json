@@ -5,6 +5,7 @@
   "favoredWeapon": "Warhammer",
   "name": "Torag",
   "picture": {
+    "hash": "f381dc82eb",
     "height": 382,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAACUElEQVQokU2PX0hTcRTHv5dA6qFHid4KgqB66j3qIWWVSfgnUPszdboaNv+suttgd3fT/fPPnGu6bt47t7Vddc5/M5tigxaSVBKlxMoRodGfh8AeCgq8+8WdWB04h8/hfDiHg+TCY0wl5qmxsQQePHzUFhtPbEwm5tZnkyn1xOQspmcXqPlUGuCHojDcMlPKi7Wwmh1KPjRKhHBMYk22yqoL1dDfNlOhSAyQi/JyAwghiIhT0LUaM20thqfhaBypxRdUiaIMkeE4IARFVJRUQA5Z1jRq3zeptcsyy1l2tgzB+6OAwWBFqeI/saFpo0ndvLojlhaXo7ezPz+H4lTpNgCoV7Z8baxrXpMlOYpPnv87Q3Wlagd3qep13xrqdR92xDOny/+JyksaFO4ulHFPrbJ1U1XX9gkAlReLKrelIwodik6cyzMF7K2pvvG9pkrzWW7lrccOHMf+o1eAVHqJcvXwBXx4GAzDHtJcuyldV+t+ujpd+2IzSbi9oYL04jMKz5dfossTzX/oCyX0JpODMIwz5wvPaOUrHt8IXq+sAiuZd4c5Ic74/OIbQZwmqtqWXN1VLQmICeLtj7wSQpOGzFr2IDghts7aA4SxcqTb7ZcYxpEzs85cV49fMlk4YnEECB8cf4sBIf7F649uOXv43ybWvUXTrGQ0WiXG0rvlcvO/PAMRiRua+Ag/P/KDGxQJF4gSWt9BXJ1e4nB6iN5oJ/cCIrk7KBK/MLoJm703YrN70u3tXXM0bVm60x/M9vkCWZpmF9s7upM2u+eJw9kn/AG2OS8GPbDClQAAAABJRU5ErkJggg==",
     "width": 240
