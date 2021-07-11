@@ -5,9 +5,9 @@
   "favoredWeapon": "Scimitar",
   "name": "Sarenrae",
   "picture": {
-    "hash": "c08dad883b",
+    "hash": "ce317b1334",
     "height": 343,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAQCAYAAADESFVDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACWUlEQVQokUXRWUgTABwH4J+zjCiUhKiHjLKYBmlp2pabE9ZyWmgPlZKWhjnFq8JjbeDVnJlazqN0zGO6qbMxnTqdB8yZK8whhEI5zFXiSUk9BZbVP6qH3r+3D0NZKZBHCxnZgnCkc1hcaTjvYiqHzcrgcZEVxnVNYp8BRKFhrnFBHFxjhcYqRTEOR0NGRFV81IrQJ9BfyAzAdVYIA6x9R+HncYhZEneJ5k21FgCwN0rWciP4q4DXroO7mUAN/wQyOCyDtSaV6JMxm1Y1oPn6VoPkMiWz2LKUU4GA0IflVx3P/75uTqe1cQl3cyYHGxN5onf6JLoXzVvy2hPsjihvf1733fO01BP77YP5hurXx4a6he4rbYuGGFKJBJ+PbWPuB9fT++TT3Eh63XaWlu1FRF+ttGDJpDfqc6S8KfgC7PAAEUHK99PZqrk0b5dtrsxothwvxJsjxcGUFuQrM6YJAKc2KmC0o3zArC6gl+YaejvV8tPWc59Mjfk/xvWVze+buEfwrDlnr7W3oayuXhWgzI01D7VIqDL5wmPD8GDIWJ+ycLKA7YblHhEWZvsxaFBipLfl6nhHAWnrFcf17SosOkyYE7sD5BBj9rnebcM5gUmzRuyc7qd+ZUmkrfMh7CPq7VQBQFuVj1ej7Yw5mwFTfU3RzulhMqtKfYdUpbBoqxjDysI/CYCl/RHD2qnAWKfitH2gaV0jy/TUPciGsTbf5Z8AoCm5w2iV3Ya6+BbPWFe0ZWooOtD3pBAGhfQ/6pInunTJE6CTJxzuKk0c0FVId+rK86Ary/wLfgPcmBEiFu0SfQAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAQCAYAAADESFVDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACWElEQVQokUXRS0gTABwH4J+zBAksiiDIQ1asBBup6WS6aZrP0BCRUSKa6MJaFrrUmc/NFNLpLHWO+VrT5tx0NufWYi61hU0QK0p8VlqiZNQpsqT+UR26f7cPtvwMVCfHMESxUbjMDQkriQ8/d4nHYQvDubgawXXPCuEAAi7P/UIQB+khoXyFIHXulUoYL0tLXItjBrDimAFIZ3MYCN7PhJ+XD1OalkwLlsZRAHB1FK2L4k6vAYd2HfQ8BjRGsXAllG0YaxIQbQ7m04YavxZauvXiFMpmsyWCwEAglslmydMif2xYc2nDIQ7beiHCp/EbOW/6s6gqiffee3ewFxIPs7iG4rO0Osj/vmLJVNHH1rtLA6nqFT2flDnRn313MA+At+/oyT5RAr1Wn6EPUxVEX8do2S6k2a4YUmRHfwE89oCIUBJ5QvtEHkaLLsm39Rn19ryzcMtWFUS5p3wlptwIYE6T4v+op27E2lVGUyNNtDzZ+dM5UENmVen2WL+sY74j8gjGO0X7HxvbahWtbf7KAr7F1i4mWXZCs9Fq5jiGlOXOylAPrBoFWHxuhlXfCvuQ6vx4byn1tMj89Bol3s1ZMCv2Ami+GC+d/R6bbycwae0uXJo2kalNGj+hrYfL1rWT6gFoGsoxY9cwZp8a8GxYlbQ0/ZAs7dLjlvZqjPbKGCZVzZ8EwN7TwHBo5XBo5cEuc/u6ukq4935tAQbvlLr9EwDuSa8z1JJr6K7M4xmbK7aHFRXeD1rKYGgU/0c66UU3nTQDOmmGj+5W5oi27qZn3+0i9NXm/QW/ASHZEWfGmI+WAAAAAElFTkSuQmCC",
     "width": 186
   },
   "pronunciation": "SAER-en-ray ",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
   "slug": "sarenrae",
   "symbol": "Angelic ankh",
   "titles": [

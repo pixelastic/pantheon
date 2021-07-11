@@ -6,9 +6,10 @@
   "name": "Amaznen",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "amaznen",
   "symbol": "Gears that resemble an eye",
   "titles": ["The Father of Invention"],

@@ -6,9 +6,10 @@
   "name": "Acavna",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "acavna",
   "symbol": "Crossed spears over a full moon",
   "titles": ["The Shield"],

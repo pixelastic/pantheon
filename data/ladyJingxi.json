@@ -6,9 +6,10 @@
   "name": "Lady Jingxi",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ladyJingxi",
   "titles": ["The Poet of Dawn and Dusk"],
   "url": "https://pathfinderwiki.com/wiki/Lady_Jingxi",

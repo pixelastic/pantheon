@@ -7,9 +7,9 @@
   "favoredWeapon": "Crossbow",
   "name": "Abadar",
   "picture": {
-    "hash": "ce053f4758",
+    "hash": "9fb614b2c4",
     "height": 342,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQokQEQAu/9ALGlfQCTkXwir6OHrLike/O5o3btspVsmIRYLhCliFwAAKCEViTBq33quqmH/7uje/+2n3f/tZ54/7qjd86Dc1wNALigca65oHr/0LOA+NG2a/7Dq2z+qZNy96yYef+2o4B+AK2WbPKokF7/yqtj/rGqWv6gk0/+p41U/ZuIX/+xnHnXALGacOyfk2D/qp9m/rGhev6ll3f+pZtf/Z2TW/+ym3LdAK+Xb6vDqX7/sp6A+MO1n//Sw6r/ybOO+MSpd/+ylmZ/AI9xSyS8m2fqu6B0/7ijefy6pXz7vqN2/7aZZc95YD0NAKWUbACJf2wenodku7eYZf+niFr/kXtbpFV4lwyShmoAAJR4WAWCZU0AbEo4QYJjTP+EZU/M////AFZJSgCLclcDAIdqUAFNNjYAbFZJGJR1VfOvkWm9//+OAMyqcQKrkGoAAINpSwFeT0cARj5EDpFxTO2nhVi7//1CAP//MgCMc1gAAIBmSAFTPisANSQZD5R4V/OykmeauptuALeYbASYflsAAIhtTAFDJQUAGwAAD6iObu+5oYGxAAAABf///wCcgFkAAJV4UgFmTS4AUjsgEKaIY+S2lWfymIFhYY10UwCjiGACAJF6XQF7bWAAb2ZgFJl8V/Kmg1XqYFBNHV1OTACEa1IBAIdzYAAAAEcAAAAAAIxyWLOafFq+fmdPLIBoTQCNc1YBwXX/0yYGNYQAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQokQEQAu/9ALWjfQCXjXoisaKFrLmje/O6oXbtsJVtmIBZMxCjhl4AAKCCWSTCqn7quqmG/7yjev+2nnf/tZ54/7uid86Ca1oNALqfca65oXr/z7SB+NK1a/7Eqmz+qpJy966YeP+4on99AK6VbfKpkF7/x6pl/rGoXf6iklD+qIxW/Z2HXv+ynHnYALKaceygkl//qZ9n/rChev6ml3b+pZpg/Z6SXP+zm3TfAK6Xb6vDqn7/s55/+MS2nf/SxKf/ybSN98SpeP+xlWd/AIxuTCS7nWjquqF0/7mjefy7pnz7vqV2/7aZZ89yV0QNAKmTbACOf2kfnodku7aZZf+niVr/lHtZpG54hgyXhGcAAJR5WAWBZk0Aakw7QYBkSv+DaE3M////AFxLRgCMc1YDAIZsUwFNODoAbVdMGJN3VvOuk2m9//+XAM6vcQKmjG4AAIRpTQFhT0oASz5GD5BxTO2lhVm7//xIAP//PACNdVoAAIFmSgFWOzAAOR8fD5R4VvOwk2aauZxuALaaawSZfl0AAIdrTQFEHwkAHgAAD6aPbe+3o3+xAAAABf///wCcf1sAAJN3UwFmSDIAUjQkEKWJY+S1l2fymYBiYY9zVQCkiGICAJN6XgF+bmMAc2VkFJp8V/OmhFXqYU9NHl5MTACEalEBAIp0XgACBUgAAAAAAI1zV7Saflm+f2dRLIFnTgCOdFYBC7IAY6ZvkcoAAAAASUVORK5CYII=",
     "width": 166
   },
   "pronunciation": "AH-bah-dar",
@@ -17,6 +17,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Abadar_holy_symbol.jpg",
   "slug": "abadar",
   "symbol": "Golden key",
   "titles": [

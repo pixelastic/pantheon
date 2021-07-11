@@ -6,9 +6,10 @@
   "name": "Mazludeh",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "mazludeh",
   "symbol": "Seven eggs encircled by an ouroboros",
   "titles": ["Mother of Hearth and Wall"],

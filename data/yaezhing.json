@@ -5,15 +5,16 @@
   "favoredWeapon": "Shuriken",
   "name": "Yaezhing",
   "picture": {
-    "hash": "667b1f210a",
+    "hash": "7231544de7",
     "height": 500,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/0lEQVQokU2Sa0jTYRTGz6yEMidFiLWkog9FCg4rK7ua0nItZ95W6nTmmtO5eculplCYmWmaFmTYKLULLnDR1bT6kEWEqJVCRVelnEZu0+nWNvWJ/7TLgZfzHvg95xwODwEgAC5MJiKWbdy4HY5xWUvL3eIpmznNbjGFvnrdOX/CYvrH/fkAWAIgD/axxMGBvg2ZhfmPdXd0ewDwAahhM/vPcCz6OdhPo4ZBb93t5o7SqoqYrt4uSi88GpyQpcQ6XsiRnredVHi6VNpwo6HbPmbYNGYcIuLFHWAmqcvPVyv2p6UgJCaitvtN7xJxhgKrAwN2nqg5WyVSyLBVKEhlNvny+b0XWc3DO+AYFxuNeiooK9HFpB5CeFJCqShF2i9KkVbFZ6bbgyKFTTOrbbCaDQcJsEttZgM3TqVc/wRwzzt5Iis2VYZ4hfxTRHIiQqP2NZ5qa/WUFR8PabjeuBqw55L25o0y5bGiZ/JkCTIEfMRmKL5Ks1T9fmsDFiUWqB+H7+UbFDu2QSKXIiw58V391SsaspmHleWaiwm7N2+sTiYKEmarsqLlUkQLBW2xEeEIkYjb493cggQrlhUfSJOFOawj+TRlMwsA7GqrOUO1kVH8/C2B34Xi2EcRglCDyNfnXCqfNxAliX9KB5MWAuDYLSYlDX18ywbsRfUV5f6nOByo57vpxRoNp8jLa1hMFFDixxUXLPZCjKvrBQDKke9ffJmLEID12sryl+mz51ydR7Q8k8fbWsJmI53o9GTYHhIRbalTKp53drxQtD6443QEixHe12nDAOQC8LlcWbEmb+nSgZyVK8UAlgHIARA9M4Cx27SVbl2rp9GvHzgW45AcgKquoqxuUN9XgEmryqTv4/6BHzZriS613HOqW5ubZgEO5prOWl1d5Tnd0EG2cSMZf3xzyT+cTfd0WqIJ6whN/BqdftYRVl9v96xNRCTx9g6OW7XKnRH2tD9xmnpywurk/gZTTFpMpGKzXdLmzqNCT09NxoIFXJWHB6k8PFj/w78BgUPIPvbPIP4AAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAADA0lEQVQokU2SCUjTYRjG3yl24UZERbqkgorooFGJVHZYmTm1mc0zN6euTfd3m7XMlgaCaHhjB5Ulkl2k4KCMNDuIiojMzIKic4p5RJtuc879XT3xNzte+Hi/D37P97y8PASAAHhxnYh4bufQFow7VS0tzYU/3Q4NOzoc3vmq3dczOvyP+3MB4A/gCNgRxWBfd1B2vvGe6WZTBAAxgFy4HWsnOR59H+ghu2UgwHSj6XlxVVlc55sO0uYbt8sPaLFuV2juq7cdlF9SrKy/Wt/pHrGuHxkaJApLjOecDpedqmYSNCrsiN979nVXl79Mz2DZxqDtRSeqquIZFTZJIjO5Sb58fudHLodlK8adMou1n/JKikxxmUrsSZUfj1crexLUysrk7Cw2RBrdMDla0JjDmkYAq2QdVtE+nTbwAcA3FhdmJ2WqkMyoP8WkpUAs3XO5/M7tuarCgh2XrtQvA9gcami8VqItOPY4I10BfZQYSXrGrDyg6xGtC5ydYjx8LzpKbGFCNkORoYQkPeXdxUt1teR2WLTltedSwoPXV+8n2iYx6A/GqpWI3R3RlhQTjdBU2SM53zckatGCwkSNarfHZTPST7cjEsDOthMVdFoqFRuDN/RGy5LuxkSGWxJWrTyZKQ7rkyqSH5JCPguAkB0d1tLgx7cCgD1WV1G65vh8IXL4vv37LtQI8/3mWeREQUWrV8vy/OchbuqUMwC09q9fVnIbIQCB1yvLnml8fC7PIFqo3xW2qUgggJao1COJpDii4Bpd1pMX7U+Z1ts3JxLB44S3TI0SADkAVtRVlC3PDQjoO7RksQzAAgAGALGTBlzcfkfJdKWe7OYPwtGhwQwAuvMVpecH+ruP4odLZ+vrFv2BW5oaiGpab02oW5savIFxbpsTb0N15dzfH7LEOodo+FuvV26OgZpNjUQel41+jNnJwx2XjWd+89JbRETJQuE26dIlfE7Y9ei+13tzD404rBP832JdNsKYnRg+30s9fRrlzZlTmzVzpogRCIgRCHjj/8G/AGyEx5F+vqo8AAAAAElFTkSuQmCC",
     "width": 408
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yaezhing_holy_symbol.jpg",
   "slug": "yaezhing",
   "titles": ["Minister of Blood"],
   "url": "https://pathfinderwiki.com/wiki/Yaezhing",

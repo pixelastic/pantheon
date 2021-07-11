@@ -5,9 +5,10 @@
   "name": "Azhia",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "azhia",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Azhia",

@@ -5,9 +5,10 @@
   "name": "Likha",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "likha",
   "titles": ["The Teller"],
   "url": "https://pathfinderwiki.com/wiki/Likha",

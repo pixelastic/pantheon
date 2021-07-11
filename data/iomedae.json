@@ -5,9 +5,9 @@
   "favoredWeapon": "Longsword",
   "name": "Iomedae",
   "picture": {
-    "hash": "1ec906d3f7",
+    "hash": "63439adee4",
     "height": 336,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACjklEQVQokWWQW0hTARjHv5NImlqghImJZg4sbdroQakMJccedC4oWalEKBmCsS5qjszmJT27uDXnztnZlru56znb2eWcMzenIhEGgi9lID5VEBRR7z0YGyGEf/g9fPCD/8cf3NMC8MxcApWiFzxYP9DOZ2cZ5+inqFteSRL9kA5jkgCDSwBck3XgQxsK9jhd1hJRnjfaeKpSzTu5ZxBV8Ta363M/xKPZccvNPAbvAOhpyALby8sFpJLfFUQr+hbuF6Oq6uLd8KuLc1vhjntrdonUPdOam6lI2bogpOTB6qJYSKHndtCewvnHgvL35icVhoCyfjugFl1NmpsgqBMDcKYbp1es4tadxC2Fda7783OZlFwiZL/HHt2xYVOS3dXFlvHIvFBI69vLgMUlhet2Se07X7uMVPHj+ulupc0yuW9fGFD40QsMrWscZDFRLa1vK4K4VQqbDiGsmLsrnUNFSe3D6o9GTPsTHxLsEAP50ZBeXEqhfGCJ2wALg1VI+nfvRF3bVOexvlmZSBNhfL+mHjTrxsXQSzwtEXETACG0BoGQphlI5bUcj06aBwCIw65vTqRCf7we7Er6nhu+nk+M1By1yPnwT26CnP19wPUKsFg0vHiC/OH3W8ttJnVmMWLkPFjkNQC0thVIVQv4HLNHqLAXXC5jVXw58J2mnWcSaxz4nbMIPlwPhFwAEMW6MjCsD2E5P0SiSxUbb7lviWSoLLUageRKCCENdyHNQbh4AOGWAxBjvWXrG8zXZCpcmpFT4cwA/4UK2hGKsgNJ2krosOsLywaKY4wPYjHfYdntNoHTaUxzwuMxb1FBx3GStIPf/+aQC4bXk6DTvACteiwbM8y0Wc3abKtZC7gRPZD+Avt3Hf8DRG+8AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAClklEQVQokWWQW0hTARjHv2NIiZdAhRITL2VaKC6UCCnR0umDzRmFliIFQkiKNrxQrsuclkd3aZtnl6NnbfNsZ2c729ncztnVpVYPhVAvGthbBRER9d7DYnsQwh/8Hz74wf/jD3Z5PVCz9aCW3QNaPwx+2/RJzvrgU4CUVjCGIUgR1IshiHUBkDIBOJ+dz90NoYfsurpsaVNRxWJV4WdMdLpyK9GW9THszgzh17MDmAig/0IWWB435nrma/u8aOkgdvc4ip4t3PPPCVTbfvGdDYu4l5xtzUpXxMz9EFBUQYIQCz3z1bvoQL5uXFD8jpCULjHouQ/uxY5Lm0QTeNUiAN7QfWKd6BLuhG/ICGXfF+lYD0Pho38eSW5ZDHLx3iui+Qm31Cb0aa6WAKcX529au2veOkVjnkVBRDfXv2BdkSVt+qEZNyrg/OrGkbBBWOPTdBZACL8J78lmiBIDFbbJgtiL0TM7RqP6l36qYdc4nBdgtdeK/QoB8KZeAGykHEn97pip65T35Ayi99uVaxz9Wz50WSMVZwzikqIOTgbAotUIMIpWoNGWI3ZlbzYAIKRN0xKNs39pCruYulWS9hzjRO3h5ak6AEZxBVxoMySTScB1T8FCKCojUeYnTa+UmXFlejHTRA0sT9UCMMoOoBfawLWKZnjXaHDYDafCEeaHz2crjyZ4oK3ziGG8HkyTDQCsti8dnncgPO+EwNpq2dab0PdYzF2ynmAhHmMQFrsNqewTidBIJOqCUMhRsvGa+xaLs8XxhB9i62x6gP9gfTaEZW3gZa1FPj/5lePpY0GOgmCQOig7KSPYSQzs5NJRisK3vV5LnsfzElyulQMuYFoZaFXToFE+zDTp5zrNhCrTTCgBNzzfl/4B7Jwe2QIA3GYAAAAASUVORK5CYII=",
     "width": 240
   },
   "pronunciation": "ahy-OH-meh-day",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
   "slug": "iomedae",
   "symbol": "Sword and sun",
   "titles": ["The Inheritor", "Light of the Sword", "Lady of Valor"],

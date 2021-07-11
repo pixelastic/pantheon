@@ -6,9 +6,10 @@
   "name": "Cihua Couatl",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "cihuaCouatl",
   "symbol": "Two couatls consuming each other's tails with their wings overlapping in the centre",
   "titles": ["The War Children"],

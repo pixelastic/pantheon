@@ -5,9 +5,9 @@
   "favoredWeapon": "Quarterstaff",
   "name": "Nethys",
   "picture": {
-    "hash": "a205cb8cce",
+    "hash": "95424bbd80",
     "height": 281,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQokQEQA+/8ACIlOHouM0npQEZeXUJBXA0eep8AYaC6AOv//wD///8Axb+6DM/Nw16trKblj4+MawAjKDzTMzpQ/0ZNZf9UWnTmYmZ/uo+Nn6Xw6uKi8e7jt+ro3eXa2c7/ubmx/5eWlMkAIic67Dg/Vv9UWnP7ZGmC/3d7k/+kprb/7+7q//j27P/6+Ov/7Ord+8LBuf+TkZHkACElOPtBR1//XGJ4/mtwh/2Qk6r7xsbQ+/Du7Pv18+77+vjq/fTy4/7QzsX/jYmL9gAnKz73S1Jq/11kff5vdY/+kJSr/8bG0P7x7+z++/ry////9P729Of+4eDT/5eTlPEAIiU46UVMY/8/Rl3+O0BZ/2Bkev+en7P/7uzo/9vZ0f+7ubn/09HH/djWzP+KhovhABgbKuwlKj//SExa/kVIUP4YHCz/aGuD/7i2uP9ZVlz/c3F4/pqYmf2dmZz/bGdz4wAcHy7mT1Zo/1ldZv1oa3D+Ki49/0tOY/+XlJn/XVpf/5CNjv6XlJj9vLi2/2plb94ACgsWoURKW/9cY3P7Rkxd/khOYf9pbH7/w8K+/8vJv//Jxrr+5eLP+6+rqf8/O0qWAAIAB1sWGSf/UVhq+2Bod/9OVGf/foKN/9bVzP/h39D/7OvU/9XSxPxlYGn/FhIjTwAMCQ4sDQ8b+zI4Sv9nb33+WWBt/jAzQP96enz/29nH/u/t0v6wrKn/TkpX9RwZJiQALBEKBRASHtkiJjf/SlFg/F9ndf9iZnL+v7+x/v383f/c2cT8jomM/1hSXtH///8AAAsNGQANDhiIGyAu/zo/Tvg4PVH+PD9P/4eGiP/ExL3+0s6/+Hx3ev9FQU18S0dUAAAEAAAACwACChIUH8YmKjn/Ki5B/DM1Sfx/fYL8op6c/ZWRjf9aV12+AAAABgAAAAAADAwVAQgFCwAdBQEGEhIelyAjNP9ydIf/tbKx/4J/ff9ZVV2RAAAAAxgXKAA8OUUBAAwMFgAODBYCAAAAAAsSJQAQDx1NSUlZxnd1esZMSVFJb2xwAAAAAAA7OEQBQD5JAAVynA+sw7h7AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQokQEQA+/8ACQmNnowNEfpQUZbXEVBUQ0Yd6UAaKC9APL//wD///8Axbq0DdHMwl6uqqbkkIuNawAmKTrTNTpP/0hOY/9VW3LmY2Z+u46Mn6Xv6eKi8e7iuOro3eXb2c7/urix/5iUlckAJCc47Do/VP9VW3L7ZGqB/3d7k/+kprb/8O7p//j27P/5+Ov/6+re+8PBuP+UkJHkACMmN/tCSF3/XGJ4/mtxhv2Rk6n7xsfO+/Hv6vv19O77+fjr/fPy5P7QzsX/jYiK9wAoLD33TFJp/15lfP5wdo3+kZSp/8bHzv7y8Ov++/rz////9P719Of+4eDU/5eTk/EAIyY36kZMYv9ARl3+O0FX/19kev+eoLL/7u3n/9vZ0P+8urf/09HI/djWy/+Kh4nhABkbKuwmKz7/SEta/kVHUv4YHC3/aG2B/7m3tv9YVl7/c3F3/puZl/2em5n/bWlw4wAdHy7nT1Vp/1lbZ/1oaHH+KS0+/0tQYf+XlZj/XFli/4+Njv6YlZX9vLm0/2lnbd8ACwwXoURJXP9cYXT7Rkte/kdNYv9obH7/xMK9/8zJvv/Ixrz+4+HR+6+sqP8/PUmXAAQCCVwWGSf/UFdr+2FneP9OVGj/fYCO/9bUzP/h39D/7OrU/9TSxfxjYmn/FBQlUAAOCxIsDQ8b+zI3S/9mbX/+WV5v/i8yQf96eX3/29nH/u/t1P6wran/TUtW9RkZKSQAMxgYBRASH9kiJjf/Sk9h/GBmdv9iZHP+vr2z/vz63//b2cb8jYmM/1dUXtD///8AAAsNGgAODhqIGx8u/zk9UPg4PVD+PD9P/4aFiP/Fw7z+0M7C+Hp3fP9FQk58SkhUAAAEAAIACgEGChIUIMYlKTr/Ki5B/DI2SPx+fYL8oZ6e/ZOQkf9ZVl++AAAABgAAAAAADQwXAQgFDgAfCwsGEhMflx8jNP9xdYj/tLOx/4F+gP9YVF+QAAAAAxkWJgA7OEUBAAwMGAAODRgCAQAAAAoSJAAQEB5OSEpZxndzecVMR1JJbmxyAAAAAAA7N0QBQD1JAC5LnFHMZL1OAAAAAElFTkSuQmCC",
     "width": 215
   },
   "pronunciation": "NETH-uhs",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nethys_holy_symbol.jpg",
   "slug": "nethys",
   "symbol": "Two-toned mask",
   "titles": ["The All-Seeing Eye"],

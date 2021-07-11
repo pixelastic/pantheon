@@ -5,15 +5,16 @@
   "favoredWeapon": "Javelin",
   "name": "Camazotz",
   "picture": {
-    "hash": "f543f385a5",
+    "hash": "f6caa8775e",
     "height": 1007,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACyklEQVQokRXIeUhTcRwA8G9Kkenc9nY6zbXr9d7be3vb3jZ3uFMzz5qWV4ZYQQdpQZdBB/pHCXb8UQkSpSB0QCFkRB6VRFB/dEB/VAhJln9U2EFE57bfN/r8+YFPb+fh49x899iFS1jF+P9yoMDybH0/wB3w7DoDdGzLIp4LZ1nq9wG8n30Dcy9nmgd7+jGQb075srUYyNN/DucqVjjM7k7ofwz8ygAw3jVZ0JxYA9WuUs7H+AlndKd5LozOIuae0yhytGs1YR2Jcw6TSNHB9QCc2QMsE+qghQSy9ugf0ezCqMpyyaOjW1g2hIxYjqwQ/yZYpD6Q5FpWNLs/2IU4Mlwkk6AMmFykTlctVr3wGyz/77fAhFBggsPgLlxZx9mjyNP+lECXYLCQJWFQktASFRGZAGHE8rRjOY+STNMNTj6mtQmJr4JFQrdJzPgLbGhbIif2PA3xWiVitccw4qvIdHUelSBRLADHRYYFphTtfCztN9DEry4iZUotcfIRYuDKM7trGvDd6FAX7K1qgJGo93AdzaPV5k9HC20kqaJITVExYexxFK2edK9bwvtbk5MwWcMWjqzyfjntLMDIsvxMmUqPq9VarFao0K0zkEGOSl13FeNIomQQJtZ61x33+b4PsQW4X6ckUSVFKrQqrJMrsCZPRq5JmtRlZwGeDziG4WkDJwwKth99Bj12FumIK0dG4jIZ1lNy7NAryXhMkx4r1ePFiO8ATDbGNl1xmnCUl6cPGfXElkMRT04uCWrVJGlQkxNGKjNWFcAnXclpuNvmvXmzMYEDAQlPG5Rks1JJglR+xiNXYFmeBk/RptRERxIfNAVvwHTvwYqplrLX47s3LdyqdeNJUYeVlApbTaZfAyWOX1PbWvH2xnp8drTjLNzY2Q6vKmHpwpFa48yeeNPVZuf2apv12AY70zXf3RJ63rNj9mFb+Oej9tDAP75wEA4T0zVFAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACxklEQVQokQXBaWxLARwA8L9JGOpp+572tTVd17Wvr+/1eO3rvZ6rLVtaWx3DHCkRQhyxxJGwhA+Ia76wTAji+uD4gMU1BPFpEd/miyDOSFwRcbb9//1+8OXtO/j8+s2W6yfOUacr/E8ChnIT+f0AdcBtOgDWWSvHecVkXXN3H8DnFy/h/diznmM791GMaayEx3MU0/Bf01NZm88WXA+Hn4DXGQMhNLsOFmeLMNufcEeECLqtSlUWW8g/Q7wfblIlwd+Obk/uiGr16Z2xeQCiLQiiM152ylkSpdRfn02hpNFxPmQWFoquBAnePIly9runKbgXVMYgepsCHyVPllzuVC2nN1NXHVvtmMiNRU12conJP7IrTh4hdgoCJmdRlNIkO6MV2RmhuFnEFOgwMYFFrxBFwZuvehpkCmq4raBIaYNDzn6TmwKkNPpqUZODHBOmoazhMGQPoN2doXS4DfvWblch0+gBSUyd8rhayC1nKlGzA6NsA7bqjOiXkmh2t9Y2Fkr07srxDbC5cw6czaj9RadE9uZoNW1xYLdOjwXLTHRJGfLZ1equoEKPVnWNwEhBtJzNq18GfDylJjO1VpandtaAHdM4DBgtOORmK5eVBjqTDw/BjVJi/p5w6MdJiafNPItp7XRs4zgsMFrs1DB4KWCoXPDzdCwmn4bROX7vkM/+c6/FSOssPCqTGMxqGCzpdFg26vFWxlC91sLT8WxoK9zpSS2/oFjpiqyt7rCZao56Par1UzDOGbBk4moHZ+pr1zoiNLqh+wHc6w0PX+/J0tFYAAfMOlyh12Fcq62qjI7yGo4OOWz/bpe76GFP7Co82LWt/e6i3PObG8ufhgtBGpB56tCy1Nto+z0Y8f4aWb2Qbiwp0Wh/eRCG1y6DsTao/9BftD7ryy24OFdZU7Q2714quNa/2tbb8nTnmpePFyd/P16WGPwPef8PEz4dEm4AAAAASUVORK5CYII=",
     "width": 723
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Camazotz_by_Butterfrog.jpg",
   "slug": "camazotz",
   "symbol": "Bat-shaped rune",
   "titles": [

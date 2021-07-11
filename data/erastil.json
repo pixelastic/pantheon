@@ -5,9 +5,9 @@
   "favoredWeapon": "Longbow",
   "name": "Erastil",
   "picture": {
-    "hash": "0ed7c1d342",
+    "hash": "39adafd39e",
     "height": 286,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC7UlEQVQokYWS20tTAQDGv3PM9EUIwlcp7EKSWVpKRd5A0XnbnFpb6rycbbqrzk3PtqNzbh5PuzjPNqdz6pqz8pZdfFgRQQkhXcAgqKCgP6DoIXpfaD1F0A++x4/v4fvBYTZhdNCwn4BrAt/nOKwIi4hIQxFed1dfSciqJEmmikh2F+OdoRVu+zAGlF3ol3fi1c5LQC0VwkZbAaShXiDGV1U9IoKCFL/gAh60FEejosvfUs6fxR7bTZcgqqxAXXkZpKImdDVWASqpCB6HPY1laGJkiEZ0Zhq8uIzkRKXwisuq3M2Vjs7Ki6grLSRjSgnkkhao2qWkUaVMkwrKAKu+t6SPaqsw65SZytZruNbQgB5TP7TKTlCanoye7tZculsCS5eETCaTUMkk8NpM6RqZRGjR9WaD0VKjvINe5Z2W2rDLhuC4JVXZVIva/FMwtIkP66+LC1sF5RhUykjOrDswNTaEcVp/hh+jN0f0igCMivaMiMdujQcndj0jA8cnbQPYfrhEuBkj5I01Gbq25nznoBaHANC97Sg4cSx10efYXpxyzjI6xRE0V1cgHmAx7xntiwcnPhjl0iwA5ALP5Vg0VHaXqPrSUsh7KsTZMwCkL/nZJ1GfI7YZ5WHVUIDNoCLmXEzqLGtCPDjRHxzTfVyZ871bnvH+ZAfady0K4duon/2xeXPmU3BM9z7GO8J7j3RUnCR4p4VEbIaHQibDs40wEisRuCzqzHiAOx1kh4+bqKt52uvCWv84c3TR58ydZums51t3EAt5sRxyYW3BD9wOT8JjG4SekuHR6gLJmdW4NX0DTqMGxTlFBylR3clhLYW1iA8B5xBePrlHRnkWS0EOG4uBfT9gVrWhvOAESs8dg9uqJuY9DMnIa+Ae6siyaaQlTSWF4Gh9it9uIHol1VBLKzHa1/G7/C+e3fWmJJbH8XTd3bE+a+UX3P3wjSjI14k/i//jy+594v2LW/j8ZiPvzeOQ6FViGjtbU/si/c0vQGYgq71j5RUAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC60lEQVQokYWS3U9SAQDFz71m+uJT66nN2cz1sYqtplvlFGomOCyUFEQUFW5IckFFPq6KoHDhKhR4uX4rBMZKbX6szOVqbVbLPlattaz+hl5afwBNe2tt/V7PztnOzkGQ6QLroMHazRjjvPgq+PFUIyFWVGK8oqpL19vkDZlbjUSGluEdYwAf8MBh1MFONeH98w3ApK4G12vHLqoqGT6bFEjLz2ZNy4uxVl+WSCjO/zhUItrTnyjPQVUpQe3FUrTUVMOglO4GXEGM7c8Jue1EwGXDamIafP1FklNKEKmTSEdUFf7Wy+dQLS4mkiY1TBolLM0q0mXS52irxMCAhRL36DUVblp/0Kythe5KJSiHDR3tbWijb+QZ9drTDn0DXHo1mclk0KmrQ8TTk9vZUq9wWwyFcNP6Qd7nXIj5XPKpkQEILJNtVFZBKjqCrkbFAYtGUaKRlsFhbCI5xrJvdMgBzkWf5n3OZY+VisFxvSlvJuztS8WCH8Lu7qJbAza8eJAiwu5uGJSyPGvztTMBpxm5AJj2ZpQUFWTHI76teNQ/6bFSBVBLxUgJQcyEBzvnBW7HbmjIB0De5oMn+um2QkOt7EJ6InxsfHgwD0BuMhbcjEd8yeUEj35aDwx1txNTI+7scdaFeSHYJQxZvy7MRD6lJ0K/Ajbdh16q9mOSZ38uJ8e/C0PWL8lR39TuIrpKEcH7GRLpiTAszWo8W72NjYVZDDP0wXmBOzkW6CuyG9QiWlsjF1jmcCLqOzXGMvlb6/cwLwzjztgIFmejwN2pm7g50IPOVi0eL82RnMuM9PgwWIcZl0rO76fqrh71WA1Ymo0g5nPizdMVMh71IxXjcD/O7/0DLmMTyk4WofR4IUK9ZmIu7Cb7rl9DyEnley0t5QpJOTimK4sftBEmVRU6VDJ4ra1/zP/iyRKf9TAVwua9aMvihHd0mutBuLedfLOxV///fHv7kPi0tYCd7TXR60fTNdvrk3i5Fts70t/8BguUIVAxiQMrAAAAAElFTkSuQmCC",
     "width": 344
   },
   "pronunciation": "eh-RAS-til",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Erastil_holy_symbol.jpg",
   "slug": "erastil",
   "symbol": "Bow and arrow",
   "titles": ["Old Deadeye, Stag God, Estig the Hunter"],

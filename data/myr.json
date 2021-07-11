@@ -6,9 +6,10 @@
   "name": "Myr",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "myr",
   "symbol": "Branching tree and roots",
   "titles": ["The Guide of Perfection"],

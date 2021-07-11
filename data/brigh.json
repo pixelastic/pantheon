@@ -5,9 +5,9 @@
   "favoredWeapon": "Light hammer",
   "name": "Brigh",
   "picture": {
-    "hash": "c60edea11f",
+    "hash": "c798ab7b4a",
     "height": 302,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADkklEQVQokRXT/TMbdhwH8A+69Yee21Pdbs6tO27mcVPWiYfgiBKqnuIhLpqESkO6KEsoSj3LMQ8JDZU6LJ4q1ByVsrvRtbGxdazs7PRmN7tbt91tveq2jibf966v/+FF+OMpTXXKaaJbeeiGoY4A0Px4o3h2WBPeqzpMk5ccaOuXPXoIkLFVZTeoUZD2XDDRw+/v041Ouetkj4rGupq8bpkGzKarpT/NjGp/n9BllfcL6eX1H3bf3gReNBtbqVLEdShL8iBa6BOR2ZCTMGfI/2hp+vrOxld3sX1/DTNGDQbquJgZVG//toe9tZWV9c6zHKfiOHeqlcQ40M9bX9B/f/95dKxd/E9vtRAL4/37lltTtisVmbb6CxnWna0N7G4/gLFRiqJU/2VVeliMShBGtGzupnu3x3O6K6NRlOJ8cLlQgrGmLLZqSGATHQqsfKqzWUwadlHgfaBM9IUixutJcVKoNz13d7bHMqEvgDTW3SqJcoapJpA9mDzH6vIiIAh1Y4qUQKZMDkBhgu9+cYIvSgTcO/T40dMLm6uLWBqUPVOn+7CSLH/25dUE6GUnEO95CO862SHxvaOs83wUay/gsmpJBErSon8l89DQj43lNRhsK7LVKvj4pFbI2mRB+OANQor/qyjLCEC10A/LV5RsoVNirVcWIIsTcpuai9P+GtFfwzeWTbY6o2XzWjnUkkT0NatxUyfBVFMqhCeOsIrsAMyN9DyrUeTjlJf3RZocGNiZGx2GydBjk8d7sNPHX8LsaC+sNmB34zPoStNZt6aard/72jbU1Yo8fvST8GNub9K3luXHM8O9GNE2MIXgNGoUUqwsmrF+ZxrXdc2sXt3AWqo0mO7X7V/KFSE3Nrk5I5RHNN3f9Uj3YRgazwQxTXYQWzT1o6+xENqaEjY+OIxSiRjnBfwD9Zkc5PLTLBkc8QvSSDHRqLZld+jjMshj3G1y7mtI9n+dFQl5bH5qAuaRa6xKmXeQFMqFhJe6lBuX63g2VkrS6DR70leVL7ZWFqGtUrZ/OTvCKgr3sBn1HdahlvIDdUowC/F5ByHu3jfx3b92+ZESEoUn2+eczCTiubnGCjiuGx0VClTJBGgoFKO9XIHC1AjI4kIR5efT9nxMsJMLicL49qLwZJLFZxMlBRynY46+R3ieLppTfm+txXg57/C9nD/PCPE1iHnvc1xecSQV15Myg7h2mRwupQWepOzIWPof72jZSrziEjMAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADlUlEQVQokRXT6U/TBxgA4Bec+zDd4g6jxMRkjisFJMIgsFawA6RUbItQaOXoWkCgLWVFjoIgVpjjahltGZciQmsDFhDlkgxwDgTdxrBhFxlI/LDFmciCLhnY3/suPv/DA0//egGDxiwYMhe8cbO9BogIJm31sjGrIaJT9TbYC3fC2voGuIjA2qh166nNAYMyFGDl0RI4jGcO3Wwpgr6WWtZEX/f4jdbKx6M2y1OHIa28lQ97fvl5zetvht6801MHlensHbpET4BvLFIYN8tOjn+dd/burf61Rwuz9LtzkUauNVJvZQSNXCleebZJm0sPF5aMiuC92hOeoFdE74Anzhn4759nH/Q1ZPzbeV5Kk/1dW/MTg0xrmZT5Il/iWv11mdb/WKHeWhkVJgXfL06OiC0SHwWYH2mDxel+RUdZDJ0VeGxX5cup78tUXOhIQEeTiuaHLMxsfx3qkljbGmEgqXi+L7QJYSx4bXa4fW7QpKLMGG+XnHuAHHo2/jagIn32p5T0iReqRKFYIAomjSBgSyvwo2Ix5zvYeP5Su/xgiu5dzXtVkhxIpdIQnOsQoUkZinGst/Dw+0DCwD1o0nDRqORglZxLRZLYP2HMblttqKgkq/FzploZjz0XT6MhJ5w+3u+OouC9VCoJwqq0ALx3RY13WmSumoI8krDZd6GxUPrc3naZflhw4sNbJpww52CJTEhd9SV02yxHR52YpCG7sDwthCbsba/0ylzi+/vrYOha1+Mxu41udLYyeXHeKDy8m0avtyPDEK47p8isk2B73QV0fv8jYzMbKCvu+Euup9dBWLw/tzlia6frzdWoTopHvUqGD6bH6advb5Pd3ICXSvVoqKqh4S7TVkVmKil4gvoUThTA8FXLhknDoYvyEKxWhOGUoxs7q7XYXFWCA929VKZII42Yt10qy6AsfsKs9KhwpzwmGcBmbnhiNZRRbpw3k819l4RB+7AwJRonBwdozHYZ9flZ24kcDmXGCmdyTqXuzo4/DQqeyB1aLuhmjBVa+upc7tZ52TFXWqQPY7U0uXoaz20XJnIwMsCHInx9RwmX3NQnxJARxXfPjDsFEOVzkJcc/tFyc7maKjPFdEnzGTWVqUmTcIzO8DkUc8TP+HpM2P59kM6Nds+I4kOuMBlAcIQFgR7+u3isA3WCoA+XeH4eqzw/j+kUdkCnPCYk7NB774AqlgUSTribhB0OKexISOceh/8BPmDY10nbmAwAAAAASUVORK5CYII=",
     "width": 268
   },
   "pronunciation": "BRY",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Brigh_Mask.jpg",
   "slug": "brigh",
   "symbol": "Bronze feminine mask with forehead rune",
   "titles": [

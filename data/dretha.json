@@ -5,15 +5,16 @@
   "favoredWeapon": "Scimitar",
   "name": "Dretha",
   "picture": {
-    "hash": "7ebf499cca",
+    "hash": "fe52844516",
     "height": 998,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXklEQVQokTWRyWsTARjFvyQVhEqb0DTL7PtkJjPJZJtOJ0unNmliU5rYBUxoq7Wi9ebBS603FaHiyZviTfCgIuKlx4on/QfEongTikIvglhDPmnVd3nwO/zg8cBoWJAq2fAvAbftvasvtzqz64vQWGsNLG51oH19ASA/Pw6GV/BRhgkB0AbNqSw6cxP3tNMafMCPcG5rxVeEVQB7afy/DdicfJ9ICsjm1P3yhfJO5+aKvnx7DUQEAL6U9HOuDnxRu2rOpDFR1nt8QULOkbB2ZSYzuToF7YvnT0KxVoVWt3uCM+Q9LiegaCt90VF/Mrr43PUqt1Yvb5C1ZnMahgYB4kQYCEl+wyRUtBr5Q95RMW6IG2OO/bhUce5mq2cDUF3yYHK+Qkd49mmQJpDOCb2QSGKQJXZTmcxL00pumikN4O37Z8dDGEPeDvMMhjm2N0SRvRgvoKIkt3RLACXN+UFp5kB1UzforHwQFlkcZbkeKavIGiqmz9iPrIaj2QsVACqhMGGZwZAYxzBLIiHwOEKSh0Eu+o3OSyiXkuuSqwNwqkoNU8SnqMIdiJr2YpRlfkdE4XtM5jfDKtOnLWUnM1Wggc3qoDhWS8yZD0XN9KKSuMtY5mFIYPZDEolsIflZLhpRSNljOSar7FEZuT8icXiKpTB01HQMh/g4Err0pVmfVsH23FmjmL6WrJjblCk/4a3EKzYlfw1JNMZMsc/p8o9OZ74OaTcPupsCiAz/PTw0DN1LcxPaeOJXRKaw3vZeH3PLLfjTE9aALxYMAIAfAHxH3Gu6D8bKBWx1G3dmFqvwBw+HpOtdhXg3AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAACYUlEQVQokTWRTUzTYByH/2yQmCgDNpxb17ftu/btunbd1o/Jum51jo8iTGBgZAEkgInx42LUi3AlMcF48qbxZowHY9SLesMjV0/Gj3gzIZhwMSHgsteA+js+h1/y5IH8kAl6xYZ/C7oT3tbo3HhzYqkBY5fqnQu3ZmH2xjSAM1EC3TM7WC0FAP3HszWDls5X7qerGdijn2Dx9nyHwPgA7pT7/w0EQ34Q1zAVzNR2rXn23dKdefXK2hKs7gAAcbSANKACcdRrhm9Spay1sC3TZCFF68tjxvDcEMysNI9ByfdgcqHRxenkC28SKhaUtlRU9lBGelEYctcXrq8kqpP+CEAIoBv1Q4wkP7BpQg3f3hcHFMrq4tVcufDEqhXveaOTQahc9MCdqaCTIve8l2MoZ0qtsJigfZjZVAr5V7KVuUtMFeDtx2dHIlyWbESSLA1jrhVC8VZUxBRr6ho2JEA5HADdz4Pi6qucSXYjEqIRjFpxWaK8LlNrzH5snjuddmZcgIQq8f0E0T4xQcNCgsZEgYbZxEEfju/wFqFKOXNZLmkAvCqzPYj5ekrGuziTfhnB6HdU5H8yKXE1muLavEHeW34BgWAokHZyU5KtPZKyWjVG8KaQUw/CSbQdkVgqFtRvqqfHQC/aFm/Kn1GetCMiR0OIoRER0W42RnsFhiZU8ftgfTgFds2pq6X8zbSb20AZ8hTn06+RLv84FGP0ZBtp0q/pxWkfdNcCxclCMBr6Gzx0AhrLU2fkorYfTSFabVTfHHG9bAUyntnZFesJAkAAADoOuTPuPsx7FvWbI+uDFwbhD8DXpJCSCdlgAAAAAElFTkSuQmCC",
     "width": 612
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dretha.jpg",
   "slug": "dretha",
   "symbol": "Two gauntleted fists",
   "titles": ["Dark Mother"],

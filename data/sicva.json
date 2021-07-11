@@ -6,9 +6,10 @@
   "name": "Sicva",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "sicva",
   "symbol": "Virus",
   "titles": ["Mistress of All"],

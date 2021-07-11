@@ -5,15 +5,16 @@
   "favoredWeapon": "Naginata",
   "name": "Fumeiyoshi",
   "picture": {
-    "hash": "89417ea7b7",
+    "hash": "1a6dfa1a4f",
     "height": 500,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEFklEQVQ4jSXMCU8TZhgA4E+SRY0jHNJDoKWFwjhaCqVAW3rI0RYK6sBSqAUJbpWOawYKpRIBhVaoATlcKYwhLECUo6KoJIwRrSCKTjkWp+CSzYTMLIKQzHgA37tk+wHPgxZreWjFHL0LAKHpSj7asMUzntUKDVNn+NeH9VyHvYw77agRjP9hkdS+aZdHzho5CAYOoT+bYp2WG0QIrZi4u2DYDx3kctDjc6LSrq85j5UJAb9JCG4rOjr1dR6duion7l9KFFBm+7XMu8/rRRaYzN3z8bLivwQhBOibLDWarhK11Gul7ytPadayoti4NzkW5vMy4JeSHBiQi0ETFgJqVcqi8TBjYqmWPwh29b7t3hSEHpoS0ROztKxaw/vH3md6Z6/+Fhx0Bh6OjdkZKsjAV/PTcX+cYHs+iAXdmpS3lrqC2dLkwImXFlGbQ89E6ENrhE/nKcVmX2slvLpjwVo6FV8LY4M9MAhupsrwjcxkPBYQhG9zObiATMJzYy2LhuLcsa6cwJnNziQpclRJas6X5MDG7xOfbl0qwAq3fZAfSsEFXiToDw/FQ9xwXEImYh3TeyfzgBvU5ComlkcNfWohbfylRdyDhsulD1qM2QCvRnYmuitwWeERMBmVOPcwF58MpENBkB8cl4fhqtIjuFqvhDqjdhRW+w2ySHrblCFyAX3/FfvpQKt+HdZmYH6saVsrYONsGR/OJotwa3w0tilEYFGIcJaUB3kxHCjKlBTBi9JUaYRn9UgR5w7qyA6Yu/qD5W/48Az66ovB7OoOVpLnznXGF3CT4Y8Hff2w3c8ff0elbrWSvUDm69kMcNGfH0IqHykKn0K9WtZ4mUb8E/x15UJhOlevJni8a/4yDhqjwncaaT5gpnjj86HBuDotbkfHoIMsglIBME6iHnArnSyP+hVNGfn1SaGEK0yEXADgM6aHa6UpQw7WpqKtVkMWdJ3OgYumk1uN2jSIJBM6AbrIg0ahMiGU1LNskVxDa+0ytlkVvEAguGQClHt3nAumid33jw9mHYK2YtVHa5lm64ZOBccCaau203whwJwrgeCis+aw5jZsUiUa10ehB9UxZk0M5ef4SC8FbJRES+U0btJe5/f5HkQoJpJB6ewGFcdYeoBGFjuEclQtoA6tXJAMHI+hIrTVo0BwW7XbUSkYUPG8byXzfMrxXR1DwvIuFRPdHRKi+2wmj9bxtDNV4EclaDVC6uiSWTS5YZN6rVvjEVowiZ3W2uUI7Ef3PjorbK5LD3wYxyJ3M309TqDP98Qj592JKTxqhSSYaGtUB9173iDu27RJvV63xaMXDWInNHNGgBZNYqdPlxVopDgCvbFKD96vEvw4WMhZ7Mxl3e86wbpnL454Ml8rHFm3JqRliyjorfV//KhGgP4FwnDiSl7MmlUAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEG0lEQVQ4jQEQBO/7ANODNwDbhzcBAAD/AMR7NwDwmEMk1oQ7d79+OLGtdTPDr3UzxMKAObfhij6D7JdFNsh5MQD/p00A4Y9AAtuJPAAA24UzAf+vJgBHNCYAzYI7c51kMM1VRCXXPxUR22kgHehoIB3lRxUS00k6HcimZivB2Ig8iv+8YQj6oEkA4o9AAgAAAP8Abl1RAMV+O5KJZUL4fHFb7lw2L/6hSkD/0WZX/81yXv+nRj3/Wy8r/1pWTNN7TyS71IQ4qf+wWQv9oksAAMqGRgDOh0N1gVo29bCkhvSvf3D/wyAk/q1AOf2ra1b+qmlU/qZAOfzQKSz/nlpL74uEbMl0Sye63Ys8k8N1KwAA+JMyH5txSPGkknv/48CM/GQiHv2uMzD/ryco/rRQRP6yV0n+syUo/rU2M/5qGhj+ybOQ03duYbOdYCfF8ppHRgDDfz6BiHJd//LdvPi2k2z8SRIN/mkyI/5qHxv/pTEu/6s0MP9wHBr+ZzAh/VcaE/+BYUi82q51pVk8H7fciz6gAK13Q8mRelz//+Ou+7qdef12ak7+hnhU/mBONf5lKyP+aywk/l1IMf5/ck/+f3NU/4Z3ZLL/4aB5RjQgk794NdEAm2Muz6eRde3/7sf/0LSO+mU5Lv1eRTj/gUo8/pJEOP6YSz7+i0k8/lxEN/5nOzL/b1c/bf/ZdFFFMhp/rW0xwACYXSXKqp2K6//51/+kiG7/hg8S/5cWGf2xIyb/syUm/6kjJP+uIiX+lR0d+5IXGv9GIRqQ//+UJToqF3atbTG+AKJlLLd1XD69/+epjWxXNXRZExP1j1BB/4w3MP2MIB7/hR0c/oYuKv5/U0L9aSMe/0c0Hnj//7oXIBkRdL13NdQAvnk4iEovFagtAwAP////BS4VEXyFV0b/lo9s+5J2XP6ceV7+j4Zm+41mUf82FxOa//+mGKt6PlRFLheg24o+rwDul0Uvh1cp0hgXE1n//4kbpYs+ID8TErirXEv/lGxV+JZzWvqyaFT/Wicf5Jh6PDv//8wPFRQOaJZgLMrxmENUALl0NQDJgDqGXDwdvUM2IEr/8nU3RkslNUkIDPdrEhT/bhQW/1QMD/91Wy50//+MLS8pHVNZOh2r3Is+pl87GwAA+6BIAP+2UwfDfDimVzkctkw5IHb+v2kkPy0cdD4WEsJAFhLHVzkhmcybUjojHRRmWzwesNSHPLzwmEMb7pZCAADShTwC7pdEAP+vUQnMgjuQhVUoyUItGJ4sIhViAA0IQwAPCUlMOSB4QCsXmY1aKcTZiT2l8ZlEG+mTQQDaiT0CAMV9OADShTwC+p9IAK9uMQDslkRAx345oqtsMtKbYizGnWMtxK5uMs/QhDut75dDUmA7HADvl0IA2Yk9AsyAOQCFP+HNQdbvQQAAAABJRU5ErkJggg==",
     "width": 500
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
   "slug": "fumeiyoshi",
   "titles": ["Lord of Envy"],
   "url": "https://pathfinderwiki.com/wiki/Fumeiyoshi",

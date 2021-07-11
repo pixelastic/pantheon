@@ -6,9 +6,10 @@
   "name": "Urazra",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "urazra",
   "symbol": "Bear totem",
   "titles": ["Breaker of Bones", "Gore Pelt", "The Red Bear"],

@@ -5,15 +5,16 @@
   "favoredWeapon": "Bite or quarterstaff",
   "name": "Apsu",
   "picture": {
-    "hash": "2328be40c7",
+    "hash": "f4d7332174",
     "height": 390,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLUlEQVQokR1RXWhbdRw97dQyfLH0oSAd+rCHTRgqIti5rWI3ql2HH3WjnUu6pk1ymyZpknuTm5s0Mbn5aG5y8/3Vm9Zkt1wry2zSbrbaDK21DhSHnaADGexholOZIpsgPoy/JAcOh9/D73A4B2+NjMOWUR6HztUWLa7CyMVhpH040NWJJkrXvkSgtg7DQuoR+3z5VXFlIx2TV3fZOUl5e3RyP84z7n1aPjngLigyl1YW9bag1uwMPUMIwRunhtHUJt2BXDkqfURy5Y+JVP+cZDcbXbSQAc5pTZ15+QsI2Yt9FXmLhOeWyIzZe8foNOzl0gYEhGxHIlKEPykr4oUV8v7a9kMpsdww6dmnWI0dGBg5i8lxLQYGTuzNJi+tLuTXiUeYJ6wnzFETVjhLF6BelHtil9b+nC9+QNKNz7ZJ9D5mcLCtTggwrNJg+8rtVswYHesuFTduxvIrFy2U65rO4tY7AnE9Ewlu5Wq1nBQtiRE2po17MyjE5T3NH7x8rA8n+o9jTE0hGpIeMxtmewReglZtPh0UpX/8+TLhU/M3omub+GrzG6jU453PvXAAp14bRP/+54HxCTMMU3ZYzB5McV6wnihYv3DQOSt8qqeY3mmj5+aE2nKPsrJPd/T0tJZ55Wgfjr10BHal3LrBu1LwsyJcVh7umfea2u13Cr2TowYMDp45buf4+9LSh4cq1Ro8vki7VkWhyRZMRgZMOIfztlmMWR3wRhbajwCtTvp7+3Fy8J0hj3fu4c7uj0/++tddxApKu/vdIUw8+wRmfXEgEMrDQbOwURSqu6RNpbODC0vwZi43/R/VjFBZg2o66XIlUbzyNUJxAbQt22Z3lmGbFgGfPw27hYZtUoNi/Qe8OazutjjCZ2gunnK707f4YHHHJy7ZE6X6UCSxeCiYOb3HahbBMHnQRqFpkAJ38jBCo693+DLV5cL6DVL97i5Z/+lvsnXnX9L4+T9y+dYDolz/gyQ2bxNP4epvzJTzRauOBecU28E5AnCcPQeHaqzDJywa0/InykJ16/ul1Z1flhu795SNbx9Uaju/pypXrwcSddnHV3QmDdM1PUaDMfH4H3pCeiwUVsYCAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBIWXMAAAsTAAALEwEAmpwYAAADL0lEQVQokSWRXWhbdRjGn3ZqHYIyd1HUiYJ6IduYFw7shXUQP8aa3ejaQmIbstMmWZKefJyck5PknOakSU++k+Y7aW1P2qYrTe1i221dO+dWt91IZatQQYcXTpAyHFMcCML4S+oDPx6ei/fl5X1wplcPd6b6XHuPtiU83gDtjYJm/HjzhRfRFP/tHFKL12DMxJ7yFKZUycW1THx6+Q4fLtd6NYNvYcDBv2qREp+I+dlpITszeY4JDNr50GFCCE53fYqmN/EFc1OJyiLJKyuk0rhGcpe/PshFsoCOGjpQnF1HJH/+A6W2QeRoldC0eJ+2M/sFScCIXGxLyxMIpqu1hLJEJpc3n5RTc1eHTNxrLMUA6m4NDP0UulSq/bnM/FcT5RUiRivE7Qt7jAMOeEoKDOXJQ4mFlYel4gLJXrmxSWb+hO75oy1rhAC9Wgqb6zt7Z0bccntlfPXHRGmpbjN7bxscPiMXSJpcofj1fP1ioRitJkfdicGYlEcuPbuvOYPOThU+Vp2Crt+MiFx5xmb1HZJDFQzq6O5govI4kKuSkdT4XfnLm7h55Qd8rh04cOzwEahVanz0xjsARdEwn+Ngt4kYcvvBizHw/vjbvBBdN5pcHRabuKPX2/4w2fnXn33l/2ZOdKjQefwEfBPKXkZATEPyxOBhRsA7JPDMSPuwN9ah15jRdarnQxcf+quk1I9Mzi9DGI61UloLmuzJYuXhHM1B5/Sgz85BiH7R6gT2fqJ6T4Wuk2fUPjH+5MbWzy//+uAR4vn5VndfN/TvvgTBnwGCoSI4pxtOgwlL26RFa3DBLU9guLDa3P+0XmPKmfqtad43hlLjO0ixJFim0MJ5qmCtSSAgZcHSLjjPUig3dnD6s752GxfucfCpMV7M3vPLlVtSYo5NVRpqOaEcZSL6fU5bCixbAkfHAUnKQDj5PsI96jYpW58vXN4mC3d2yaWfHpFv7v9DNn77l6zee0xq3z8gmbVfSKC4sesyC8edRi+8fLoVPDsKRqODq+9smxSdsmam12vj9evb08u3fz+/cfdhbW3rb+XCrd0x5erWaPrCTDCoGKyU+6BFz4G1hfAfDHt6e/NjJ2oAAAAASUVORK5CYII=",
     "width": 482
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Apsu_holy_symbol.jpg",
   "slug": "apsu",
   "symbol": "Silver dragon above mirror or pool",
   "titles": ["Waybringer", "The Exiled Wyrm", "Maker of All"],

@@ -5,16 +5,17 @@
   "favoredWeapon": "Mace",
   "name": "Asmodeus",
   "picture": {
-    "hash": "bdeb8bd849",
-    "height": 346,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADuUlEQVQ4jV1SeUzTBxT+fj9gc4NsFsGiQDnGRCggAYQAZYwCATlbBNFCBIlRdiAMDZrMuTgzdyAoATSUWs4K45KmMK5xlA3YHM6ROWUwZHTTSCIG1ELBwlta9tde8v3xXt79fSAi/B9dn6Zh6EsJ8gw+gIGjTowh/lv1CegW56HMdcKaTotV7SLw+DspnqjlmO+6jDl5DuifJvR8nILTABQA6oNfYX7Od8AcEe43nGEmZMcx2V2KJ7O3MD0sBbQPJzFV/TXUhwMweoDDdsbuYFszvHCFCOpsT6Y7ywtTsnTf6YrD22cu7MXMZz6Y7q/ETzWZ0D7VALqFvzEs8YH60B5mTMJFRzgHN9L56EzkmhbFe6Mq2SuoMc5uQn3Ebaf6iBu6M/jM7Gg1DLjoDeCP4v3Guw12J2dPcnu4paAx793XeiWOABGqxfyy8kiniUuhjo6fu1ugOOIt4z+I1g11DPQrL9B/gM+qInjoTd0d/4OY+7Q9ltuhSHC62J8bkC47KXYojdlVVbzPdW/pvl2QCy1NhwqiTV4sE/SrWnNsbGxgiQjfR7LsmGQH1JluJ5USvmQkL6jpVrb9c3m0bUt3kvViY5JnfukvKjPFOww601xAa7/ipXbBwri+hgh9xZkgmsXS3fOmPWfjwi75c8auJzoHGU5rjuEOSsW+kposn9OyOPu+3mO+yUTNZkQzwLr+JeirLGSkpWI9DextEVAezav7RmxHhVGe3m216VsHDllNlwRsvV0SZtsjj+Iqeo/7JtMz+atELYBetwwKBaQeYGsFb6AoxOZcmdC+o/PD0GPNsZzHqgSrO6r4bcqKCLuPzga9bV0RvAV9WXzQShVIPw7oV1fQlujG1gp4aBN5hiiFb5Iiwb7t6okUfnuK7TnlQafu6wUS98H3BX51SXzUR3HN+rI8WFqVg/TfAmvLz0xquIA5gHufRGd0xDvvPx/ry0kEUGgDFIbxLpcId2qaxa4xjQnOUIhc2QsATgVu26SfiHBXegYTsgLTLgdAJdyOL6I8cCPZjb2aK4LiytHXi0KsJ+vjXFJkkTzUxDibPBisw9xIC+ZGWzcbzBPhr/tKpi/cnFEKrdhrB/1Q6c+gMdWFbc3gY+CUwH00JyBw+AM/jOUGMtO9ldCM3YTmx/b/WCDCwp8jzExPGR79rsLseANKhVyU+ZuhPNiCaRDzjEptirA05hqmPxiqx8xgHYxC0j1fwMPxFtgAEAHgABhXVeE9APkAbmaHMs0CC0Rhc2MDFjX3sPRoCv8CXQ2/4+XtLuwAAAAASUVORK5CYII=",
-    "width": 350
+    "hash": "8ce1ed700b",
+    "height": 263,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADoElEQVQokU2SfVDTdQDGn/2mpJ6HiFLbJF6EjYGAyDtijA3GmMwBmzvZAfLaQjAWh7wWnaBDTl4iNxhjbDByO9HYwsF4sYCKK/kH4hQIrquo/rA3/aMuern6dtld9Pz/fO65ez4g5DE2NUmUXR5Ie0eTA1d3JSylPIy9JqON1GZhannCbalVVL01XL5/a7AEq8YKzBvr8F8I+QsblxNgzDyG9UhQxlh3+kBeDK0DQD4AizSg3ZZ6eI0QAkI+wniVCO8aanYATzbNbpuapIQeWeSBTxOB/ohnUBjlD+OZcJhkoWqL2Od7vYD1sammaE9vcSb6i5PhulG5A7CHAQvl4dXTaR6PPlB49Q3wGGXNPF+WgpDd1ksKXo9KGN+d4n9/oETgpeGxoStIovXG0TEk8oSuLAN4/TcCIgXmsxn2xULfdXMyY8RVELyxeJHjskm9VRZleLolnbXRmS/k6HNP4uFpwJDyHH2lIZYi23eB6Qtx1FjecUxVpTBdeRzLIiHUYu0p59rLz28Pi4/MjGYyt2YzDxBrTmzd203ZrIB4Lb2P54mV+miQX53AnMAD9ytiqMfm81jW54eMvJSc1xa675tuMVfqjAQm1NHRb/EPPdEXChNvqwWyQdnR942So03LjQnx5I+7dNSXKXG95DSN4/gFGgBGEXN5MPUQudFSzrQXHMOXU5UBDsmzj7qSjlzpSmZZhyWM340Cr7WlpqTGrRXbXtRWFmOIAu08gLpwL8NNWeDqPRV3aSiNca9fwj47LmOtL2S7k64I9686EhjaHnFQiBjAam0o/rkWw/H76NYXPKAT+pUaeZ5/Gs7FpeqrcyNupXt+PX/2MLGJfHoGZeFFE1eVbF20OzoTmU+LDy+FUE8Bd3KjMariB9sT9m/PnDn4k1bMMc/WpPNtqrgIu8z7R0dbUehYaZR8IidYOHchHrfk3F1WdSpumixwXlYAVwGstUrq35P7XXsjPexE+1Db7i90JdAleqA3I0DVdpL5wCRlf+iQ+vMdEl84sgKp9mIhpnqq/hVpse+VvT9/63SbZgO9Qg4azJ2YvMijWgCqAcCbKd6GjtiDxK6MjBqRh2FEHkJNatU7Js4Z27H9mRnjvqCs2Vyqq4CPasVxmF48RbvSUoFCQmgmic+cKycoY0IRiMlzQdQdTdEO4IfZ67sc6mx8PlqNxtY+fDdcBoPyBLSZXDjLY6iFV/nYGsjy+6RFzH7QLMRqcxpt5n8L/gbJEmV4d/VHwQAAAABJRU5ErkJggg==",
+    "width": 275
   },
   "pronunciation": "as-MO-day-us",
   "ranking": {
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Asmodeus_holy_symbol.jpg",
   "slug": "asmodeus",
   "symbol": "Red pentagram: the Archstar",
   "titles": [

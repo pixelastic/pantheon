@@ -5,9 +5,9 @@
   "favoredWeapon": "Warhammer",
   "name": "Minderhal",
   "picture": {
-    "hash": "626d2b69a0",
+    "hash": "cc4c3dfec5",
     "height": 273,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC40lEQVQokW2NW0ySARiGP/PQXOumrltr63hT66LWwZxOm1uWbqVZZjiNSTE0maiIeMiBQBGIgoqAIPp7QgVTUcPwRC79XZmabpYt060wLQ+zmvz+X7Nuauvd3rv3eR+Av9JgYIMz8DSEBx3ccSfyOOQkBpTJ7l+MFN0LghL+Je8xOw/ITj78N3PjKvj2Xg0G8XXvRkUsOPSswMsBRzAh4uQUIvohrsPrjkwvRITZccO/8MriKzARDfBtWgHbA0T04sSeHXWUs7EwJRyz2CGyowd2Q9j5w94BIRdgqNcMb4ZK/sCqkmyQFwnhgZQHImGcLzPmNCjyItPy89i4ttCz+XLEghzWFSTbOGccxF2w1mT4LH/shLCIWDAaC7YPhCBX5fw2D3SJYXVWs9+oE67Nf5nA1c25rU10e3oHLVgkZZLbQvzeD3NTZkAEaGwsBtCUCkEq50NpecEum/XRHmenwvL2wxAurk575t2vcLtfN2Y8Tx3V2FonEFGIvrZaoXd5OgMcHcUAMpUABOIsyJcI9mj1fFddQwFarNKtrmel6Bw00H0uI93do6HbOhQ0QeSi3pDlPBUc6hN6LRoeqTIAnLVsr9Y0P2hmgr/LWTbjIq3YZFNQFfpU1Bl4tMHEo0s0bKy3SCjXcD22t8oWKnn+Oyuy98GT2mSACbLQd7RbCQPNWaLF5TFc33J7pt4NoFR+h1YWxdNiyQ26uIxLf16ZoX/iEvXJPYxtBDutr4ULZYTeD3qbosDMDT42Pkr8GBqzb/U+Jzw6UyZVZ06lZkgRNTEipjTaFKq++SFFjts355cncXS4eiMveu8hjrAAgByJDm2vYk3WVOWiQp6ARh0HiWoutlQmofZhDFpNSVhvYqNazULlYyYqlcnY3aFAtTJ9KiqvOQbIF4kRnVaGjn/7XJT58a34pgoWw06kMGpKExn9XfKbdosgrkmXxLBoWYxGLYtRLrmZoEo5cZUrUVcnyGxLvwA4cp1WytQP3QAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC4klEQVQokW2NbTDTARzHf/LQdfUmr7urF+XOG3fuvKjO0Sm5w9FVhDIjy8NWsc1zuJ3HMTY20x7YjI1hw2LGeQij2JwVEc6dcJXHpJKz+f869abu+rz+fr4fgL9QixPAEOkO/t4XT0TfcoOsWM9qdpJvcB71GlRm+ttP6VNgojsD/suKpQJ2FwQgLQy1V3PDoUcW5xXg5YLkYPdZRHRC3AeLPs0OEWFxUvSvvLY0AopGBWzP8uB4gIh2ifevmPUSKuYlBWB64nW264Uz4OfpYn/T1xvGhuTwboz/R+YL6VDOp0NeaTwUZIc7UkI9gJsTxGDlJuCXj/2H5olWpMUFollHu9zXkADtyhSHzQ96CHwQAvL6nOMDBnAFjN9lo4EF395XnpdLsvZWN6fx6+HK0SGuWwdHmrGi6KHpOIgHvbA8LQdEAG17KUC1iAml3CfwXJx5WteZ5zzYzWldXB7Djb056+qGBVfXp3Bnf8Ha26dAXWN6ASI6dqiy7NXcMOg3cAA4lQzILU6C/JJkZ4k0xdikZmGLtviop0+IA8M1xEujjDD0VRG6rjJCpXqGktr0AQ8/PwefiFAoEaQCDDQm2LUxnUBNgVOjg8L5UZMWNe1lNrGUjpIaJlEjSyH4VVRUtxTZjONq7OwoXpPSnU6K086BroEG8Gac7TjRy4MhbWb+5o4FvxOfrXNLQ8gujSW4XDJRUBhO8IV0Yn13njjALdun9XHsUtAYwxo6VDdInaC/OQJqmD6ub82qn68sXUeDo0qrVJ5ma6xLti5MFNhmXhfaqqqf2po0JTbztP5wdXsaJ8cbfrBCzl6iZbEATEbyjReKxBllXTaWc6JRJqWhUkFHbW08ikrCsE0Wh00yKgr4ccgti0Uej4o9XeUo4KXO3sltvQcmY3xQj5YsySBfvasoi4jSiB+RupWPSUphDGnIwAnvbsmM1Ehio1pEFFKziEISFYdF85LcbicX8etj2NqtX+JqnUclqjhQAAAAAElFTkSuQmCC",
     "width": 353
   },
   "pronunciation": "MIN-dehr-hawl",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Minderhal_holy_symbol.jpg",
   "slug": "minderhal",
   "symbol": "Anvil in triangle, with moon, planet, star at its corners",
   "titles": [

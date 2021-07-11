@@ -7,9 +7,10 @@
   "picture": {},
   "pronunciation": "DROH-skar",
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "droskar",
   "symbol": "Fire under stone arch",
   "titles": ["The Dark Smith", "Master of the Dark Furnace"],

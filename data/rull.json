@@ -6,9 +6,10 @@
   "name": "Rull",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "rull",
   "symbol": "Thunder cloud and lightning",
   "titles": ["The Thunderer"],

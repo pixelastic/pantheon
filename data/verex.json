@@ -6,9 +6,10 @@
   "name": "Verex",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "verex",
   "symbol": "Rat with gold coin",
   "titles": ["The Despoiler"],

@@ -6,9 +6,10 @@
   "name": "Folgrit",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "folgrit",
   "symbol": "Rune-carved hearth",
   "titles": ["The Watchful Mother"],

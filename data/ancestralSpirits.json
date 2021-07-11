@@ -6,9 +6,10 @@
   "name": "Ancestral Spirits",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ancestralSpirits",
   "titles": ["The Ancestors", "Father", "Mother", "The Spirits of the Earth"],
   "url": "https://pathfinderwiki.com/wiki/Ancestral_Spirits",

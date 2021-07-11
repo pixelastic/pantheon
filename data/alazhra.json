@@ -6,9 +6,10 @@
   "name": "Alazhra",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "alazhra",
   "symbol": "Jar containing a ghost",
   "titles": ["The Dream Eater"],

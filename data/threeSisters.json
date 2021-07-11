@@ -5,9 +5,10 @@
   "name": "Three Sisters",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "threeSisters",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Three_Sisters",

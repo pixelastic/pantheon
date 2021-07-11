@@ -6,9 +6,10 @@
   "name": "Nulgreth",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "nulgreth",
   "symbol": "Bloody double axe",
   "titles": ["The Blood God"],

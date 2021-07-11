@@ -5,15 +5,16 @@
   "favoredWeapon": "Varies, but daggers are common",
   "name": "Outer God",
   "picture": {
-    "hash": "39d085b7a4",
+    "hash": "06d65ff676",
     "height": 550,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC+0lEQVQokR2SS0gbcRDGpzZpk2zUJT66tTEPyJoVNCUR1JA0jUtEVw3GF4qNcVEQokVFCYphLSoEJKFK2pWwaRFiMWAuPXvpw0OvoT300EuVCq1asdZHX/lvWQ8/mIGP+WY+BvR6PZjNZolrer3+JgDAwsLCtXg8fh3Hcam/Y7FY7NXV1Q06nU4FFRUVYDKZoKGhAXw+n9Lv998YHh6G7e1twHFcU1ZWdtdsNjubmpro/v7+W+ByuUCr1QLHcZDNZm8vLi5i09PT2kwmM5VIJKZsNltApVINK5VKt9FoJMHpdCq9Xq8sGo3KZ2dnHwiCsLG2tvYxlUqJ0Wj0q8PhEEiSfEiSZLdara6G4uLiLgzD2MbGxseRSORzKpXKZTKZy42NjW88zx8tLy9n5+fnY/X19eG8vLxyUCgUcYqi1liWfbe6unq8tbX1M5lMXqTT6R+bm5vHc3NzBzzPZ91u9wsAuA8Yhj0pLS19zjDM2/X19ZNkMvknkUj84nn+J8dxZzqd7tBgMLyy2+3P1Gr1PZDJZAkAeGm1Wj9wHHdO0/TF6OjoZTAYPO/s7LwgSfKoqKjodWFhoUAQxF0p0jdVVVUfysvLDxQKxRkAnJpMptOWlpZTgiC+y+Xy3YKCgm2lUvkUwzA9hEKhPY/H84UgiMP8/HzJ4XJlZeX3zs7O75GRkRO5XP5JJpNlcBx/hGFYPtTW1u5rNJpdg8FwtLS09C+dTotSpJFIRAyHw+L4+PhFZWWlYDQa+202m1H6hD2NRrM/Njb2a2ZmRuzr60MdHR2oq6sLtbe35yYmJsRYLJa1WCwelUplB4qi9kOh0OXQ0FCutbUV+Xw+VFNTc4XL5UJWqzUXCAREQRDe+/3+RZicnPwbDodRMBjM9fT0iL29vcjj8aC6ujpE07TY1tYmSk6Dg4PSin/B6/Uiie7u7itxc3MzYhhGlJwGBgYQy7JIEgcCgRzLsiLY7facw+EQaZpGbrdbpCgKabVaVFJSgqTa6XSKDMNIQ0Xptv8R+ivTEFUybwAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC80lEQVQokR1SX0hacRT+ReuG6e4tLpqjujPrikXTey9xSVxociv7R+HCHCPvKBaUkFBYoNVWUhDFCksTLxFctorcwx5jL2P1sLfJNvayPS2iPeQ2WlhW/mxcHw58nPOd852PcwDDMIBlWSnyjEZjIQAAzM3N5YVCofzq6upChUJRTlGUqa6uzqpSqYqAVqsFBoMBVFRUAIvFInM6ncjg4CDY398HBEHglZWVlE6ne2i1WptaWlpUgKZpUFBQAGZnZ0EikbgXDAblY2Nj5fF4fHxjY2O8vr7eXVxc/AxF0aaqqioSMAwj4zjuTigUKpicnHwSi8VeRyKR76Io3i4tLZ2azeaYVqv1kCTZi+P4A6BUKh+hKPq0ubn55fz8/JFEjMfjN6IoJsPh8N/FxcUvU1NTyyzL+ouKigggl8vXampqIjzPf1xdXf23t7d3IQhCemdnJ7W9vX3m9/uT6+vrn61W66v8/HwLUCgUa6WlpZt2u/1ga2vrXBCETDQavQ6Hw5fT09NpgiCSGo3mvclk2sQwrFEyHAUAvKVp+uvMzEzaZrNdejye9MjIyKXD4UiTJPkbx/EPGIbFVCqVEeh0ugODwfCNIIhTmUyWAgCckyR53tHRkVKr1X8QBPmJYdg7mUy2jqLofeDz+Y45jjtRq9VJFEUvJIWVlZWrw8PD66GhoTMEQX4gCPKmpKTkBYZhd6UL/8Jx/Eij0SSDweD17u5uRhTFzMLCQsbv98PR0dFUbW1tjCCIxxRFVUqfcITj+Im098TEBHS5XLCnpwc6HA7Y3d194/V6b5eXlz9RFMXJ5XIT0Ov1xz6fLz0wMADb29slEmQYJitFY2MjpGk643a7bwVBSLhcrufA6/VeBQIBODw8nOnt7YV9fX2Q4zjIsmzWZrPBzs7OnBLP87eBQOAKSImuri4okZ1OJ2xtbYVtbW05pf7+fsjzPHS73RKWmiBoaGjImM3m3DSLxQL1en22rKwsq1QqsxKWana7PackefsPiTssD0iCHP4AAAAASUVORK5CYII=",
     "width": 405
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "slug": "outerGod",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Outer_God",

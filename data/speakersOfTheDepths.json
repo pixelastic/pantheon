@@ -6,9 +6,10 @@
   "name": "Speakers of the Depths",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "speakersOfTheDepths",
   "symbol": "Eyeless serpent twisted into an infinity symbol to feed upon its own tail",
   "titles": [""],

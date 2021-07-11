@@ -5,15 +5,16 @@
   "favoredWeapon": "Longspear",
   "name": "Tsukiyo",
   "picture": {
-    "hash": "1203f5e402",
+    "hash": "a542a31e56",
     "height": 163,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADRUlEQVQ4jY2STWyTBRzGn36gGAdEI8JWatu1k3abCMx1bems9G378rZbv+vc2m1uY2XtgMJgbGtH964tm7SUfbaCRkCBBRdC/MDPmDg/OBg0HjB40cQLBzyaSMzW+TdeuHhwv9NzeJ7f6QEASI9bRPUjPvgKR+u5VEdsfVsN4JQKPr/7Lf4X+RAr0uU74S0esVXHuD+fDRn2arpMqD3ACNck8N6I49DXsw3qtIcksb0/YHgXsGATGFqMWJOAiB5rvBi9u23aQ5q54NzWFAtJmhOJlGKsida3Rw5rzraS4vUW2nGp95S6GIT6XEgk1j+xNoEp37Mkz7hJlvOS+lzHm1v4fShPsiJsBF5w7P5Pf7h48mHun4gBpmzn77IpH+18o412ZL3fN1AaGykOy6ATymAdGsPMw8HJj4o4eH4UPZfHEFlIQ3+kWQjzXM+yOddE1mJgVZG0k9Je+5KU06CySydWhfVQHTND28cg9sksfItJRN/PIfLZNPCKRGAccAOmq4f/qPkwQoob+0tsiiP1gT23PwAEj2oroUxw6wL5dmjfCWN7ioMl7IRzvk9ERICvAq54yA5u8diPqoVO0hcCq6eTzEpN3EaS4+b3gLJHZFk/hHwPcCeO777yAKJGMMV+IFYH7en2SXWU+RKu6/GsZ9xO06Om5e4kQ5sTbKn6rJcMWc9PijGXf9NgSxmWhjBzdR9g7Bbr873G3e8eXaya8JMqpAvj5evpSk3a+0CddZPkjKf05KSThqdcK5lpF1XN+Mnx8cF7qmL7N42TTV/UnbD+khizUOJ8gGQp769h6bbHIU86IeWbonLeSU/x9tU9PLeyVGj++7VTltJzhUDp9qdd1D/rpomCi65kGOJTFopNOqii12zfHLUC27sZwfpOHaSDVl46YKE0b6Wb846S/YxzRZZpWr11wVN6K8/+NXSxdfnmvIN2xW20IcLsLzvBQT5qF6K20AFl9RaUB+shG7S5tCPWO1XjHG1IsNQ2ZKIrYy9SaKqZnr/2KrGz3lsVwQaD+JAJFVNuofXfcyhzfjxzoQvl7fVC2QAD3L8k3jTOsVLeMbNzJvibIef9WZK2Z7bmnEZ60IenIyYoUqwojHVQszr8AzzFNyTiSa7tAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADRklEQVQ4jY2PS0zbBRzHv20Ba3wkzuFglf5r29GV4VCYY6Wj6/v9oKUwBhTWMR4tGXRjKbRl9AGsUB4VWlrDMjc3F6dkyTKdmhgNi3qaRA8+DmYHTbx4NNEYaP0Zd/DiQb6n7+H7/eT7BQDwL+o4r4VdaMkHjhqme0e53bWAk2FtPtrC/4qZ0HNkS71w5gJ6acDwu7inUSXpa8ahIRV7VwD3nUmcf5BrPDjtohdHlVsIvQzcVrOUHc3YFYCInmy+Nvw9L+2imkzXakXCBN60mcM9UIpdqfNGaESa7iBBvoPqrvdfrs51QfKGh1Mq37s7wInlM5vMrJ34Cy6S5jzrlTEj9l8ycPA8UG9t+E8+mI/+s/qx980FAEXK8ys/3Up16110OOX+SkoRPEFB6MacEHYegfy05t/y+PtZ+PIh9L0ZwdBbMcgDdjZUGe+2esFG2vzJoiBqJqGpVlllrIHIKysR98tRfUGLRr8B5z5chXsjAt/dOfg+WgR6eCzFhRZA8fbIb9J7fmLuDBQMCSNJBpseXgNY3AYJhGFLactCHxpv+lCdsEExYId9bZDz+MLJSjjCHgtMty9+Lb51mo6ttRVTU6qdQ2Ed8cY0d4F9ZcxcOxAaAb7px9anOgBN0OT9wPkGHE11J6XDmk043gunnHETrVxSbJ+JamjPpL4gTbtInnJ999KU01024n0an/mRvaEC6rwlsuV+ecO7oxvVSReJemQDaN9ICKXTzj8OphzEW3QWn0vaaWLZsTOzYifxShuZ7wd+Eed6Ppcn7Z/Uj+t+nIxqKLLuJmba+cjHiJ4CM2VFVdTsF8Rt9ELMXDweM+48yFr/mp/VFmqz7YWHH58lf8ZJl9ccdGtGTfGEhgJJC+0f1JrLhw2AeEDD4nqPoSqojTFjapqNael+1lIwL9l3+DPW4hdXWwtXl4x/Bq+f2v4gY6FXIjp6xq89yw3qURXRs1GX6QbzajkqPfUQjesdspDmW0nCSM9GDNQ5oaCbUQV1p210+B0v6V93f8nzNDWVnVNi36KNbQcPEM+7ILjSi4reerZwTA38dK9kT9RkEMStq0fSp35WpNp+4CdssxXzrcepoET5sAqiuIkzhAOoaTmBvwE+IjpQGAnxZAAAAABJRU5ErkJggg==",
     "width": 168
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Tsukiyo_holy_symbol.jpg",
   "slug": "tsukiyo",
   "symbol": "Jade crescent moon",
   "titles": ["Prince of the Moon"],

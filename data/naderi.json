@@ -6,9 +6,10 @@
   "name": "Naderi",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "naderi",
   "symbol": "Ornate golden dagger",
   "titles": ["The Lost Maiden"],

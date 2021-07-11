@@ -6,9 +6,10 @@
   "name": "Aesocar",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "aesocar",
   "symbol": "Enclosed six-pointed star",
   "titles": ["The Healing Touch"],

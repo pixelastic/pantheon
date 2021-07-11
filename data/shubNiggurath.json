@@ -6,9 +6,10 @@
   "name": "Shub-Niggurath",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "shubNiggurath",
   "symbol": "Radially arrayed goat heads",
   "titles": ["Black Goat of the Woods with a Thousand Young"],

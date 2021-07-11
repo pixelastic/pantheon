@@ -5,9 +5,10 @@
   "name": "Perbov",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "perbov",
   "titles": ["The Father of the North"],
   "url": "https://pathfinderwiki.com/wiki/Perbov",

@@ -6,9 +6,10 @@
   "name": "Grundinnar",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "grundinnar",
   "symbol": "Glowing golden hammer",
   "titles": ["The Peacemaker"],

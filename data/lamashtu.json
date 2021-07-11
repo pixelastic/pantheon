@@ -5,9 +5,9 @@
   "favoredWeapon": "Falchion (kukri)",
   "name": "Lamashtu",
   "picture": {
-    "hash": "ccc0ded255",
+    "hash": "bb00033291",
     "height": 343,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADSUlEQVQokUXTSWwbdRgF8OfY9RZnvM14z9ix43W8jO1OvNvx1niJGxKapDTUoWnSOi1OFSGBHEIECbeCSAUF5YK4ICEkJCTEBbihcoArQhVHDkhICMEJ1DjzR24k+O6/9w5PHwBgu9dEJjolSYVdyMbcyajPbuB9NiQ5J/igQznDsTmflYLPopEcHPTx3/EmFQoB61jOb0EhaNsS3MyLOa8Z0UkDoqxxTnAzb/GsAXFWL/36iw/OUYV3gFYCM069bIbVIe9l9gSn/oeKi0LGqYfgNJykXIbPeUaFuEktfWV/DdWo4xynoibsZmKSl+txNDj7N7WgTVRdGLMdLiZQCdh+6vDs7wCUOiWQcOokec56DueCdmnJb0WTn7y+WYmQktfyq31C7YxdAASW/u5GOULmk+63GzEv7tbTklLMBnAOg2yETZSitVEOk51W8gkAp0evSHt08jVCCJZS/p/XqzHiM1MDmwJIumgZpm06xF3MyFL9ucTjoyvZP1L2ieWa2/hn3cOQrFV9vVsMf99vC6dmjZwXpq0I2HSA365PVCPsLR9rKXWS/o/2FnNkpxL953ApT467dTJoC0+6hQh5Nht+xOh1s7MR10bYYWiNmujllPvLwWqRNEJ2MeMykzdWKuTDe6tnDzYXxIe9Z0jWYyUXJ43DXksgKwXusXVcykNwG4GxOPr1yC+3cl4yWC6cvbaQEz95aZmcbDTIm4t5cbuVPtsqBsh2LTx8vhTwF0N2wE9r4LPqN5+rJMj+tcrZ8dac2C9y4snNefHTeytktxgSX79aEncX0sP1dpYkXKbjj+9eAmwqwK6V51+oRP66318ig9XS6YOt1uk7a5fE97oNcv9Gc3jUrZ0e3r4sbnfSJMEabi5GLMB82CG96NCiaFe2dzopcrTeIL1ikNwpcqRX4MReIUD2r5bJ3rUa6XCWgybvwbu3L0sw2ml22ipreE3IuIzvl6fNv1VZ7Wd1l2HY9DCkOkl9VfOaf8xP0Y/ulAu4sv4qOOPT6QFaK4dcKQNDU0YAemgpbYjW/M0ZxwnLULlROK1Vs4xaCi+tkggWBVDwM5hixuFmxiUY+/9jzBOKh2aN4ttWwvs0XioBOAsl4SwU2iEL/gVSbegKRlCfPAAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADSElEQVQokT2SS2wbZRSFz9SuE8ev8dgeP8aecfyI7fH41diTOLbjsZ34EadW1TRJI2jSNE6a0rRRpUgobalIQF2l6gMorBCINYgVSLBEBSG2iKpbFkhICMEK1DjzV06rHunqrj7dI90PAHDxfAPFOE8VRB9KkjCaDbmZXMiNfMSNsbBrcCLKTSScBkjsELW/v43XOeU0YnLErSmFnP29Me63bxWDLFIcjbTX2pD9toO0x4KMx6z56em3L6Gq6IPtJCDzjFb2WVEMsrsyz/yi8DTyPAPZx3wyLti+TjEDyNgGNXv3djCdFF5dDHmwW4lRu40UGjHu++moRzXrNJ73OlnUIu7fOkn+LwCDjF6DrGCjyolXYFPkNMqIG62EcGFdSRAl7PqDp/VCUtdvYnuyWpZIZzR4r50UcK2apKrpAJDgrNo+zA5pZy6VJbLdzD4HIARtxvGgdegNQgjOyiPPVpUEiToMuy4KyPGMFlHOilM802fNW/XM07254t9Zjp6vhth/amEnkTnL8kpR/Hm7lT10GzSZMb8dcQ8NxL3M6JTovSx66HInE/js5pkJcq2W+n9vrkjur9TJ27Py85VSnMzno0/cJp1Si3FrSS8zA50G9gU5/M3NcyXSFDl1wm9X984r5NMb544+WG+rH13pkMKwg+S8dO9KM0sWC7FnvFmXhhxkQQO4OpX+vVsUya250tHtswX1i50F8rjbJPvzJXWrlTvqliWyWUv1lspSRBG9QJzWIcqaum8qSXJnqXL0YK2lblWT6qPN0+rnO4vkeiWhvruoqDc6+d5aK0eygu3hV20R8OoBwTJQWlUS/95/6wy5tVA+fNSdOTxYnlYfXmqSg4uN3t0L04d3u231anuMyIJt/XSEBWZFTpPjLCj4LO3rs2Pk/eU62ezXKsfJxqSobkzGyTsLZXJ7qUpmJd+d/i8/XJmijgVQAg5tPcQiP2z/uBJy/lkJOL6sBR29epglyrD9u1rY+Wsx4PhxU+RxWYpA4mjghP4E3NYhmPRacHaTDYCVMhrMMYfxP9FuJH6HudCXwGM1CC7DSURYI5X10UA56kGYNfWH0r4scBy3ceCxyzDww2oxcmzWoAaQXGZKcpnRkrx4AXgL5OaUc6t8AAAAAElFTkSuQmCC",
     "width": 294
   },
   "pronunciation": "lah-MAHSH-too",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lamashtu_holy_symbol.jpg",
   "slug": "lamashtu",
   "symbol": "Three-eyed jackal",
   "titles": [

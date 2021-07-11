@@ -5,9 +5,9 @@
   "favoredWeapon": "Whip",
   "name": "Calistria",
   "picture": {
-    "hash": "e05a280e60",
+    "hash": "544481adee",
     "height": 340,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAAsTAAALEwEAmpwYAAADI0lEQVQokX2QWUxTaRiG39OOcb9RM6iMJIIahRlRy+Io1lbF0o0uHNqmtOVQutIWSq2VY09BW6RCSWlEUGuICowLamiiBrcgojFjJsaYGEy8nKsx8cJEE3VmnH9Sbrxwea6/582TDwaZiDVrpPoXD4fxJyFwGrW8sF2CA7ZqcC41OLcGrF1J7XdZ+N3JM5DkARfTx6wevcwGm9FQODaU+DQ9MXJ+IPgryn4RYJ9JjGiA5rsYHZ/zynitpj3YuCoHAPiTmdP3xoYSr1cuWLwcCc6N+9eHy0YGOz/GQp5zABayDm1uh5+GQqpFxCeD3yzLB7A0EfE/uDV+9q8714ZXjw7GgW7Wzp+euJBdXRi0qu52tdIfEgctirOpRmmcs0cH4rpN/Z37Gk4c8ZHDPv0QIcC5kwn0Rrw8XDrZgcGjbXN8Fhqct06VitjuBhuUMz5GSnq4emKtERLWrn7cHfZkNKLNpXadHLH9zjmXz6QAr4UGIQQW2Xo+IYTvUufu1IqLSdSn+udJxvHRb5YStbjoVaYLS9r9bYuyiROnHQjYjIBm11akjzCINO35gWuSoN0lNjXXS8jVfvP70T73f2N92k8uk+LDqWDBhmRLMbqbfuYNHrJgd0kREPXIEWupRW+zgEoH8nGidU0e66t7G/NrSci691+3UUQcevFDPCdQDxHYBUBnixa1eyuyEQB5OQ+RsAaMropnNynhVJWLJds2/W6oLPtbtKXgakCXk+el88HIC6hg1Wz5Z6qXAFzYAOy8iepGD9Vs06G/w62LH3DM9IbM2+lduWBqyqjKEh5YzTJ8QbJxHTwWDaSC/NkHht20vydU9ybkoDWYdxi5hW045FUgoPoRXyVoVYF11lJ9nBPxYOOKqL/hWXao+KelaDFK0Ndm+Lo4KzNKPJq6zXs58wxPHz8QTd8af8MohDlNBgWOx9upFKv/trx941rcuDLCm7xxCRPjvwn/mMq8S8YOrkinujCaTlLbilZ/W87CaCsps1KIOvmOVd76muneRM/cWAeHVqf5+2IWeUUJZBWlkFWUzFcKS8XicgF2lG6BWlT+xfH/yaEksDpfAyAAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAAsTAAALEwEAmpwYAAADIUlEQVQokX2O209TdwDHv6fVGdQ9uWSgAd188BZJNaMqCC2IlF5oe9pSwGNPocLpnV4opZS2UloQWwHTbSggSRGCijrcDCLRoLLFSzTqg+HBv0CMDyaayOblt/Rx0flJvm/fzzdf1MlL21m6smbx7lksfSKwMBpeyCxBgFMiZFUjZNOgnVNSrVYjP9mXRtlGYHIkZbIfUjTiSF3d9qnRxMc/Z8cmfwmIsDf/J/hYMWIeLd/K6vhhu4znMZQjPy8HAPjzv4/cmhpNvspe/W02EiEr7syMCccH43/H/PYxAGuDFnpDp0uHKokSEYcMbqPsRwDrkhH3wtx0+sX8H6M/jA92A73tHH9hdjKzuqb1iOpmT4tu+UQHq0j3NUp7g02xU/FqQSreYhrscZKjrppRQoDx0wmciDh4uDDUicHjgZVOow6RZkY1EGm86TWpFpuNlSTZwRKTRkQCHP0gEbJd0ZbtFnK1csT95pUX0ycBh1EHQibASnfwCSF8S1WuiC4VkKhT/f7RtHnZxcqJWrRj6UqIt66z1bc2c/HGGRM8jQxAiwsw3MUgbClfEbJIEDYfMLgMB8nl1OF3EwPWTxf7NR+tjHx52Ldz20mXEAnbLt7p6GHoK/YBcZcCMZcWCWch9at3J3725G8M2pk3cbea+E2SD/baEmKuLvsL5wm0Ay/RtD8L3W4atVJR5gRArgJRrxKm6gqe5ZAcHF1UJikU3K+p2POPeNfmyy2a3DynZgsaZFson3I9/oO+XIhoixaAAbS+gXLU65GK2vQ9bebFhN9QpCvOg0m9j5IKViGo34TP6OUEcDXQ2Lp5Ewgh6LDp3MfbmNd+TksjK47128PotMvgVeXhiwQ4GgGzjuoPc4j7GrK7vPVPM0P5ud+hmalAf7v+y2KGtiYV7s7P8p4/e4wn926LF+amX7NVxd9b6+RIHQtRA8GvyKW7t+LapTTv1sw5XJ8eL3l457e3fVF/znB/DBNDSepAwbb/lzPUaw5SBqUIjKI418FqFhLd3d90dQTgaWK+LmZQlBRAUSLMJKtKJCyVFglRWbQXKvGez8r/AigfJGQzj2wlAAAAAElFTkSuQmCC",
     "width": 317
   },
   "pronunciation": "kah-LISS-tree-ah",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Calistria_holy_symbol.jpg",
   "slug": "calistria",
   "symbol": "Three daggers",
   "titles": [

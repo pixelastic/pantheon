@@ -6,9 +6,10 @@
   "name": "Bergelmir",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "bergelmir",
   "symbol": "Three bolts of lightning",
   "titles": ["Mother of Memories"],

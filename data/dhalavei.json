@@ -5,15 +5,16 @@
   "favoredWeapon": "Temple sword",
   "name": "Dhalavei",
   "picture": {
-    "hash": "87cab18d0e",
+    "hash": "3f0b495da8",
     "height": 868,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAAsTAAALEwEAmpwYAAADiUlEQVQokR2QaUybBRyH/x0wySYSlYLdukKPt6XQ4+1B+5a29ID1vmXr3kpbKJe0IGA5O6yGKCNlsJG5dPuwBSTq4mZMjCPxiJjMxZC5JSaaJTNMF/fBaONMNo/Njr9hvw9Pnq/PD2g1GzykAMKqWkZYwRKGOjshM3AYWhW1sLPlTFR2Zpo+9P3KiHbcKXY4a3eXW6oAurUsODFOA0SaSTi3Mss4fzIJE12eqbGE70JuumfhzNyrH0/0td+mnU3XIi7d1njEjB12xeuLrwRhfsBeVriUgFlfBcDSkJVxed4F6/MufiKo/91ACrFFKcKDLU1bIoIT/fnES2DTk++rCBY69Q3F/GRYdnbMCemwrnQ4IAWYTehKcn0UHOvV9SYPNd9q9/vfMikJnIiZP7q3forORN1HRXw2qhp5H+rVDV+M0i1/f30yKMgPW2HQpyyBkbirNEWbYTBifiOXHbqKiJwun+6yjRLjaPeRX6Je011KRmC2w55WSqogbCEyyXbd1tHeoCBmp578xNiBx2b5NJt97TYiTi5Npn4Imcj76zOOX7+Z9TwacJJ35wfpK1dW5iyhUIBnUYsfhB3UKgCUQfdwCoJeh0JNSrAnHvlzMTf3k9dm2T7foy9enIkVM7S7+EGf/l+/VVNos+jQ26ZHlYiDboP8urruBQfIqpkul826KRPykNhXgwSfi1q18uGpTv32pXTo8ds93uLxMIVusxbj9IvfRunQLbNajNo6piyk4AKY91Ts1mnUS2YDhWvvXli4eWPzs3x25D/abXl8Om7AjK1hm7Y147m5qT8QcSE9krqjl/I3nsSXcQGer6ze0UqfTbeZf7NvHRGPfXf1yx/Jxnp0mJqxP05vi/kHMNXVcRMRk+n+w/eoelZSeuAZsCj4paCV8EvUjfvh+rLpKaOC/1UsEsaZzNRvPDYLP1nNP8TCncLSYu6Bqp7713R6+L2OgK1gFNXU6YXVEDCrGECRBCikopJWSggAGoZcJr0h4XNwdCj1CBH/2dj4vDg1NopGlRw1EiG2SgXLfrMYTE11DKOID3DEoQCXhwKvq63U5W+HgMfzskmjxIDTsZ3uj903ygXXeNXMtRYledxjs15UEVxCXU+AQS7ZZRQSAKvvrAFZUwWSinKQVu7Zq6zl+OyUVsouZVBPA/BmEkNlNXvLgWoUA3sXg9O0j7mfZD4H0mcr4KBCDP8DAj1EXAr6xPcAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAAsTAAALEwEAmpwYAAADiklEQVQokR2Ra0xbBRiGv0rZJXOLso2LbWH0tD3r2tLL6b2n9IJt6UpPL1lLW0pXCGChAxyUS2EDppnC6FjmFiAmi1umEi+LiRmLxkVdIjrj+KF/FheZi5osy1BMJEq2dp+B98eb9+/zPhDREcDoxRA1CVlh6gAZag7DaCoEdjkHNnN+KFkzNxwN/XSlX5fxqNxufskOW/lOaDUK4FwmChC1UvDO/Bjr8lQXDCa92UwLs3BmqG16/o2+TwfaQ/ejLt2dmNuwMhCzYdxJjZ/t8cNUyl385wdt8JqrDGAm5WItTgThxqkg0eozP6YVJJpVB9FhVq+QBK/59wsxcBqVCyrBS1hvlObnhiLyt/sY6A+b2L2MAuD1hLlousUMk8na9nTQfO+InzltUYpwsKnuk8eLbzVlE54TJJ+HlIS4ZlJLbh6PWP9dyjUJZo85Ie3VFMGrzR52OmyH7kb7xPSJnm8RsaqlwbTo1EvweHvsUYKxPdTVCPFkoj6jEpVDpFY80hWkfxnpCBBxt2HrJ9ZmNTitn02Mjd5HxOGZbNe9IzZq4/qob23pVOBpp1v5x2RP9JtbVyZtwQDDt6nF6+F6/WUAKIaOYykIeF1KjUKCbUdjazNnTv/KuKx4qc389Np4a2Es4St82EH/57NrVh0WA3rrTEiRleih5csaPscNcm6px+O03q4hq1HALUUhvwr1GuWTC0k6//FAOD+b8udzjfpnDVYtJiPBO/FI8GcLJUZt9b4aj4IDYC3bs82oVc7YaB2+/967ubvL330xN96djzVYCheP0oVhp7gQdRnw0ptDfyNirq83/cAoI77agodKgNKSvZvrBb/D8P38ROoGIk7+uHRzRSklsd5qKKSS4YKY4GG6tekuIqb72xvX9GRFl4yzB+wKgg16KVGkE3Ph9rRve62C+DoRC+HJkcFHfF4FXr86u4F/PVg9d3ZqXSWuXh/p71mI+52rNFl+wCgqA7+FYoFBLgRKJip6WUtuGVHWSJalBBf7ujufIOLGrS8/L2QzvWhWy1ArE6JNTpz30SKwyLksk4QAiDgoOOzQAeO2sT0+BoJed6pWp8DAYcezzCvxf8xy4gd+xd6rZrU053VaP1IfrBZqDgmAVkqeM0oEAKsPf9s0AYdKdoF0/+5dKoLHuGhKxt0J+t0A/GxnZ/G+57eBTkZC5Q52FVVVzpVz9oO07EWoo8TwP+W/RbVQInrQAAAAAElFTkSuQmCC",
     "width": 991
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
   "slug": "dhalavei",
   "titles": ["The Unsuspected Rot", "Goddess of internal decay"],
   "url": "https://pathfinderwiki.com/wiki/Dhalavei",

@@ -6,9 +6,10 @@
   "name": "Bolka",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "bolka",
   "symbol": "Golden bejeweled ring",
   "titles": ["The Golden Gift"],

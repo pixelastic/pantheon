@@ -5,9 +5,9 @@
   "favoredWeapon": "Greataxe",
   "name": "Rovagug",
   "picture": {
-    "hash": "a060d6df94",
+    "hash": "20ebc05a6c",
     "height": 343,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAACu0lEQVQokRWJWWsTXxxAf64gFkUQFWsL/rXBplWbZDJJZrtz595ZbzJbMpMmpp3pFkytS//Yh7pXi4oIBvVZnwU/gfoZ9Fm/gZ/BZSQPBw7ngFoqgsjXDoW2DrRa4U1F5RxVARtJYCqoTKt8ObAoCOXqIaUwB6BwxQlNlHgHy+dCirdPTR6HTw8+wovle3Dw+EEIiLptq9J/miBWpGLhDOgC33eRUg0I2lqNmycSvw49j+3puWxP4tVhJQpPBgTdrstSjdbKq9DQ0MMu0ws+EgYtysN1V933IcZ7R9z08L6I8uAptUGH0QLDyn1gcm245FnFlkG2NtIIfpp5+NzT4UtPhx9OATaWYwgo3koaVtGRqq+gLlfnQw0txES7s552Z5400OTL1N8Z8ZjJE+tp92JLw9ueqiw6ciWGklg+EOnk/VrTc/qR23+e+D+eLofZ05Uwe5b439da7upa6LIm1d7NVOb2Q6LpUBo/m7vWbd5YalhvWkIxm5489evCxMlfI1/x7NfrneaN0vjZqUWVAFxBCFxJ3LgaBRuLvj1cZigbP3bk9+mjY79TR8nS0Bn2W/51RxCuxZIMwER+qm3ruz1DTzqek+4m7re7bSsb8SRxv857Tjp6sUV3HaF8HjxVGISaYkU6GQIAWLM5vI64vwOF+2PO5tCotXQyDLBsuUi4Cj5BOx2b1mMDr/lEhoCbA+HybL8ym18duadJEBm4P2/RuqehRxCaWuhi+f+ugRfaVIHQItA2Nbzk2aWWo0NMZOjoeLGhypu+gQOwKvxMQ1NvzTNzM8sySAMHQl1lCw2jthQyGLU2MzYbGN0y+XIeZna6cKmiHWaKOIhNSgKqgksQ8amKAqJCZBDqyMLgYgUfPv82AdDyeRA5Drj89JguSSy0y2AiMWer8lSzzgGVJDZ3ITdWK5UATU/DP/B33k91wRhSAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAACwElEQVQokRXJy3IUVRzH8T+gi3CRciPXKKiDYYZgZrp7pq/n9Dl9uqdv6SvdM5Ok6cllAhMhBsFFslCRKC6sYkpc45byCSyrfAXYoi/gQwC21Ytv1a8+PzC6HdB63bm0z8AUha6DEe8iFRykgIORYIpdof5knpvT+SUAInDzpqr0XF39JGF4/8JH5+CPn36FJ/cP4OTpOYgNvO9i9WOmyD3Ety9CX+5uh7omJgZ+sJknH5ShB2uBe2Qt8I6UkQ+bWXImNvB9H6uSJQkTCCj6dsW32iGSpzkVYXeZHHs+JEd/H+hHvwzIsZx2IUTSdOSZbV/XvgFfk2brodPJ+vTB3XEG/zqL8Gdhwl8Fg1f+EtSWMPJ1uWx3XEV8AsuaOEwoKnJGDnbGK61DD334883oYd33rja/Mx4t3jD0/YhoNz1VzEEU+Hdzi/62lQbudhZsPy7jf37YSKsfN9LqcRn9PcmCra008FJGnvGdzjtQGATaly5f2VlNdzeC/tNU4qqF+XOvP7t49nW9N0P7l+lKstu+dLlRUAKwQjEESLlzaxDfKSN7tuGS6sL77705f/rUm7GtV+PYnU2y6K4rS19kSAXw5V5jYLPDVccsh4E7flQELw8GblX3qAhe1LZqszLvG4eeJHwKIVamMUV2bhkzAAC72SBTLPx3Gwtv7VYD13bDpLNI1+wAybchovjhyGH+wCKT2ECQcNdBWWxNes2rWwl/HSKqQW6S7aHD/JCi7yC1aBIQ7auRRYoBwxA7BuQ2JeuhzaWuCRlDMLRIuayr92JTj8GRhFZI0d7Is/aqqoJx5EBiYq/wTWk9dqG2oWveCwja64t8E5bWSmgL+ISPlJ28bxgJwxAyZMQmxjHDkFmUeZo85QR0/Np0HYB+3gSV56B7beGUpSpeYgrg6PIVjyiNkdOD2oTWwkmV40BfbML/KcHeP178sI4AAAAASUVORK5CYII=",
     "width": 250
   },
   "pronunciation": "ROH-vah-gug",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Rovagug_holy_symbol.jpg",
   "slug": "rovagug",
   "symbol": "Fanged spider",
   "titles": [

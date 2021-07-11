@@ -6,9 +6,10 @@
   "name": "Varg",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "varg",
   "symbol": "Crumbling, smoking tower",
   "titles": ["The Iron Warrior"],

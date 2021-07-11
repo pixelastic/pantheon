@@ -5,15 +5,16 @@
   "favoredWeapon": "Chakram",
   "name": "Onos",
   "picture": {
-    "hash": "d4a5f037ec",
+    "hash": "2a17e683f1",
     "height": 951,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACsklEQVQokQXBWUjTcQAH8F/USyC+1EMvvdRLUQ89VVB0HxAdUD6EFVQkQZilGUXlTMwuMg8WlZCjTM3MKeaMyZpJam5zh8fMzZ1ua/7d9f/v+M//9fv2+RAAhALlVFyZlMOeUSEc8EVZzuZgUqp+g7vA4OZIjyexqj7IEgJgDc1m3dLYd+SbL4JX7UH4cy1swgrsiXxI78kebp3mSH+QX03ov8V98sS4Ijy/LQtlm2Xv613KnKZIXmy4LJqYEIwszZT0sxuaHTIh8qzjmWKxQGq4L8WrtiP4q5QK3VupXF0Iv/qSaE8n0bOkaAlACMLBnozdBn/9ecnRXkJVdgsmdOUUHZtpqmYLnYwsyPos0DHLHyJIsgHn1w+YeXlEKX7bid2WHCp9PiR6D9BcwyZqcY3LwyLwzpO/TvhQ1Gusu4WBmrPKwR/z1MFF0cZKMP+8A6jX0TGLTrICGGRWOkhkzjenrShG/+Mipcq9DCc3ixlPH1xTL+DvPQ9DxCuPKAqGWMFAvAuMSfuoDPobO+UK6zxtyzHI2u4i9/00us1dtBeQBrg4dDGhj3ijqcFvD2+i98pO6cHwIK46o+hKLsC4+AcOPkUb0ympZYnBZEx8T4JMWtOp7cGrp2XSjycX6Jk3n3DUncU9JoM6JkH3+5dkdSgGW4QvJREelcbIMj6+VEm/y49Cc+cc3duuQ0Gjnq5t0tNjJp+i8bMwOFNFJBzLb/MkOIybRulIa61ifXQKXyqO05N3K+mOh2o02+ekgUAa5mD6GpkGSCCVbXGxHEwTPzH0+rZkrj6hzKgvyH0DbaLOF4H2bzJscHHrSdodIUaABLlc00Isrkw57bCaf2HaOgJXwA3nEgtXQqwfC+UJicYzq8QYSxy8SBK8snGZlxrjvOBieGkkIUKfEVCd48VCKlHyHzBRG0rPpchqAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACtklEQVQokQXBW2xLcRwH8L/wKOLBgycP9kTw6vKAyYSQkCDEJXGJkMhszFwS07mEMLOLirBgYTNpdulQM7WOZRtr13bdppt2bdeu7dpqu3O6057u3H5fnw8DwDSgTJMWHGrYNyCFQ4FYZt4x8o/Tdfd4ln73ZZgxyC+qieUZmweWaILgVQY/Q3x6HPnKLYi+vwuntABXOh82T2WK3o1zzBTKLWZyJLhNsQ5q+UclqlRaoE5Xb9EmXx9RQ7WnZWsijF6ehOKu5MpnYxJjstv1ULNbIT29pqR06xG2lJLcuo6UyuWY1p+URzIcjHHVyADGEAm2C6MOBGoPK6PN56jSaSObqYzQUkBzd9bQcHRK/ZYFPrizOxg4LvSn/RXGq4q04y9asNku4KrfD66jkLK1q2nY81v9IQMvfbnzTJyN+XsflMB054C2vXuCXJk4NfEyDfeUA/oVNDBsUhwAuhL5Fhbx+N3GsmP4dPuQVuGLkZtz0x/vJ/I6H1Ow4yj1RH1qn6bBzC9YmD8Qt7brStB9YZNa5pygplwCWft15D7uQ5vVQEZAMfFz+JKUOpk/znW1VVxEx5mNyk3LVzo1EYMh7aPe0BC5RI7qMrzSEE/CnpQb2Ex6/o3B2Ion9y8p3fdO0L7nb2mnN0s3Elk8iHNUGEioz8IpOGfFYhaVUd47m8DbKp3Sf6UIjeUHaWtTFy2rM2NpvZl22QJa4zQPyyR3iEXmxLX+NI9f1n7qa7ynOW7theHybtp/5Rpt0OlRP+pWTCEBthnhLBsDWJDPNnj5DKxDFphrLinWyj3auP6E2mlqlr8EZtE+ORex+PgVLOuNsh6AhTK5+qlkSnO5R2C3/cSYsw+eoBfuBA9PWqoeiOQZi6eFRXKKZy5RYmlRXfVPVOtSovw3Lip9aRnfBIlu5xakZaQq7D+PIRuOJso//wAAAABJRU5ErkJggg==",
     "width": 653
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Onos_portrait.jpg",
   "slug": "onos",
   "symbol": "Swirling portal made of all four elements",
   "titles": ["God of Many Doors"],

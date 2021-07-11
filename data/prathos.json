@@ -5,9 +5,10 @@
   "name": "Prathos",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "prathos",
   "titles": ["The Howling Eye"],
   "url": "https://pathfinderwiki.com/wiki/Prathos",

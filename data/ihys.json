@@ -5,9 +5,10 @@
   "name": "Ihys",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ihys",
   "titles": ["The First"],
   "url": "https://pathfinderwiki.com/wiki/Ihys",

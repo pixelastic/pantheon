@@ -6,9 +6,10 @@
   "name": "Trudd",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "trudd",
   "symbol": "Rune-carved stone throne",
   "titles": ["The Mighty"],

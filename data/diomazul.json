@@ -6,9 +6,10 @@
   "name": "Diomazul",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "diomazul",
   "titles": ["Serpent of Eighty Blades"],
   "url": "https://pathfinderwiki.com/wiki/Diomazul",

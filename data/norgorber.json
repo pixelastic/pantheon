@@ -5,9 +5,9 @@
   "favoredWeapon": "Short sword",
   "name": "Norgorber",
   "picture": {
-    "hash": "b1f61f2cc8",
+    "hash": "326090b7bf",
     "height": 336,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACuElEQVQokR2NSUxTURiFryB9791329e+V1paoUBlEhEoWIY2CCVQEINMhTQYpjZWgQrYMMg8CpEwiBQIEESNGxM3JiZGF4adO4MLVmyMGhcsXJhgENr7m3p2J+fLd1B+vk3b6vJ+Gp+Y942NPDQODU2LU5Pzis57A1Jf/3TiwODsZE1d057sPMujPIvN42x0w9zsEqytrJ/tbO5829rYPXw07/8xPDZPu31jUGirgGxzgQNVVjre2MurwdczeOJf9sPzraewu/0MFhfWwdc7BTdrmk/yrCVwrajiJWpt9uy729rB3dYZ6L8/TKdH54Iri+vByYmFYId3hDpvtQcqKp2Qk1f0GVksxd9bmu7AXU9P0Nf1APyLa7CxugUzM49hZHwJWlw9wRJ7LeTm2Q5Reob5d5m9CpwNrbS0pAoa6pqhp2sUXJ5p8PZtgMPppaZsK6Snm49QWlr2n0upJlCptBSdC4Ok5Axo9y5Dx8hbeL33FZzulWCupRxSUzN/oiid4UgfHQ+xcSlUozVQq9UO3b458L86gPf7x7Sp80UgISkbLkTHHSBR0nxRR+ohOcUUKCi4Ts05xWC8mAm3u59AvWubZpmrA6IUBaKk+YAkSbuqVusgOibhLDEpA8zmQmovrYbCIgfNumqHGEPymShpQZK0vUgQVPnqSB1E6WKDoqSjl1NNtL62kVotNhrqIVBQSseiqI5HMiIgnpe/C10pFOKpqIoEozGJ6vUGkCvEU0GQAGOyyXA8QkyEDHEy5grG5Cw0yOXKgEqlBqVSHVAoROAw/wszrJ6TMQgxLA5nGBZxLOfCWA48rwBChL88EUJG4DhcG9pZFoejG4ZoFMHiMBnDIYyJh+NCAAEOE+B54mJY7r8QhSLxBEXJFSiC48M4TJCcCGVELnwkRChiOYJkLA4zaLRIo1Shf1rkAK12RSf6AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACtUlEQVQokR2MW0iTYRyH36Zu3/d+hx2+bwenMifOQzLL6TYnlk62SSnklnkoJm7JFJnOY2ieowlqzDzgTBMjuqqb6CbqorrrLozoyptAIijoQijMbe8/5u/u4cfzoBq7UxvoDn+cm10emZ6MFkxORIWF6UU+3H9HHB+7Z5qciC74vP4PmQgzqNreEOro7IHF6EPYfLid2NveO9qNPz5cWVr/PjO9lBoenoG6+iaoqrx8HTU3t7/0eHwwNDR1sr4ah/2dfdjffQKxB5swOjYPLS3+k+oaN9TVXX2Guvx9B4HuMAQD4eTIyCyZn1tOrcW2UgvzK6lw+C65easv2dTcATab8xNyOFxHfn8f9IaGU5HIFKzF4hDf2IHo/RjMza1AMDiYcnl8YLM3HCKzufrY7fFCW1uAuNzXoLW1CyKD0xDsXYCB8S1o6+gnFZZaMJvtv1BZmfVvSakFlCoNQeckUFRcDr0DMRicfQUv3n+Dzp7VVLWjEUpLLT+QLtvwU59TAIb8YqLR5pHaWhdERhdh6/kXeHNwTLrCT5OmIgvoc4xfkUrQfBbVeiguqUjWXrpCbHYnmExmCEXW4cbtHWK1NyUFQQuCoH2LRFG3IaqzITevMGEqugBV1jpwe1qg3ukjVVYXGAymhErQglrUjSOlQnCky7psQ0ol6Ejp+Uri9fqJo6aBCKKOKFVakCuEP6JKY0QSmkUMw71O2xyvOlUoNZBvLCHZegNwvPKUlwuAMfcoS4YRomQUwjQ2Y8wl0gfLKZMKpRrkCnWS41VAY/Y3ixk9pmiEpBTOkJ4JTJDGHGCGB4aV/2NYOZwxZn0yikYUhTNQ+8UKlCnDEimFEYO5EE2zQNFMuggsywelMhplyWgJSk/kFShXUJ8JFM0gOa9s5DjFO55TOGU0gzKklKQ8vxAZdXr0HxZ0ASes5/XRAAAAAElFTkSuQmCC",
     "width": 237
   },
   "pronunciation": "NOR-gore-ber",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
   "slug": "norgorber",
   "symbol": "One-eyed mask",
   "titles": [

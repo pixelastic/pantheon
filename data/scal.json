@@ -6,9 +6,10 @@
   "name": "Scal",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "scal",
   "symbol": "Burning meteor impacting the ground",
   "titles": ["Calm after the Storm"],

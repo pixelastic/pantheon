@@ -6,9 +6,10 @@
   "name": "Ulon",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ulon",
   "symbol": "Black pentagon within a purple circle",
   "titles": ["The Web"],

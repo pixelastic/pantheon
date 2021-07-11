@@ -5,9 +5,10 @@
   "name": "Brumash",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "brumash",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Brumash",

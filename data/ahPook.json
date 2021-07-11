@@ -6,9 +6,10 @@
   "name": "Ah Pook",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ahPook",
   "symbol": "Skull with a crescent eclipse",
   "titles": ["The Destroyer"],

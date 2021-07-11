@@ -5,15 +5,16 @@
   "favoredWeapon": "Net",
   "name": "Grandmother Spider",
   "picture": {
-    "hash": "b99b8a5654",
+    "hash": "de1440fb68",
     "height": 274,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQokQEQAu/9ADpUfABceaoDW3qsAFh1qGZbga9cXn6vAF+AsANPdqEAAEFdhwAwTYIACyhsBVdqjJdujaiAAAAAAAAsfwA5YYoAAG5+kwJrfpQAc4ecVVZleWV7nstJb5bGRnifyAB7oMkCAKKGmgDAjJgEb3+VeYCiu2+Fp8hxfZ/DYP///wH///8AAFVheABYb44xcYKUc3yTqHmKqclpl7nVVLLDyyOvwMcAAD5OfgVJXoFObH6Yc0VARRG/2fYFp77UYKC4yTaFlKcCAExtkj5Tb4yfVWyDPkxjegCnxdwAjqvEL5y60YipwdI0AFBwmpFWbY+TTV99GDZFYwD///8ArMTsDpmmuI+hrMCBAGGTyoFvja+Sxr++EOTX0gCWioUAjIWJFYaRoo+AhZqRAIi23DF1nsGJeKDDMI662QBlbYUAcoSZO2d7k55ian9DALDt8AJSjMQ1WYauX5q9vAZzfK8NZXmWcUtqgVAgQlgHADtxswAwZq4jV4ewU3COqmVhfZmBRFx2dEhZdjQ3VnkAAApLpAAALZ8BWomuXmN+l3FLaYlvPFt7ej0lLgc5Lz4AAFV9pAJXfaMAWH6iRGSDpks+ZI5gRF9/WUJghABBX4ICAHCR0QBqYq4AAAAAAHOf0n1gha6cQTUmCEdIRgBWaH4AAFyDyQBdicQDXYnEAGCPxl5afKpsXYjAAFuGvANah7AAZJje63FV8s0AAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQokQEQAu/9AD5XeABde6kDXHurAFl3qWZdgrBcX4CvAF+BsANKeaAAAEJghQAxUn4ADi9kBVZsjJdvjap/AAAAAAAyfQA2Y4oAAG1+lQJrfZUAcYaeVVRjeWV4oMlJbZfERnagxgB5occCAKaKmgDFkZgEb4CWeYKiu2+Ip8ZyfaDBYf///wH///8AAFVieQBZcI4xcoCVcn2SqXmNq8dpmbnTVa++ziSsvMoAADdPfAVIYIBNbH+Yc0M/RxDD3e8Fqb/TYKG2yjaEm6wCAEttkj5Tb42eVGyEPktifACpxNkAjarDL5250YirwNM0AFBxmZFVb4+STF98GDVFYwD7//8Ap8XmDpiluI+frL+CAGCUyYFuja+Twby/EN7V0QCVhY0AioKOFYaPo5B+h5uRAIe03DF1ncKKd57CMY231wBlcIkAcYWeO2d7lp5ja4FDALrn3wJWjcI1WoavX6C7wQZ0g6wNZHmVckxpglAhP1gHAEJ1swA1aq4jWoexU3COrGVhfZmAQ1x4dUZadzQ3V3sAAA9LoAAAL5IBW4mwXmN9mHBLaIlvPVp8ej0pMwc4MUIAAFZ9pAJXfaMAWH6jQ2OEpko+Yo1gRV5/WUNfhABBXoICAGmVzQBWcK0AAAAAAHKgz35gha2cQjQrCEdGSgBWaH4AAFiIxwBbi8MDWorDAF6QxV5ZfqpsW4rAAFqHvANahrEAmK/fB26yONEAAAAASUVORK5CYII=",
     "width": 137
   },
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "grandmotherSpider",
   "symbol": "Four-pointed hollow webbed diamond",
   "titles": ["Nana Anadi", "The Weaver"],

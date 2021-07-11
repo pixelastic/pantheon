@@ -5,9 +5,9 @@
   "favoredWeapon": "Warhammer",
   "name": "Torag",
   "picture": {
-    "hash": "f381dc82eb",
+    "hash": "782bfe56c0",
     "height": 382,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAACUElEQVQokU2PX0hTcRTHv5dA6qFHid4KgqB66j3qIWWVSfgnUPszdboaNv+suttgd3fT/fPPnGu6bt47t7Vddc5/M5tigxaSVBKlxMoRodGfh8AeCgq8+8WdWB04h8/hfDiHg+TCY0wl5qmxsQQePHzUFhtPbEwm5tZnkyn1xOQspmcXqPlUGuCHojDcMlPKi7Wwmh1KPjRKhHBMYk22yqoL1dDfNlOhSAyQi/JyAwghiIhT0LUaM20thqfhaBypxRdUiaIMkeE4IARFVJRUQA5Z1jRq3zeptcsyy1l2tgzB+6OAwWBFqeI/saFpo0ndvLojlhaXo7ezPz+H4lTpNgCoV7Z8baxrXpMlOYpPnv87Q3Wlagd3qep13xrqdR92xDOny/+JyksaFO4ulHFPrbJ1U1XX9gkAlReLKrelIwodik6cyzMF7K2pvvG9pkrzWW7lrccOHMf+o1eAVHqJcvXwBXx4GAzDHtJcuyldV+t+ujpd+2IzSbi9oYL04jMKz5dfossTzX/oCyX0JpODMIwz5wvPaOUrHt8IXq+sAiuZd4c5Ic74/OIbQZwmqtqWXN1VLQmICeLtj7wSQpOGzFr2IDghts7aA4SxcqTb7ZcYxpEzs85cV49fMlk4YnEECB8cf4sBIf7F649uOXv43ybWvUXTrGQ0WiXG0rvlcvO/PAMRiRua+Ag/P/KDGxQJF4gSWt9BXJ1e4nB6iN5oJ/cCIrk7KBK/MLoJm703YrN70u3tXXM0bVm60x/M9vkCWZpmF9s7upM2u+eJw9kn/AG2OS8GPbDClQAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAACT0lEQVQokUWPa0hTYRjH/4dAKOib0OdCiOhj0McwKlHSwNQCL7WLd215a2eOebZ12txsm3OmO+o5bbqLzjmvabMsMbsIGdgFC6VCo8uHwD4UFHj2xqtpD7zwf///3/s8z4upe3MYmZhmIkNjGJ+aqYvEJtaHx6fX7sQflg2NTGJ08j4z/WAe6JHC0LFG5lK+CmaTTSn6I0TqHZSNnDXvQnYBWK2J6QtGgd5AFIqiMhBCEAiPoK5W/7a2Rv+0LzSE2fkFJjM9F8H+GCD6+pGTlQtaFK4s1byvKtMsUk1P9tkc+AMRQKc1IysjbxesKL2yXlV+9fUOSDt6WoWtHGknz20LACplzbcSlWaFQrTOpGbtZsi/WLIj96jV9d+L1fUfd8D00zn/wctFlUjel0zlXqWidqNYXf8ZAEONjLTttXA8tRqnTmT+e8LsLyyo/lGYX/GFXmjXoynHcOjIeWBmboGxO3uSJP8Amgx8SkX5NbmyvOGX3eY8EB2No7XdnzT7+DmDZ4sv4fAE6A8Zr29MZ2iyEQPXkhD84xo6w90ZxotXy8DS8urhrttR7pYQXPaFRolaVZNQKjTEHxojns7AktQ3rH+z8uEguqTBtes2kXC8lzhcgsxxtoTRaE/cdHpl6tFM7I29gyBFv3q8oU27U/zDmVybrNYkNzbyMmdu3Wxxib/dHUG52xf7BEEc+CmIYdIthQmru0HsLR7SbGsjjXrrlif0hIkgDmzAYnUHLVb3HM874ixrXvB0+Fbb2qUVVmt+wvOOuxar+5G1uU36C8Z0LxV13CQPAAAAAElFTkSuQmCC",
     "width": 240
   },
   "pronunciation": "TORR-awg",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Torag_holy_symbol.jpg",
   "slug": "torag",
   "symbol": "Iron hammer",
   "titles": ["Father of Creation Father of Dwarvenkind"],

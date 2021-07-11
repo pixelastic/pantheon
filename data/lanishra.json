@@ -6,9 +6,10 @@
   "name": "Lanishra",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "lanishra",
   "symbol": "Sabre-tooth tiger skull",
   "titles": ["The Slavelord"],

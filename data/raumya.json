@@ -6,9 +6,10 @@
   "name": "Raumya",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "raumya",
   "titles": ["The Evil Prince"],
   "url": "https://pathfinderwiki.com/wiki/Raumya",

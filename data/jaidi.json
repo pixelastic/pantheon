@@ -6,9 +6,10 @@
   "name": "Jaidi",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "jaidi",
   "symbol": "Shepherd's crook bearing a sun",
   "titles": ["The Blessing and Bounty"],

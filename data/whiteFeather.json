@@ -5,9 +5,10 @@
   "name": "White Feather",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "whiteFeather",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/White_Feather",

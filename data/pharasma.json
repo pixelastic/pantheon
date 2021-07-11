@@ -5,9 +5,9 @@
   "favoredWeapon": "Dagger",
   "name": "Pharasma",
   "picture": {
-    "hash": "b90d5b6668",
+    "hash": "524934f0de",
     "height": 297,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQ0lEQVQokU1SbUxTZxR+7m1nFolfUGhv28u17W3vvfS2wOgnXakwaJEJQ2RjYVDnakGmZGrcIgTwM0HMXLaZkZkw/bMl/GBGoi7GPyxZtmSYGKPLYuKy6IjL1j+4zBkE17Pclsa9ycmbPDnnOc9zzgEAVFg4VKk+qGYbKoqKGA0LD32D6nK5PtjSfzbcM3a5dvepaf+bQyNOKRboJdJSENLnPkC1OSABkF9gmI2rmL+ha6jxxFcrnVdv0a5bNyl19x713nhA8ck5qk6OHvS9/zVenphjc8nuugQUHUBE+JkIwda+c72zd2hkif4doX+WTtCD5aP06/Iw3X6azvxOkQ+/e2Rcoy8r0RXaAQi+foB1+9rh8cYGE5Pf0hmiZx/9TTRwb5GSdx7R/oUsnXyySMmHj58FR2dJEByy1aLp1iw45QKPLpQ6Pp+8u0xv3XiYbTz82W/RnR9cDb199Fri1NTNtqlrT6MTs+Rp6/88fp/QvToLqFV+xgLADNjqjnyR6f5piYL9E/MGwC5x68OK5OkTuZIWp8P+qhppTmlWxVIDJMeqAskXZUwAtILI+Mxi88UF8sZ6PvG85HWrsfiPcrB5ylXfvSC9tm/mEBF4AKISYF1SZZ7A/twCW73v+PXGSxmqemNs3gqUit7wWLnVmuZNfJvYvPe2s2ngSyl9HlL6AutQwqsK4tugtu9i5WgCrkpfa2h8mgLHrpDkjg6bgWJHZXRPANDbfNs77VtSfxQDazTFghLJ3QzUlh3QgPhjQuDcD5qiw5WD56lq7wWSauKXTYDKFTERoa7jl/JQ65xrdAbKx98zFrsnr2AzL8CYH2LuudKTsLmCfWrPpxnPu2fJ0b6HhC0dZA03/sWJ7hqzUgOLN8Tycih/PFps7+xCsQ6w6YE4ERy1O2EBOLt/a6+9bWCCj3UcKS1+kTd7fbCGE4xQ34VypfY5QSGGB/sg6gGla5zVVutsegfy0DQ279iP0rL1sPobWGFrEuLu0+A4PkegKxRns1ksr6zgz4X78Fe4IHqbGOcrSZ0zfUYntKR0nCQzlvoGCN3vwSTY8n6JyPJ/gkJkMhlYy4zgDQaYjUaYDCUo0vYMoGzTOhg3rM0R/AcMpDRfQwFSawAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADU0lEQVQokT2SbUxbZRTH//fW6BJnzGBSSnv70Lv71hcuay+3UEd5FdaVyVgQDIw2tDjaOl+YiRnKGA51bsO4mC1iFoOaqFHjNLJlRhO3D36SxUzFD7r4toUPji/Mt2QQyjG3BU/yPB+enPM75/+cPwBgW7kd3kANRAcD27SJs96CRy5CdinN2zuGT5uJI7O1+0+8H3p4bFzSouFHiKwUOAo3AFkQIABw8SgUW+Fr7h1tfPHdle7PrtLgd99S+qefad+V6/TA9GUKJg4/ZRz6CPdPXeILyXpjF9wcQET4nQjBzv2v953/nsaXKT9O/96epBsrE/TbyhjNL2cW/6AdU1/dKuP4shLcW+yWWCQYvQd5xdwLTW98rG36Mr1CtPry32uUvbZEiflb9OQC0eTtv2hw4Z/V8OFPiTlF1VmuFgGqR9qY3BYempxL/rhCA3ML1PjMazfM5OiFUHLiYvPzb33TcfaL5ejxWaranZlu+ZXQs/4X8OlhrhyAHfA0jM/c7P9hmczM8a/vAjySfUtEUfVhVloWFyvccV/dziFLqri1FIqoFAHeUANXUQSI0WPnlmIfX6dAc/+rVYbhC0Tjc2rdrje01n0Lga4D59qIwAAoXoNXFH1dgvi/BN7MHP28/ZNFqu579ooLuE/dHp2QPHJGcrM9WkduXo1l3lGzb0LNvc17/aFilR7dherONO+vj0HTzQd3vPAh1R29QJoeGXMDJWqoKRcG7lAjHQ/JbYM3HcCdbss/gdri2vWWbjgBtC4RjFNfYpvkHQ0+MUPBx2dIMdvOM0D3lG6ul6J7f/FEdl+SDs1CPnGVq5T960ZyCQWApc0KT/oMJK8xXJU6tVj96GnS9uRIbOihSrP9T6boBvPVgFVFeLevBsivrmJtbQ2pdAbilnsg2YAoEaSmhOVOhxKJJ9XOAyelht7nWOlmQfCHwcydnKu+G8xvAvl8vuBA63xw9gxqxXLI1moHXuIFG6DFUvA//R6kzhGwshK4jRbe3TIAR/+xwuQWwLYBSPT0oCsWQ3dTHdStd0MxWjmtPWlT01M2sX3IVin7uQqjCUI8B3HDA/l83mlJsAAjuRxSfX0YyWaRTaWgMAZFECBXipCZBweJEL5GkJ1OiHZ7AfAf19QsS70ZjKEAAAAASUVORK5CYII=",
     "width": 308
   },
   "pronunciation": "fah-RAZ-mah",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
   "slug": "pharasma",
   "symbol": "Spiraling comet",
   "titles": [

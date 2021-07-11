@@ -5,9 +5,10 @@
   "name": "Child-Goddess",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "childGoddess",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Child-Goddess",

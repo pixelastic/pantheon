@@ -14,9 +14,9 @@
   "favoredWeapon": "Whip",
   "name": "Lissala",
   "picture": {
-    "hash": "5b6b539562",
+    "hash": "f60e34000d",
     "height": 425,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLklEQVQ4jWWTS2xbRRSGf7/aQu3r+7IdJ05tEqUptERNVQqCIgGrqEhUBaXpAkjqedzrR6JUCbQSVKT2OXPtKCpiy44FXfBo1S5ZdcmCLRJbVkgsQEggVFgYzUVCqpjVjM6ZM9/55z8Y77yA8e6LMN0mWJdBysFgDdi/ArRvbCPpNldeKgIOgMlkgv+tZOsUkq2TML0WWJRzHNUyrOsZ1jWwnqqz9O7fvvFq4WD3HMZbJzCyeSrIcNzIDDcKwOjaGYy2lwvJ5vEqCw+m2wJJ9xAJByy9LRbO36bX8kynAdbV3N4aMqwCUFTH8OoTAK0XMrRxGKwr11n5A4tJKgRdvwLWtTWW3kNW/jLrCjiqY/A2bO6z3Jk9N3wH9lCzOOBo1iXh/Eqi/APpcMUGTWe2ycL5iZX/Om0cAkdTF1g435J0v6NopkWqCpD0bE85i2V07U3WFSZR+o2E84BVOCBRnLD0+kl/rsk6uEXC+ZlVtZlSCjeLzz79AiaezgzX8/kP3wI+ugjb+20WzoSkv8cq2GEV3mFR+otF+ReKG/MkPKtTftguAQe7r1gCUPsoRr2FI6yC8yzdO6zCPosiqF2y8Utpe7KySCoAd1o2P2s6TWB/+2yOdXiKpTtg6X5FovSIRGlCuvqaFW7Ub4Gj6klWwQOjwze4t3CCdX2ZRBlpARPPXmDp3iVR+p2Vv0/R9FlSQYek+03SmV462D0dkvI/YVtUOI9YuvftAyy9vaQ3XwTFT2HvMpDsnC+wnmrS1cNg6apUPB1+zsL5g6V3j1VlkaT3PCt/laXbJukOTNxYAUXHcPMiYPrPIOnO4eaq/Rn3S5Llr6k7V0u/TTjfrwAYrOdh0Vkcta6FiRvAe6sFjLeXwCrMsvKtL5okyz9yPHNp+K71SXWJpfuQVfgxx9PV0bXnLGGeZTln4kYmnQeyqko3R7IMVp4iUfpzKP2XjayD2kV74QMSzsTEDc9E9XQWHh+ozQXcuox/barCfdbVM0OLKr3s+8tIY6yCu6z80ymlCrKPFTD9p2H6izC940eSzSWH9RSGws1R+0mYeCZrOseQdFqL4/58K0n3zf8I/gFCXizgQi9+LAAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADHElEQVQ4jWVTzW+URRx+dreVivt+70e7W9iW1bRSaqxgTBo96ImgUdRUwASwnZn3ffejRT4SYkyh7M4z7y6JGv4Hw0XFyNETRw5cTbx68eBBQkJi0MOaeY0kxrnMZOY3zzy/53kG44tHMb50FFnnAKgqoAqxuwFc+xC4aS7DpM3jp5eBN/cBk8kE/xvZ9jKy/hKybgtaOCUm9YJJ6gXGVZikNkfp/zC+sj49+nQNWf95GPuQDAtMGgW9uQ8YXTiC0c7KdNZv1yhcmO4hUPrPaOHYeYfC+YudgwGTOTCuloYfo0AZgMks9NZ+YHi+WNCfTINx5SqlP7A0bSvm6jtgXDtFGdyjCtaoovzS8CxAFa0ybb46PAdYVEsHTBs+hfuQwv2ZcfX44CxgOvMtCvdXqvBtS5dx7QSFe5/Sf8CkscC4BgyFCy2Dkpa+BfuAKiKF84jCvUsVDbQoTyj9ftZdbFGFNyjc30xSb+WCS7+IW1/egEkbheH5qalrp4Ddk7AHX2jhTKjCParoMlV0m8L5Uwv3d6bzbS1DaOlPWZ0wungst05vPYestzhDFb5O6d2mqvQpytBbZdvz+1q4D3VcW7JamM5BW1+0M7KdwyWqyhFKb0Dpf0vhPMlfj6tv/VvMuLpCFd41cfSu6R5aZjK7poWLzAIwaZyg9O9QOI+poptMGseoog6l/6NJZldHOysRVXiLwplo4TyxubBrymAv6y2WoZN5XP8IyC6tTzOut/TmDCg9lYunoq8p3MeU/vdUlSUtg9coww1Kb8tablMKHTew+x5g+i/CdBdxfcOK6H2jhfcduwt1Cuc+hfvTBgC9+SwsdS3KtsbGHPjsTAnjC6tWqGKesLjW0sL7hUnj5OBcyfa/Sunfowq/0vFsjdsvWZemKL2SSZuF/D/kQkm/ZFEpfUXh/KFl+MZQ1XJ3KP3P877TZmDTSBX9c/Hph+q1sXcasOmjisaMq69o4Vmvi1fWgb0zdj+4o6X/ch44GRT/A2B6L8D02jDd9ozZPuwyrkMLvzTc3A8mc0UmTTA9sJR1FxaYNmHS+acM/gbkZCvZ6A5uUwAAAABJRU5ErkJggg==",
     "width": 428
   },
   "pronunciation": "lis-SALL-uh",
@@ -24,6 +24,7 @@
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sihedron_Rune.jpg",
   "slug": "lissala",
   "symbol": "Sihedron",
   "titles": [

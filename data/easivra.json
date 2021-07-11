@@ -6,9 +6,10 @@
   "name": "Easivra",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "easivra",
   "symbol": "Eagle head in profile",
   "titles": ["The Dawn Eagle"],

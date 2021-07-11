@@ -5,15 +5,16 @@
   "favoredWeapon": "Greatsword",
   "name": "Ashukharma",
   "picture": {
-    "hash": "5582af4950",
+    "hash": "4c63f6338b",
     "height": 500,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADQElEQVQokR3RT2yadRwG8N/aJSZbgfcP7z9eXl54GYUXeIEXaIF2jHbFrrOstbZrKetaxaXZTGtbrZtmLmZGTXRqXLJE47wZzRLjwSzx0osXbx6s0asePXiYxngp8H1Mee6fPE/ysLm4xE6e9qp5nW+XDf7LWkT8rRoW/42JHqqZPJ23/P9Uw8LPZYP/wlF9LTZ4mqsYPGMVU9hasKUnl1My1rIqnnc1rLsabMWHWljAekbBqqNgJSVjLiaiHhH+TKvcMrsYk7CWUY5RZ8lROyOm2IsrPjJFD4X9HmrEJWq7am/d1TqttHzUSkqYikp/MTfg69UssTdm8pTUOMQUjqbiClUsCZbMIaVxtOFqtFMxcGNUp+2S3q1bIthGXqdb4wZePWvSftXEG1NR7E9YaKQDSAREDGsCKhE/XhrV6cW8RtcLGp615SdsczT0991aCG9NhulOzcTNWhi7NQtjURlJQ4ITkhBWeFQsmdYKwV4rq2E6Jv3CmpnA4faYiauu1tsaC9OMrSEbFJDuIxl2UMJ5W8c7jTR93Eh0P5iJ4WrB+J41C5Gv707HcX/B6bw97+JcTEXBEJANSX1UsFS8u+DikyWX3ptNHd2bz+DGROIee2E8vvvZShGfXyl3LjohiiscFUMiiqYESxFwve7g07UyfbTo0oPmSPfBagmXR880WXnYKL7/XBGrxQiOT88HRcoFhf6PTzthPL45h2+3p+mra+fo0bUqPlzM/2eokskYYyeWi9HDUkhEQee7JUOgnM7TsOTBSjmOgzeX6Lv9efpma7rzaHMCr9WTB/hxl7HXZ7KsXU3uNVI6XI07KodEZDWOckGRbIWjvak0PX7lEg5uL3UetiewUkmstqs2Y2zAwxg7ObRTd/64kNDgar7OiCEgZ/gpHRAoo3hxKRU8uvVMHhtn7Z+OFx7PZHsXsoN35kfYZj03tz2ZRMUQqBDguhldQEbjUNS5ju0fQkr2YjYdqixmw6weDwz08cMrpYH7zTJbyEd3xiMyijqPrC70CkGhlw9wcFQfRO9Qqxrxs1lbG/x1b7Lv+vnh5dqJ29Mppvv5hq3yvzsBHq4h4ozfc6h4T437Tz3FljN6vwkA+x+IEju73RtPVgAAAABJRU5ErkJggg==",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAACXBIWXMAAAsTAAALEwEAmpwYAAADPUlEQVQokSWRW2hbdRzH/1tBRJP03O/n5Jx0zcn95OS0uS6pWZrW2qYl3dYmNnaXjs3pSu16gU1hAy+gVXAwUJxvsikIIgqC+uCbT4Kb4Ks++iB4QXzJ5feTxO/D7+n3/Xx/fH+kYXPE5wvIUyq9VdDpj54ymZ9nTOafMPskVIM01Cz275kg87BkMB+6Cr1BHg/QRZ0ipGSy282o8NfZmICdlIjn0xJuOhJGBD9WgjQ+lxSxHRdwLSbgSpjDeoj9zVHodbIQ5rGTknDDkbpnE2Iva9ADWwhAkPWDyflhyebhgisPNtNyr50Qu0PI7AT/O8mo44NKiB0UgjTEpQBOCgGYneShaHEQEimMyxScc2XYKWh4NavitZzar0+wSM5l1MFhJYh75SAcVEy8WbXgoGzCUkwCW2FxUmawYLFwNafBRU+BK9MqNmPCH+Ryzvjzdi2Et2oheKVqweGMhbtlC4oWDzFdwKTOQ1CgoGBx0Mmog3Zawbkw/4i0HOXRtZKJHVcdvFg0YSEqg6MykNBYSBoCRjQeT0UUeG0xAe8sRftvPWPjpqd/RVqZ4IPb8xF8t5nqvbqchsqEiJ7OQErnIKJxmLFEeGMlDXfOZOD1pUT3aCWFL1TCR+Ri8cRL77em8INOvreQ0MEWxsEzWPCMYTk0Pl9LwnsbeXh71YW769P9u60srk+HWiQfkrw3VzPYnjLxBOcHV2chrTEQlSisJw34Yr8Bn23Pw/1LFfj4UhmPTnv/WiIbJEOteebDrMGgqzL97NCo0jj85VpuEr+52cTP9xvw6fbTvU8uV3G/HvsWvz8g5MZ8gmydDO8uxlV0FaqbM1h0FAocjYWISMH12Th8ubeIX99o9u5dmMF2PtzeKtvDvLHh8O3U4r/ORWR0Zao3rTPo6BwkFBpSYgAbCbV7uODg+ZL9AyHk2OjM63PJsVvLGXLlVHJ5uxrFvMGAp9L9pMpgSqbQU+mezfsx/j+gcMbRSd2Wjo/M9zZyx++0cmTVNXdKFj9cRkelB67GDlyFGgGEgO/ZSogjizF57Me9ysg30ne7tWMvz8eJzow3YhL1S0Km0dUYDPOBnzTKd5J74jFyOimPkhCR/AcdbTtLByeloAAAAABJRU5ErkJggg==",
     "width": 432
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ashukharma_holy_symbol.jpg",
   "slug": "ashukharma",
   "symbol": "A deep, jagged gorge in dry earth",
   "titles": ["The Divine Divide"],

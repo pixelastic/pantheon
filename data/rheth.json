@@ -5,9 +5,10 @@
   "name": "Rheth",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "rheth",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Rheth",

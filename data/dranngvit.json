@@ -6,9 +6,10 @@
   "name": "Dranngvit",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "dranngvit",
   "symbol": "Crossed picks",
   "titles": ["The Debt Minder"],

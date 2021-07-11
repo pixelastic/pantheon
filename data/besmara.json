@@ -5,9 +5,9 @@
   "favoredWeapon": "Rapier",
   "name": "Besmara",
   "picture": {
-    "hash": "c0af23a752",
+    "hash": "fdc61e38b5",
     "height": 217,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAYAAAC9vt6cAAAACXBIWXMAAAsTAAALEwEAmpwYAAACc0lEQVQokRXNu08TcRwA8N/mYtwdwCotvbZ313v03tfrXa+00AdCUcDnIOURFBBpoJUKFBANKkRJhGgwIdFBw4ATC4OuJgyaGOI/QFzEYGSQ6/2+hvkzfBDLcsOBYOgozHA/TSu+z7D8rhGzdgzDmk01t1YigvosEGIKqqp32HZTts7jzYqS0qlpen9Hx2UP0vWo4TnvhUxLM2y+ew2KqgMvqGDZKZgcH4O1lSXoK/SAKOmQSCThUXUSZFkGgghCPn9pAzEMF2/0B0BTdXd1ad59t75SW1ledCaKY87e7mcHwHUO9n/UZiql2tOFmdrQQG9NFKV/vkYCQiFqE9l2op4ggkckxQDLSTiXbcXVSgkeTpfx0uMq3v74Hm992MDPF2dxd/dVLEg6jgiyS9EMCIK4iFiGO0NR4T+qZoCdSGEzngLTTkNfzy2YmhiFeyODcPdOP8w9KEGh0AtaNI5lxahxvAAkFd5GsZjpJ0n6F8sJQLOia1kJPD8ziafKRdzVdQXfLw7hcnEYbly/CU8WqjBdKYGiGi4d5oGiwt9RmGZafI3E3+ZkEs9NlY4r4yPOte5Ox7JTTjrb5mQyrU5LOudkcu01VTPd0aFB/GZ12Y3FTPD6Gr8hmmbyXp8fNFWF4vAAyLIC/gAJkqyBEYufbCDJOgiiAnxEggZfAKbLxeOLuTTU1Xs+oWg0dlsUJQgEya/1noYdWdG2olFjXRDlNUGUX/G8+DYSEbcZhvvCsvweTTOHNM2Az+eHTCb3EjU1Jc+2tbWTh78PTiGEEBGkkCjJyE8EER1mEcsJ6Jyn4YRQT6H3tGlaFxRFy5Mk9SKTyRn/AWEGDI6Dqyl5AAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAYAAAC9vt6cAAAACXBIWXMAAAsTAAALEwEAmpwYAAACcElEQVQokRXNTUiTcRzA8f+tS9C5iy6de/8/b9v/ed2ePS+2F7dpajiLvDhHpqmliVOnTisrJI0kDcooKiIoyJMdiqBjUFAE1r2XSwgFHvTZ/r/w8D19Dl8UCZPhYBDvsqzw2zDMXxwf/qjr5puYbiwkk+kyIcpNf5DrUxSt0zKtbF19Y1YU5bymav3dXXkXMuKG3tDQBJl0Cl48vQ+KEoUIUcG0EjA1cQnWV5eh2FcAImrQbB+Ha/PTIEsy+HwB6Gxvf4R4XrC83gBoarS2trxYe7xxp7q6suSUxked7U/vHYA9Z+fn92qlXKouLVaq5/uLVVGU9jweP4RCzEvUbNv1Pl9wN4Q54AWR5rKttFKehKtzU3T5+jx9vfmMbj5/SG/duEy786cokaI0QuQaxhyIRFpCHCccwZj9p2kxsO0kNcwEmHYKioVemJkYhdGhczAyeBYWZkpQLBQhGrOoosSqgkAAY24L2ZbtxZjd4QUCLEdqhtlMr8yV6ezkOM13ddPS2MhB0HOmB5YW56EyXQJFjdVYNgwYs18Rx/Ipj8e/m0wk6MLs5P70+AXndL7LMa2k05Jpc1oyrU46nXOy2baqqsVrF4cG6IP1lVo8boDb7fmMWIbraGrygapoMDY8ALKkgNcXAknWQNctUFQdJDkKhCgQjkjQ6PbDbGlsvy2Xgbq6Y++QEY8PSqIMgQD+4nK53yqy+ioW1TdEIt8lRLoXDpMnkYi4xXHhDzwf2WYY7i/DcHAwzWVa1lA6lTp6suME/vPj2yGEEAoEQkgkMvL6gohheCQIBNW73AeEioXew5ZlN6iK2okxc7s1l9X/A2j1DIqsCVH+AAAAAElFTkSuQmCC",
     "width": 343
   },
   "pronunciation": "bes-MAR-uh), also known as the Pirate Queen, is a goddess most commonly worshiped by the sailor-folk of the Shackles or Ilizmagorti. She is said to captain her legendary ship Seawraith throughout the seas and waterways of the Great Beyond (especially the Maelstrom",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Besmara_holy_symbol.jpg",
   "slug": "besmara",
   "symbol": "Skull and crossbones",
   "titles": [

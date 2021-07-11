@@ -5,9 +5,9 @@
   "favoredWeapon": "Spiked chain",
   "name": "Zon-Kuthon",
   "picture": {
-    "hash": "e8bce8a8d5",
+    "hash": "51653a2043",
     "height": 264,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQokQEQA+/8AISHkQBmaEkAnJyEPqmqj6i7u6DiwMGl9LKzlt6jpImfnJyGM25vUwBaXDMAi4x6AABpbEkAenxjjIuNb/+vsJH/zs6z/9rZwP/Ixqn/nZ5+/4WHaf96fGR4cXNXAHR3VQEAaGpRdXh6Xf+bnX39wMGg+uHhy/7v7+H+5uLI/cTDofqUl3f/dndb/2hqUV1iY0oAAGFiSex+f2L/o6N//MvMrf/k5c7+6+vX/t/ew/7Jyaf/n598+3p6X/9hYknccXRaBwBhYkr9entf/p2bdf7Kw5P+39mw/+fpyf/e1qv/x8GR/piWcf14eV//YGFJ8VVWOiQAaWhP8VRNNP9PRCr9dWY9/8KzfP/f2az/vKx3/3BhOv5OQyn9V1E3/2hoT+NeZVERAG9hQOcoIBH/EA0K/Q0LBf9/eFT/yMGS/3FqSf8IBwL/EhAM/C8mFP9vYj/Z////AwCQeEX8X1ZE/iQjIv4XFg7+aGRI/pKNa/9gXUL+EhEL/iooJ/1mW0b/kXlD8HpyWCMAjHtS/3FnVf9nY1H9cnFR/1ZTO/4SDwj/XlxC/m9tT/9lYFD9em5a/4p5TfJsYUAjAHZtWb5lXFD3cmlQ/4aCW/43Nij/CQUA/z8+L/+JhVz+bmVP/WZdUPtzaVOemIh5AABoXlGsY1xT7z86KPZtaUn/cGtM/mJcN/51cVL+aGRE/0M+LvJgWU/0b2VXk2lkVQAAcmth32tjWsQrKiPSYV5E/7evhPmTjmf6vrWJ+U9NN/82NS7BamJZ03NsYc/Dv6wKAFxUT+NKQ0CQODIhe3hsSv+IfFL/hHZO/5GEWv9wZUT/NzEhfkpEQaVfV1HZxbytDQBORT75SkI7b2hkUwBrYEGObmM/p3BjPJd2akaibGBCh9vQqwBKQjuGUUhB8m5iWjEAZ2BV02tkV2ppYVIAjnhFAIByQwB4aT0AlIZaAJJ8RgBeVkoAaGBVfmhgVdFwaFhZAGdeTXRpYVNVcmtdAHZrUgSAckMDfW5BBI+CVwN5bVEDgHhoAGhgUWFoX05sWVBFG/ijgLgaJUCFAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQokQEQA+/8AJGFiwBpaEkAnJuBPqqpjKm9vJ7iwsGj87Szld+kpIagnJyDM29uUABYWy8Ajot4AABqbEgAfHtgjY2Nbf+wsI//0M6x/9rZwP/Ix6n/np19/4aGZ/99e2F5c3JVAHd4VAEAa2lPdXp5W/+dnXv9wcCg++Lhyv7v7+D+5ePI/cTCofqXlnX/eHdZ/2tpT15lY0gAAGNiR+x/fmH/oqKA/MvLrv/k5M7+6+vX/t/exP7JyKj/n599+3t6Xf9jYUfccnFcBgBjYUn9fHpe/p2bdv7JwpX+39mw/+joyf/d16z/xsCT/piWcv16eV3/YmBI8FZVOiQAa2dP8VRNNP9ORSv9dGY+/sGzff/f2az/u614/29hO/5NQyr9WFE3/2pnTuNiY08RAG1iQucnIBH/EA0J/QwKBf9+eFf+xb+U/3BpS/8IBgP+EhAL/C4mFf9uY0HZ////AwCNeUj8X1dD/iYjHv4XFQ3+ZmNK/pGNbP9fXET+ExAJ/ysoI/1lXEX/j3pG8Hl0WSMAjHxR/3BpVv9nY1H9cnBT/1VTPf4SDwj/XVtD/m5sUf9kYU/9d3Ba/4p5TfJsYkEiAHVuWL5jXVD3cWlP/4SBXv43Nir/CQUA/j8/MP+IhGD+bmdP/WVfUPtxalOelIx5AABmYFKsY11S70I5J/ZtZ0n/cGxN/mNaOf51cVP+aWJE/0U9LPJfWk70a2ZXk2pmWAAAcWtf3mxlWcQvKiPTYVxF/7evhPmRjmr6vbaJ+VBLN/85NS3AamRX03NtYM/BvKsKAF1XTONLRDuQOTIme3ZsTP+Ge1T/g3ZO/4+EXP9uZUb/ODElfk1GPaVgWk7ZxL6uDQBNRzz5SkM5b2lgSABqYEOObmJAp3FjPpd1akeia2FEh97LkwBLRDmGUEo/821nWDEAZ2FT02tkV2poYlIAjHtKAH5wQgB3Zz4AkIRXAJCATABeV0oAaGJUf2hhVNJuZ1hYAGZfT3VoYlNWcmtdAHZsUwR+cUMDfGxCBI2AVQN4b1MDfndnAGhhUmJnX09sWFFFG8SRgI1MbqGeAAAAAElFTkSuQmCC",
     "width": 206
   },
   "pronunciation": "ZONN-koo-THON",
@@ -15,6 +15,7 @@
     "hasPicture": true,
     "isMajor": true
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zon-Kuthon_holy_symbol.jpeg",
   "slug": "zonKuthon",
   "symbol": "Chained skull",
   "titles": ["The Midnight Lord", "The Dark Prince", "The Prince of Pain"],

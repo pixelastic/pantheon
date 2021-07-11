@@ -5,9 +5,10 @@
   "name": "Vineshvakhi",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "vineshvakhi",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Vineshvakhi",

@@ -5,9 +5,10 @@
   "name": "Tiamat",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "tiamat",
   "titles": [""],
   "url": "https://pathfinderwiki.com/wiki/Tiamat",

@@ -5,15 +5,16 @@
   "favoredWeapon": "Bite or whip",
   "name": "Dahak",
   "picture": {
-    "hash": "0c92de0669",
+    "hash": "06e9a24b41",
     "height": 548,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAACqUlEQVQokX2SfSwUABjGH3dhWosoNXI653ycc6T+iEyYbB0pldvlK+ckDBGbRVpMmpBN/jCTVjO1mOZzPk75bOPMR0fzUTnOR0Kt1ZYJb+PaZFrPX+/2Pr/33fvsBf6j9kA2lpNNMSIxhuwii1HpaYRil8Ocf5rrRGw8EZpv1lQhQG+oGaM7gAWZjxGn8ayRxz8hWQRPDaicMJ1isav3KhfyEDavS2ziN5zI3wnkiTxB9BL03QNzufZMZRIXXRJL04FrnLjuQFO8uWS0HRiItUK3mIVyu/2YyHNgfsy0gyKGEz2YYP2iU8LVk4dz0SPlMDbNCXZWoAURhny0UMnXAlEq422KGYbT7d2mHthP9Uebu48l8zByk8dUxFkB78LZqAkUoNCTC0WSNZOINuZo3NaB8eIz5/GJghP51OAEGnBlbjSm7h8DGmOObm5zBNAmBGhWirkSp7RvnUH0pdGrVQJoEvWhNlTtey1iAa+SnTdyghcO7ZWd13dV1QtDlpUZtKq8uzKa65B1DtCyBVATYIYKkY36+IbMM3qdUrNbQ9n80p+K8IXpmkjqueNHyuqwYgdAh1YLmUQzGEvlI9OFrYayraG/1BrSu6ZKp85Mv7U03T2/OuJcaLZJ3OAI7E4EUOtvrjGcYLkVc1O87akFecZktfQ0hWlrryQd1KXRx8Gz8hJf3nidGPIcN0bVBVN0RVpsQfPN0slHPnYUpKm5JjE0WMs/bkKqp8IfsnCWoC+Bhe7rlhr1/n9t2dB0fdRyGseAoowPrKfo6ix33DhJ81W+zX+ix0CsDYrUwW1psT1OVX2ZTw8Fhust8U70qSlE0RJxxFCZJcD7HEeNwUgu+svLtkNfO67kL7VF0kSp+PNCc3BB0z33fR/KvDHz3JsxV+QCebTVjgf9DbGREa60Di+cAAAAAElFTkSuQmCC",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrElEQVQokX2SeUgTYBjGH7c8KiS1skJ0xpybTje8CDVTkTK0QsMbZ95pDnUYpqGVSlGmUlZ/BGYHUigWmk5sah4zYTMvlqEluXmGJ4SQGfMNDypJev764H1+3/s9Dx/wH3WIrLCcy8JQggWag1mMVyfNUeZpYbWtuT6Igye+nPUzSe3QHcdmKESWaA4wZzcGmB/fFmpJtN8AZtwxmcPb0Z1gDWUMm/8uwjJ4QGLzL1B0ygNE1aAlX0wXOzI1WTzIY7kWfUnW6YqIQ+gKY20F+lN5UISzUCncB3WJC3P0ugNUKdbifgm/Sh5jbaRM5EIRz2Gsmy85ckFfgqDy08dLWz0QXWGosjn4mOfkPVHsNNYn5vkMXxZgKNueOSDhA6okDmoiBHjoy4Uq04ZJRGv36OTqwWz+uceI+p5rKTW4g3q9mGsD9U0XQCZ2WN/mBqDdD6Cv8Zgqd8v71imixTf+bSGALpEadbGCdV9bKAtozTq61hNO4+CepkATr0mpX/QPTcGqdqxg5XOxc2EQDPQcATRE8lAdzN8ILyvwNZLHsXMGbwkrvg+cn52oSyJl/lnS1MaWOQI7ie4ziebw6aoQd04IN6BiLvYuvI1+v6ouoM4bIdprJrt/ytM9aLohsvEIsCsDgDSCqzOYafenZlmqwHNWma+ui/OheAPdlcwDhjT8WDTV9yjQdvR1GHoKvRk1gYfRlbL5tDXNyOI05WcEJNJlamP2G2nvOpvR+DP/pZYEtrD3ohUUabY60tCNL/Vbk9KU5Ty2MSWbmWizjfSX5RnuNFcb2LRZPXrS7PHUy3ArNN8hGa8Ls6NSgelqi8SdZprOfWgXW5pqigQYKXHV6b3Aw1D9i63QojyqdKEtmdQV4TNzzVEPWm97Go9W+mGqyp8xVXYMSvFfWTb1C/dtEp74oV+nAAAAAElFTkSuQmCC",
     "width": 466
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dahak_holy_symbol.jpg",
   "slug": "dahak",
   "symbol": "Falling burning scale or star",
   "titles": [

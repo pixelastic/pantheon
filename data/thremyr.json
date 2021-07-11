@@ -6,9 +6,10 @@
   "name": "Thremyr",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "thremyr",
   "symbol": "Frozen blue gemstone",
   "titles": ["The First Jarl"],

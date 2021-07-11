@@ -5,15 +5,16 @@
   "favoredWeapon": "Warhammer",
   "name": "Azathoth",
   "picture": {
-    "hash": "18b548f6aa",
+    "hash": "658f5bf71c",
     "height": 550,
-    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADCElEQVQokRXOT0gifQDG8Z8lkYIQTDASKKJiBkUzEabYQQijjCiMLqGOh7oMhR0sykOQiUxFQYEgGWKFdMigW0rQe3jfNfdg7e4hXtyXzXZ54S36szmO4/x/8fBcvvCBBwwPD1+tr6//MJlMDwqF4kkmkz1rtdqXy8vLF0mSvpVKpSe32/3ucDj+U6lUeWCz2T719PR8kcvl/wAAfthstt/xeJx9e3urlctliiAIVq/XVwOBAK3Var8BmUyWBwCUdDpdWalU/hwcHKzk83k6m80yNpuNMxqNTGdnJ43jOKlWq++Bw+H4E8fxRwRBHoxG478wDH9gGFZpb2+nVSoVp9VqWYVCwQSDQTocDr8Dl8v1GcfxvwAAf8hksu+jo6MfY2NjtNvt5oLBoDg3NycgCMKazWYGhmEaqFSqv7u7u786nc77SCRCHh4eCkdHR9Lp6am0u7srraysiDiO8/39/QwAgAQQBN27XK7X/f19NpVKCclkUszlcmI2mxVDoZC4uroqbm9vC1NTU2xraysJTCZTCUVRcnNzk4vH48LOzo6UyWTEvb09KRwOSwRBSAsLCzyKoiwMwxUgl8tfIAiinE4n4/F4+NnZ2QYSotGo4PF42MYdu90uGI1G3mq1MsBsNlfsdntNrVbX2traag0MQVDNYDCQLS0tv5ubm2mdTsdhGCZMTEzUgVKpJP1+P7O1tcU3gl6vpyYnJzkIgqrj4+P02toa39TUVF9cXORyuRwHLBZLtVgsihRFSVdXV4Lf72eXlpb4oaGhWqFQEDEMq3d0dNQIguAKhQIDurq6uJOTE+nm5kZIpVJ8LBbjLBbLu8FgeB0ZGWF7e3vJZDLJXFxccOfn5xTo6+vjlpeXpbOzMzGRSPCRSITWaDTPAwMDr41NT09/ZDKZ+vHxMROLxSiAIAjj9XqFg4MDMRqNNjDp8/me0+n04+3t7fe7u7tfiUSi4vV66xsbG1Wg0WiqKIrWZ2ZmuPn5+arVan3y+Xw/0+n0Q7FYfIzFYuVQKPQaCASo6+vrj/8BoAqGOmb5ztQAAAAASUVORK5CYII=",
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/klEQVQokR2SXUgqaRjHX00okT5gBAfClLQ0KJiGkJnsouiDMsJIukl0hOiiqaiLjPAiyCwsKigQBEkqBrqoi+76IhYW2oztA/aw52x7lvWcDl2cONaxxo95H5cWvf/9H57n939QV1fXr/Pz819qa2vjSqXyu0wme9LpdM9HR0cv7+/vf97f3/9wOBzJ1tbW7+Xl5THEsmysoaHhD4VC8Q9C6N/m5uZkOBzOJRIJKR6PZ4LBYM5gMKQmJyclnU73Acnl8t8QQn/r9fqvKpXqoaWlRby4uIDj42PMsiwYjUbJZDJleZ5PkST5EbW1tV2MjY09UBT1paam5lGj0bxyHJdWq9WZ0tJSXFVVhZVKpTQ9PS35/f4kstlsv4+OjsYQQr/IZLLPPT09yd7e3szAwEAegpGREaAoCpvNZqzRaLKorKzsr/r6+g+dnZ2fAoGAuLW1ldvZ2cnt7e3B2toazM7OAs/z0NTUJCGE3hBBEB9tNtvz5uZmAYxGo3B6epq/Iefz+QqB1dVVcDgcUFJS8oZMJtNnmqbF5eVlCIfDsL6+DgcHB7CxsQF+vx+CwSBMTEzgxsZGIEnyFSkUigRBEKmOjg7J6XTC8PBwYZWlpSVwOp0Sz/OS1WrN2wKGYSRkNptfrVZrhiTJbEVFRZogiIIhg8EgFhcXJ4uKitJ6vR44jgO73Z5FKpXqzePx4JWVFWy32zPV1dWp/v5+Sa1Wi319fZm5uTmQy+XS1NQUnJycYGSxWMTb29tcOp3+7+zsDDwej+T1enF7e3v66uoqx3GcVFlZmW8cYrEYRnV1dVgQBLi8vITt7W0IhUJgsVhejEZjoru7G1MUJUajUXx4eJiXkUU0TWOv1wv7+/sQiUQgEAhktVrtE8MwzwzDvAwODr7lre3u7uaHZRBFUZLL5SrAi4uLMDMzk3K73T8EQXi8ubmJ393dPUYiEdHlcuGFhYUs0mq1KZqms0NDQ3h8fDzFsuyT2+3+JgjCw/X19bdQKPTg8/l+5r/1/Pxc/B9e44aXhdGOswAAAABJRU5ErkJggg==",
     "width": 407
   },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Azathoth.jpg",
   "slug": "azathoth",
   "symbol": "Eight pointed star",
   "titles": [

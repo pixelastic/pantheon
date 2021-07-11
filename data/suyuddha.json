@@ -5,9 +5,10 @@
   "name": "Suyuddha",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "suyuddha",
   "titles": ["The Warrior Queen"],
   "url": "https://pathfinderwiki.com/wiki/Suyuddha",

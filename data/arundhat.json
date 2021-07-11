@@ -5,9 +5,10 @@
   "name": "Arundhat",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "arundhat",
   "titles": ["The Sacred Perfume"],
   "url": "https://pathfinderwiki.com/wiki/Arundhat",

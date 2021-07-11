@@ -11,9 +11,10 @@
   "name": "Nyarlathotep",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "nyarlathotep",
   "symbol": "Inverted ankhBP Featureless faceFS Circle with winglike armsHD",
   "titles": [

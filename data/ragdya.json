@@ -5,9 +5,10 @@
   "name": "Ragdya",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "ragdya",
   "titles": ["The Sage on the Mountain"],
   "url": "https://pathfinderwiki.com/wiki/Ragdya",

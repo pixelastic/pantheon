@@ -5,9 +5,10 @@
   "name": "Roidira",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "roidira",
   "titles": ["Dark Sister of Knowledge"],
   "url": "https://pathfinderwiki.com/wiki/Roidira",

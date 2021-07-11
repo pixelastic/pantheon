@@ -5,9 +5,10 @@
   "name": "Yahaiya",
   "picture": {},
   "ranking": {
-    "hasPicture": false,
+    "hasPicture": true,
     "isMajor": false
   },
+  "remotePicture": null,
   "slug": "yahaiya",
   "titles": ["The Cry in the Wastes"],
   "url": "https://pathfinderwiki.com/wiki/Yahaiya",
