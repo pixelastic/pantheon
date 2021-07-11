@@ -1,23 +1,23 @@
 block content
   .p-02.flex-auto
-    .flex.flex-col.flex-no-wrap.bg-gray-2.md_h-16.shadow-2
+    .flex.flex-col.flex-no-wrap.bg-gray-2.md_h-16.shadow-2.relative
       //- Title
       a.flex-none.bg-indigo-8.flex.flex-cross-center.py-01(href="{{url}}" target="_blank")
-        .__title.flex-none.alegreya.white.text-3.bold.pl-1.hover_underline {{{name}}}
-        .flex-none.italic.white.text-1.pl-1 {{#pronunciation}}/{{pronunciation}}/{{/pronunciation}}
+        .__title.flex-none.alegreya.white.text-4.bold.pl-1.lh-2.hover_underline {{{name}}}
+        .flex-none.italic.white.text-1.pl-1.pt-01 {{#pronunciation}}/{{pronunciation}}/{{/pronunciation}}
         .flex-auto
         .flex-none.bold.white.pr-02 {{alignment}}
-      //-AKA
 
       //- Image and text
       .flex-auto.flex.flex-col.md_flex-row.overflow-hidden.border-r-001.border-l-001.border-gray-5
-        .flex-auto.relative.order-2.md_order-1
-          .__description.px-02.py-01.text-1.whitespace-pre-line {{{description}}}
+        .flex-none.w-60p.relative.order-2.md_order-1
+          .__description.p-1.text-1.whitespace-pre-line {{{description}}}
           .hidden.md_block.absolute.bottom-0.left-0.right-0.h-5.bg-gradient-to-b.from-transparent.to-gray-2
-        a.order-1.md_order-1.mt-1.md_mt-0.flex-none.h-14.min-w-30p.flex.flex-main-center.md_flex-main-end.flex-cross-start(href="{{url}}" target="_blank")
-          img.max-h-100p.lazyload(data-src="{{img.full}}" src="{{img.placeholder}}" data-objectId="{{objectID}}" )
+        .flex-none.w-40p.order-1.md_order-2
+          a.flex-none.h-14.flex.flex-center.p-02(href="{{url}}" target="_blank")
+            img.max-h-100p.lazyload(data-src="{{img.full}}" src="{{img.placeholder}}" data-objectId="{{objectID}}" )
 
       //- Metadata
-      .flex-none.border-r-001.border-b-001.border-l-001.border-gray-5
-        .py-01.px-02.bg-black.bg-opacity-25p.flex.flex-cross-center
-          .__authors.flex-auto.italic.text-01 {{domains}}
+      .flex-none.border-r-001.border-b-001.border-l-001.border-gray-5.relative
+        .py-01.px-02.bg-black.bg-opacity-75p.white.flex.flex-cross-center
+          .__domains.flex-auto.italic.text-01 {{{displayDomains}}}

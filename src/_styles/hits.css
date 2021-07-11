@@ -26,8 +26,8 @@
   @apply yellow-5 bg-transparent underline;
 }
 .__description .ais-highlight {
-  @apply bg-red bg-opacity-10p red-8 bold;
+  @apply bg-indigo bg-opacity-10p indigo-8 bold;
 }
-.__authors .ais-highlight {
-  @apply bg-transparent red-8 bold underline;
+.__domains .ais-highlight {
+  @apply bg-transparent yellow-5 bold underline;
 }

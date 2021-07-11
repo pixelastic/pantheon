@@ -17,40 +17,19 @@ body {
   /* Refinement List */
   .ais-RefinementList-label {
     &:hover {
-      @apply red-7;
+      @apply indigo-9;
     }
   }
   .ais-RefinementList-item--selected {
     .ais-RefinementList-label {
       &:before {
-        @apply bg-red-9;
+        @apply bg-indigo-8;
       }
       &:after {
-        @apply border-red-9;
+        @apply border-indigo-8;
       }
       &:hover {
-        @apply red-9;
-      }
-    }
-  }
-  .ais-RefinementList-showMore {
-    @apply red-9;
-  }
-
-  /* Range Slider */
-  .ais-RangeSlider {
-    .rheostat-progress,
-    .rheostat-tooltip {
-      @apply bg-red-9;
-    }
-    .rheostat-handle {
-      @apply border-red-9;
-      &:hover,
-      &:active {
-        @apply border-red-7;
-        .rheostat-tooltip {
-          @apply bg-red-7 white;
-        }
+        @apply indigo-9;
       }
     }
   }
