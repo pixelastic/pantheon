@@ -14,8 +14,10 @@ block content
           .__description.p-1.text-1.whitespace-pre-line {{{description}}}
           .hidden.md_block.absolute.bottom-0.left-0.right-0.h-5.bg-gradient-to-b.from-transparent.to-gray-2
         .flex-none.w-40p.order-1.md_order-2
+          |{{#img}}
           a.flex-none.h-14.flex.flex-center.p-02(href="{{url}}" target="_blank")
-            img.max-h-100p.lazyload(data-src="{{img.full}}" src="{{img.placeholder}}" data-objectId="{{objectID}}" )
+            img.object-contain.max-w-100p.max-h-100p(class="{{img.cssClass}}" data-src="{{img.full}}" src="{{img.placeholder}}" width="{{img.width}}" height="{{img.height}}" data-objectId="{{objectID}}" )
+          |{{/img}}
 
       //- Metadata
       .flex-none.border-r-001.border-b-001.border-l-001.border-gray-5.relative

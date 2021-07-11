@@ -2,5 +2,6 @@
   "description": "Search into the Pathfinder Pantheon",
   "title": "Pantheon",
   "twitter": "pixelastic",
-  "productionUrl": "https://gamemaster.pixelastic.com/gods/"
+  "productionUrl": "https://gamemaster.pixelastic.com/gods/",
+  "favicon": "favicon.png"
 }

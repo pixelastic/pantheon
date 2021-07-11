@@ -9,7 +9,7 @@ module.exports = {
     const { slug } = item;
     const { hash, width, height, lqip } = item.picture;
 
-    const baseUrl = 'https://gamemaster.pixelastic.com/gods/pictures/';
+    const baseUrl = 'https://gamemaster.pixelastic.com/gods/pictures';
     const imageUrl = `${baseUrl}/${slug}.png?v=${hash}`;
 
     const full = imageProxy(imageUrl, {
