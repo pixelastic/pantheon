@@ -3,10 +3,11 @@ block content
     .flex.flex-col.flex-no-wrap.bg-gray-2.md_h-16.shadow-2
       //- Title
       a.flex-none.bg-indigo-8.flex.flex-cross-center.py-01(href="{{url}}" target="_blank")
-        .flex-none.alegreya.white.text-3.bold.pl-1.hover_underline {{{name}}}
+        .__title.flex-none.alegreya.white.text-3.bold.pl-1.hover_underline {{{name}}}
         .flex-none.italic.white.text-1.pl-1 {{#pronunciation}}/{{pronunciation}}/{{/pronunciation}}
         .flex-auto
         .flex-none.bold.white.pr-02 {{alignment}}
+      //-AKA
 
       //- Image and text
       .flex-auto.flex.flex-col.md_flex-row.overflow-hidden.border-r-001.border-l-001.border-gray-5
@@ -14,15 +15,9 @@ block content
           .__description.px-02.py-01.text-1.whitespace-pre-line {{{description}}}
           .hidden.md_block.absolute.bottom-0.left-0.right-0.h-5.bg-gradient-to-b.from-transparent.to-gray-2
         a.order-1.md_order-1.mt-1.md_mt-0.flex-none.h-14.min-w-30p.flex.flex-main-center.md_flex-main-end.flex-cross-start(href="{{url}}" target="_blank")
-          img.max-h-100p.lazyload(data-src="{{img.full}}", src="{{img.placeholder}}")
+          img.max-h-100p.lazyload(data-src="{{img.full}}" src="{{img.placeholder}}" data-objectId="{{objectID}}" )
 
       //- Metadata
       .flex-none.border-r-001.border-b-001.border-l-001.border-gray-5
         .py-01.px-02.bg-black.bg-opacity-25p.flex.flex-cross-center
-          .__authors.flex-auto.italic.text-01 {{displaySeasonIndex}} by {{{displayAuthors}}}
-          .flex-none 
-            if !data.meta.isPrivate
-              a.__paizoLink.flex-1.hover_underline(href="{{paizoUrl}}") Buy for ${{price}}
-            else
-              a.__paizoLink.flex-1.hover_underline(href="https://assets.pixelastic.com/society/pdfs/{{slug}}.pdf") Download
-
+          .__authors.flex-auto.italic.text-01 {{domains}}

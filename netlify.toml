@@ -9,7 +9,7 @@
   to = "/404/"
   status = 404
 
-# Terry Pratchett homage
+# Terry Pratchett hommage
 [[headers]]
   for = "/*"
   [headers.values]
