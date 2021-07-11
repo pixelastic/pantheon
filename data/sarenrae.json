@@ -4,7 +4,11 @@
   "domains": ["Fire", "Glory", "Good", "Healing", "Sun"],
   "favoredWeapon": "Scimitar",
   "name": "Sarenrae",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
+  "picture": {
+    "height": 343,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAQCAYAAADESFVDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACWUlEQVQokUXRWUgTABwH4J+zjCiUhKiHjLKYBmlp2pabE9ZyWmgPlZKWhjnFq8JjbeDVnJlazqN0zGO6qbMxnTqdB8yZK8whhEI5zFXiSUk9BZbVP6qH3r+3D0NZKZBHCxnZgnCkc1hcaTjvYiqHzcrgcZEVxnVNYp8BRKFhrnFBHFxjhcYqRTEOR0NGRFV81IrQJ9BfyAzAdVYIA6x9R+HncYhZEneJ5k21FgCwN0rWciP4q4DXroO7mUAN/wQyOCyDtSaV6JMxm1Y1oPn6VoPkMiWz2LKUU4GA0IflVx3P/75uTqe1cQl3cyYHGxN5onf6JLoXzVvy2hPsjihvf1733fO01BP77YP5hurXx4a6he4rbYuGGFKJBJ+PbWPuB9fT++TT3Eh63XaWlu1FRF+ttGDJpDfqc6S8KfgC7PAAEUHK99PZqrk0b5dtrsxothwvxJsjxcGUFuQrM6YJAKc2KmC0o3zArC6gl+YaejvV8tPWc59Mjfk/xvWVze+buEfwrDlnr7W3oayuXhWgzI01D7VIqDL5wmPD8GDIWJ+ycLKA7YblHhEWZvsxaFBipLfl6nhHAWnrFcf17SosOkyYE7sD5BBj9rnebcM5gUmzRuyc7qd+ZUmkrfMh7CPq7VQBQFuVj1ej7Yw5mwFTfU3RzulhMqtKfYdUpbBoqxjDysI/CYCl/RHD2qnAWKfitH2gaV0jy/TUPciGsTbf5Z8AoCm5w2iV3Ya6+BbPWFe0ZWooOtD3pBAGhfQ/6pInunTJE6CTJxzuKk0c0FVId+rK86Ary/wLfgPcmBEiFu0SfQAAAABJRU5ErkJggg==",
+    "width": 186
+  },
   "pronunciation": "SAER-en-ray ",
   "ranking": {
     "hasPicture": true,

@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Destruction", "Evil", "Fire", "Plant"],
   "favoredWeapon": "Warhammer",
   "name": "Lady Nanbyo",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lady_Nanbyo_holy_symbol.jpg",
+  "picture": {
+    "height": 495,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD+klEQVQ4jR1RaUzTBxz9IU6WsGTM4VpsKaWntPSk993K1XK1HJ0MUIEx6UBxEAubnGM4A16B6YyycOgCLAuYaFEhZExZXERI3MbChuyAIcIWSJYyDtv/b4EPL3nJex/eAf3GUOg1kOGGOTxkWP+qJrj9d8jMeUdmP1bW4MpI60+sqOnTuz9tcRYVJCIAZLpckNLSEQiI0AgAMMAC2BZGGbC3PlNXUHko5Ym70OmrrcjDC6cy8PhxFxqbu1DR3IMJdRefZBfkqtM+aoLU1r5AIyJAn5W2+6EGYCoG8morC5ea3Pl4/cMM7GrLxW87k9YfXrFstLfk/KJuvee3XB1E27kuzDlxwpFW2QDpZy4HQvAbJNgbAHuKqhsmHrTG4XyncONi3bsLFe6qIY/bNIHfsHHsJMtz9JOrqxk3R9HROYJZl25uOR3xUflFhwHqrnXAqcaPy07ffoS19yax/s7YZE/bsTcfAJCWi1/L2RiVzM6dY9x99D6nunx4urvx/jg2DE1izbWukSteBEBEaB+4PTE08xwHf/6TuDU1rx344jz0u9TUSwqGaNUjNa308fCxfU96BwAMTv02NzyziNc9wz3JcjoF3stJpYw/ffrH0trm3MLqv1//sI5Qk20NWtgH8KUkXPy4hPaBt5v94r6BKlsfuwOzi0tFC95NFwAEFB9Jl0O5K0/41/zcss9PLHvX1qr+WXq+fQ70u2mw1hZxevUyfcVTQGkBoAaE7H4FmprPwq+LLyAvy0rKd1pF0HbG/fpPszPTq4jedcTS7Upc3gF5oTrMPlJLXymNp3ojKfvnRBzKj2IO9axCyI7mkoNh1HMjqPiwXQQGKcdRWu6aLqk6+Xfu0UPjfPpbE1GRZFSxSHjBFor5WhKywskoZJJRwCCjiE1Z50eSPlMIGI5ki1wGOin3O42IiUIGacekFbNRJmATZhHVN+raR5TERhJGpdhvVvB9JgX/pVklRKOCjykWJSYapFNQfCRLmZNhw9R4vS/davCZNRKfKppLVKVFEXfLaFh3kE7ECtiEw6onnMkmTLIoidRY1X+ZNgM6k0yN8HZaPGTb486nxunQkaDdsmjEfoOEizYVn0hS84gkFY8wK/hEgiEG7XFqIstm2Myy6VErYX8PAIFw66vundUNMQd69VIuqgQMjImibfGZ+/08RhixDQErzK/g01/qpBy/URaFCTrxM3u8hiLnRQAkGhUBJo0cWhsrQM6PrNZKOGsaMWtnC42IhXI+fYerhExUi1ioFDB6ySFBoQk6MViU/F1gVgnBpBQEbKfQSTgg40VEakSserWQOaESMjf0Uq5PEc14phIyP1eLWGoxhwpcWigcVEXvshqk8D+XIbLzShPGqwAAAABJRU5ErkJggg==",
+    "width": 500
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

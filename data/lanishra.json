@@ -4,7 +4,7 @@
   "domains": ["Chaos", "Evil", "Leadership", "Strength"],
   "favoredWeapon": "Heavy flail",
   "name": "Lanishra",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

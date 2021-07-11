@@ -4,7 +4,11 @@
   "domains": ["Community", "Good", "Liberation", "Protection", "Strength"],
   "favoredWeapon": "Machete",
   "name": "Kazutal",
-  "picture": null,
+  "picture": {
+    "height": 281,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD8ElEQVQ4jR3LazTbZwDH8Seq26lTdSkRi6CRLPlHaOJSJJK5NSTicmRujRCqVIMOdauDGSJEOeh0cx16TI9OtVZm7ZlTW3ezzraul3frm3bv+q7naNo8vx37vv5+CFcXS4IyVSzReAc5HBtGAjNSpeqKoiFtbdnfcZXGV+8b9a8CMhWP2CrxsDBFLj0g8yH1I00kUBHK8j8hIoSfo2KJjGlkP45O2c+U62nKpVoUL0+g884WmlauQd/XjPDidHA0cuobLxjYf6NTZCRYJWUR88zF/zEvNeJ69IUPUbEyiIn1S44bK73O5clWemuynt6erXE2VWod6ngJ2HIe3EPfu75vrk53EUK8DxFOjLBPdjoNzeuXX/9ws5teO5+A0YIw+mDORDcHC+lQuYqaYwJQ8QGfnlEFvhYyHHhESfqIQEgIN4lhJFkxbzXD9Vi6OeD85+tW3B010e/GqvBkoxtXTLEYrzNgsquMliqDsdardzZliHFELHrLS9czJFAd3p/YVgzbms2xs1CNJWs5nWnJw9OtSTx/MI9nd3uw/bkFVzvyMVBxks5f1GCuOtIhCw2Ga3S8jQRrTuwW2C34frHaufNFJd2ab8O9mUY8Wu3E5kAJblnz8edXLfh9zoyZ82qMnomga5+cdGbH8nBQJNwl3CT5y/HJajxdaaGP73TTf+934vn2GP6Yq8eVQjmWu4twb+IsVj5Ox2WLEnN1Cnq7V0ctWiEOBfnvkYBE2cuGknhsWPPpz7P59MdxA6bt57A+1YjVdgMeb9rx22INlhoTMfqRGrN1sXS1M4meS+XDjevrIMc0ir/UJcm4MVbu/Gm+hs6O1KO4IQ9mgwr3l3vxbMuK3YXT+OUzA8Zq4vBlWzL91pbuLFQH4iCX+5Cww0OGY6syYbJXObqsZ/Hp2AXaUZsNM+MJY3YcdlZa8HC5BtsjBrQaGNqeK4W9QOqIknDgEsIMER+GIwtSMUjrKaW67hJaaKuBvbWYVulksDfpsdGXhW+sGbCXxVCNLgKiGAHlRrKpuyQE3jLtcULeIcRL5DsqyY5CTk/RnrE8jfaU67E01UB/nSqiw+Ywmp99nCacSoQ8S0kleRF7XtowvCtTjROBgBB+Ep/0L1pcvGXcTalGDKU6xDnYqH3zZMFILblihCQJEFoQQ6NM8W8YY6TT75QC7skpm0dIn6tHQDMhPmEclp/Uj1imW109JX4TPglCROtDkZEajKB0MRWYI6i4VA6eORJH8+PglZU90Qm4eujbiafGxCJeDJv4SjgsSVI4Id4HCIfPUbgx/rNukbwXR5WB8EkUgK0LfeFnUM4G5eQqSFocibPtEI/UEpfDWhP5DzFk1ve9dOBJAAAAAElFTkSuQmCC",
+    "width": 279
+  },
   "ranking": {
     "hasPicture": false,
     "isMajor": false

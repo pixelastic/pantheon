@@ -4,7 +4,11 @@
   "domains": ["Healing", "Knowledge", "Law", "Rune", "Strength"],
   "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike)",
   "name": "Irori",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
+  "picture": {
+    "height": 360,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD2klEQVQ4jRXS229adRwA8O9An/ZmsheND9tqnS6L0Uw3p2vTAuVaoNwOl8OBCoVxh3KnUHqOpdBSYHS9t4Ha2fWyptqHquvWRGNNnNmLmpj44qOJMTExMcZIz+9r/PwNHwAA+MAfBG9kVOAPxwARwe50vhEIjNwajfoUhWxMGo0GZVaG6f7+2xPI5nMQyWaEHr8PurpeEYLbF4TxDyeAphm4E45a0mPZ07GJApmZu4tcdRoLpUks12exNj//d7VR/yadTdvr7RYww3aByWw+B7lCCrS9bwFFUbejicSfC/e3cHb/iE+uPyThxW0+NLdFovP3+YVHX+PDR09waaONsxsbgfz0FCQmOQGkuBKkJ2euFprzneUvvsTGybN/A8t7RBbiiNibJwy7SJRhltxZ2ifNx991jp4+I9z0FIZjkXBmPAew9OATiGRzGa71MeYPTs806Tpq4lNEnywTWYBF61gDe4aTxFVpEXNxHsfa+/zq7g6OeFydIZ36EsRY7kr9o40/yrufo4FrE2N+gbznSBNjcQ7liTqqQyy+74iju7xGaHaVDKUauH5yepbKZVCrVVvB5WAMza1tLB2e8spkk/R6WRRHq9jj51DKbaIo3sQ+bwE9lTW0s8tEG58lmdVtPsexKJWIaDDo1DfY8hTx1TZRHm2QHmeWvD3CoZhroX7pAGUrR6hgV9BRvIeW/D3UjlaJd3KRD8eiqJBKrKCwWc/nisWffVwDBxNNXhWpkDftGRRx6yivb6O0uY/v+mfQkK1hn4dF0cg4cWRrZ263C7UqWQQo2nYhmkn/5udqKA+WeHW8QV6VuvBGYAbVm49RtXmMA80DfCdYxV7PBJF4OeIbr/EuJ4MKuVQMO58dQyAS2fONTaAqWOzIQxW80k+Tq/YC0baP0X74FAeqO9gXKBNTrkkcUy0yXplBC2X4SyIdeBGGaRtYTZQkkExjeGWX1yTr/G0qhC9fV5LXVW7ymtJBrklpogxwSFXapLS29U8gGEITZXxgNNvg/03CJz+cQjCe3E7fXcZI69OOMVs/63OkSL8zRW5RYSJypomztNSZ3TnkY7kC6vWGn2zO4ZeMRgNAv0gkHBCLQaPTXGAY+95oqYrJ+gLSoRSxBbO8LZznPSkWC/UmBuMJpF3ets1uf0FvNMOQ3iCAy12XBcHw6DnG5YYmlwXaZo0xjP0X2kKhgzYjbdGjnbaeWSzWr4wWi3rIygBlsYJObxAOuz0AFy9eer67u/s5lWZI8OPvv4LFqIPBQdl5hXLwpsmo02k0auOgznRNf70PzLQNtJRVKJZIhTK5AmRKNfwHAr0AGDfK0H0AAAAASUVORK5CYII=",
+    "width": 360
+  },
   "pronunciation": "ih-ROHR-ee",
   "ranking": {
     "hasPicture": true,

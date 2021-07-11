@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Destruction", "Evil", "Madness"],
   "favoredWeapon": "Dagger",
   "name": "Gyronna",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gyronna_holy_symbol.jpg",
+  "picture": {
+    "height": 227,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD10lEQVQ4jSWT609bdRyHf/BOTXzhMk30lSYm+gZn5jKHWWTLgE0kwEAwsCkGJDoUwtxMFBdFYrYJ6kTZJNkiOBgDYeNSyqVcSumBlV7o6em5tKft6YU7DEdQbl2/H+N8/oQnz8MerN1jmxu2OADMI+vZ+gr3giaNVfglrjPgscuai5sPeq3zXsH8nWtC/4zT2MYAxhaV8bh5ycjY5oY9DoiweMZYJDha6dem/1lY9CO8NIvQ6gpCIQ3BiAY14IMiz2wExdGq/sA4g3+AraoTcexQbhFr76xh4dDI9fC8hODcAmSfsuv0aw/tshizSxLxboFsFj6qarPQgjx8gqEpKesAe4Qs/cm0QH+5FnIgvLK4O2Meihl1d2HW68nQ2kyjt/4gW9dtTHe3kShYY5EHa7s+dQY+9/hZnutmLLY29rQ/YF7VggpsZkPM0tGEvh+q6XxhEXKPZyHvRAZdOJUHXc1XNDXcDcknxpyiF25uaHnB1LiXhX2GT7Q5BaLojE7cvEaj54qpMPEQ9r38ChWkJyPz6BuU/867VJGfR301F8jS24oZFx8VeScCDv1lFlFHxtWQAofJ8ND220VcyU7F4Vf34+uyU1SYn0VnzxRje3eTPj1TThdzM2C7UkWW4f6YEppFQOYkFpaHFmXRCYdxhEy/XqbP0lKRc/wI8rMzsffJ5yg5KQXVlZ9T+rEjVJqSAu6najK1NpLD7YXoMAXZrNe4LCsSODNHo82/U2lKKkoL30P995V46fkEPPXEs5SWeBAprx9AWeoxGvzmHJk7bpHTHYQwPfg3m/ONTbhlAVNmLjZyuwWXPizBBwUl6GmuQ0VJAZ3OzsDpzBOUlJBAtTlvYaj6S+KnpmIebwiKRW9mIUX/kaw6wCtS1NjVTrqrdVSanYvEfQdxMjUZOclHHzkpTk9DR9UXNNnRDrd/LupX3FCm7/7IcN+wxyOOL3jCc7BNTsSGWprQ13CNasrK8X5aJopO5qCq9GNq+bmWelubwY1y5FJXyMnpsaR07Gce+x0WEQfPK7INfHB+xyq4YiP6ARpsvEEd9b9QW10tdTfU02BzI8x2gfjA2rZdcEK2ddbpb176v8bDb77NNNHQJfoEeBeXMM0LUbNxnMZ6dTSi6yHjmJlsshYVI+sxl+iA5Oq1AcuPAzxjWyvWOMDDADwW8gzfEF2mHcFlxaRbxqRbwRQvYUYNwBPWwNvHyMt3X8euZ8/2qomthobj2caihe3c/+/ILTbRfZWtq4YXvfd034o2vSpY+7YcFt2Ga6onpE7fafpL6nzN1N/AsGllK9pQ/Lw6wP4F6XbSr0Yk468AAAAASUVORK5CYII=",
+    "width": 224
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

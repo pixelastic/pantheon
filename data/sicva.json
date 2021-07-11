@@ -4,7 +4,7 @@
   "domains": ["Animal", "Evil", "Law", "Nobility", "Strength"],
   "favoredWeapon": "Lasso",
   "name": "Sicva",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

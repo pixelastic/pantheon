@@ -4,7 +4,11 @@
   "domains": ["Knowledge", "Madness", "Magic", "Rune", "Trickery"],
   "favoredWeapon": "Bladed scarf",
   "name": "Sivanah",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sivanah_holy_symbol.jpg",
+  "picture": {
+    "height": 328,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD50lEQVQ4jTWTW0zbdRzFz7+UTDONyRLnJTJ18mAMW0SyqeNarm1pKYXeC/QOLf33Xgq90BYohXJpgZYWsAUGgeHAzU3FTLMZEB+IJoYsMdE9mBhfjEaXRXQ+uJ8B9Tx8801OPvnmJN8D/KdMPAav1YihPhcmBoMMWiVntjc3MoX1rLzMmBd7t7fln364Gfl6fwdf3NmmljKTuHVzE1haSGN9OYcrlxeRzSSpgNPCSMYiMCrFELDKoJMJMRvz981PBsniTISTHPVjPOTIOzp6+6Nr+BdeWcJqbgHrK8tIRAcwOx59zayS+aXc2mCbkKeRC6p/0orryYDHfC0ZC8mCDh1cnVKsZGeBbHoaC6kEpmNDJ+ZmEgVLmeRZj7nznlXbTuR8NuHWVD1saqj8Vcir/dugkuyk45Fip1kHJ21gNNSUA7lMitq6sob3r27IJoYHvmtv5f2il7cSu0H9p7JVoOsNh5/68duDU10GRe6tC+dIHevSnt9jf2Y00g+9SkFBK2mgaHUzPHRHkZhbtssuKyZyfv27XqvxJbmAC6XeitmpYSy+Ez/Hb2Q9FPAayHg0fNFFd0EmE1AQcyvyOKxiaKTcLK/qDaKWNj3q1nYkTWol1BLhCbrbRFlMGqad1iEUcAeMBhXpsdHbQY9rcTQcPIGL58/mcUtL0Mwuu8GtLDmYGot2JcaimtmZBOKxKMPfY6UCHht8LrMw0GO9KW7m/ey0dJP46PAyIQQ4GmZJS23jpZIf9CL+fOFJwKxW5k8lxpFOJY59CZ/DGAn3Putx0DSnppJ4exx3CSF5X+3vA7mpyQGfyUD0LXxiaxM/yk4M99/ZWoVD08b02WjK57BSUgEv/8XnTqGJU3+dXV1OBgJ9GZtJj1dfKaCwe+vj55PRoQ9So5GIgl1NrIpW8tl76wXebgMmp5MY6fdhY3kJrxe+jOqK0s3aytLDXDp1/uDzXcbcTCIfg04LVjKpoqPPMiskYUMLj7h17TtmrZq1lpt/MhGNvJBNJSsCTvuoUiQkvJqq3/Qy8V17p/bLxEikESGLCWsLc8dZhRVv48blxTOShpp7TVXlRM5j/66TiQ414hbiNnWSmVh0xKxSPtCImsWNVWVP9NLdjx2D2ek4tTqfpgBQTAAtddXfy3jcb/RS0ScSTt1ftLptd25q8s3WOhb0UtGegs+5LuHU4ULhGQoP7t/HwsQYAm47NhZTuJpL51t06q1udcf+5urK04eHfzx+FC8RHUSs34d+h/WkUSlVuIz6fJtO9X+ZgR6zEeNh//FOCGFYdepye6e+aMjbh9NMUBFfLyPkdlA+qxltTVyE3A4MeT34B2djn3r/pfqCAAAAAElFTkSuQmCC",
+    "width": 336
+  },
   "pronunciation": "siv-AHN-ah",
   "ranking": {
     "hasPicture": true,

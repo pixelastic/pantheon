@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Charm", "Good", "Strength", "Travel"],
   "favoredWeapon": "Rapier",
   "name": "Cayden Cailean",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Cayden_Cailean_holy_symbol.jpg",
+  "picture": {
+    "height": 222,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD8klEQVQ4jSWSW0zbdRzFf5iZ6IsPatQHEyMuzI3LxtZRKKUtvV/+vdCWXv6FttRSoEBbOi69Uq4F2sIcl1IoY9wqtzCnJIjAJltgk2wajcYnNT75oPHVbGv7+xrwvJ58knNODpqLhV6JBJxoZ2kM9Titue4G6zt+tyvmtNYd2Ay6ZwYZ8SspI/7UEaKfjErFk5Y6077X2brmdbSywn4vQhP9nSjYYn5resi7mIqP/G1SKX5xfGKGxKejsL60APd3d+Do8AHsbn8Ba4sLMDUahYDbBUal/HhrIo5QxOf8cHNu9Ldv9zbhZG8TTGoFFOd+kJaxKrJ6qTjbaKzBDqsFN5lqs3oZkRWUUV/Qi/KBS6WM8KjXEVqNj2z9+GgbvlyOw8CNBlDx2VhYXoo1Yj6QcgK3NdRDtK8HYv294LTWYb1U8lLBqQStWDhNMOgI7aSm/tjfmIW2Ov2uVsASKtisAMEsh4ZaMhsO+vH60h34+Yfv4eToIcxN3oJ2e2NaR4hBLeAtM4ryEVpLRP5aHB8EG1ktIgk+MirlckFZCVi06sxwKIgXZuLw3cljOD68f7oL9rc50wa5FKq4lVuF772NUDLW82x1ZhTG+nxtzUYdMsgJUsZigFWvzfR6OvDM+E3Y3b4HqfkkzE9P4p6ujjQpI4CUirfy3nwDoYEOe9faTAwmwv6nGj4TqfgcsZzNBIu2OtPR3ITHI0OwkJiC+fjEWQW/+/8EeolomXWlEKFXEXptash3kooPQzLWHZJyuBcJBh3M1apsi8WM+/0eWEpOn8GDQR/2OFrSNQo56CSiqJLLQSjQWo+cFkNuair8MhkJQHOtJsQsvvxcLeBBm82Kbw4Nwufrn8Hq4jxEekO41WJOn3oCGjXGLbmGUCLcmdNtNyCf3eyL+Bz/NJFVUPpxXkZWyYRWiwkmoyOwlEzAyu1ZGOr2Y6tOkxbTaVBeeOluwfvvojON93edW5kMo8GuFq+3yQRlly5khDQqruJWYhupg35vJwz4PVCv12AhrTTDo1KAR71+cAarOeWo3Uqe8zTWomjQZbeoJFB68ULGpKrCwXY3jo9F4Zu9r+DpkyM8H5/AXpcD281GqBbyM1qx6Dxq0EpzXCY1smmkHzUblL8LyiggotNeNBpr0n3ezszK3EzmcH83e3z4IHN3dSVzMzyQvtFoe64RCUFSQe9DykpajlHKQTUEr0RQSnHzSij/KvkcqCe1MOj3wOqdOXj86BAeHnwNqduzMBwKgMtqgdM7sylX15GWV4F0AmZOjZiD5MwyxLhcUEgvyjeyKcU9CjYrQcokGxad+p5Vr9kwqavGNSJBF6fkGllxpYBxNe/86/8B0Lv3ZuApDcoAAAAASUVORK5CYII=",
+    "width": 229
+  },
   "pronunciation": "KAY-den KAY-lee-en",
   "ranking": {
     "hasPicture": true,

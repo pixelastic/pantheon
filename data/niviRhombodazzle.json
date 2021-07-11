@@ -4,7 +4,11 @@
   "domains": ["Community", "Earth", "Luck", "Trickery"],
   "favoredWeapon": "Light hammer",
   "name": "Nivi Rhombodazzle",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nivi_Rhombodazzle_holy_symbol.jpg",
+  "picture": {
+    "height": 117,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADzElEQVQ4jSWTW0ybdRjGX07jWChfDxQotKXt2u/r97X9Sk+TctoMAgNZlgmUltJycCoTnW5BlrG4xGhiNLoMZRvHQgvl4PTCxETvvJpeLCZeLd6rFxo1JsblK//HgG/yu3uevM+bPC9d4jx0LRyj+bNTBb88+o3uh8ZoudpGq1VNdDy5t97Tr50daLvHd0+nXV0fZ85c+PFOZLT7bvgi3Q1dLKSkOUjX26IFC4nb9McTlK93z5zfDfbfWncEsw9aAt9v2Vp/32wQsWkUseWJYE3vxFJTeHm50Ej3ioxF9Jp8rsDRM0A0+WrBjZZnv92ok5AWgtj1hpDV2bBdbcZGWfPRaqNT+SwQ+DdtE7Dc4Pvh5+N4AFE72YskclJMF/xksjqATYPraUaQlbSdVzL1fH5LZT7a1dlYtpFnG/U829FasWfxKCs9E/xKZ5RoXCVSsr41Oq3xIFXryd9vFNmh0Y41Pc+2OStyWht26x3YNZzGntGJw2C7kmmW8GlTx9U76laixd5eLl4j/5qsEZDkpPybtSIODBa245RxzL5ZwGGkE4cuLzbtPpaV3ErW7ETG6P3qu+MzXjJ0fJmqkDFZLSvxCg+mK11stUFETvZjT/QibfNhzeTElsmBA5vA1ptdLMO1IG3y/5UemGuiK7rQ16lKN5KV7vxIicDipR5st/iRNUnYNDixrzchzZmxVWPBwwY7vjA72Y4roGydbsOSu2+M5poiw7FSAXGVpEzVethIiYgPjUHkdE5kzCJ2TTyyXAs21RbsaKzYsHjYw5A/n7FJ2PAN5GgxPFmfUAX/nFK7MK0RjqIlLraolbFjlLAfjiDrlJDWOpDVWtie3sZyBh4rWlv+QYMbH/B9CumJaEoT+ma0XESySsqnKt1sptaLlQYJOYuIrMGKPb0daV0L+4iz4paaz89WCJjQhjEtDU3RFBemV4zPvDFW5kGiVFDGywTEyiS8Wyfj/Tovu8F5MKuSWKLKy4bLZWVU68eorhUxS8fYkKGfaEHso5vyoHtaE8aMRkb8FM8S5XYWU3vZiNaXH9GFlCjnz0fVrRhR+RDjzuBla+fzg2of9Vd1FROAE+ZMkccv6kSkqt1PE2pZORGrvIjV+JHQ+pAyBP65bGx7Ms/3DsV1HTRwylOsfP4OUao2WJzignSluXMxUSUgpfYjzgWQqvf9Pcb5H03og0uppvYL170v2E5609hOPYVi4fHSx2/PEy3wPQU3HF10U3zO+rr53E+XTX0Hs47B8avyedOxYbiYpyjnp2vypZOkk4ZI4f9/BLodHqL/AFcgjnYjhq14AAAAAElFTkSuQmCC",
+    "width": 118
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

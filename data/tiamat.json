@@ -3,7 +3,7 @@
   "description": "According to the myths of dragonkind, Tiamat, along with her mate Apsu, is one of the two original beings.",
   "domains": [],
   "name": "Tiamat",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

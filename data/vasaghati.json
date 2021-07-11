@@ -3,7 +3,7 @@
   "description": "Vasaghati is a grim goddess of the Vudran pantheon interested in bring corruption and destruction to the world, especially organizations.",
   "domains": [],
   "name": "Vasaghati",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

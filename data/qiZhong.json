@@ -4,7 +4,11 @@
   "domains": ["Good", "Healing", "Knowledge", "Magic", "Protection"],
   "favoredWeapon": "Heavy mace",
   "name": "Qi Zhong",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Qi_Zhong_holy_symbol.jpg",
+  "picture": {
+    "height": 491,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD5ElEQVQ4jR2NW0xbdRyA/zB99IUHh8lmyDC6OCNOuawrGy1ICxx6OQUKLfR6eqGcnrb0dtrTntPS0oKDdsg2uYZkXDaWyTY1JmbRGDXq09582svMHE73YDRmCu05/5/Bt+/l+z7EWgkUtRC1ESeJOL0MpSiS4MbUtxMWzWN6oE+MjWmqSUvPo4i5d9Nv1sgFaw86deYdZOrvqh3TdCEUHu2tDdr0iHEZ6yIm1b2svQ/K7ARsccPww6YMvlw3PJ9LRJ8UJoaBt/cDbVStInT8hdZz59BQr7IGuYwq5Bgl65Kj6p8KPiPsrCwezl5e++ebkkGEZwrYv6sW04n0s0wm9bCcYX9N2bVAG9X3EWo8hupPIxSRv4a8/bJPBYcWPtm7fTCVy+LAZBg2Cj4sPZDh/RvncT7OABvzQSqdeH6tNPtkyjMATrJ7MW0jEPINdmkDWhnsrF6tClkex8NuMSUkq7eKPgl+PA2Pd2U4y8bFdNKPk1EvCBmusjqXO+TsWiD7upuQXfXeHk8NwNbW9QrtozDPTVaEbLzyWSkk/bn9Bvy204KvFnksCGHIC1EcDrpghFRXcm49sA7DPIoalb9YtJ1gtY1JgcAEMLQXR2MhaWEqJK1ENHDZfRGXWTcwDAVe2wDo1HKsUraJcQcJs/Twdyg4pBSXy4W/R8zDottlBbPZCAaDDrKMBRpePYEbTp4AK9GOVZ1tmFDJsZcyActG8M7SPGRd+r+QT39B/OLOzZ/zef6QY2kci/olNs7gSzE3frOhHp89WYeLsQkoFAWciNHAc0EcjwXwzeUS8C7978ira9+/lPA/CIeZR7TPDkHGI6Z5Aduc4xCzG4DyUtCRW8XZpTUcGrfgcY8dEolYdW06DhmX/itk6zv/ccLS+5SiqPUA7YB0Mij6oznc2k3iSGhcYheuSE2lG9CzsInTqTh2240wnRUO1oUJiI0RU0inePciY+wE96C6RLmp77O5GeggzJLJMorZKI0jXivm1rfg7JU9bP9oG4rF6craB4KY95AHI/2djahMG5Bbr9jknQS4LaY5whIUW5R9EKSdOMRQ4HKYIcJ4YHTjHrw+tytNL60cLARNQA+r+RylQ6j+lXqEEHrRP/T+15y9Hww9SimeTFdnZgri5CSDmYAf5zN8dXZju+JNJUGgdMA59Nfh86kjDyG9srlW0fLWER4bUckWg0OduOA3wfI0C7srC3BrfRHKmQjwHiN4NRf+dWgU6YcfjqO2djkyE4oaZFLLkE7RXHtUyLr0SN7c9LaTkM+HBhXf0mTHHz6y46m2vel+65nGzEsvHz/FWYj/x4Pq9hqK7EL/AfkL945SR3+6AAAAAElFTkSuQmCC",
+    "width": 491
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

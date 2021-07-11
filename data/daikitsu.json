@@ -4,7 +4,11 @@
   "domains": ["Animal", "Artifice", "Community", "Plant", "Weather"],
   "favoredWeapon": "Flail",
   "name": "Daikitsu",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Daikitsu_holy_symbol.jpg",
+  "picture": {
+    "height": 492,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD7ElEQVQ4jR3Q20+TdxwH4K/osl0t2W5mdsEQwWEotLWlLVDavuXtS8uhtaUVSpRNMiObc+6QJY5tMdPFGE/jMDWaMcULEYPORAXUwmDiGo6llGNpBRwEKSnC3Nyg7e+zZM+f8NCYUkOhFB3drs6l0WI99X4h0Jq14M1gqaFs2KF3e+2c119q2I9y29vuoyZ6UsbTizgNBbUcTeq0RD2vSqkd5QR8Sj4zl+sp0f/0eKfm2QODCm0qGVxZGejkVbhnVK4MlnA3gg7e4dkkf+WveI5mM7REY7v5jYH3BfIX5x7qNqvRrJSiJS0N9crMaKNSFb2VKordkSsiZ1NFaJCJ0GZUwufQ13oP8uSu1G2kcL5AYcGwuduqWb4mEuG2TLbWXGCM1RSaWGaaCF+/twc39+5hxzgNa1LK1hvFEtaar8KsIy9j1ikQ+b/Mp9HS3AuNWVKciE9Y9x8uw/fFAivftYtduXQeXY+7sDg5zHZyKubYloxzWl3kVNq76LCp2+1HtxM9deTJBqxa3EkXw5UnsCu7reyYWskaqs9idXUJ3r7fgehL1FWfgVgqYZLNb7HLaeLo7Vw5gk5hNw3YOXdnthzXs7KjTkUGuJwcdv1GI54GJ+Dpc+OPGT/mZwMY9w1iJjDOEhLewSWlKnZTJoXbplmi38w5M7WcGiWJiazAamEjkz7Mzz0BIn/D0+9GcHIEz0PzmJ4aA9i/7HTNGXYgKxMPMzJYR0EmI08J13ArW4GvJOJIlZ7Dj5YiuM7VAljDwtMgRrz9CEz48GxuGmsvwmhztbK8pORYS7YCjwqzh2i8lP+sW69CW7p4vctuZe2pqbhj4BFemgcQw6+uVngHe7AaXsBKaB73Xa34hOMi13aI4XHq62nUrDf9witQtzUp1iRomctSxH5O2MIaPqjAkKcXD9vu/v8wN+PH8uIc8wz2sH063fpVQYHhXbqD9OcB65buQjVObk3GxdSUWEthPu4XmlhNfDy79cNpTAbGMO7tZ4EJH3u5EsLhb6tY2utvRNwVPPw2zkh99Sby2bmLl7USHE9MYrVJydE2k4Bmk8DufVzJgv4xFpyZYuHQHHyjQzGHxRKp0yvQa825+zLT8hohtZS6vxEo4OQP1+rScTJlG5qStkcbNXK4j5vYoyMV7OqR76BTKGK8VIJTZj0WKu3nvQCFdkiIlg2GDVUnlBv6PsylaQdf7Lbl/HNalIILWaJYV60RzWUynIyPZ8fF29FhVmOiLO/z54fkBNpLU0VCHM3pOVraoaPOSt2mhf1GCjsEucucs9hiVOOBQx+7b+VZt8MUG3Aan0/ZdHbfR/nUvi8xbowXNowUmeg/HSk+CxpWMPIAAAAASUVORK5CYII=",
+    "width": 499
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

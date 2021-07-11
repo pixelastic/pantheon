@@ -4,7 +4,7 @@
   "domains": ["Chaos", "Evil", "Strength", "War"],
   "favoredWeapon": "Orc double axe",
   "name": "Nulgreth",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

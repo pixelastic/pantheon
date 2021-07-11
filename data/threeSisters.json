@@ -3,7 +3,7 @@
   "description": "The Three Sisters are a collective entity worshiped in Arcadia as a deity.",
   "domains": [],
   "name": "Three Sisters",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

@@ -4,7 +4,7 @@
   "domains": ["Artifice", "Charm", "Darkness", "Evil", "Trickery"],
   "favoredWeapon": "Light hammer",
   "name": "Droskar",
-  "picture": null,
+  "picture": {},
   "pronunciation": "DROH-skar",
   "ranking": {
     "hasPicture": false,

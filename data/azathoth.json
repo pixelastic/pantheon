@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Destruction", "Madness", "Sun", "Void"],
   "favoredWeapon": "Warhammer",
   "name": "Azathoth",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Azathoth.jpg",
+  "picture": {
+    "height": 550,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADCElEQVQokRXOT0gifQDG8Z8lkYIQTDASKKJiBkUzEabYQQijjCiMLqGOh7oMhR0sykOQiUxFQYEgGWKFdMigW0rQe3jfNfdg7e4hXtyXzXZ54S36szmO4/x/8fBcvvCBBwwPD1+tr6//MJlMDwqF4kkmkz1rtdqXy8vLF0mSvpVKpSe32/3ucDj+U6lUeWCz2T719PR8kcvl/wAAfthstt/xeJx9e3urlctliiAIVq/XVwOBAK3Var8BmUyWBwCUdDpdWalU/hwcHKzk83k6m80yNpuNMxqNTGdnJ43jOKlWq++Bw+H4E8fxRwRBHoxG478wDH9gGFZpb2+nVSoVp9VqWYVCwQSDQTocDr8Dl8v1GcfxvwAAf8hksu+jo6MfY2NjtNvt5oLBoDg3NycgCMKazWYGhmEaqFSqv7u7u786nc77SCRCHh4eCkdHR9Lp6am0u7srraysiDiO8/39/QwAgAQQBN27XK7X/f19NpVKCclkUszlcmI2mxVDoZC4uroqbm9vC1NTU2xraysJTCZTCUVRcnNzk4vH48LOzo6UyWTEvb09KRwOSwRBSAsLCzyKoiwMwxUgl8tfIAiinE4n4/F4+NnZ2QYSotGo4PF42MYdu90uGI1G3mq1MsBsNlfsdntNrVbX2traag0MQVDNYDCQLS0tv5ubm2mdTsdhGCZMTEzUgVKpJP1+P7O1tcU3gl6vpyYnJzkIgqrj4+P02toa39TUVF9cXORyuRwHLBZLtVgsihRFSVdXV4Lf72eXlpb4oaGhWqFQEDEMq3d0dNQIguAKhQIDurq6uJOTE+nm5kZIpVJ8LBbjLBbLu8FgeB0ZGWF7e3vJZDLJXFxccOfn5xTo6+vjlpeXpbOzMzGRSPCRSITWaDTPAwMDr41NT09/ZDKZ+vHxMROLxSiAIAjj9XqFg4MDMRqNNjDp8/me0+n04+3t7fe7u7tfiUSi4vV66xsbG1Wg0WiqKIrWZ2ZmuPn5+arVan3y+Xw/0+n0Q7FYfIzFYuVQKPQaCASo6+vrj/8BoAqGOmb5ztQAAAAASUVORK5CYII=",
+    "width": 407
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

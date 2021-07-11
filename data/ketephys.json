@@ -4,7 +4,11 @@
   "domains": ["Animal", "Chaos", "Good", "Plant", "Weather"],
   "favoredWeapon": "Bow",
   "name": "Ketephys",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ketephys_holy_symbol.jpg",
+  "picture": {
+    "height": 276,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvklEQVQokQXB/zPbdxwH8Be97Yf+Bftlu20/mLveVdfqrc5V1dfU1xlaavOlldUp83Wro9SX+VoLVpeIrKK+NOLLjCmW+VZa3yVodog2EUp8GWUUiXzezz0etKZ6RPpJ8anFYTEdz2eQblJqp1eJ81YGHj5fbuVvb/WErez2BjXvtF/7Bj6fWOx3O9L+SrjlofpHeq+MJtJPCC1XpqtJMyz5dGm0pOOtsgKryl9hUJZgc1aCf19VYEtZhNXeBKw3+6mO+n29jWuhBICO1ckWpFfV0NK07IxuRLC1pnwEw4yY046UnGzMCrnN2Qq2r5Uyo6HRfLz9p3n/TRV2p5KwP3+7wPCfNVVkEdG7Q+OHmucCtX60BLrhEqNBKWQLvenYmClne/NiZlx+wriNFnDr9Qx77Semdz3mncV0HBmi80xbgUTqnqKEf/7KhHaowKgbyod+rJStjj9kO+oyvNdIwK03wrxZC/NaNcNOE4w6EaeT+rPdYU+wzSR7GpYnDr9qT8RcV4p5oimeLfQXMu1gEQ7mRDjQSGDW18C4XI1jrRB7qjimrfGCqtjF9Kb2Go7mwp6S4nH0jqolFjO/x7LR2jtsVBaH0ad3sTdVhH11KfaUAmxOirA5/gsWyu3Ya5EH0wh9uXmBAw6mgnXUIfreNFYfhfG6SNZV7MeGKiOglMfCMJCCrZfp2BjMxtsxIV53Z0An88eK7DpblPoybeMN7L64fkDy4nBNb2UE1K1JnKLsJusQ3GR94khMy/jQdiVjbSAVWkUGNJ3pWG0Lge5ZDBss9TMv1Xvg8G/PKaorvF3ZVvItphpiTS+kUZA/4LHmLB5qUpwx28jHQmsk+ituYKI+BqqGSLb0xBUTdXzTnDQAC7m2FZQZE3jh8YNAdJeHYaoh3twnDEVlkjMrCj3PRiv90Zztirr7PPSVfc06C3ho+ukSe5n6JTeSfhE1EbZ2VJUTTvejvFMk6QFoLQ7BgIRvqkrz4+pTXZg08Qp+i3disjQ3tPzsyToK3Lnm1MvH8rAvIAk5K1YEf0yExRwLUaoX3Q1yvFcY543qDF/IUl0hS+Nxbbn+5j8yPTiFIOCkt9Sfa034Cs3R51AcZKMgcvvgtJUDkZP9JVrvumNx75Yb+fPsbbOj3OWiBJdtUYwDFLkeUOY7YiznMjqTL0LgY6WPd7XOIMqytLI+R3wXGwsK9rpKrg5XKC/W81QAz55qM33I19nho8IfPN2KbtlL8gPPPysOuZAZzbNxp89dTue4f0ZE7vTd1bMWfKcz9D/EtWRBiAhsugAAAABJRU5ErkJggg==",
+    "width": 304
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

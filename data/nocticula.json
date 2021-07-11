@@ -4,7 +4,11 @@
   "domains": ["Artifice", "Chaos", "Darkness", "Travel", "Void"],
   "favoredWeapon": "Dagger",
   "name": "Nocticula",
-  "picture": null,
+  "picture": {
+    "height": 331,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBElEQVQokRXGSUxTeQAH4B9FxyXDjLuOGSZuoKCtIlsLpRaoFvqIrULFIkpFVGrpPo8SavuklPf6XrFQi1tbRIzBrYpJQ0TBJWo8uIbowZh4Mx48mHgF9W/8Th+szm6YLAw4vwMngzSuPiBI3b6Cybs3MTGeXPJocnTxxHgSN29cSqveBDCMF4zPi7dPPGiz+4H+MI/wSR69ISEN2A6AwOwKp8fiQ0gkhhRnz8Urf9/RcVpEyC6EBV/aQDSC3hCHvjAP9IaCEHgOI8MRvHycwFAisv3WtTPzdAYayhr7fkWV2UrVufD0/sVZwxciFQZjx+yLiTB4nkMoxAPBIIdAD7s8cb5/lcnWDZOV8e81MtXKGjfyla2+rWWH+so0NOqbGNnRNl/4iLkLw4ORf1iW+y8YDAJ3km7cvhqY42O6o69fvJ+7IscoLaywT9U2WKCkLHElZUntrHehqNL5eE1eSy2wAl5f4HRs4MSi2IAHeDYZB6VvR1m1c0+ewjqVWTj4V4702Eu9McQ2t3omDhx2v6pvDrdL5JaPc1ZxGVsU1ielakfbNs3/eP4wDggCvwYAZCoz1hcejUvVzOe6puAoVecgLto7E2D56VqDjegamPFSqufDhqLWlExlwiZZCwReyMKZKCvzHO8+n1/u3Pfvjm/zpCrbCLWrhZisvunk9UEylrpCbK7OaY32IClV2++tVLz5UyK362i3P3Y2yqlhsrHQGTrFErl5IrfE8Zky9E5ptMafvi7hx6l4cqY/PjrTxfZ9r6ppJNrG0LvcEtcncemxZ5S+Q3bQxAGNLX6Rdq8bEqkBWUVOdZGKvqUo3/nF4vASU+dlctg9QjxegexQ674WVDjGsosduzdsVoPS09A3BUTIlh6HrsEj2iiRpq0tsGBzsRZ//J23qKpaF70+cmls8k5qtLnpUGTBMnHeevE2rC2wIXMhQOndooysTkCs8EJczqJALSC7mBZtKdakL82UAbNzVhNCQJ+IARAtWJ1TkYH5JViX35q+VdWDXHkHNsrb8Qu5iCjLjMtspQAAAABJRU5ErkJggg==",
+    "width": 432
+  },
   "pronunciation": "nok-TICK-you-lah",
   "ranking": {
     "hasPicture": false,

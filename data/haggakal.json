@@ -4,7 +4,7 @@
   "domains": ["Chaos", "Evil", "Madness", "Strength"],
   "favoredWeapon": "greatclub",
   "name": "Haggakal",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

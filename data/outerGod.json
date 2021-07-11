@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Knowledge", "Madness", "Rune", "Void"],
   "favoredWeapon": "Varies, but daggers are common",
   "name": "Outer God",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
+  "picture": {
+    "height": 550,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC+0lEQVQokR2SS0gbcRDGpzZpk2zUJT66tTEPyJoVNCUR1JA0jUtEVw3GF4qNcVEQokVFCYphLSoEJKFK2pWwaRFiMWAuPXvpw0OvoT300EuVCq1asdZHX/lvWQ8/mIGP+WY+BvR6PZjNZolrer3+JgDAwsLCtXg8fh3Hcam/Y7FY7NXV1Q06nU4FFRUVYDKZoKGhAXw+n9Lv998YHh6G7e1twHFcU1ZWdtdsNjubmpro/v7+W+ByuUCr1QLHcZDNZm8vLi5i09PT2kwmM5VIJKZsNltApVINK5VKt9FoJMHpdCq9Xq8sGo3KZ2dnHwiCsLG2tvYxlUqJ0Wj0q8PhEEiSfEiSZLdara6G4uLiLgzD2MbGxseRSORzKpXKZTKZy42NjW88zx8tLy9n5+fnY/X19eG8vLxyUCgUcYqi1liWfbe6unq8tbX1M5lMXqTT6R+bm5vHc3NzBzzPZ91u9wsAuA8Yhj0pLS19zjDM2/X19ZNkMvknkUj84nn+J8dxZzqd7tBgMLyy2+3P1Gr1PZDJZAkAeGm1Wj9wHHdO0/TF6OjoZTAYPO/s7LwgSfKoqKjodWFhoUAQxF0p0jdVVVUfysvLDxQKxRkAnJpMptOWlpZTgiC+y+Xy3YKCgm2lUvkUwzA9hEKhPY/H84UgiMP8/HzJ4XJlZeX3zs7O75GRkRO5XP5JJpNlcBx/hGFYPtTW1u5rNJpdg8FwtLS09C+dTotSpJFIRAyHw+L4+PhFZWWlYDQa+202m1H6hD2NRrM/Njb2a2ZmRuzr60MdHR2oq6sLtbe35yYmJsRYLJa1WCwelUplB4qi9kOh0OXQ0FCutbUV+Xw+VFNTc4XL5UJWqzUXCAREQRDe+/3+RZicnPwbDodRMBjM9fT0iL29vcjj8aC6ujpE07TY1tYmSk6Dg4PSin/B6/Uiie7u7itxc3MzYhhGlJwGBgYQy7JIEgcCgRzLsiLY7facw+EQaZpGbrdbpCgKabVaVFJSgqTa6XSKDMNIQ0Xptv8R+ivTEFUybwAAAABJRU5ErkJggg==",
+    "width": 405
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

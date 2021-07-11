@@ -4,7 +4,11 @@
   "domains": ["Destruction", "Evil", "Knowledge", "Law", "Trickery"],
   "favoredWeapon": "Temple sword",
   "name": "Dhalavei",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
+  "picture": {
+    "height": 868,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAAsTAAALEwEAmpwYAAADiUlEQVQokR2QaUybBRyH/x0wySYSlYLdukKPt6XQ4+1B+5a29ID1vmXr3kpbKJe0IGA5O6yGKCNlsJG5dPuwBSTq4mZMjCPxiJjMxZC5JSaaJTNMF/fBaONMNo/Njr9hvw9Pnq/PD2g1GzykAMKqWkZYwRKGOjshM3AYWhW1sLPlTFR2Zpo+9P3KiHbcKXY4a3eXW6oAurUsODFOA0SaSTi3Mss4fzIJE12eqbGE70JuumfhzNyrH0/0td+mnU3XIi7d1njEjB12xeuLrwRhfsBeVriUgFlfBcDSkJVxed4F6/MufiKo/91ACrFFKcKDLU1bIoIT/fnES2DTk++rCBY69Q3F/GRYdnbMCemwrnQ4IAWYTehKcn0UHOvV9SYPNd9q9/vfMikJnIiZP7q3forORN1HRXw2qhp5H+rVDV+M0i1/f30yKMgPW2HQpyyBkbirNEWbYTBifiOXHbqKiJwun+6yjRLjaPeRX6Je011KRmC2w55WSqogbCEyyXbd1tHeoCBmp578xNiBx2b5NJt97TYiTi5Npn4Imcj76zOOX7+Z9TwacJJ35wfpK1dW5iyhUIBnUYsfhB3UKgCUQfdwCoJeh0JNSrAnHvlzMTf3k9dm2T7foy9enIkVM7S7+EGf/l+/VVNos+jQ26ZHlYiDboP8urruBQfIqpkul826KRPykNhXgwSfi1q18uGpTv32pXTo8ds93uLxMIVusxbj9IvfRunQLbNajNo6piyk4AKY91Ts1mnUS2YDhWvvXli4eWPzs3x25D/abXl8Om7AjK1hm7Y147m5qT8QcSE9krqjl/I3nsSXcQGer6ze0UqfTbeZf7NvHRGPfXf1yx/Jxnp0mJqxP05vi/kHMNXVcRMRk+n+w/eoelZSeuAZsCj4paCV8EvUjfvh+rLpKaOC/1UsEsaZzNRvPDYLP1nNP8TCncLSYu6Bqp7713R6+L2OgK1gFNXU6YXVEDCrGECRBCikopJWSggAGoZcJr0h4XNwdCj1CBH/2dj4vDg1NopGlRw1EiG2SgXLfrMYTE11DKOID3DEoQCXhwKvq63U5W+HgMfzskmjxIDTsZ3uj903ygXXeNXMtRYledxjs15UEVxCXU+AQS7ZZRQSAKvvrAFZUwWSinKQVu7Zq6zl+OyUVsouZVBPA/BmEkNlNXvLgWoUA3sXg9O0j7mfZD4H0mcr4KBCDP8DAj1EXAr6xPcAAAAASUVORK5CYII=",
+    "width": 991
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

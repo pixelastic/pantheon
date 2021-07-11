@@ -4,7 +4,7 @@
   "domains": ["Darkness", "Evil", "Repose", "Travel"],
   "favoredWeapon": "Dagger",
   "name": "Alazhra",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

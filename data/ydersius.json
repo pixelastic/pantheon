@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Evil", "Nobility", "Scalykind", "War"],
   "favoredWeapon": "Dagger",
   "name": "Ydersius",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
+  "picture": {
+    "height": 808,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADr0lEQVQokR2S20+aZwCHX5ddLcuWTkFFEFEOVQEVEfjEI1pBAZGTiIofWBXxAPXUKk08rm7GYmdbndVi261prcvsYndIat3WLIvJkiVdsqtd7HpJb5ZlF0v5fH9L+/wBT56LhxzuLJOt+RFyvDpPAJC9pcmMnx6uR768tfAouTbzbDcx9WL7yuj3uwuRtavDXYrk/Hniq7KQiz2OtHivk5And1bJa+5MBskvX91qe3J3+Y+56SCCIQsCvWYE+lsQjrgwe4nFjaXBf27Ge2cIefftUEMdife60wifENKcScjdD2Phe+szqVaXEWIFjxMXZnJlJhmntxRyGXnvc9n5GSnGpMIA24TZAefu02SMTF2qJmRjNPA6x7E81oEakxLZeWe4XHkm1egktMVWBre3grZ7GFqulyI7P/00v1iQandUIh5qDU4HzIS0NzTwrgy5T/yeKgjl/JS0OAdGpoAeP96h3yYXsTHdiV+/3sZOYoIqy4QQy7O4wlIxOuyVf8Z9bWdInHWELodbodJITnMK+NRj19LdeZa+ON7DDwebuL0Sxc9H+3j24BrGA9VUqZFQkYzPnTOVYKLL4icXu1vuDXTWQ6zISgmlPNrb3Ui/WB/Hpx9dwM2PJ2Aoeg9Xl2L45vMEYl01tESbR0VSPsdUFSLiN++T2X7XHuurhfhsFifIT6d+lxFeawWGu+owM+SGsVyE/u5m9PlNiLJNsFjKaZbkA06rl+K81/SUjPktSV9rJXIVmZyyTEw3lkfp+KAb1RUiqFQCFBQKkK/gQyTl4ejgNj5bGaEqTR5XqpWgx248ItNBWyQxFYBeJz8dCZnp748T9P4nUxgMezEy2o2aWjUCrBPhoA0Hm3G6MuWjWoOM0xnkmGSthyTsrndvLQ4hGjCnGIP0dIhtxOq4i/74MIHv9m+gQifD/vYyrs32od5UTGVqERXI+Km2Fh1mWFsfCZwrkz3YWPxvbLQd9bVFEBTwTuVqIRijgrbYtbTeqobTa6CMuYhK1EIIZfyUhpFhyN/48no0mP7m/+ePNifWFsfum5s1UKhFyJXyXuWezaLi4mxa1aykta1KanKqOa1J/qqUkSLkqcE064hdDljIG8Ffv52Q6LCHuM26iM1SDo1BCkWJCAXKHMhLhai2qtDk0MLu0MFv0/8b9TaGe6rkxKJ8J41sLYXJ4e71tybmutLaXQwZcTWYO2zM8zab/u9Odx3n99RxfUHry7DffBJxmuYi1tq8C/YKwiOELMQGyP+N8KrJS2f6tgAAAABJRU5ErkJggg==",
+    "width": 828
+  },
   "pronunciation": "yeh-DER-see-us",
   "ranking": {
     "hasPicture": true,

@@ -4,7 +4,7 @@
   "domains": ["Evil", "Law", "Trickery"],
   "favoredWeapon": "Lucerne hammer",
   "name": "Xanderghul",
-  "picture": null,
+  "picture": {},
   "pronunciation": "ZAHN-dur-gool",
   "ranking": {
     "hasPicture": false,

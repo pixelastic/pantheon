@@ -4,7 +4,11 @@
   "domains": ["Death", "Healing", "Knowledge", "Repose", "Water"],
   "favoredWeapon": "Dagger",
   "name": "Pharasma",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Pharasma_holy_symbol.jpg",
+  "picture": {
+    "height": 297,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQ0lEQVQokU1SbUxTZxR+7m1nFolfUGhv28u17W3vvfS2wOgnXakwaJEJQ2RjYVDnakGmZGrcIgTwM0HMXLaZkZkw/bMl/GBGoi7GPyxZtmSYGKPLYuKy6IjL1j+4zBkE17Pclsa9ycmbPDnnOc9zzgEAVFg4VKk+qGYbKoqKGA0LD32D6nK5PtjSfzbcM3a5dvepaf+bQyNOKRboJdJSENLnPkC1OSABkF9gmI2rmL+ha6jxxFcrnVdv0a5bNyl19x713nhA8ck5qk6OHvS9/zVenphjc8nuugQUHUBE+JkIwda+c72zd2hkif4doX+WTtCD5aP06/Iw3X6azvxOkQ+/e2Rcoy8r0RXaAQi+foB1+9rh8cYGE5Pf0hmiZx/9TTRwb5GSdx7R/oUsnXyySMmHj58FR2dJEByy1aLp1iw45QKPLpQ6Pp+8u0xv3XiYbTz82W/RnR9cDb199Fri1NTNtqlrT6MTs+Rp6/88fp/QvToLqFV+xgLADNjqjnyR6f5piYL9E/MGwC5x68OK5OkTuZIWp8P+qhppTmlWxVIDJMeqAskXZUwAtILI+Mxi88UF8sZ6PvG85HWrsfiPcrB5ylXfvSC9tm/mEBF4AKISYF1SZZ7A/twCW73v+PXGSxmqemNs3gqUit7wWLnVmuZNfJvYvPe2s2ngSyl9HlL6AutQwqsK4tugtu9i5WgCrkpfa2h8mgLHrpDkjg6bgWJHZXRPANDbfNs77VtSfxQDazTFghLJ3QzUlh3QgPhjQuDcD5qiw5WD56lq7wWSauKXTYDKFTERoa7jl/JQ65xrdAbKx98zFrsnr2AzL8CYH2LuudKTsLmCfWrPpxnPu2fJ0b6HhC0dZA03/sWJ7hqzUgOLN8Tycih/PFps7+xCsQ6w6YE4ERy1O2EBOLt/a6+9bWCCj3UcKS1+kTd7fbCGE4xQ34VypfY5QSGGB/sg6gGla5zVVutsegfy0DQ279iP0rL1sPobWGFrEuLu0+A4PkegKxRns1ksr6zgz4X78Fe4IHqbGOcrSZ0zfUYntKR0nCQzlvoGCN3vwSTY8n6JyPJ/gkJkMhlYy4zgDQaYjUaYDCUo0vYMoGzTOhg3rM0R/AcMpDRfQwFSawAAAABJRU5ErkJggg==",
+    "width": 308
+  },
   "pronunciation": "fah-RAZ-mah",
   "ranking": {
     "hasPicture": true,

@@ -4,7 +4,11 @@
   "domains": ["Darkness", "Death", "Destruction", "Evil", "Law"],
   "favoredWeapon": "Spiked chain",
   "name": "Zon-Kuthon",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zon-Kuthon_holy_symbol.jpeg",
+  "picture": {
+    "height": 264,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAADG0lEQVQokQEQA+/8AISHkQBmaEkAnJyEPqmqj6i7u6DiwMGl9LKzlt6jpImfnJyGM25vUwBaXDMAi4x6AABpbEkAenxjjIuNb/+vsJH/zs6z/9rZwP/Ixqn/nZ5+/4WHaf96fGR4cXNXAHR3VQEAaGpRdXh6Xf+bnX39wMGg+uHhy/7v7+H+5uLI/cTDofqUl3f/dndb/2hqUV1iY0oAAGFiSex+f2L/o6N//MvMrf/k5c7+6+vX/t/ew/7Jyaf/n598+3p6X/9hYknccXRaBwBhYkr9entf/p2bdf7Kw5P+39mw/+fpyf/e1qv/x8GR/piWcf14eV//YGFJ8VVWOiQAaWhP8VRNNP9PRCr9dWY9/8KzfP/f2az/vKx3/3BhOv5OQyn9V1E3/2hoT+NeZVERAG9hQOcoIBH/EA0K/Q0LBf9/eFT/yMGS/3FqSf8IBwL/EhAM/C8mFP9vYj/Z////AwCQeEX8X1ZE/iQjIv4XFg7+aGRI/pKNa/9gXUL+EhEL/iooJ/1mW0b/kXlD8HpyWCMAjHtS/3FnVf9nY1H9cnFR/1ZTO/4SDwj/XlxC/m9tT/9lYFD9em5a/4p5TfJsYUAjAHZtWb5lXFD3cmlQ/4aCW/43Nij/CQUA/z8+L/+JhVz+bmVP/WZdUPtzaVOemIh5AABoXlGsY1xT7z86KPZtaUn/cGtM/mJcN/51cVL+aGRE/0M+LvJgWU/0b2VXk2lkVQAAcmth32tjWsQrKiPSYV5E/7evhPmTjmf6vrWJ+U9NN/82NS7BamJZ03NsYc/Dv6wKAFxUT+NKQ0CQODIhe3hsSv+IfFL/hHZO/5GEWv9wZUT/NzEhfkpEQaVfV1HZxbytDQBORT75SkI7b2hkUwBrYEGObmM/p3BjPJd2akaibGBCh9vQqwBKQjuGUUhB8m5iWjEAZ2BV02tkV2ppYVIAjnhFAIByQwB4aT0AlIZaAJJ8RgBeVkoAaGBVfmhgVdFwaFhZAGdeTXRpYVNVcmtdAHZrUgSAckMDfW5BBI+CVwN5bVEDgHhoAGhgUWFoX05sWVBFG/ijgLgaJUCFAAAAAElFTkSuQmCC",
+    "width": 206
+  },
   "pronunciation": "ZONN-koo-THON",
   "ranking": {
     "hasPicture": true,

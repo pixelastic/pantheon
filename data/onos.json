@@ -4,7 +4,11 @@
   "domains": ["Air", "Earth", "Fire", "Travel", "Water"],
   "favoredWeapon": "Chakram",
   "name": "Onos",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Onos_portrait.jpg",
+  "picture": {
+    "height": 951,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACsklEQVQokQXBWUjTcQAH8F/USyC+1EMvvdRLUQ89VVB0HxAdUD6EFVQkQZilGUXlTMwuMg8WlZCjTM3MKeaMyZpJam5zh8fMzZ1ua/7d9f/v+M//9fv2+RAAhALlVFyZlMOeUSEc8EVZzuZgUqp+g7vA4OZIjyexqj7IEgJgDc1m3dLYd+SbL4JX7UH4cy1swgrsiXxI78kebp3mSH+QX03ov8V98sS4Ijy/LQtlm2Xv613KnKZIXmy4LJqYEIwszZT0sxuaHTIh8qzjmWKxQGq4L8WrtiP4q5QK3VupXF0Iv/qSaE8n0bOkaAlACMLBnozdBn/9ecnRXkJVdgsmdOUUHZtpqmYLnYwsyPos0DHLHyJIsgHn1w+YeXlEKX7bid2WHCp9PiR6D9BcwyZqcY3LwyLwzpO/TvhQ1Gusu4WBmrPKwR/z1MFF0cZKMP+8A6jX0TGLTrICGGRWOkhkzjenrShG/+Mipcq9DCc3ixlPH1xTL+DvPQ9DxCuPKAqGWMFAvAuMSfuoDPobO+UK6zxtyzHI2u4i9/00us1dtBeQBrg4dDGhj3ijqcFvD2+i98pO6cHwIK46o+hKLsC4+AcOPkUb0ympZYnBZEx8T4JMWtOp7cGrp2XSjycX6Jk3n3DUncU9JoM6JkH3+5dkdSgGW4QvJREelcbIMj6+VEm/y49Cc+cc3duuQ0Gjnq5t0tNjJp+i8bMwOFNFJBzLb/MkOIybRulIa61ifXQKXyqO05N3K+mOh2o02+ekgUAa5mD6GpkGSCCVbXGxHEwTPzH0+rZkrj6hzKgvyH0DbaLOF4H2bzJscHHrSdodIUaABLlc00Isrkw57bCaf2HaOgJXwA3nEgtXQqwfC+UJicYzq8QYSxy8SBK8snGZlxrjvOBieGkkIUKfEVCd48VCKlHyHzBRG0rPpchqAAAAAElFTkSuQmCC",
+    "width": 653
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

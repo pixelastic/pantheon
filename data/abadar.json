@@ -6,7 +6,11 @@
   "edicts": "Civilize frontiers, earn wealth through work and trade, obey laws",
   "favoredWeapon": "Crossbow",
   "name": "Abadar",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Abadar_holy_symbol.jpg",
+  "picture": {
+    "height": 342,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVQokQEQAu/9ALGlfQCTkXwir6OHrLike/O5o3btspVsmIRYLhCliFwAAKCEViTBq33quqmH/7uje/+2n3f/tZ54/7qjd86Dc1wNALigca65oHr/0LOA+NG2a/7Dq2z+qZNy96yYef+2o4B+AK2WbPKokF7/yqtj/rGqWv6gk0/+p41U/ZuIX/+xnHnXALGacOyfk2D/qp9m/rGhev6ll3f+pZtf/Z2TW/+ym3LdAK+Xb6vDqX7/sp6A+MO1n//Sw6r/ybOO+MSpd/+ylmZ/AI9xSyS8m2fqu6B0/7ijefy6pXz7vqN2/7aZZc95YD0NAKWUbACJf2wenodku7eYZf+niFr/kXtbpFV4lwyShmoAAJR4WAWCZU0AbEo4QYJjTP+EZU/M////AFZJSgCLclcDAIdqUAFNNjYAbFZJGJR1VfOvkWm9//+OAMyqcQKrkGoAAINpSwFeT0cARj5EDpFxTO2nhVi7//1CAP//MgCMc1gAAIBmSAFTPisANSQZD5R4V/OykmeauptuALeYbASYflsAAIhtTAFDJQUAGwAAD6iObu+5oYGxAAAABf///wCcgFkAAJV4UgFmTS4AUjsgEKaIY+S2lWfymIFhYY10UwCjiGACAJF6XQF7bWAAb2ZgFJl8V/Kmg1XqYFBNHV1OTACEa1IBAIdzYAAAAEcAAAAAAIxyWLOafFq+fmdPLIBoTQCNc1YBwXX/0yYGNYQAAAAASUVORK5CYII=",
+    "width": 166
+  },
   "pronunciation": "AH-bah-dar",
   "ranking": {
     "hasPicture": true,

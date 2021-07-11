@@ -13,7 +13,11 @@
   ],
   "favoredWeapon": "Whip",
   "name": "Lissala",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sihedron_Rune.jpg",
+  "picture": {
+    "height": 425,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADLklEQVQ4jWWTS2xbRRSGf7/aQu3r+7IdJ05tEqUptERNVQqCIgGrqEhUBaXpAkjqedzrR6JUCbQSVKT2OXPtKCpiy44FXfBo1S5ZdcmCLRJbVkgsQEggVFgYzUVCqpjVjM6ZM9/55z8Y77yA8e6LMN0mWJdBysFgDdi/ArRvbCPpNldeKgIOgMlkgv+tZOsUkq2TML0WWJRzHNUyrOsZ1jWwnqqz9O7fvvFq4WD3HMZbJzCyeSrIcNzIDDcKwOjaGYy2lwvJ5vEqCw+m2wJJ9xAJByy9LRbO36bX8kynAdbV3N4aMqwCUFTH8OoTAK0XMrRxGKwr11n5A4tJKgRdvwLWtTWW3kNW/jLrCjiqY/A2bO6z3Jk9N3wH9lCzOOBo1iXh/Eqi/APpcMUGTWe2ycL5iZX/Om0cAkdTF1g435J0v6NopkWqCpD0bE85i2V07U3WFSZR+o2E84BVOCBRnLD0+kl/rsk6uEXC+ZlVtZlSCjeLzz79AiaezgzX8/kP3wI+ugjb+20WzoSkv8cq2GEV3mFR+otF+ReKG/MkPKtTftguAQe7r1gCUPsoRr2FI6yC8yzdO6zCPosiqF2y8Utpe7KySCoAd1o2P2s6TWB/+2yOdXiKpTtg6X5FovSIRGlCuvqaFW7Ub4Gj6klWwQOjwze4t3CCdX2ZRBlpARPPXmDp3iVR+p2Vv0/R9FlSQYek+03SmV462D0dkvI/YVtUOI9YuvftAyy9vaQ3XwTFT2HvMpDsnC+wnmrS1cNg6apUPB1+zsL5g6V3j1VlkaT3PCt/laXbJukOTNxYAUXHcPMiYPrPIOnO4eaq/Rn3S5Llr6k7V0u/TTjfrwAYrOdh0Vkcta6FiRvAe6sFjLeXwCrMsvKtL5okyz9yPHNp+K71SXWJpfuQVfgxx9PV0bXnLGGeZTln4kYmnQeyqko3R7IMVp4iUfpzKP2XjayD2kV74QMSzsTEDc9E9XQWHh+ozQXcuox/barCfdbVM0OLKr3s+8tIY6yCu6z80ymlCrKPFTD9p2H6izC940eSzSWH9RSGws1R+0mYeCZrOseQdFqL4/58K0n3zf8I/gFCXizgQi9+LAAAAABJRU5ErkJggg==",
+    "width": 428
+  },
   "pronunciation": "lis-SALL-uh",
   "ranking": {
     "hasPicture": true,

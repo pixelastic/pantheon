@@ -4,7 +4,11 @@
   "domains": ["Glory", "Good", "Law", "Repose", "Sun"],
   "favoredWeapon": "Katana",
   "name": "Shizuru",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shizuru_holy_symbol.jpg",
+  "picture": {
+    "height": 272,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD+UlEQVQ4jR2SeUybBQDF3yi030fPQQNl3BVaHFbOARlM7rGClGstZOLKUcYYtMNVSGFQjnUM2jKgdEMIuHFM7mMdm4MBARVJzAiGEDyiZsk0JiqJxqjxgM/A+/uXl/fyHrot9XZBNBxp2arEcqcSFEXhVjQPTaddBV3SEy6dMhEoqhTUSzNWb0ViadiECVMZJk2lwOCgGQ3XlUcWL76Yx6oln/7lU4vjJy2xGJa7pO6YwlxX8oC/vzYIDpn1jnjM363HUH0+Rg0FQE933RtN9YUYa1EJDwGKCoWtJjrteZUTlkqdNd/0+Pn/NBbh/Yst/szn5mBsDrzpvTTUwp80XsJ0exnQ2lY982RjpmiZAccRlWdxlYiNewq+4lm9JGqt2Cltx+BV8sNAQA315zvcj8t5CQtXfXIpGUABsBbFHlVnNN6onBpfHK2+n4iQiXyi53GlULlYE3Bzs45XtGU4PvVVt3/5Tg1XvHqZeO95eyDSQcOoOsauvzgSiPNiIhxg6q9I1619DbMLjenBtiJyuP+s46e2s3b/fFfp+sePVu9HW0ba/bVanxTbNcm5GX2ydHmogv1sVg98+xbQ4AIsRcJZKzs53GJtnVtqStiYloLaaqUf7PZ6UnvtJ6ltDfvDh9cEzSO5gqTfl0MxVCbB6lgrMF7syzPHcd2ao8jwqfMotCpcP+jS5lGbcwX/7a0ID14MkvvbRi41lUD/baJScGFYTqbMqL1Uo5WSc8sDOi46U93c2mNZ2cY4eqkphZM8riAr+06BmjUl7X+0UHvw/Ur4/mc1oG5H2P/8oMSj546UqbJI2YFDaolgWF/iDGuGB8yxbGi8gLtSx6w+JefGeiFn+9cOAfVYJzzo1OUcTDcmUpO5ntPjGpF+RBNetHRH6WLNfwUPLTpADCCPzeDrw5jZvZnc5LlCrnKjxePBbpXnxmIc/jUG4a9qRfhaf0PibtcFv8sN4mOeT24mhUzUJRw/2lAfwURtkKN9V7zD0YUfqXj33pe7u01dYhus6cyJjlTGxZG3WabGBHpFsZh4WeDDsslJmkTuzYUx1QdoiiKR5UTiBBzsetKYVyzRNFFHCvFar4yu6crm1c7rhCJDIqm0lfODqb3z0Mbwrfm+7KdKT1a/WeYXAG0QAV0YAbWIcG88zRQ0hTlAG0Bm8gHCmsOX9V8UZBwmvZ3CSb8eSYIicCzDC0SWByPbKHdTQRdKQB9FQBtIoDmGhasSwj6Tw3QpF9tDHeDwuvpVIqZcTEeRF51TdYq0B6KRFgHkeJBoyxEC7wYRqA4lUOFPoDWWheoQFmQ0HmSOBBROhHsOh+GcxSSg9mdAf4aJ+igO8v0JZLsTdm0KX7v/AbSlY0eNyu2KAAAAAElFTkSuQmCC",
+    "width": 277
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Charm", "Good", "Luck", "Travel"],
   "favoredWeapon": "Bo staff",
   "name": "Kofusachi",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Kofusachi_holy_symbol.jpg",
+  "picture": {
+    "height": 495,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD3UlEQVQ4jR2T+0+VdRzHP3TQra21FWq1NklqTi4uQDggIXqQm0MgjiIUiZtp5nIoml3sdCFqiEstNpG2pq4Wq3T9QIXIYMEBL7CQ20EuBzjA4RwO536e2/f7PM95vp8G/8Brr733ekN50e6i/dn62bSEmLNFL2w4cHDT80fKNj535J2XonLLAJ4ufwoAYB0gvgEnAcDbVQj+oYvAj10GtA8B5GTE9WYlb6nI2VsEh1NNgIiQBxBVEhWR9cHWTV+WR0L+RgBAhFVUhDj60frAaOMzguXqup8+BoDGhgtLnL2vW3R0m3l7T6+wcLdb8TzswIC5VVx5NNz7c4N8o/pts3eytV3jhtt9lptXfYNfl/tHGr9Aqw3g4b0WtI3fR0YcSIJzqAhOlHwTKPmtKHlGEdGtzQ38jX/WfYjumfsKo/YHnvFfazwj32cGRr5bDwtjPepA250wMk6VeYeqSm5VJV5VEZcVmZvXaGCeIfOpy1P94RbTaeK1PW6TnO3Fc921CfbBHyNBCc0qXb80MzHkZIroYjJnZzJvZ6rkZQq/xNaM/LMMMaQtDnfhX5c/X0C2dBfV0YrVeUETptXBjj+0ka7biFoABa8VKedAWXChQgJIgjZGODsqoRm0TT1iVWW5WG96H1uaL5gdZr0O5NCcQnm30n6tgQneGVRpkJHgPFNIgMnCClNpCCnvYsgEHOi+zdISt2jvlhnC71XkYH5m/FEQV4YIokwm+zpkc8tNhkiRij4mSz4mix5GeQeTiZ+pxMM4vx0rS7OxypipHTtkwOJc/T1QBKegUFFERKHz1nUy3PkPIiKjvBepsIwKCTGF8iyskrAqutiZ42X4Zk4KqyrdhQb9NuuqQYhwTkHyW0XKLUi/15vClp6OVR4jvIuFiZsx2csYcWqj//VoJYYkrDqwJ/xW4U4sL0z/AeTgrFOhIY8s+YMq8XBU9PB3aj+l5lvNCqJEFm2W8MTjdm3a8iBcnL9Ty0rYrBr3JDNjgR73G5IPAfFa5hXJJ1PeyQjnREVcRpW6savpEnY2XcG6T07iicMleLH2PJ47VYklGfGYFRvNdqfFaskJr20HcbmvUloZPEt8T2oov3RKcA2dDy3+W4O4cnqi57fPao4Zg/mJcYrpzFH5uHHf1JX66ra87B2YnhT3rT49BUBy9YPkHQMasAIJ2kBwj4DiG1w7Vc7mZ+FcdYXNkB7bf8l0osSYpx+YnG6F0oIMw/at0a8kboteA+iIb1xHA1Yd5R06yfdE51/si7zRVLd+NbSCvTuu7UqP/yY14VU4uC/1q4yU1zcU52dAzMsvQlJcTMT/bnm0urNnAegAAAAASUVORK5CYII=",
+    "width": 481
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false

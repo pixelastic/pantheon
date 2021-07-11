@@ -4,7 +4,7 @@
   "domains": ["Artifice", "Good", "Healing", "Law", "Protection"],
   "favoredWeapon": "Mancatcher",
   "name": "Aesocar",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

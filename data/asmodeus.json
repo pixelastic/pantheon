@@ -4,7 +4,11 @@
   "domains": ["Evil", "Fire", "Law", "Magic", "Trickery"],
   "favoredWeapon": "Mace",
   "name": "Asmodeus",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Asmodeus_holy_symbol.jpg",
+  "picture": {
+    "height": 346,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADuUlEQVQ4jV1SeUzTBxT+fj9gc4NsFsGiQDnGRCggAYQAZYwCATlbBNFCBIlRdiAMDZrMuTgzdyAoATSUWs4K45KmMK5xlA3YHM6ROWUwZHTTSCIG1ELBwlta9tde8v3xXt79fSAi/B9dn6Zh6EsJ8gw+gIGjTowh/lv1CegW56HMdcKaTotV7SLw+DspnqjlmO+6jDl5DuifJvR8nILTABQA6oNfYX7Od8AcEe43nGEmZMcx2V2KJ7O3MD0sBbQPJzFV/TXUhwMweoDDdsbuYFszvHCFCOpsT6Y7ywtTsnTf6YrD22cu7MXMZz6Y7q/ETzWZ0D7VALqFvzEs8YH60B5mTMJFRzgHN9L56EzkmhbFe6Mq2SuoMc5uQn3Ebaf6iBu6M/jM7Gg1DLjoDeCP4v3Guw12J2dPcnu4paAx793XeiWOABGqxfyy8kiniUuhjo6fu1ugOOIt4z+I1g11DPQrL9B/gM+qInjoTd0d/4OY+7Q9ltuhSHC62J8bkC47KXYojdlVVbzPdW/pvl2QCy1NhwqiTV4sE/SrWnNsbGxgiQjfR7LsmGQH1JluJ5USvmQkL6jpVrb9c3m0bUt3kvViY5JnfukvKjPFOww601xAa7/ipXbBwri+hgh9xZkgmsXS3fOmPWfjwi75c8auJzoHGU5rjuEOSsW+kposn9OyOPu+3mO+yUTNZkQzwLr+JeirLGSkpWI9DextEVAezav7RmxHhVGe3m216VsHDllNlwRsvV0SZtsjj+Iqeo/7JtMz+atELYBetwwKBaQeYGsFb6AoxOZcmdC+o/PD0GPNsZzHqgSrO6r4bcqKCLuPzga9bV0RvAV9WXzQShVIPw7oV1fQlujG1gp4aBN5hiiFb5Iiwb7t6okUfnuK7TnlQafu6wUS98H3BX51SXzUR3HN+rI8WFqVg/TfAmvLz0xquIA5gHufRGd0xDvvPx/ry0kEUGgDFIbxLpcId2qaxa4xjQnOUIhc2QsATgVu26SfiHBXegYTsgLTLgdAJdyOL6I8cCPZjb2aK4LiytHXi0KsJ+vjXFJkkTzUxDibPBisw9xIC+ZGWzcbzBPhr/tKpi/cnFEKrdhrB/1Q6c+gMdWFbc3gY+CUwH00JyBw+AM/jOUGMtO9ldCM3YTmx/b/WCDCwp8jzExPGR79rsLseANKhVyU+ZuhPNiCaRDzjEptirA05hqmPxiqx8xgHYxC0j1fwMPxFtgAEAHgABhXVeE9APkAbmaHMs0CC0Rhc2MDFjX3sPRoCv8CXQ2/4+XtLuwAAAAASUVORK5CYII=",
+    "width": 350
+  },
   "pronunciation": "as-MO-day-us",
   "ranking": {
     "hasPicture": true,

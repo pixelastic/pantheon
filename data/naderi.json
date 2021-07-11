@@ -4,7 +4,7 @@
   "domains": ["Charm", "Nobility", "Repose", "Water"],
   "favoredWeapon": "Dagger",
   "name": "Naderi",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

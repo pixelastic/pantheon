@@ -4,7 +4,7 @@
   "domains": ["Good", "Nobility", "Protection", "Strength"],
   "favoredWeapon": "Warhammer",
   "name": "Trudd",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

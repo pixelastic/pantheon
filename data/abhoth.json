@@ -4,7 +4,7 @@
   "domains": ["Chaos", "Darkness", "Earth", "Madness", "Strength"],
   "favoredWeapon": "Whip",
   "name": "Abhoth",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

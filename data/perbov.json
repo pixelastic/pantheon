@@ -3,7 +3,7 @@
   "description": "Perbov is a minor giant god thought to only be worshiped in the Iobarian city of Okormirr. The ruler of that settlement, Druid-King Aalgin, requires all residents to swear fealty to Perbov, and he maintains that the nearby Lake of Mists and Veils is actually the god's sweat.",
   "domains": [],
   "name": "Perbov",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

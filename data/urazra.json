@@ -4,7 +4,7 @@
   "domains": ["Animal", "Chaos", "Evil", "Strength", "War"],
   "favoredWeapon": "Spiked gauntlet",
   "name": "Urazra",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

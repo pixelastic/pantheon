@@ -4,7 +4,11 @@
   "domains": ["Death", "Evil", "Law", "Trickery", "War"],
   "favoredWeapon": "Sawtooth sabre",
   "name": "Achaekek",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Red_Mantis_symbol.jpg",
+  "picture": {
+    "height": 264,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAAsTAAALEwEAmpwYAAADmUlEQVQokSWSW2hbdQCHf8lWcNA0zdqcJCc5Ocm55lxyzknOSZPZa9r0kqbt1purZWlruy5unbZ1gq5qy8ZYi7OCF3B9UKsMHUWs94Iw9GEysCA++KAwRdSHiXsQxD544S+dv/eP38P3oU3kUWFDWDFNsBwHXU5AFUVosoz9ZcOUOxf2wwlTXc1M8KbFxg7ZMQZOlAbaJIFb5KI4YybddRH6HqhwPBRBuAe3xAMHW+MUGuOBiyUuQBwuUtbqa6D5PS70xWN/zBn66fmUhZzIe8yEQhmSBE2S8XB3B4o658LhOqAudGjGYn4aViKfnVRpTImUG3kmcqefiXzzbC47HhaEvK3IdfuPoznLtV3Sce2B/AHUVyFhiPRap3b3XEb8tTrGB7wRFpixjOslge+eM3RSFPkXhwwZu/MTAA5i72wXyIUKJhos5HTRWM4bexebDNKrSeV+ngUWTYMsNN5PHQkG3uphI2S9q3nn6viASgjBy8MF/fXR4jvPdRU0srGMiqPfXG1MkzFVeqSiiMAFxybTqnZ+Slff1IPBteW2zM9bkyXy/lTP7uVO5872qWPk45lhsjFYOtYnCZsrtknKsvQpCfLAWi5LKoaxudLS9Px8Q/oLJ0r3PllwvjthC0Tz19zV2NDIlaGOrY3+Apk0ramnzOSfC7p2Gz7fATyTTv9yyU7/NpI0C2+PlvZeK5e+bFTYpVSo9u9HW3WyOtD4Ax84bJR1dWsx47xRSSa3n0hZf3E0w2BWUT9fbbDJkCptvjDQk7lxenTv6lienG8zvv7oVO+NaxNFstRif+tEY7MnFOX6pKK8+riRJGma5nBcVefWWzJk4UjyK/LjJ1jtaImUU4nLAGp35/vw0ljJXC803RrkYiRLUWuzqmaeVBKkl+Mb0KupPZeabbLWaf/bZojNo46Gx9L/p/nhcNa9PTWIohGH7a9/b4SLk7yiqNNG8vZRUVyAS9C9Z9OJ71fbzX8KKTGdSdCYy6lV7YwPrTkL+8pklvXeFwxmzyW1K0M8d2tMVX4/qig7eEjnMJSIvTKTjBOZDdIm60dBirgeHD6O/Ux1noOdSFTTAX9VPkxjXBI/UGu9RA8Fz0CI0kjJQlMpHiIdHP3urODDNOd1mzwPIR4HH2WgcjyWOA5pikKtp8YXPuyzZiwLGAl4XN10HdpZeqc5GlrpZAJoj1BuR5MhCwL4WAy6JAE+L4pRxuWv9sBf48HTuZzrP3yYAbp7e+FSAAAAAElFTkSuQmCC",
+    "width": 253
+  },
   "pronunciation": "uh-CHAY-kek",
   "ranking": {
     "hasPicture": true,

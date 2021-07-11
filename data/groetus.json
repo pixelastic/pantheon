@@ -4,7 +4,11 @@
   "domains": ["Chaos", "Darkness", "Destruction", "Madness", "Void"],
   "favoredWeapon": "Heavy flail",
   "name": "Groetus",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Groetus_holy_symbol.jpg",
+  "picture": {
+    "height": 295,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEBUlEQVQ4jR3NbVATdADH8T+jABnDjW0gMGE4xpYJGU8CApPUeHA8lFDOQFyKyJwpKspYsDE0YM1BtAQTNwFBT91AKAkEAQ8fKk+xqMDK60VlJXe9KPMY7P/rju+rz7svMXzcR+pbHIzP7TfINst1cspxL806+ahzdPbJj6Ozvz+3fzn7n+3anR9Otl5ob66sTqyqaSSOrYnkaG4Gozw7nRBjaz+jtaWLzEze9H7fOnFec3UaAz/PYfTxHOwzT3Bp+jdY7z7CBz1fQGMwo+5Qxam/S+Pdj2+KIZVbs92IqbKBdNcZvHVtI7cbR2fR9+szV8e3cwsFpl6XrvcOHfzpKb10/7GrqW/MWaI301JVOcpysga7CHGv4BJCjp27S6pNVzq36S9D3f31vG3qL5pvHABvbTZN2KGnZ+/+QttGH9CW3hHs0hioYo96PnvTZhQmxjZnrpEQ0ts3Kdut6URIykGX7IiVqs6O0KR3G2lAdDFYkTugaBrB/tZ+HGzuoCpdPZT7D9D49cnIiIuhphLlK6Rn6Bvra4paSLMrF7Z9MowD58ZpkcEGcfohSNIKoWweQLHxIrSWLiRkKagkPgOiyDhnlFiM/W/knSS2senvN+81ImlPi6vAMk5zDHYc655ARccY1JZrqOkYwZmBmzDbLiMseiP14YsoXxi1GBwUgnfSt9wmffdnnuVrLVgtP0KjCvQ0q6oL+bU9KLfegP78GMxXJqB4T4/c7buRt30n1q7bQEVr4imHK0CZUjVHLo5P/SM/cAJ8aTplCpLpKlkxkgu1yFQ3oaq9H0eMnyJYEgNpVAyUJaWQv6mgvCAR5fAEqKkx/knaL1x7KHtLjeWCOJdf2HrqwQ6lLyzjIjFnN6o+skH7oQVv71JBnq/AOtnrlC+IoAzP5Yvh0ldhMp+ZIPVavSVJlomAiATniohE+PBDqLsnE9GpmdinbYDycDUKdu1DXOpm8AVi6uUbAIaHrzMrtxD2q2N1pDIjLTpZvAq8ICHlhUgoOyAELF4QXSlZS9PyihC7UQ5hZCJl8UOpF4sHL5a/K1SagNrGM8//ePpvOEkJ5BK5gGMWsX3gzebOMzl8F8tvBVh8IWUHiiknUEQ5AUK6zNcf7h7LXX6Cl53qqiZcHfpK2+O4RciggBDgMkkP9nOI/djwZvrCg8lxLvP1X2SyA+mLTB5leLIXGV5c54rQKJQd0qN/6Ja1THOSLLUnMsytVsJZ8s6EmPrclJSFpPj1EIWvhn+gEAHB4ZCsjkOqbAsqNA3PhocnK8tMDgKATD2cdSNFEgFRxUrdYNhL0letJJ+dPv2SuVp3Qnf42HjNUe3T47r6J83G5uudbdaa6XvfhdkdQ0uz+w9m3W5OTpH/AdOn9+whaQFyAAAAAElFTkSuQmCC",
+    "width": 295
+  },
   "pronunciation": "GRO-tus",
   "ranking": {
     "hasPicture": true,

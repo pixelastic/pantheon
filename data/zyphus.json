@@ -4,7 +4,11 @@
   "domains": ["Death", "Destruction", "Evil", "Plant", "War"],
   "favoredWeapon": "Heavy pick",
   "name": "Zyphus",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zyphus_holy_symbol.jpg",
+  "picture": {
+    "height": 300,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAADI0lEQVQ4jXWSW0iTYRjH/9+2qxC6EOqiLurCIAojOmJkgR3wougcFGopVmKHeSA7SXb0MFtl67PSUplZzq15nmZr+/zadDbddLqllnNlSdpmYSWz7ImNDkT6wMPL+7w8P/7vnz8q2eOoYE/CqskTNimyGb5WIXxpa0JfB49PQ64Eh7FKOuyyY8jVJcBk1XBLzOxdMh3NinR0lmdBr1Ghq7l+hsthLuy3ahv5orSw9qob6Hx8j5kUUJ0Tjx3BAQGc/HxkuzozuL5CucpiaNBqy9goIoKpTAoH95BxmsoxZTmbyurGPU5q58q/55+LG8nLPrussboYRCTgS7IEXU+L8dKgmHy5TnY0xNPLk8fj9t5nL0wUnI2iGymRK3JT9uJ64m5R/ukomLlKKDOPTg7IObJ5pq4obSA5cj2pbiZNtNTmkTwzSZ0VsWpa7GxAcmADWuvkMGnkU38hdlOI9nzc1tYrCbtGTMoM0qnzKXRe4IJDW1bjzuUkUZ9Fh8HeNvAVef8v60uk6yrZ1PSuGhbzAjC/RpawL2xpkGbt4iAzEQmJPOht0wvdA9147+xED//gX0Bz8Zl4HRsfVCWJ9t/ZE7t95uFEzLayV1bO5DNyfHwcI+8cgq8jLnwbfYVWza2/AKsybY+pIBn1MjETG76YKbx4UOSb32Wz8bxWfvvtixazlYj5QV/w4Y1N6B3tx2d3L2yc6peChxnhLYoMmEov+5O2LXQRIsKCGQ0RJrweWDQFt993642+t0/DPfg4aBf5FO4MAJ6VXgOMKtlcg4qFQcUy5gencO9cHFjxdkij1zBExJD3HTpqrqQP2ms6ejqMc4bf2EHkFb3glaLmRzIGBuXNP01jg35VaskxFCVvBhuz0g8Zc9vgeCxL/eCyfHbaDBt9Cl5bGuDgFIBRmcMYlTm+848v6qspqMiIRpE4DLlRC32mCt39Ztj1xeLhvlZ6bW3IHejUxzm40llTZoNXsKiT7sf9xBBINk33yx4d6oa5+s6FgfYn1M2Vkrbgom7qdP0GFSbjbvxyXNq3RhCxYjZiNiwNvHZky1jS1pUl5ZLDQT8B8wysbuUK8H8AAAAASUVORK5CYII=",
+    "width": 296
+  },
   "pronunciation": "ZIE-fess or ZAI-FUSS ",
   "ranking": {
     "hasPicture": true,

@@ -4,7 +4,7 @@
   "domains": ["Death", "Divination", "Knowledge", "Luck", "Protection"],
   "favoredWeapon": "club",
   "name": "Ancestral Spirits",
-  "picture": null,
+  "picture": {},
   "ranking": {
     "hasPicture": false,
     "isMajor": false

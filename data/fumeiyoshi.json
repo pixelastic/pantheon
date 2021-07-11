@@ -4,7 +4,11 @@
   "domains": ["Death", "Destruction", "Evil", "Repose", "War"],
   "favoredWeapon": "Naginata",
   "name": "Fumeiyoshi",
-  "picture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
+  "picture": {
+    "height": 500,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEFklEQVQ4jSXMCU8TZhgA4E+SRY0jHNJDoKWFwjhaCqVAW3rI0RYK6sBSqAUJbpWOawYKpRIBhVaoATlcKYwhLECUo6KoJIwRrSCKTjkWp+CSzYTMLIKQzHgA37tk+wHPgxZreWjFHL0LAKHpSj7asMUzntUKDVNn+NeH9VyHvYw77agRjP9hkdS+aZdHzho5CAYOoT+bYp2WG0QIrZi4u2DYDx3kctDjc6LSrq85j5UJAb9JCG4rOjr1dR6duion7l9KFFBm+7XMu8/rRRaYzN3z8bLivwQhBOibLDWarhK11Gul7ytPadayoti4NzkW5vMy4JeSHBiQi0ETFgJqVcqi8TBjYqmWPwh29b7t3hSEHpoS0ROztKxaw/vH3md6Z6/+Fhx0Bh6OjdkZKsjAV/PTcX+cYHs+iAXdmpS3lrqC2dLkwImXFlGbQ89E6ENrhE/nKcVmX2slvLpjwVo6FV8LY4M9MAhupsrwjcxkPBYQhG9zObiATMJzYy2LhuLcsa6cwJnNziQpclRJas6X5MDG7xOfbl0qwAq3fZAfSsEFXiToDw/FQ9xwXEImYh3TeyfzgBvU5ComlkcNfWohbfylRdyDhsulD1qM2QCvRnYmuitwWeERMBmVOPcwF58MpENBkB8cl4fhqtIjuFqvhDqjdhRW+w2ySHrblCFyAX3/FfvpQKt+HdZmYH6saVsrYONsGR/OJotwa3w0tilEYFGIcJaUB3kxHCjKlBTBi9JUaYRn9UgR5w7qyA6Yu/qD5W/48Az66ovB7OoOVpLnznXGF3CT4Y8Hff2w3c8ff0elbrWSvUDm69kMcNGfH0IqHykKn0K9WtZ4mUb8E/x15UJhOlevJni8a/4yDhqjwncaaT5gpnjj86HBuDotbkfHoIMsglIBME6iHnArnSyP+hVNGfn1SaGEK0yEXADgM6aHa6UpQw7WpqKtVkMWdJ3OgYumk1uN2jSIJBM6AbrIg0ahMiGU1LNskVxDa+0ytlkVvEAguGQClHt3nAumid33jw9mHYK2YtVHa5lm64ZOBccCaau203whwJwrgeCis+aw5jZsUiUa10ehB9UxZk0M5ef4SC8FbJRES+U0btJe5/f5HkQoJpJB6ewGFcdYeoBGFjuEclQtoA6tXJAMHI+hIrTVo0BwW7XbUSkYUPG8byXzfMrxXR1DwvIuFRPdHRKi+2wmj9bxtDNV4EclaDVC6uiSWTS5YZN6rVvjEVowiZ3W2uUI7Ef3PjorbK5LD3wYxyJ3M309TqDP98Qj592JKTxqhSSYaGtUB9173iDu27RJvV63xaMXDWInNHNGgBZNYqdPlxVopDgCvbFKD96vEvw4WMhZ7Mxl3e86wbpnL454Ml8rHFm3JqRliyjorfV//KhGgP4FwnDiSl7MmlUAAAAASUVORK5CYII=",
+    "width": 500
+  },
   "ranking": {
     "hasPicture": true,
     "isMajor": false
