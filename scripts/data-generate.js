@@ -1,7 +1,8 @@
 const path = require('path');
 const helper = require('../lib/main.js');
 const pMap = require('golgoth/pMap');
-const { writeJson, spinner } = require('firost');
+const { download, writeJson, spinner } = require('firost');
+const imoen = require('imoen');
 
 (async () => {
   helper.init();
@@ -14,8 +15,13 @@ const { writeJson, spinner } = require('firost');
         const record = await helper.record(godName);
         const { slug, name } = record;
 
-        // If there is an image in ./src/pictures/{slug}.png
-        // extract data from imoen
+        const picturePath = path.resolve('./src/pictures', `${slug}.png`);
+        const { width, height, lqip } = await imoen(picturePath);
+        record.picture = {
+          lqip,
+          width,
+          height,
+        };
 
         const filepath = path.resolve(`./data/${slug}.json`);
         await writeJson(record, filepath);
