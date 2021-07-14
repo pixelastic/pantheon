@@ -5,7 +5,9 @@
   "domains": ["Cities", "Earth", "Travel", "Wealth"],
   "edicts": "Civilize frontiers, earn wealth through work and trade, obey laws",
   "favoredWeapon": "Crossbow",
+  "isMajor": true,
   "name": "Abadar",
+  "pantheons": ["Azlanti", "Dragon Empires", "Inner Sea Region"],
   "picture": {
     "hash": "9fb614b2c4",
     "height": 342,
@@ -14,8 +16,7 @@
   },
   "pronunciation": "AH-bah-dar",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Abadar_holy_symbol.jpg",
   "slug": "abadar",

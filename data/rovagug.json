@@ -3,7 +3,9 @@
   "description": "Imprisoned since the Age of Creation, the god Rovagug seeks only to destroy creation and the other gods. Believed to be imprisoned in a state of torpor somewhere deep within Golarion, his increasingly restless stirrings are taken by many to be the cause of volcanic activity and earthquakes.",
   "domains": ["Chaos", "Destruction", "Evil", "War", "Weather"],
   "favoredWeapon": "Greataxe",
+  "isMajor": true,
   "name": "Rovagug",
+  "pantheons": ["Giant", "Inner Sea Region"],
   "picture": {
     "hash": "20ebc05a6c",
     "height": 343,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "ROH-vah-gug",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Rovagug_holy_symbol.jpg",
   "slug": "rovagug",

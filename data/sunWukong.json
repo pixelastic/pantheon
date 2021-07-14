@@ -3,7 +3,9 @@
   "description": "Sun Wukong, the Monkey King, is the Tian Xia god of trickery, nature, and drunkenness. Originally a stone statue, Sun Wukong was given life and eventually became king of all monkeys. That was not enough for him, so he went before Qi Zhong, god of magic, hoping to glean the secret of immortality. Qi Zhong would not part with this secret, but taught Sun Wukong many other techniques. Undeterred, the ambitious Monkey King then sneaked into Pharasma's Boneyard and erased his name from her records, so gaining immortality.",
   "domains": ["Animal", "Chaos", "Liberation", "Travel", "Trickery"],
   "favoredWeapon": "Quarterstaff",
+  "isMajor": true,
   "name": "Sun Wukong",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "3d2070f5f6",
     "height": 422,
@@ -11,8 +13,7 @@
     "width": 463
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sun_Wukong_holy_symbol.jpg",
   "slug": "sunWukong",

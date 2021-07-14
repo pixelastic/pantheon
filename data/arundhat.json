@@ -2,11 +2,12 @@
   "alignment": "Neutral Good",
   "description": "Arundhat is a goddess of the Vudran pantheon known as the bringer of blossoms and scent.",
   "domains": [],
+  "isMajor": false,
   "name": "Arundhat",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "arundhat",

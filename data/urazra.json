@@ -3,11 +3,12 @@
   "description": "A relatively new faith, Urazra seems to have only existed a few hundred years (less than a lifespan to its stone giant worshipers). It is proving popular with younger stone giants. Urazra is a savage deity promising his followers greater strength, fortitude and even complete immunity to pain in exchange for acts of brutal savagery and sacrifices of still bloody raw flesh.",
   "domains": ["Animal", "Chaos", "Evil", "Strength", "War"],
   "favoredWeapon": "Spiked gauntlet",
+  "isMajor": false,
   "name": "Urazra",
-  "picture": {},
+  "pantheons": ["Giant"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "urazra",

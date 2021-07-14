@@ -2,11 +2,12 @@
   "alignment": "Neutral",
   "description": "Likha is a female Vudran goddess. Her avatar told the history of the world to the sage Balazastrin and he wrote it down in the Mizravrtta Brahmodya.",
   "domains": [],
+  "isMajor": false,
   "name": "Likha",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "likha",

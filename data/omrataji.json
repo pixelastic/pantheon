@@ -3,7 +3,9 @@
   "description": "Omrataji is the Vudran god of silver.",
   "domains": ["Artifice", "Earth", "Good", "Nobility"],
   "favoredWeapon": "Spiked chain",
+  "isMajor": false,
   "name": "Omrataji",
+  "pantheons": ["Vudran"],
   "picture": {
     "hash": "874bcfb497",
     "height": 500,
@@ -11,8 +13,7 @@
     "width": 497
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Omrataji_holy_symbol.jpg",
   "slug": "omrataji",

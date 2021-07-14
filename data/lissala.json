@@ -12,7 +12,9 @@
     "Rune Ancient Azlant Knowledge"
   ],
   "favoredWeapon": "Whip",
+  "isMajor": false,
   "name": "Lissala",
+  "pantheons": ["Azlanti", "Misc"],
   "picture": {
     "hash": "f60e34000d",
     "height": 425,
@@ -21,8 +23,7 @@
   },
   "pronunciation": "lis-SALL-uh",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sihedron_Rune.jpg",
   "slug": "lissala",

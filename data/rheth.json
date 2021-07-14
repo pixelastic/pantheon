@@ -2,11 +2,12 @@
   "alignment": "",
   "description": "Rheth is an ice and glacier god who is worshipped by some depraved druid circles. It is thought that Rheth is responsible for a power that sometimes glows within the heart of the glacier-encrusted ruins of the city of Hvorsuli in Iobaria.",
   "domains": [],
+  "isMajor": false,
   "name": "Rheth",
-  "picture": {},
+  "pantheons": ["Misc"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "rheth",

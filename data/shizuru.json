@@ -3,7 +3,9 @@
   "description": "Shizuru is the Tian-Min goddess of the sun, honor, ancestors, and swordplay. As she holds swordplay in her portfolio, Shizuru is also the patron of samurai and other noble and honourable swordsmen and women.",
   "domains": ["Glory", "Good", "Law", "Repose", "Sun"],
   "favoredWeapon": "Katana",
+  "isMajor": true,
   "name": "Shizuru",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "89a4fbbab9",
     "height": 272,
@@ -11,8 +13,7 @@
     "width": 277
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Shizuru_holy_symbol.jpg",
   "slug": "shizuru",

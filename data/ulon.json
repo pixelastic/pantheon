@@ -3,11 +3,12 @@
   "description": "Ulon is the god of conspiracy, isolation, and manipulation worshiped by the inhabitants of ancient Azlant. Ulon considers that they are the ever-seeking truth that distracts people from ongoing evil and motivates them to fight and question. Ulon thrives where conspiracy winds its way into society, and teaches that truth can only be told by carefully picking apart and exposing lies, as truth and lies are manufactured in similar ways. So enigmatic is Ulon that many of its followers do not believe that their powers are actually granted by a deity.",
   "domains": ["Charm", "Community", "Evil", "Knowledge", "Trickery"],
   "favoredWeapon": "Hand crossbow",
+  "isMajor": false,
   "name": "Ulon",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "ulon",

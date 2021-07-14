@@ -2,11 +2,12 @@
   "alignment": "",
   "description": "Azhia is a now-forgotten god of an unknown pantheon. Almost dead, Azhia's body hangs in the throne room of Betzebbul, the palace of Archdevil Baalzebul. The Lord of the Flies endlessly feasts upon the near-dead god's flesh.",
   "domains": [],
+  "isMajor": false,
   "name": "Azhia",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "azhia",

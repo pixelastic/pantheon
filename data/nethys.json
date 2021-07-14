@@ -3,7 +3,9 @@
   "description": "Nethys is a Garundi god who holds magic above all things. He gained enough power to witness all that transpired on all planes, and this both fueled his divinity and drove him irreparably mad. He is a god of magic, torn between destroying the world with one hand and saving it with the other. This dual-edged nature of magic is cherished by his followers and is epitomized in his apotheosis.",
   "domains": ["Destruction", "Knowledge", "Magic", "Protection", "Rune"],
   "favoredWeapon": "Quarterstaff",
+  "isMajor": true,
   "name": "Nethys",
+  "pantheons": ["Giant", "Inner Sea Region"],
   "picture": {
     "hash": "95424bbd80",
     "height": 281,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "NETH-uhs",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nethys_holy_symbol.jpg",
   "slug": "nethys",

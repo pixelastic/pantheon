@@ -3,11 +3,12 @@
   "description": "Scal is a deity of annihilation, catharsis, and purity worshiped by the humans of ancient Azlant. He teaches his followers to shed their imperfections not by repressing or subduing them, but rather by harnessing and releasing their inner darkness upon threats to a righteous existence.",
   "domains": ["Destruction", "Earth", "Evil", "Liberation", "Void"],
   "favoredWeapon": "Meteor hammer",
+  "isMajor": false,
   "name": "Scal",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "scal",

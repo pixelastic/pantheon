@@ -2,11 +2,12 @@
   "alignment": "Lawful Neutral",
   "description": "Vineshvakhi is a minor deity of guardians and protector of celestial harems and treasure vaults, one of the thousand gods of Vudra.",
   "domains": [],
+  "isMajor": false,
   "name": "Vineshvakhi",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "vineshvakhi",

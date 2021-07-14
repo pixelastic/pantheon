@@ -3,11 +3,12 @@
   "description": "Alazhra the Dream Eater is the main deity of the night hags. Some sages speculate that Alazhra may be a night hag who achieved divinity. The night hags themselves claim to be the favoured daughters of Alazhra, rather than an offshoot of the hags of the Material Plane. She appears to her worshipers in nightmares, and supposedly has the power to scare those who displease her to death in their dreams.",
   "domains": ["Darkness", "Evil", "Repose", "Travel"],
   "favoredWeapon": "Dagger",
+  "isMajor": false,
   "name": "Alazhra",
-  "picture": {},
+  "pantheons": ["Hag"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "alazhra",

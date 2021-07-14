@@ -3,7 +3,9 @@
   "description": "Achaekek is the god of assassins, and the patron god of the Red Mantis assassins based on the island of Mediogalti. Achaekek takes a middle position between Calistria, the goddess of revenge if not necessarily murder, and Norgorber who is the god of all murder, whether paid for or not. His symbol is a pair of mantis claws depicted as if in prayer.",
   "domains": ["Death", "Evil", "Law", "Trickery", "War"],
   "favoredWeapon": "Sawtooth sabre",
+  "isMajor": false,
   "name": "Achaekek",
+  "pantheons": ["Azlanti", "Misc"],
   "picture": {
     "hash": "2562100708",
     "height": 264,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "uh-CHAY-kek",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Red_Mantis_symbol.jpg",
   "slug": "achaekek",

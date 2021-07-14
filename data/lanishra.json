@@ -3,11 +3,12 @@
   "description": "Lanishra is the orc god of slavery and tyranny, and delights when his followers capture other intelligent creatures and use them for entertainment, sacrifice, or food. He is somewhat opposed by the Blood God Nulgreth (who does not believe in leaving anyone alive), and the Despoiler, Verex, who competes with him for slaves.",
   "domains": ["Chaos", "Evil", "Leadership", "Strength"],
   "favoredWeapon": "Heavy flail",
+  "isMajor": false,
   "name": "Lanishra",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "lanishra",

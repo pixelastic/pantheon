@@ -3,11 +3,12 @@
   "description": "Cihua Couatl are a dualistic Arcadian deity, patron of those who protect others for the cause of good and of midwives taking care of children. They teach that conflict cannot be avoided, and one must be ready to help those who cannot defend themselves, whether by taking arms, encouraging help, or teaching kindness; caring for others makes everyone stronger.",
   "domains": ["Good", "Healing", "Protection", "Strength", "War"],
   "favoredWeapon": "Shortspear",
+  "isMajor": false,
   "name": "Cihua Couatl",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "cihuaCouatl",

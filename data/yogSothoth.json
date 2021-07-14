@@ -3,7 +3,9 @@
   "description": "Yog-Sothoth is the Outer God of gates, space and time. One of the most powerful and enigmatic deities of the Great Beyond, he is said to be a terrible, self-aware manifestation of the Dimension of Time.",
   "domains": ["Chaos", "Darkness", "Knowledge", "Travel", "Void"],
   "favoredWeapon": "Dagger",
+  "isMajor": false,
   "name": "Yog-Sothoth",
+  "pantheons": ["Outer Gods"],
   "picture": {
     "hash": "06d65ff676",
     "height": 550,
@@ -11,8 +13,7 @@
     "width": 405
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "slug": "yogSothoth",

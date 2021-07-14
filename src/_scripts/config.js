@@ -16,6 +16,12 @@ module.exports = {
         attribute: 'alignment',
       },
     },
+    {
+      title: 'Pantheons',
+      options: {
+        attribute: 'pantheons',
+      },
+    },
   ],
   transforms,
 };

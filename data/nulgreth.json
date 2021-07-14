@@ -3,11 +3,12 @@
   "description": "Nulgreth, the Blood God is the orc deity of bloodlust and fighting. He believes in slaughter as its own end, and loves seeing his followers drench themselves in the blood of their enemies. He is opposed by the orc god of slavery, Lanishra, who believes that defeated foes should not immediately be killed. This may seem like a fine point to most, but not to the orcs.",
   "domains": ["Chaos", "Evil", "Strength", "War"],
   "favoredWeapon": "Orc double axe",
+  "isMajor": false,
   "name": "Nulgreth",
-  "picture": {},
+  "pantheons": ["Orc"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "nulgreth",

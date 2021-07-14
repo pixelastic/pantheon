@@ -3,7 +3,9 @@
   "description": "Onos is the god of the elements, embassies, and extraplanar travel worshiped by the inhabitants of ancient Azlant. As a god of portals, Onos promotes planar travel as a means to experience and discover what other planes, and especially the planes of the Inner Sphere, have to offer.",
   "domains": ["Air", "Earth", "Fire", "Travel", "Water"],
   "favoredWeapon": "Chakram",
+  "isMajor": false,
   "name": "Onos",
+  "pantheons": ["Azlanti"],
   "picture": {
     "hash": "2a17e683f1",
     "height": 951,
@@ -11,8 +13,7 @@
     "width": 653
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Onos_portrait.jpg",
   "slug": "onos",

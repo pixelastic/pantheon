@@ -3,7 +3,9 @@
   "description": "Iomedae is the goddess of righteous valor, justice, and honor. Having served as Aroden's herald, she inherited many of the Last Azlanti's followers upon his death, and continues to espouse the ideas of honor and righteousness in the defense of good and the battle against evil.",
   "domains": ["Glory", "Good", "Law", "Sun", "War"],
   "favoredWeapon": "Longsword",
+  "isMajor": true,
   "name": "Iomedae",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "63439adee4",
     "height": 336,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "ahy-OH-meh-day",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Iomedae_holy_symbol.jpg",
   "slug": "iomedae",

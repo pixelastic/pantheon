@@ -3,11 +3,12 @@
   "description": "Lady Jingxi is a minor Tian Xia goddess who instructs her followers to create master works of poetry.",
   "domains": [],
   "favoredWeapon": "Fighting fan",
+  "isMajor": false,
   "name": "Lady Jingxi",
-  "picture": {},
+  "pantheons": ["Dragon Empires"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "ladyJingxi",

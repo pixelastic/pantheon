@@ -3,7 +3,9 @@
   "description": "Erastil is one of the oldest human gods still worshiped in the Inner Sea region. His religion dates back to before the Age of Darkness, when small farming communities and hunter-gatherers prayed to him for bountiful harvests and successful hunts. He leads his followers by example and good deeds rather than flowery rhetoric.",
   "domains": ["Animal", "Community", "Good", "Law", "Plant"],
   "favoredWeapon": "Longbow",
+  "isMajor": true,
   "name": "Erastil",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "39adafd39e",
     "height": 286,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "eh-RAS-til",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Erastil_holy_symbol.jpg",
   "slug": "erastil",

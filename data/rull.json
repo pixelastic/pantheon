@@ -3,11 +3,12 @@
   "description": "Rull the Thunderer is an orc deity of storms and war who prefers to strike his foes with cacophonous bolts of lightning. He is frequently worship by orc druids.",
   "domains": ["Air", "Chaos", "Evil", "Weather"],
   "favoredWeapon": "Falchion",
+  "isMajor": false,
   "name": "Rull",
-  "picture": {},
+  "pantheons": ["Orc"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "rull",

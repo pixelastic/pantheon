@@ -3,11 +3,12 @@
   "description": "Verex the Blood God is the orc god of devastation and pillage. Whereas followers of Nulgreth simply seek the deaths of their enemies, the faithful of Verex seek to destroy them wholly, take all they once had, and pillage the rest.",
   "domains": ["Chaos", "Charm", "Evil", "Trickery"],
   "favoredWeapon": "Battleaxe",
+  "isMajor": false,
   "name": "Verex",
-  "picture": {},
+  "pantheons": ["Orc"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "verex",

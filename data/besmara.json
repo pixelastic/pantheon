@@ -3,7 +3,9 @@
   "description": "Besmara, making raids on places such as Hell, Elysium, Axis, and Heaven. Pirates don't tend to be a very religious lot, and generally only call on her on their death bed or if in extreme danger. Those few priests who do devote themselves to her generally also are captains of their own raiding ships and have a fierce reputation. Her symbol is the jolly roger, a universal emblem of piracy, normally a white skull and crossbones on a black field.",
   "domains": ["Chaos", "Trickery", "War", "Water", "Weather"],
   "favoredWeapon": "Rapier",
+  "isMajor": false,
   "name": "Besmara",
+  "pantheons": ["Misc"],
   "picture": {
     "hash": "fdc61e38b5",
     "height": 217,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "bes-MAR-uh), also known as the Pirate Queen, is a goddess most commonly worshiped by the sailor-folk of the Shackles or Ilizmagorti. She is said to captain her legendary ship Seawraith throughout the seas and waterways of the Great Beyond (especially the Maelstrom",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Besmara_holy_symbol.jpg",
   "slug": "besmara",

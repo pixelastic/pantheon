@@ -3,11 +3,12 @@
   "description": "Abhoth is the Outer God of disease, fecundity, and oozes.",
   "domains": ["Chaos", "Darkness", "Earth", "Madness", "Strength"],
   "favoredWeapon": "Whip",
+  "isMajor": false,
   "name": "Abhoth",
-  "picture": {},
+  "pantheons": ["Outer Gods"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "abhoth",

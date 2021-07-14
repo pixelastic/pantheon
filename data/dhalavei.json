@@ -3,7 +3,9 @@
   "description": "Dhalavei is the goddess of unmaking and secrets. Her sole design seems to be the fragmenting of bonds, trust, and the destruction of the universe, though mediated by an obsession with planning and organization. Her three aspects as worshiped by her most important sect, the Cult of the Ebon Destroyers, are mysteries, deception, and black destruction.",
   "domains": ["Destruction", "Evil", "Knowledge", "Law", "Trickery"],
   "favoredWeapon": "Temple sword",
+  "isMajor": false,
   "name": "Dhalavei",
+  "pantheons": ["Vudran"],
   "picture": {
     "hash": "3f0b495da8",
     "height": 868,
@@ -11,8 +13,7 @@
     "width": 991
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dhalavei_holy_symbol.jpg",
   "slug": "dhalavei",

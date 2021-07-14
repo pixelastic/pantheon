@@ -3,7 +3,9 @@
   "description": "Aroden was the immortal Azlanti human who raised the Starstone from the bottom of the Inner Sea in 1 AR, founded the city of Absalom, and became the patron deity of humanity. He was once prophesied to lead humanity into an Age of Glory, but on the day of his supposed return, he instead mysteriously died, throwing Golarion into an uncertain future with the Age of Lost Omens.",
   "domains": ["Community", "Glory", "Knowledge", "Law", "Protection"],
   "favoredWeapon": "Longsword",
+  "isMajor": false,
   "name": "Aroden",
+  "pantheons": [],
   "picture": {
     "hash": "37d79acb88",
     "height": 284,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "AIR-oh-den",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Aroden_holy_symbol.jpg",
   "slug": "aroden",

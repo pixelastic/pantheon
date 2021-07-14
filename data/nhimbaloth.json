@@ -3,11 +3,12 @@
   "description": "Nhimbaloth is the Outer Goddess of despair, ghosts, and swamps. She hunts those who would prey upon souls on the way to the afterlife, digesting predator and prey as one. Souls consumed by Nhimbaloth are gone for good: no afterlife, nothing but the agony of death and oblivion.",
   "domains": ["Chaos", "Death", "Evil", "Plant", "Void"],
   "favoredWeapon": "Flail",
+  "isMajor": false,
   "name": "Nhimbaloth",
-  "picture": {},
+  "pantheons": ["Outer Gods"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "nhimbaloth",

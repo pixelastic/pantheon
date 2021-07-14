@@ -3,11 +3,12 @@
   "description": "Easivra is a sun god who has been largely forgotten in Golarion. He was worshiped millennia ago in the Mwangi Expanse in a city known as Jaytirian, together with his rival, the demon lord Vyriavaxus. He represented the glory and power of the sun, the freedom of flight, and majesty of birds of prey.",
   "domains": ["Animal", "Good", "Law", "Sun"],
   "favoredWeapon": "Morningstar",
+  "isMajor": false,
   "name": "Easivra",
-  "picture": {},
+  "pantheons": ["Misc"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "easivra",

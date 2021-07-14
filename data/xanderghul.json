@@ -3,12 +3,13 @@
   "description": "Xanderghul was the runelord of pride, Satrap of Cyrusian, and first amongst equals. Xanderghul claimed that the lands of Cyrusian were the ancient heartland or capital of the Thassilonian empire and he was probably right. He wanted Cyrusian to be a paradise for the elite of Thassilon, better than all of the other domains.",
   "domains": ["Evil", "Law", "Trickery"],
   "favoredWeapon": "Lucerne hammer",
+  "isMajor": false,
   "name": "Xanderghul",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "pronunciation": "ZAHN-dur-gool",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "xanderghul",

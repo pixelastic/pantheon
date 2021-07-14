@@ -3,7 +3,9 @@
   "description": "Yamatsumi is the Tian-Min god of winter, mountains, and volcanoes. His holy symbol is an erupting, snow-capped volcano.",
   "domains": ["Earth", "Fire", "Protection", "Strength", "Water"],
   "favoredWeapon": "Tetsubo",
+  "isMajor": true,
   "name": "Yamatsumi",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "b1649421b5",
     "height": 500,
@@ -11,8 +13,7 @@
     "width": 453
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yamatsumi_holy_symbol.jpg",
   "slug": "yamatsumi",

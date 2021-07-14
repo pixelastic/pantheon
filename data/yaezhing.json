@@ -3,7 +3,9 @@
   "description": "Yaezhing is the Tian-Shu deity of murder, death, and punishment which exceeds the crime; he is patron of ninja and assassins. He also acts as the enforcer of justice among the gods. His unholy symbol is a shuriken drenched in blood.",
   "domains": ["Artifice", "Death", "Evil", "Law", "Trickery"],
   "favoredWeapon": "Shuriken",
+  "isMajor": true,
   "name": "Yaezhing",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "7231544de7",
     "height": 500,
@@ -11,8 +13,7 @@
     "width": 408
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yaezhing_holy_symbol.jpg",
   "slug": "yaezhing",

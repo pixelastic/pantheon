@@ -3,7 +3,9 @@
   "description": "Norgorber is known as a Taldan deity of thievery and assassination, as well as a keeper of secrets. He is called the 'Reaper of Reputation' by some, but has more insidious titles among his other worshipers. He remains an enigma to most, and his true motives are unknown. Many of his own followers remain ignorant of his plans and designs. Norgorber is the only evil deity amongst the Ascended.",
   "domains": ["Charm", "Death", "Evil", "Knowledge", "Trickery"],
   "favoredWeapon": "Short sword",
+  "isMajor": true,
   "name": "Norgorber",
+  "pantheons": ["Giant", "Inner Sea Region"],
   "picture": {
     "hash": "326090b7bf",
     "height": 336,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "NOR-gore-ber",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Norgorber_holy_symbol.jpg",
   "slug": "norgorber",

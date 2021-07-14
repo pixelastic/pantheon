@@ -2,11 +2,12 @@
   "alignment": "Chaotic Evil",
   "description": "Lahkgya is a male Vudran god, often prayed to by hunters to protect them and their homes from Sikari macaque swarms.",
   "domains": [],
+  "isMajor": false,
   "name": "Lahkgya",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "lahkgya",

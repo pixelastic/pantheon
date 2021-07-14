@@ -3,7 +3,9 @@
   "description": "Fumeiyoshi is a Tian Xia deity most often associated with the undead and graves, although he is also the patron deity of the evil oni.",
   "domains": ["Death", "Destruction", "Evil", "Repose", "War"],
   "favoredWeapon": "Naginata",
+  "isMajor": true,
   "name": "Fumeiyoshi",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "1a6dfa1a4f",
     "height": 500,
@@ -11,8 +13,7 @@
     "width": 500
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
   "slug": "fumeiyoshi",

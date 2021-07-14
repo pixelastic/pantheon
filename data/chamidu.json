@@ -2,11 +2,12 @@
   "alignment": "Neutral",
   "description": "Chamidu is a Vudran goddess with an affinity for the beasts of the world. She is sometimes represented as a six-armed woman with four faces (one looking in each cardinal direction) and may ride a tiger with human hands for paws. She sometimes wields numerous weapons simultaneously.",
   "domains": [],
+  "isMajor": false,
   "name": "Chamidu",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "chamidu",

@@ -3,7 +3,9 @@
   "description": "Known to her faithful as the Dawnflower, the Healing Flame, and the Everlight, Sarenrae is a goddess who teaches temperance and patience in all things. Compassion and peace are her greatest virtues, and if enemies of the faith can be redeemed, they should be.",
   "domains": ["Fire", "Glory", "Good", "Healing", "Sun"],
   "favoredWeapon": "Scimitar",
+  "isMajor": true,
   "name": "Sarenrae",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "ce317b1334",
     "height": 343,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "SAER-en-ray ",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Sarenrae_holy_symbol.jpg",
   "slug": "sarenrae",

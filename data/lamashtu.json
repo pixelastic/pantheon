@@ -3,7 +3,9 @@
   "description": "Lamashtu is the mother and patroness of many misshapen and malformed creatures that crawl, slither, or flap on, above, or below the surface of Golarion. Her unholy symbol is a three-eyed jackal head, which may be represented in many ways, and her sacred animal is the jackal.",
   "domains": ["Chaos", "Evil", "Madness", "Strength", "Trickery"],
   "favoredWeapon": "Falchion (kukri)",
+  "isMajor": true,
   "name": "Lamashtu",
+  "pantheons": ["Dragon Empires", "Inner Sea Region"],
   "picture": {
     "hash": "bb00033291",
     "height": 343,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "lah-MAHSH-too",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lamashtu_holy_symbol.jpg",
   "slug": "lamashtu",

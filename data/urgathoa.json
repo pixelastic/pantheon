@@ -3,7 +3,9 @@
   "description": "Urgathoa is the Varisian goddess of physical excess, disease, and the undead. She is mostly worshiped by dark necromancers, the undead, and those wishing to become undead. Sometimes those who live gluttonous lifestyles make supplication to her, as do those suffering from a serious illness.",
   "domains": ["Death", "Evil", "Magic", "Strength", "War"],
   "favoredWeapon": "Scythe",
+  "isMajor": true,
   "name": "Urgathoa",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "356d557f77",
     "height": 324,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "oor-gah-THO-ah",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Urgathoa_symbol.jpg",
   "slug": "urgathoa",

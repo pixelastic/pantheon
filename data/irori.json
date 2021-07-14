@@ -3,7 +3,9 @@
   "description": "Irori is the god of enlightenment, self-perfection, knowledge, healing, and inner strength. His followers claim that he was once a mortal who achieved absolute physical and mental perfection and thus attained divinity of his own volition. He is one of the core gods of, if not the most powerful deity of, the Vudrani pantheon, but has an increasing following in the Inner Sea region as well.",
   "domains": ["Healing", "Knowledge", "Law", "Rune", "Strength"],
   "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike)",
+  "isMajor": true,
   "name": "Irori",
+  "pantheons": ["Dragon Empires", "Inner Sea Region", "Vudran"],
   "picture": {
     "hash": "ba15787bfc",
     "height": 360,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "ih-ROHR-ee",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
   "slug": "irori",

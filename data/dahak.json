@@ -3,7 +3,9 @@
   "description": "Dahak is the patron deity of evil dragons, particularly the chromatic dragons.",
   "domains": ["Chaos", "Destruction", "Evil", "Scalykind", "Trickery"],
   "favoredWeapon": "Bite or whip",
+  "isMajor": false,
   "name": "Dahak",
+  "pantheons": ["Draconic"],
   "picture": {
     "hash": "06e9a24b41",
     "height": 548,
@@ -11,8 +13,7 @@
     "width": 466
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dahak_holy_symbol.jpg",
   "slug": "dahak",

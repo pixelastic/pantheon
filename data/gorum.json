@@ -3,7 +3,9 @@
   "description": "Gorum is a god of battle above all other pursuits; it is said that he would rust away into nothingness if there is ever a time with no more conflicts to be fought. Known as Our Lord in Iron, his faithful believe he is present in every iron weapon of war that is forged.",
   "domains": ["Chaos", "Destruction", "Glory", "Strength", "War"],
   "favoredWeapon": "Greatsword",
+  "isMajor": true,
   "name": "Gorum",
+  "pantheons": ["Giant", "Inner Sea Region"],
   "picture": {
     "hash": "a304697abd",
     "height": 301,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "GOR-um",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gorum_holy_symbol.jpg",
   "slug": "gorum",

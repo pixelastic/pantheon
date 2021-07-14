@@ -3,11 +3,12 @@
   "description": "The Speakers of the Depths are the inscrutable, dualistic creator-gods of the protean race, a profoundly alien living manifestation of the pure chaos of the Maelstrom. They are one of the most reclusive and enigmatic deities in the Great Beyond.",
   "domains": ["Artifice", "Chaos", "Destruction", "Madness", "Water"],
   "favoredWeapon": "Sickle",
+  "isMajor": false,
   "name": "Speakers of the Depths",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "speakersOfTheDepths",

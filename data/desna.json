@@ -3,7 +3,9 @@
   "description": "Desna was one of the first deities, but while her peers burdened themselves with the task of creating Golarion, she spent her time building the heavens. She knew that there would be plenty of time for her and her followers to explore the many wonders of the world later. She's changed little since those earlier days, and she and her followers delight in exploring the world.",
   "domains": ["Chaos", "Good", "Liberation", "Luck", "Travel"],
   "favoredWeapon": "Starknife",
+  "isMajor": true,
   "name": "Desna",
+  "pantheons": ["Azlanti", "Dragon Empires", "Inner Sea Region"],
   "picture": {
     "hash": "bca9697d5b",
     "height": 271,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "DEZ-nuh",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Desna_holy_symbol_2.jpg",
   "slug": "desna",

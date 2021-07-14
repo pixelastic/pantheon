@@ -3,7 +3,9 @@
   "description": "The minor goddess Milani, also known as the Everbloom, is the patron of all those who fight against oppression and unjust rule. Her symbol is a rose growing out of a blood-soaked street.",
   "domains": ["Chaos", "Good", "Healing", "Liberation", "Protection"],
   "favoredWeapon": "Morningstar",
+  "isMajor": false,
   "name": "Milani",
+  "pantheons": ["Misc"],
   "picture": {
     "hash": "0bfe84c1b2",
     "height": 337,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "meh-LAW-nee",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Milani_holy_symbol.jpg",
   "slug": "milani",

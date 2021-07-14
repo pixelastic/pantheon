@@ -3,7 +3,9 @@
   "description": "Yuelral is the elven goddess of magic. She is a patron of both divine and arcane magic, but prefers magic that deals with the natural world rather than magic that deals with metal and other artificial things. She is frequently worshiped by jewelers because of her affinity with crystals. These jewelers never cut their crystals, instead embracing their natural beauty. Yuelral is quick to embrace half elves, seeing past their mixed heritage to what lies within.",
   "domains": ["Artifice", "Earth", "Good", "Knowledge", "Magic"],
   "favoredWeapon": "Dagger",
+  "isMajor": false,
   "name": "Yuelral",
+  "pantheons": ["Elven"],
   "picture": {
     "hash": "f8717d3c38",
     "height": 251,
@@ -11,8 +13,7 @@
     "width": 238
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yuelral_holy_symbol.jpg",
   "slug": "yuelral",

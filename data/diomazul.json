@@ -3,11 +3,12 @@
   "description": "Diomazul is a minor Vudran war god represented as a serpent with many arms each holding a blade. He is known to be brutal in battle.",
   "domains": [],
   "favoredWeapon": "Scimitar",
+  "isMajor": false,
   "name": "Diomazul",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "diomazul",

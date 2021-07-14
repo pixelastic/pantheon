@@ -3,7 +3,9 @@
   "description": "It is not surprising that the Tian Xia goddess Daikitsu is a common object of veneration, given that she has the everyday subjects of rice, agriculture, and craftsmanship under her divine purview. Her holy symbol is that of a nine-tailed fox.",
   "domains": ["Animal", "Artifice", "Community", "Plant", "Weather"],
   "favoredWeapon": "Flail",
+  "isMajor": true,
   "name": "Daikitsu",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "ba6ba28cf2",
     "height": 492,
@@ -11,8 +13,7 @@
     "width": 499
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Daikitsu_holy_symbol.jpg",
   "slug": "daikitsu",

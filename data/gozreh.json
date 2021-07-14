@@ -3,7 +3,9 @@
   "description": "Gozreh is a dualistic deity of nature, a god of the storm and sky and also a goddess of the wave and surf. Born of the ocean's fury and the wind's wrath, Gozreh is a fickle deity.",
   "domains": ["Air", "Animal", "Plant", "Water", "Weather"],
   "favoredWeapon": "Trident",
+  "isMajor": true,
   "name": "Gozreh",
+  "pantheons": ["Azlanti", "Inner Sea Region"],
   "picture": {
     "hash": "3db0a1e290",
     "height": 336,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "GOHZ-ray",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gozreh_holy_symbol.jpg",
   "slug": "gozreh",

@@ -3,7 +3,9 @@
   "description": "Azathoth, also known as the Blind Formless Chaos That Lies Behind the Stars, the 'blind idiot god', the Daemon Sultan, or the Primal Chaos, is a little-known, inscrutable, all-powerful Outer God described as a gibbering mass of uncontrollable destructive power at the center of the universe. An utterly mindless being, Azathoth is totally unaware of the cosmos, including its own existence and worshippers.",
   "domains": ["Chaos", "Destruction", "Madness", "Sun", "Void"],
   "favoredWeapon": "Warhammer",
+  "isMajor": false,
   "name": "Azathoth",
+  "pantheons": ["Outer Gods"],
   "picture": {
     "hash": "658f5bf71c",
     "height": 550,
@@ -11,8 +13,7 @@
     "width": 407
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Azathoth.jpg",
   "slug": "azathoth",

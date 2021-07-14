@@ -3,11 +3,12 @@
   "description": "Thremyr would still be asleep if he had not been awoken by the Starstone's fall. He appears as a colossal frost giant made of ice, gems, and salt. He creates ice trolls, strange fey, or simple snow when walking and is particularly fond of treasure of all sorts. He is worshipped by frost giants, who believe he is their creator. It is said that these giants were created when Thremyr fell into the Steaming Sea and parts of his form were carved off into large iceberg like shapes. At first he was incensed at the seemingly smaller copies of his form and chased them off. Later they returned and worshiped him, so he accepted them as his creations.",
   "domains": ["Chaos", "Evil", "War", "Water"],
   "favoredWeapon": "Greataxe",
+  "isMajor": false,
   "name": "Thremyr",
-  "picture": {},
+  "pantheons": ["Giant"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "thremyr",

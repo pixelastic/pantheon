@@ -3,7 +3,9 @@
   "description": "The ancient deity Ydersius is the patron of the serpentfolk, a race of snake-like monstrous humanoids who battled humans of ancient Azlant during the Age of Legend. A deity of unquenched passion and anger, the generally more cerebral serpentfolk used him as an example of all that was potent and primal in their psyche.",
   "domains": ["Chaos", "Evil", "Nobility", "Scalykind", "War"],
   "favoredWeapon": "Dagger",
+  "isMajor": false,
   "name": "Ydersius",
+  "pantheons": ["Misc"],
   "picture": {
     "hash": "18650a8f85",
     "height": 808,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "yeh-DER-see-us",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ydersius_symbol.jpg",
   "slug": "ydersius",

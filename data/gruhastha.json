@@ -3,7 +3,9 @@
   "description": "Gruhastha is a male Vudran god. He was a mortal nephew of Irori who, according to legend, ascended to divinity by authoring a book so perfectly profound that he merged with it and became a god&mdash;the Azvadeva Pujila.",
   "domains": ["Animals", "Good", "Knowledge", "Law", "Travel"],
   "favoredWeapon": "Shortbow",
+  "isMajor": false,
   "name": "Gruhastha",
+  "pantheons": ["Vudran"],
   "picture": {
     "hash": "46519411a7",
     "height": 333,
@@ -11,8 +13,7 @@
     "width": 326
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": null,
   "slug": "gruhastha",

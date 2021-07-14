@@ -3,7 +3,9 @@
   "description": "Calistria is the goddess of lust and revenge who takes on many faces and guises. She is held in especially high regard by elves, who often identify with her moods and changeable nature. A fondness for wasps has earned this vengeful deity the title the Savored Sting; such creatures live on after harming their enemies, a trait Calistria's followers hope to emulate when pursuing their goals.",
   "domains": ["Chaos", "Charm", "Knowledge", "Luck", "Trickery"],
   "favoredWeapon": "Whip",
+  "isMajor": true,
   "name": "Calistria",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "544481adee",
     "height": 340,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "kah-LISS-tree-ah",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Calistria_holy_symbol.jpg",
   "slug": "calistria",

@@ -3,7 +3,9 @@
   "description": "The goddess Gyronna is also known as the Angry Hag, and for good reason.",
   "domains": ["Chaos", "Destruction", "Evil", "Madness"],
   "favoredWeapon": "Dagger",
+  "isMajor": false,
   "name": "Gyronna",
+  "pantheons": ["Hag", "Misc"],
   "picture": {
     "hash": "1c720de80a",
     "height": 227,
@@ -11,8 +13,7 @@
     "width": 224
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Gyronna_holy_symbol.jpg",
   "slug": "gyronna",

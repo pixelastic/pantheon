@@ -3,7 +3,9 @@
   "description": "The Outer Gods are a pantheon of utterly alien, unfathomably ancient, poorly understood deities that exist outside of reality itself, or the concepts of faith, souls, and quintessence. They are often grouped alongside the Great Old Ones, who are demigods akin to archdevils or demon lords, under the collective umbrella of the Elder Mythos, or gods of the Dark Tapestry. The Great Old Ones respect the Outer Gods and may be seen as heralds or high priests of their greater kind.",
   "domains": ["Chaos", "Knowledge", "Madness", "Rune", "Void"],
   "favoredWeapon": "Varies, but daggers are common",
+  "isMajor": false,
   "name": "Outer God",
+  "pantheons": [],
   "picture": {
     "hash": "06d65ff676",
     "height": 550,
@@ -11,8 +13,7 @@
     "width": 405
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Yog-Sothoth.jpg",
   "slug": "outerGod",

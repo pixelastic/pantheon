@@ -3,11 +3,12 @@
   "description": "Ah Pook is an evil Arcadian deity who preys upon fears, twisting mortals' doubts until they break, ruining their lives and those of their associates, and revelling in their misery. He is known under several names across Arcadia: those in Xopatl and Innazpa call him Ohachtsik.",
   "domains": ["Darkness", "Death", "Destruction", "Evil", "Void"],
   "favoredWeapon": "Terbutje",
+  "isMajor": false,
   "name": "Ah Pook",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "ahPook",

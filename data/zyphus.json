@@ -3,7 +3,9 @@
   "description": "Zyphus is the malignant god of accidental death. A bitter enemy of the goddess Pharasma, he is worshiped by small cults throughout Golarion. These groups foment tragedy and bring about accidents in the hopes of strengthening the power of their god. His unholy symbol is a pick made from a human skull, rib, and femur.",
   "domains": ["Death", "Destruction", "Evil", "Plant", "War"],
   "favoredWeapon": "Heavy pick",
+  "isMajor": false,
   "name": "Zyphus",
+  "pantheons": ["Misc"],
   "picture": {
     "hash": "0e1562bda1",
     "height": 300,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "ZIE-fess or ZAI-FUSS ",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Zyphus_holy_symbol.jpg",
   "slug": "zyphus",

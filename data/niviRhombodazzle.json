@@ -3,7 +3,9 @@
   "description": "Nivi Rhombodazzle is the only gnomish racial deity, though she is mostly revered among svirfneblin in the Darklands and is barely known on Golarion's surface.",
   "domains": ["Community", "Earth", "Luck", "Trickery"],
   "favoredWeapon": "Light hammer",
+  "isMajor": false,
   "name": "Nivi Rhombodazzle",
+  "pantheons": ["Gnome"],
   "picture": {
     "hash": "f26e4260e6",
     "height": 117,
@@ -11,8 +13,7 @@
     "width": 118
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nivi_Rhombodazzle_holy_symbol.jpg",
   "slug": "niviRhombodazzle",

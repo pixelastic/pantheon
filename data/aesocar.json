@@ -3,11 +3,12 @@
   "description": "Aesocar is a god of healing and human health that was worshiped in ancient Azlant.",
   "domains": ["Artifice", "Good", "Healing", "Law", "Protection"],
   "favoredWeapon": "Mancatcher",
+  "isMajor": false,
   "name": "Aesocar",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "aesocar",

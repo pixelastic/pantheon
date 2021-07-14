@@ -3,7 +3,9 @@
   "description": "Overlooking all of Pharasma's Boneyard is another, lesser god. This is Groetus, the god of the End Times, a sentient and cruel moonlet that looks down upon the Boneyard and waits for the last living soul to die. According to the Concordance of Rivals, when Pharasma judges the last soul after the last living body dies on the Material Plane, Groetus will descend to the Boneyard to meet with Pharasma on her crumbling throne before he moves on to the Material Plane to \"clean up\" and pack the dust away for another reality. Groetus will fade from existence once he has confirmed that nothing is left; yet, just like how Pharasma came from a previous reality, a new Survivor will escape the destruction to recreate the cosmos.",
   "domains": ["Chaos", "Darkness", "Destruction", "Madness", "Void"],
   "favoredWeapon": "Heavy flail",
+  "isMajor": false,
   "name": "Groetus",
+  "pantheons": ["Azlanti", "Misc"],
   "picture": {
     "hash": "514343ca38",
     "height": 295,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "GRO-tus",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Groetus_holy_symbol.jpg",
   "slug": "groetus",

@@ -3,11 +3,12 @@
   "description": "Bergelmir, also known as the Mother of Memories, is a venerable storm giant demigoddess of family, elders, and genealogy, who keeps track of their family lineages in an enormous tome. She represents the storm giant race's strong connection to home and family. She is said to have a familial connection to Skrymir, the trickster god of the storm giants.",
   "domains": ["Chaos", "Community", "Good", "Knowledge"],
   "favoredWeapon": "Quarterstaff",
+  "isMajor": false,
   "name": "Bergelmir",
-  "picture": {},
+  "pantheons": ["Giant"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "bergelmir",

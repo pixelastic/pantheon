@@ -3,11 +3,12 @@
   "description": "Jaidi is a goddess of agriculture worshiped by the people of ancient Azlant. She represents the pleasure that one feels when contributing hard work for the community as a whole.",
   "domains": ["Animal", "Glory", "Good", "Plant", "Sun"],
   "favoredWeapon": "Scythe",
+  "isMajor": false,
   "name": "Jaidi",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "jaidi",

@@ -3,11 +3,12 @@
   "description": "Amaznen was the primary god of magic in the ancient Azlanti empire. His worship was outlawed in the younger Thassilonian empire, possibly because of his fierce rivalry with the goddess Lissala. He was killed during Earthfall.",
   "domains": ["Artifice", "Knowledge", "Law", "Magic", "Protection"],
   "favoredWeapon": "Light hammer",
+  "isMajor": false,
   "name": "Amaznen",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "amaznen",

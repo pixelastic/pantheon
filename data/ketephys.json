@@ -3,7 +3,9 @@
   "description": "Ketephys is the tight-lipped elven god of the hunt, who instructs his followers to care for the forest and defend it from his arch-enemy Treerazer.",
   "domains": ["Animal", "Chaos", "Good", "Plant", "Weather"],
   "favoredWeapon": "Bow",
+  "isMajor": false,
   "name": "Ketephys",
+  "pantheons": ["Elven"],
   "picture": {
     "hash": "db008423f7",
     "height": 276,
@@ -11,8 +13,7 @@
     "width": 304
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Ketephys_holy_symbol.jpg",
   "slug": "ketephys",

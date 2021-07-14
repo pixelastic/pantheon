@@ -2,11 +2,12 @@
   "alignment": "Lawful Neutral",
   "description": "One of thousands of deities worshiped by the Vudrani, Suyuddha is the patron goddess of the elite padaprajna caste of warriors. She is commonly known as the Warrior Queen, primarily due to her emphasis on cunning and tactical warfare. Unlike many gods of war, she is not herself a battler, but rather a tactician and planner of complicated martial strategy. Many stories of her victories and exploits can be found in the holy pages of the Mizravrtta Brahmodya.",
   "domains": [],
+  "isMajor": false,
   "name": "Suyuddha",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "suyuddha",

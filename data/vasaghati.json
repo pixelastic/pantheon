@@ -2,11 +2,12 @@
   "alignment": "Evil",
   "description": "Vasaghati is a grim goddess of the Vudran pantheon interested in bring corruption and destruction to the world, especially organizations.",
   "domains": [],
+  "isMajor": false,
   "name": "Vasaghati",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "vasaghati",

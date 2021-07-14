@@ -3,7 +3,9 @@
   "description": "Dretha, the Dark Mother, is the orc goddess of fertility, birth, and death. She presides over orc domestic life and watches over female orcs carrying, birthing, and rearing children, as she believes in strength in numbers and strong warriors. She blesses those who fight to protect their family, lands, or possessions from enemies. Dretha is subservient to the other gods of the orc pantheon due to her gender, and is generally depicted as very sullen and filled with hidden rage.",
   "domains": ["Chaos", "Community", "Evil", "Protection"],
   "favoredWeapon": "Scimitar",
+  "isMajor": false,
   "name": "Dretha",
+  "pantheons": ["Orc"],
   "picture": {
     "hash": "fe52844516",
     "height": 998,
@@ -11,8 +13,7 @@
     "width": 612
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Dretha.jpg",
   "slug": "dretha",

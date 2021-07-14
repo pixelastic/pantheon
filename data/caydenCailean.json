@@ -3,7 +3,9 @@
   "description": "Cayden Cailean is one of the Ascended: those who achieved godhood by passing the Test of the Starstone. Because of the way in which he passed the Test, he is also known as the \"Lucky Drunk\", \"Drunken Hero\", or the \"Accidental God\".",
   "domains": ["Chaos", "Charm", "Good", "Strength", "Travel"],
   "favoredWeapon": "Rapier",
+  "isMajor": true,
   "name": "Cayden Cailean",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "2458c3a92d",
     "height": 222,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "KAY-den KAY-lee-en",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Cayden_Cailean_holy_symbol.jpg",
   "slug": "caydenCailean",

@@ -3,7 +3,9 @@
   "description": "Kazutal is an Arcadian goddess of community, liberty, and safety.",
   "domains": ["Community", "Good", "Liberation", "Protection", "Strength"],
   "favoredWeapon": "Machete",
+  "isMajor": false,
   "name": "Kazutal",
+  "pantheons": [],
   "picture": {
     "hash": "18f48dafd3",
     "height": 281,
@@ -11,8 +13,7 @@
     "width": 279
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": null,
   "slug": "kazutal",

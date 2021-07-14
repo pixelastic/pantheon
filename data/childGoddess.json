@@ -2,11 +2,12 @@
   "alignment": "Unknown",
   "description": "The child-goddess is the object of veneration for the Cult of the Child-Goddess, which is located in the Ankar-Te district of the Varisian city of Kaer Maga. It is not known whether the child-goddess is an actual deity, a hoax used to generate income for the cult, or something more innocuous, though at least one of her followers draws divine magic through faith in her.",
   "domains": [],
+  "isMajor": false,
   "name": "Child-Goddess",
-  "picture": {},
+  "pantheons": [],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "childGoddess",

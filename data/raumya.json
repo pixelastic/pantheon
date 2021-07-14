@@ -3,11 +3,12 @@
   "description": "Raumya is a male Vudran god appearing as the foul enemy in the Azvadeva Pujila and other tales.",
   "domains": [],
   "favoredWeapon": "Trident",
+  "isMajor": false,
   "name": "Raumya",
-  "picture": {},
+  "pantheons": ["Vudran"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "raumya",

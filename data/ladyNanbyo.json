@@ -3,7 +3,9 @@
   "description": "Lady Nanbyo is the Tian Xia goddess of ill fate and calamity. She is often blamed for plagues, flash floods, tsunamis, and any other natural disaster that occurs. Her unholy symbol is a crack in the earth with flames erupting from it.",
   "domains": ["Chaos", "Destruction", "Evil", "Fire", "Plant"],
   "favoredWeapon": "Warhammer",
+  "isMajor": true,
   "name": "Lady Nanbyo",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "840986a966",
     "height": 495,
@@ -11,8 +13,7 @@
     "width": 500
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Lady_Nanbyo_holy_symbol.jpg",
   "slug": "ladyNanbyo",

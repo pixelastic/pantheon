@@ -3,7 +3,9 @@
   "description": "Tsukiyo is the Tian-Min deity of the moon, jade, and spirits. He is the brother of the evil Fumeiyoshi and is the paramour of Shizuru.",
   "domains": ["Darkness", "Good", "Law", "Madness", "Repose"],
   "favoredWeapon": "Longspear",
+  "isMajor": true,
   "name": "Tsukiyo",
+  "pantheons": ["Dragon Empires"],
   "picture": {
     "hash": "a542a31e56",
     "height": 163,
@@ -11,8 +13,7 @@
     "width": 168
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Tsukiyo_holy_symbol.jpg",
   "slug": "tsukiyo",

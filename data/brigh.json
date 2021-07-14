@@ -3,7 +3,9 @@
   "description": "Brigh is the goddess of invention and seems to particularly favor creations that take on a life of their own, like clockworks or constructs. Unfortunately, the sort of creative minds who engage in the sort of invention that Brigh most favors, are those who are not prone to worship or evangelization&mdash;they tend to devote themselves to invention instead. As a result, her following is not very large.",
   "domains": ["Artifice", "Earth", "Fire", "Knowledge"],
   "favoredWeapon": "Light hammer",
+  "isMajor": false,
   "name": "Brigh",
+  "pantheons": ["Misc"],
   "picture": {
     "hash": "c798ab7b4a",
     "height": 302,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "BRY",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Brigh_Mask.jpg",
   "slug": "brigh",

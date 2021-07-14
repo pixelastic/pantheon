@@ -3,7 +3,9 @@
   "description": "Asmodeus is the most powerful of the nine archdevils that inhabit Hell, and the only one of Hell's rulers to claim full divinity. It was he who is credited with the penning the contract of creation, within which his followers believe is hidden the means for their patron's eventual rise to supremacy.",
   "domains": ["Evil", "Fire", "Law", "Magic", "Trickery"],
   "favoredWeapon": "Mace",
+  "isMajor": true,
   "name": "Asmodeus",
+  "pantheons": ["Inner Sea Region"],
   "picture": {
     "hash": "8ce1ed700b",
     "height": 263,
@@ -12,8 +14,7 @@
   },
   "pronunciation": "as-MO-day-us",
   "ranking": {
-    "hasPicture": true,
-    "isMajor": true
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Asmodeus_holy_symbol.jpg",
   "slug": "asmodeus",

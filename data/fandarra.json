@@ -3,7 +3,9 @@
   "description": "Fandarra is an ancient deity worshiped primarily by stone giants, although she is also followed by the primitive humanoid races of northern Avistan.",
   "domains": ["Community", "Death", "Earth", "Knowledge", "Plant"],
   "favoredWeapon": "Stone dagger",
+  "isMajor": false,
   "name": "Fandarra",
+  "pantheons": ["Giant"],
   "picture": {
     "hash": "d4e8759dcf",
     "height": 275,
@@ -11,8 +13,7 @@
     "width": 201
   },
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": true
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fandarra_holy_symbol.jpg",
   "slug": "fandarra",

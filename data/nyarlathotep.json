@@ -8,11 +8,12 @@
     "Magic Trickery BP Air FS Darkness HD"
   ],
   "favoredWeapon": "QuarterstaffBP Punching daggerFS DaggerHD",
+  "isMajor": false,
   "name": "Nyarlathotep",
-  "picture": {},
+  "pantheons": ["Outer Gods"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "nyarlathotep",

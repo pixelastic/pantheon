@@ -3,11 +3,12 @@
   "description": "Elion is a deity of exploration and discovery worshiped by the humans of ancient Azlant. He teaches his followers to explore and find the best that creation provides, and is credited with the creation of the first wayfinder.",
   "domains": ["Chaos", "Community", "Good", "Travel", "Weather"],
   "favoredWeapon": "Longbow",
+  "isMajor": false,
   "name": "Elion",
-  "picture": {},
+  "pantheons": ["Azlanti"],
+  "picture": false,
   "ranking": {
-    "hasPicture": true,
-    "isMajor": false
+    "hasPicture": false
   },
   "remotePicture": null,
   "slug": "elion",
