@@ -19,12 +19,8 @@ const _ = require('golgoth/lodash');
       'unordered(titles)',
       'unordered(domains)',
     ],
-    customRanking: [
-      'desc(ranking.isMajor)',
-      'desc(ranking.hasPicture)',
-      'asc(name)',
-    ],
-    attributesForFaceting: ['alignment', 'domains'],
+    customRanking: ['desc(isMajor)', 'desc(ranking.hasPicture)', 'asc(name)'],
+    attributesForFaceting: ['alignment', 'domains', 'pantheons', 'isMajor'],
     attributesToSnippet: ['description:75'],
   };
 
