@@ -1,29 +1,17 @@
 version: 2.1
 
-aliases:
-  - &defaults
-    docker:
-      - image: cimg/node:14.17.0
-  - &restore_cache
-    restore_cache:
-      key: yarn-cache-{{ checksum "yarn.lock" }}
-  - &yarn_install
-    run: 'yarn install'
-  - &save_cache
-    save_cache:
-      key: yarn-cache-{{ checksum "yarn.lock" }}
-      paths:
-        - ~/.cache/yarn
+orbs:
+  node: circleci/node@4.5.1
 
 jobs:
   ci:
-    <<: *defaults
+    docker:
+      - image: cimg/node:14.17.0
     steps:
       - checkout
+      - node/install-packages:
+          pkg-manager: 'yarn'
       - add_ssh_keys
-      - *restore_cache
-      - *yarn_install
-      - *save_cache
       - run: 'yarn run ci'
 
 workflows:
