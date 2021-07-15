@@ -4,7 +4,6 @@ module.exports = {
     // Listen to lazyload images, and store which one we already have processed
     document.addEventListener('lazyloaded', (event) => {
       const { target } = event;
-      console.info(target);
       const objectId = target.dataset.objectid;
       this.loaded[objectId] = true;
     });

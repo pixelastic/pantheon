@@ -6,9 +6,14 @@
   "isMajor": false,
   "name": "Abhoth",
   "pantheons": ["Outer Gods"],
-  "picture": false,
+  "picture": {
+    "hash": "4660c8268a",
+    "height": 577,
+    "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAACXBIWXMAAAsTAAALEwEAmpwYAAACyklEQVQokR2MW0ySARhAP3MWhpUXboGKCSiCNEj+MP2FAEnAIspb6cLUNrOpa3a1tsx1MdeDOS9lEXkNs+ymrmzWnJce2tp86a3pUyu32trqpeD/vmZv5+GcA0vvFyIAAI553NBcW7P7Un3tx3M1lb8bKkr/BO/evk9E64gIJoPDEbAGjCgWhrs6jntZExkTxbRDKqT4dYB52jQ6XXXE77OyYBDF/5/ClabG3jIrS3qpkLSiuLBMEIeiVDkK5Ikhg1xGjWVFdXXeQoCl+Vn7oT02kqyP5PRSIZcmiCWpJh3TTzVQVkdbOKOqnLys6cvkUL8U2s82TRpTZJQUwwtpxPGUuIWPArUKVW0tuPPZEGmuXgxpFCl0qtpXCftymOX0uBiSb+Fz8k3RKFfIUVNXgwKXg2zPR5Dp7wknKFLIY2EHITdD+Xnb5mgSb+RxMj4Pt+kzkblxGbN6bpLrUQDzXz/hFM0nKVunXQGzLmNFGh1FQj6PE/OiKEmtQueIH20TQbIG76F78RWKqisoU6VYhVyNalXIiyLBJj4nMmzH7LYWrF58i0UzL6l4ehzd715gUu1RUqrTvoMpXbmasCGSYpWpaOy4joWzE5j3dADdjwLkmxhDW/Aeasf8pK8q/wGMWvVNwhho54NuZAd71wKyBLrJHuhC60Av+ubfIDvcRzaX/SdYSvYv28YHqWCoL+wZDVBx6wV0lhdjXqEDcw2ZaG06weWcqSePQfcV7KYdfqOngMydbeSZGgvvaT2PzsNFuM/jQrfdjDlKediYvJWKrewnMKcmixmJ4KFBo/rF5JvJVFuJ2X0dnGNuKpS/MB1yPB74Yy/1UmnerhnwaNNADQBmZYozO1GylCWT/GVbm8k8GSTT6H3KbW+lNbmx5MAZsOjUEZqtwojtAOC6cyvKrMuwWNpbfAVB/wB77WInU7R3zpLDfGgsPZj8DxTTNwOe6tdCAAAAAElFTkSuQmCC",
+    "width": 415
+  },
   "ranking": {
-    "hasPicture": false
+    "hasPicture": true
   },
   "remotePicture": null,
   "slug": "abhoth",

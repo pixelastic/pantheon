@@ -1,4 +1,5 @@
 const transforms = require('./transforms');
+const alignmentOrder = require('./alignment');
 let algoliaHelper = null;
 
 module.exports = {
@@ -19,6 +20,14 @@ module.exports = {
       title: 'Alignment',
       options: {
         attribute: 'alignment',
+        limit: 100,
+        sortBy: (first, second) => {
+          console.info({ first, second });
+          return (
+            alignmentOrder.indexOf(first.name) -
+            alignmentOrder.indexOf(second.name)
+          );
+        },
       },
     },
     // Pantheons is an inverted refinements. Selecting an item removes the
