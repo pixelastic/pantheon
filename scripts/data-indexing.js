@@ -16,7 +16,6 @@ const _ = require('golgoth/lodash');
     searchableAttributes: [
       'name',
       'unordered(description)',
-      'unordered(titles)',
       'unordered(domains)',
     ],
     customRanking: ['desc(isMajor)', 'desc(ranking.hasPicture)', 'asc(name)'],
