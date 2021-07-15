@@ -1,6 +1,7 @@
 @import 'theme:style.css';
 
 @import '_styles/fonts.css';
+@import '_styles/sidebar.css';
 @import '_styles/hits.css';
 
 body {

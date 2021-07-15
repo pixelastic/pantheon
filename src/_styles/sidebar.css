@@ -1,0 +1,55 @@
+/**
+ * Inverted Refinement Lists
+ * This is like a regular Refinement List, except that it's removing the
+ * selected facets from the hit list
+ * We mark all facets as checked by default, and clicking one will uncheck it
+ * We also hide the count as we don't have this information
+ **/
+.ais-InvertedRefinementList {
+  .ais-RefinementList-label {
+    @apply flex flex-no-wrap;
+    @apply pl-5;
+    @apply pointer;
+    @apply bold gray-9;
+    /* Slider background */
+    &:before {
+      content: '';
+      margin-top: 3px;
+      @apply absolute h-1 rounded-full left-0 ml-01;
+      @apply bg-opacity-90p;
+      @apply bg-indigo-8;
+    }
+    /* Slider element */
+    &:after {
+      content: '';
+      margin-top: 3px;
+      @apply absolute h-1 rounded-full left-0 ml-01;
+      @apply w-1 border-002;
+      @apply left-0 ml-2 border-opacity-90p bg-white;
+      @apply border-indigo-8;
+    }
+    &:hover {
+      @apply gray-7;
+      &:before {
+        @apply bg-gray-5;
+      }
+      &:after {
+        @apply bg-gray-7 border-gray-5;
+      }
+    }
+  }
+  .ais-RefinementList-item--selected {
+    .ais-RefinementList-label {
+      @apply no-bold;
+      &:before {
+        @apply bg-gray-5 w-4;
+      }
+      &:after {
+        @apply bg-gray-3 border-gray-5;
+      }
+    }
+  }
+  .ais-RefinementList-count {
+    @apply hidden;
+  }
+}
