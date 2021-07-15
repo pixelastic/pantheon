@@ -1,6 +1,6 @@
 {
   "alignment": "Chaotic Neutral",
-  "description": "Besmara, making raids on places such as Hell, Elysium, Axis, and Heaven. Pirates don't tend to be a very religious lot, and generally only call on her on their death bed or if in extreme danger. Those few priests who do devote themselves to her generally also are captains of their own raiding ships and have a fierce reputation. Her symbol is the jolly roger, a universal emblem of piracy, normally a white skull and crossbones on a black field.",
+  "description": "Besmara, also known as the Pirate Queen, is a goddess most commonly worshiped by the sailor-folk of the Shackles or Ilizmagorti. She is said to captain her legendary ship Seawraith throughout the seas and waterways of the Great Beyond (especially the Maelstrom), making raids on places such as Hell, Elysium, Axis, and Heaven. Pirates don't tend to be a very religious lot, and generally only call on her on their death bed or if in extreme danger. Those few priests who do devote themselves to her generally also are captains of their own raiding ships and have a fierce reputation. Her symbol is the jolly roger, a universal emblem of piracy, normally a white skull and crossbones on a black field.",
   "domains": ["Chaos", "Trickery", "War", "Water", "Weather"],
   "favoredWeapon": "Rapier",
   "isMajor": false,
@@ -12,7 +12,7 @@
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAYAAAC9vt6cAAAACXBIWXMAAAsTAAALEwEAmpwYAAACcElEQVQokRXNTUiTcRzA8f+tS9C5iy6de/8/b9v/ed2ePS+2F7dpajiLvDhHpqmliVOnTisrJI0kDcooKiIoyJMdiqBjUFAE1r2XSwgFHvTZ/r/w8D19Dl8UCZPhYBDvsqzw2zDMXxwf/qjr5puYbiwkk+kyIcpNf5DrUxSt0zKtbF19Y1YU5bymav3dXXkXMuKG3tDQBJl0Cl48vQ+KEoUIUcG0EjA1cQnWV5eh2FcAImrQbB+Ha/PTIEsy+HwB6Gxvf4R4XrC83gBoarS2trxYe7xxp7q6suSUxked7U/vHYA9Z+fn92qlXKouLVaq5/uLVVGU9jweP4RCzEvUbNv1Pl9wN4Q54AWR5rKttFKehKtzU3T5+jx9vfmMbj5/SG/duEy786cokaI0QuQaxhyIRFpCHCccwZj9p2kxsO0kNcwEmHYKioVemJkYhdGhczAyeBYWZkpQLBQhGrOoosSqgkAAY24L2ZbtxZjd4QUCLEdqhtlMr8yV6ezkOM13ddPS2MhB0HOmB5YW56EyXQJFjdVYNgwYs18Rx/Ipj8e/m0wk6MLs5P70+AXndL7LMa2k05Jpc1oyrU46nXOy2baqqsVrF4cG6IP1lVo8boDb7fmMWIbraGrygapoMDY8ALKkgNcXAknWQNctUFQdJDkKhCgQjkjQ6PbDbGlsvy2Xgbq6Y++QEY8PSqIMgQD+4nK53yqy+ioW1TdEIt8lRLoXDpMnkYi4xXHhDzwf2WYY7i/DcHAwzWVa1lA6lTp6suME/vPj2yGEEAoEQkgkMvL6gohheCQIBNW73AeEioXew5ZlN6iK2okxc7s1l9X/A2j1DIqsCVH+AAAAAElFTkSuQmCC",
     "width": 343
   },
-  "pronunciation": "bes-MAR-uh), also known as the Pirate Queen, is a goddess most commonly worshiped by the sailor-folk of the Shackles or Ilizmagorti. She is said to captain her legendary ship Seawraith throughout the seas and waterways of the Great Beyond (especially the Maelstrom",
+  "pronunciation": "bes-MAR-uh",
   "ranking": {
     "hasPicture": true
   },
