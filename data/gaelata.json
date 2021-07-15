@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Gaelata is a bull god whose avatar dwells in the region of Vudra known as the Divine Garden.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Gaelata",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "gaelata",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Gaelata",
+  "worshipers": ["Minotaurs", "Vudrani"]
+}

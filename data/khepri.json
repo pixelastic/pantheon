@@ -1,0 +1,19 @@
+{
+  "alignment": "Neutral Good",
+  "description": "The cult of Khepri, the dung beetle, is common among the peasants and laborers of Osirion. Khepri represents those who toil in ignominy and squalor. He is a trickster, turning the indignity of his appearance and labor upon those who consider themselves refined, elevated, and superior to others.",
+  "domains": ["Artifice", "Good", "Liberation", "Sun", "Trickery"],
+  "favoredWeapon": "sling",
+  "isMajor": false,
+  "name": "Khepri",
+  "pantheons": ["Osirian"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Osirian_gods.jpg",
+  "slug": "khepri",
+  "symbol": "Blue scarab",
+  "titles": ["The Humble Hand"],
+  "url": "https://pathfinderwiki.com/wiki/Khepri",
+  "worshipers": ["Laborers", "Peasants"]
+}

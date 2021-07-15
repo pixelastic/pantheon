@@ -1,7 +1,19 @@
 {
   "alignment": "Neutral Good",
+  "anathema": "Destroy art, or allow its destruction, except to save a life or pursue greater art; refuse to accept surrender",
   "description": "Shelyn is the goddess of art, beauty, love, and music, and the half-sister of Zon-Kuthon. She started life as a relatively minor deity of beauty, art, and music, but with the destruction of her unnamed mother, the former goddess of love, Shelyn gained her mother's portfolio. Shelyn continues to focus on beauty and the related areas of art and music, and has expanded upon her mother's relatively narrow view of love to include all forms of the emotion.",
-  "domains": ["Air", "Charm", "Good", "Luck", "Protection"],
+  "domains": [
+    "Air",
+    "Charm",
+    "Creation",
+    "Family",
+    "Good",
+    "Luck",
+    "Passion",
+    "Protection",
+    "Repose"
+  ],
+  "edicts": "Be peaceful, perfect an art form, lead by example, see beauty in all things",
   "favoredWeapon": "Current: Glaive Azlanti period: Dagger",
   "isMajor": true,
   "name": "Shelyn",

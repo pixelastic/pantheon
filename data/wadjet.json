@@ -1,0 +1,21 @@
+{
+  "alignment": "Lawful Good",
+  "anathema": "Refuse to help a drowning creature, harm a rightful ruler",
+  "description": "The serpent cult of the benevolent Wadjet is a twin to the cult of the deceiver Apep. Wadjet, a great river serpent said to dwell in the papyrus marshes of the River Sphinx delta, is a tutelary deity and mother of her emissaries, the uraeuses. Wadjet is the nurturer of the River Sphinx and a personification of the spirits guiding and guarding the ruler of Osirion. The rod of the uraeus is a magic item fashioned in the form of a uraeus-headed staff, which assists in the detection of deceit and can create a spray of stinging poison.",
+  "domains": ["Good", "Law", "Protection", "Travel", "Water", "Zeal"],
+  "edicts": "Defend your homelands and your people, aid childbirths, grow papyrus, protect sources of clean water",
+  "favoredWeapon": "Light mace",
+  "isMajor": false,
+  "name": "Wadjet",
+  "pantheons": ["Osirian"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Wadjet.jpg",
+  "slug": "wadjet",
+  "symbol": "Uraeus",
+  "titles": ["The Green Empress"],
+  "url": "https://pathfinderwiki.com/wiki/Wadjet",
+  "worshipers": [""]
+}

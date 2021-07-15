@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Embaral is a male Vudran god. The twin brother of Obari, Vudran myth holds that he and his brother courted and fought over the goddess Vudravati as she walked across Golarion. Though she took both as lovers, they fought so fiercely out of jealousy that Vudravati feared they would kill each other and wreak havoc across the world. To separate them until they could reconcile, she lay between them and went to sleep, her body forming the land of Vudra. She birthed children of both Obari and Embaral while in this slumber, who are believed to be the Vudrani peoples of today. This account claims that Vudra has been in existence longer than Golarion's continents were in their current places. Most foreign scholars, however, dismiss such claims as exaggeration. Whatever the truth, the Vudrani see themselves as the scions of gods, and thus Embaral as one of their progenitors. Little else has been written about Embaral so far.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Embaral",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "embaral",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Embaral",
+  "worshipers": ["Vudrani"]
+}

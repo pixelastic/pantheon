@@ -1,0 +1,29 @@
+{
+  "alignment": "Lawful Neutral",
+  "anathema": "stay up through the night without sleeping or dreaming, attack a sleeping creature, leave a badly wounded foe to suffer",
+  "description": "Luhar, Sun Goddess of Dusk and Lioness Goddess of death, dreams, and destiny, is one of the Old Sun Gods of Mzali.",
+  "domains": [
+    "Cities",
+    "Darkness",
+    "Dreams",
+    "Fate",
+    "Soul",
+    "Star",
+    "Sun",
+    "Zeal"
+  ],
+  "edicts": "learn about and prepare yourself for the night and its dangers, make time to sleep and dream, ensure others never go to sleep afraid",
+  "favoredWeapon": "Spiked chain",
+  "isMajor": false,
+  "name": "Luhar",
+  "pantheons": ["Misc"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "luhar",
+  "titles": ["Sun Goddess of Dusk", "Lioness Goddess"],
+  "url": "https://pathfinderwiki.com/wiki/Luhar",
+  "worshipers": ["Bright Lions"]
+}

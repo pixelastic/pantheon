@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Dhuangir is a mechanical god who lies trapped beneath the most inhospitable portion of the Falling Mountains in Vudra. They toil away beneath the eastern fringe, where the lower mountain slopes regularly crack open to produce rockslides and lava flows. Locals ascribe these dangers to Dhuangir and his many children deep in their prison. A team of duergar cultists work to free mighty Dhuangir, and their greatest achievement to date is to create a massive magma pool called Sholay.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Dhuangir",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "dhuangir",
+  "titles": ["The Mechanical God"],
+  "url": "https://pathfinderwiki.com/wiki/Dhuangir",
+  "worshipers": ["Duergar"]
+}

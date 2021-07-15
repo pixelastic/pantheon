@@ -1,7 +1,18 @@
 {
   "alignment": "Neutral Good",
+  "anathema": "Destroy healthy crops, waste food, refuse to help others in your community",
   "description": "Jaidi is a goddess of agriculture worshiped by the people of ancient Azlant. She represents the pleasure that one feels when contributing hard work for the community as a whole.",
-  "domains": ["Animal", "Glory", "Good", "Plant", "Sun"],
+  "domains": [
+    "Animal",
+    "Family",
+    "Glory",
+    "Good",
+    "Might",
+    "Nature",
+    "Plant",
+    "Sun"
+  ],
+  "edicts": "Encourage hard work that benefits all, ensure the health of crops and vegetation",
   "favoredWeapon": "Scythe",
   "isMajor": false,
   "name": "Jaidi",

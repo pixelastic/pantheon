@@ -1,8 +1,21 @@
 {
   "alignment": "Lawful Neutral",
-  "description": "Irori is the god of enlightenment, self-perfection, knowledge, healing, and inner strength. His followers claim that he was once a mortal who achieved absolute physical and mental perfection and thus attained divinity of his own volition. He is one of the core gods of, if not the most powerful deity of, the Vudrani pantheon, but has an increasing following in the Inner Sea region as well.",
-  "domains": ["Healing", "Knowledge", "Law", "Rune", "Strength"],
-  "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike)",
+  "anathema": "Become addicted to a substance; destroy an important historical text; repeatedly fail to maintain self-control",
+  "description": "Irori is the god of enlightenment, self-perfection, knowledge, healing, and inner strength. His followers claim that he was once a mortal who achieved absolute physical and mental perfection and thus attained divinity of his own volition. He is one of the core gods of, if not the most powerful deity of, the Vudran pantheon, but has an increasing following in the Inner Sea region as well.",
+  "domains": [
+    "Change",
+    "Healing",
+    "Knowledge",
+    "Law",
+    "Might",
+    "Perfection",
+    "Rune",
+    "Strength",
+    "Truth",
+    "Vigil"
+  ],
+  "edicts": "Be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practise discipline",
+  "favoredWeapon": "Open hand, representing unarmed combat (unarmed strike); fist",
   "isMajor": true,
   "name": "Irori",
   "pantheons": ["Dragon Empires", "Inner Sea Region", "Vudran"],
@@ -18,7 +31,7 @@
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Irori_holy_symbol.jpg",
   "slug": "irori",
-  "symbol": "Blue hand",
+  "symbol": "Open blue palm; Master's Rebus",
   "titles": [
     "Master of Masters",
     "Iro-Shu and the Enlightened One (in Tian Xia)",
@@ -26,5 +39,7 @@
     "The Perfect Man"
   ],
   "url": "https://pathfinderwiki.com/wiki/Irori",
-  "worshipers": ["Dwarves", "Green Dragons", "Monks", "Vudrani"]
+  "worshipers": [
+    "Monks Vudrani Green Dragons Dwarves Mystics Ascetics Hermits Historians Martial Artists Scholars"
+  ]
 }

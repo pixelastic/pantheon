@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Vineshwaran is the creator god of the Vudrani and is as important as Irori within Vudra.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Vineshwaran",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "vineshwaran",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Vineshwaran",
+  "worshipers": ["Vudrani"]
+}

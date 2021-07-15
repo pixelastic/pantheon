@@ -1,7 +1,18 @@
 {
   "alignment": "Neutral Evil",
-  "description": "Droskar is a member of the dwarven pantheon and the patron deity of the duergar. He believes that sufficient toil leads to eventual success, and that those who fail simply weren't trying hard enough. In the pursuit of this goal, Droskar believes that one should be free to do whatever is necessary to accomplish one's goal, even if that includes lying, cheating, the exploitation of others, or even worse crimes. His symbol is a stone arch with a fire burning beneath it.",
-  "domains": ["Artifice", "Charm", "Darkness", "Evil", "Trickery"],
+  "anathema": "Fail to work toward goals or grow in skill, relax excessively or give in to sloth",
+  "description": "Droskar is a member of the dwarven pantheon and the patron deity of the duergar. He believes that sufficient toil leads to eventual success, and that those who fail simply were not trying hard enough. In the pursuit of this goal, Droskar believes that one should be free to do whatever is necessary to accomplish one's goal, even if that includes lying, cheating, exploiting others, or even worse, committing crimes. His unholy symbol is a stone arch with a fire burning beneath it.",
+  "domains": [
+    "Artifice",
+    "Charm",
+    "Darkness",
+    "Duty",
+    "Earth",
+    "Evil",
+    "Trickery",
+    "Tyranny"
+  ],
+  "edicts": "Achieve goals at any cost, continually improve your abilities, establish dominance, work ceaselessly",
   "favoredWeapon": "Light hammer",
   "isMajor": false,
   "name": "Droskar",

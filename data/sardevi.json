@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Sardevi is a three-eyed, manticore-riding god of the Vudrani peoples is the patron of vengeful retribution; they have many temples across the country.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Sardevi",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "sardevi",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Sardevi",
+  "worshipers": ["Vudrani"]
+}

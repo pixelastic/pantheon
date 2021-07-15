@@ -1,0 +1,29 @@
+{
+  "alignment": "Lawful Good",
+  "anathema": "Break your word, be cruel to the innocent, rebuke someone due to their homeland",
+  "description": "Chohar is one of the three Old Sun Gods of Mzali, the Lion God of justice, loyalty, and work. He is commonly depicted as a golden lion with a sun for a mane. Due to their shared love of justice, some priests of Walkena claim that the Child-God is a descendant of Chohar, even though Walkena's vindictive and cruel justice contrasts with Chohar's duty.",
+  "domains": [
+    "Cities",
+    "Duty",
+    "Family",
+    "Fire",
+    "Sun",
+    "Toil",
+    "Vigil",
+    "Zeal"
+  ],
+  "edicts": "Finish any and all tasks you accept, bring those who are cruel to justice, show pride in your home and your heritage",
+  "favoredWeapon": "Starknife",
+  "isMajor": false,
+  "name": "Chohar",
+  "pantheons": ["Misc"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "chohar",
+  "titles": ["Sun God of Noon", "Lion God of justice, loyalty, and work"],
+  "url": "https://pathfinderwiki.com/wiki/Chohar",
+  "worshipers": [""]
+}

@@ -1,0 +1,29 @@
+{
+  "alignment": "Neutral Good",
+  "anathema": "lose motivation to regret, spread despair, mistreat loved ones",
+  "description": "Tlehar, Sun Goddess of Dawn and Lioness Goddess of iron, love, and rebirth, is one of the Old Sun Gods of Mzali.",
+  "domains": [
+    "Change",
+    "Cities",
+    "Creation",
+    "Healing",
+    "Passion",
+    "Sun",
+    "Vigil",
+    "Zeal"
+  ],
+  "edicts": "full devotion to all acts, perpetual hope for a better tomorrow, treasure all gifts from those who matter",
+  "favoredWeapon": "Morningstar",
+  "isMajor": false,
+  "name": "Tlehar",
+  "pantheons": ["Misc"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "tlehar",
+  "titles": ["Sun Goddess of Dawn", "Lioness Goddess"],
+  "url": "https://pathfinderwiki.com/wiki/Tlehar",
+  "worshipers": ["Bright Lions"]
+}

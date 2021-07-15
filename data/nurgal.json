@@ -1,0 +1,26 @@
+{
+  "alignment": "Chaotic Evil",
+  "anathema": "Heal a sunburn, change your name",
+  "description": "* This article is about the demon lord; for the infernal duke, see Nergal.",
+  "domains": ["Chaos", "Destruction", "Dust", "Evil", "Fire", "Sun"],
+  "edicts": "Wage war in the desert, deny water to your foes",
+  "favoredWeapon": "Heavy mace Mace2E",
+  "isMajor": false,
+  "name": "Nurgal",
+  "pantheons": ["Azlanti"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Nurgal.png",
+  "slug": "nurgal",
+  "symbol": "Lion jaws around the sun",
+  "titles": ["The Shining Scourge", "Lord of Senseless War"],
+  "url": "https://pathfinderwiki.com/wiki/Nurgal",
+  "worshipers": [
+    "Dragons",
+    "Mercenaries",
+    "Those Who Fear The Sun",
+    "Warlike Desert Nomads"
+  ]
+}

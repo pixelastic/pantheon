@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Pyasa and Pehla are conjoined twin gods, worshipped as keepers of memory and destiny.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Pyasa",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "pyasa",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Pyasa",
+  "worshipers": ["Vudrani"]
+}

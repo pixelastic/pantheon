@@ -1,0 +1,21 @@
+{
+  "alignment": "Lawful Neutral",
+  "anathema": "Make decisions erratically or randomly Provide aid to Vasaghati or her followers Engage in treachery",
+  "description": "Ravithra is the Vudrani goddess of snakes, the patron deity of the nagas, who once upheld karma over all beings until she succumbed to treachery, and now seeks to return to her rightful role.",
+  "domains": ["Ambition", "Fate", "Naga", "Sorrow", "Soul", "Truth"],
+  "edicts": "Enforce karma's pitiless judgement Shame fools Kill traitors Pursue the Chalice of Amrit",
+  "favoredWeapon": "Jaws or light mace",
+  "isMajor": false,
+  "name": "Ravithra",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "ravithra",
+  "symbol": "Gilded sun wheel",
+  "titles": ["Mother of Nagas", "Karmic Pillar", "Chalice-Bearer"],
+  "url": "https://pathfinderwiki.com/wiki/Ravithra",
+  "worshipers": ["Nagas"]
+}

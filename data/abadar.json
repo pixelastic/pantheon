@@ -2,7 +2,16 @@
   "alignment": "Lawful Neutral",
   "anathema": "Steal, undermine a law-abiding court",
   "description": "Abadar, the god of cities, law, merchants, and wealth, is known to be a patient deity. Maintaining a strong neutral stance in his actions, he sets forth to expand civilization and order among the peoples of Golarion.",
-  "domains": ["Cities", "Earth", "Travel", "Wealth"],
+  "domains": [
+    "Cities",
+    "Duty",
+    "Earth",
+    "Law",
+    "Nobility",
+    "Protection",
+    "Travel",
+    "Wealth"
+  ],
   "edicts": "Civilize frontiers, earn wealth through work and trade, obey laws",
   "favoredWeapon": "Crossbow",
   "isMajor": true,
@@ -32,5 +41,13 @@
     "The Scales and Streets"
   ],
   "url": "https://pathfinderwiki.com/wiki/Abadar",
-  "worshipers": ["Aristocrats", "Judges", "Lawyers", "Merchants"]
+  "worshipers": [
+    "Architects",
+    "Aristocrats",
+    "Bankers",
+    "Judges",
+    "Lawmakers",
+    "Lawyers",
+    "Merchants"
+  ]
 }

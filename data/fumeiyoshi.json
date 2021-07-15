@@ -1,7 +1,18 @@
 {
   "alignment": "Neutral Evil",
+  "anathema": "Pass by food without stealing a bite, allow honour or tradition to prevent you from taking what you want",
   "description": "Fumeiyoshi is a Tian Xia deity most often associated with the undead and graves, although he is also the patron deity of the evil oni.",
-  "domains": ["Death", "Destruction", "Evil", "Repose", "War"],
+  "domains": [
+    "Ambition",
+    "Death",
+    "Destruction",
+    "Earth",
+    "Evil",
+    "Repose",
+    "Undeath",
+    "War"
+  ],
+  "edicts": "Punish those who have unwarranted good fortune, devour the pleasures of the living, encourage resentment, make graveyards supernaturally unsafe",
   "favoredWeapon": "Naginata",
   "isMajor": true,
   "name": "Fumeiyoshi",
@@ -17,7 +28,8 @@
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Fumeiyoshi_holy_symbol.jpg",
   "slug": "fumeiyoshi",
+  "symbol": "Red demonic face",
   "titles": ["Lord of Envy"],
   "url": "https://pathfinderwiki.com/wiki/Fumeiyoshi",
-  "worshipers": ["Oni"]
+  "worshipers": ["Oni", "Undead"]
 }

@@ -1,7 +1,10 @@
 {
   "alignment": "Neutral Good",
+  "anathema": "Dispose of waste near flowers, harvest flowers without offering the proper prayers, dispose of withered flowers improperly",
   "description": "Arundhat is a goddess of the Vudran pantheon known as the bringer of blossoms and scent.",
-  "domains": [],
+  "domains": ["Healing", "Magic", "Nature", "Protection"],
+  "edicts": "Practise herbalism, tend to sacred flowers, offer appropriate flowers to other divinities",
+  "favoredWeapon": "Staff",
   "isMajor": false,
   "name": "Arundhat",
   "pantheons": ["Vudran"],

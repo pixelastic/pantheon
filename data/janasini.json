@@ -1,0 +1,17 @@
+{
+  "alignment": "Chaotic Good Assumed As Per Her Garuda Children",
+  "description": "Janasini is the mother of birds, and thus of the noble garudas.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Janasini",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "janasini",
+  "titles": ["Mother of Birds"],
+  "url": "https://pathfinderwiki.com/wiki/Janasini",
+  "worshipers": ["Garudas"]
+}

@@ -1,7 +1,9 @@
 {
   "alignment": "Neutral Good",
+  "anathema": "Destroy a natural plum tree, drink excessive amounts of alcohol, act rudely",
   "description": "Lady Jingxi is a minor Tian Xia goddess who instructs her followers to create master works of poetry.",
-  "domains": [],
+  "domains": ["Creation", "Glyph", "Knowledge", "Repose"],
+  "edicts": "Create art with words, master written language, display the soft beauty of natural colours",
   "favoredWeapon": "Fighting fan",
   "isMajor": false,
   "name": "Lady Jingxi",

@@ -1,7 +1,9 @@
 {
   "alignment": "Neutral Evil",
-  "description": "The Tian Xia goddess Lao Shu Po began her life as an ordinary rat, and stole her divinity by feasting off the corpse of the slain god Tsukiyo. Her unholy symbol is an emaciated rat curled into a circle, and unsurprisingly, she considers rats her sacred animal.",
-  "domains": ["Animal", "Darkness", "Evil", "Luck", "Trickery"],
+  "anathema": "Work honestly for something you could steal instead, risk too much for another creature",
+  "description": "The Tian Xia goddess Lao Shu Po began her life as an ordinary rat, and stole her divinity by feasting off the corpse of the slain god Tsukiyo.",
+  "domains": ["Animal", "Darkness", "Evil", "Luck", "Swarm", "Trickery"],
+  "edicts": "Work quietly toward your goals in the shadows, steal what you need, keep an ear among the ignored and downtrodden",
   "favoredWeapon": "Dagger",
   "isMajor": true,
   "name": "Lao Shu Po",

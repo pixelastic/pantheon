@@ -1,7 +1,19 @@
 {
   "alignment": "Chaotic Evil",
+  "anathema": "Put the needs of others above those of serpentfolk Aid the spawn of Azlant",
   "description": "The ancient deity Ydersius is the patron of the serpentfolk, a race of snake-like monstrous humanoids who battled humans of ancient Azlant during the Age of Legend. A deity of unquenched passion and anger, the generally more cerebral serpentfolk used him as an example of all that was potent and primal in their psyche.",
-  "domains": ["Chaos", "Evil", "Nobility", "Scalykind", "War"],
+  "domains": [
+    "Ambition",
+    "Chaos",
+    "Evil",
+    "Indulgence",
+    "Might",
+    "Nobility",
+    "Scalykind",
+    "War",
+    "Zeal"
+  ],
+  "edicts": "Seek to return Ydersius to life Fulfill your passions Conquer your foes with no mercy Achieve glory for serpentkind",
   "favoredWeapon": "Dagger",
   "isMajor": false,
   "name": "Ydersius",

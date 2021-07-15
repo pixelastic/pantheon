@@ -1,0 +1,17 @@
+{
+  "alignment": "",
+  "description": "Paambudevi is a minor, specialized god of Vudra who protects against venomous bites in the rainy season, one of hundreds of such minor deities, many of whom are known only to a local sect or specialized cult.",
+  "domains": [],
+  "isMajor": false,
+  "name": "Paambudevi",
+  "pantheons": ["Vudran"],
+  "picture": false,
+  "ranking": {
+    "hasPicture": false
+  },
+  "remotePicture": null,
+  "slug": "paambudevi",
+  "titles": [""],
+  "url": "https://pathfinderwiki.com/wiki/Paambudevi",
+  "worshipers": ["Vudrani"]
+}

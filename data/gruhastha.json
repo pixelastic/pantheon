@@ -1,7 +1,19 @@
 {
   "alignment": "Lawful Good",
+  "anathema": "Deny a sincere student education, destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information",
   "description": "Gruhastha is a male Vudran god. He was a mortal nephew of Irori who, according to legend, ascended to divinity by authoring a book so perfectly profound that he merged with it and became a god&mdash;the Azvadeva Pujila.",
-  "domains": ["Animals", "Good", "Knowledge", "Law", "Travel"],
+  "domains": [
+    "Animals",
+    "Glyph",
+    "Good",
+    "Knowledge",
+    "Law",
+    "Nature",
+    "Perfection",
+    "Travel",
+    "Truth"
+  ],
+  "edicts": "Work toward collective transcendence, expose and root out malicious lies, challenge oppression through education, protect knowledge, seek truth",
   "favoredWeapon": "Shortbow",
   "isMajor": false,
   "name": "Gruhastha",

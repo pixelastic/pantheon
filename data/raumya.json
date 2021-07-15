@@ -1,7 +1,9 @@
 {
   "alignment": "Neutral Evil",
+  "anathema": "Abuse a loyal subject, harm or kill a non-combatant",
   "description": "Raumya is a male Vudran god appearing as the foul enemy in the Azvadeva Pujila and other tales.",
-  "domains": [],
+  "domains": ["Confidence", "Knowledge", "Might", "Wealth"],
+  "edicts": "Improve yourself with music and literature, take what you want, seek power above others",
   "favoredWeapon": "Trident",
   "isMajor": false,
   "name": "Raumya",

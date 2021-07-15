@@ -1,6 +1,6 @@
 {
   "alignment": "Neutral",
-  "description": "Fandarra is an ancient deity worshiped primarily by stone giants, although she is also followed by the primitive humanoid races of northern Avistan.",
+  "description": "Fandarra is an ancient deity worshiped primarily by stone giants, although she is also followed by some humanoid races of northern Avistan.",
   "domains": ["Community", "Death", "Earth", "Knowledge", "Plant"],
   "favoredWeapon": "Stone dagger",
   "isMajor": false,

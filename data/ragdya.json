@@ -1,7 +1,10 @@
 {
   "alignment": "Neutral",
-  "description": "Ragdya is a male Vudrani monkey god, commonly worshiped by vanaras and rural Vudrani in the region of Sikari. He is believed to have been born and have resided on the great mountain Bahmenu, and temples dedicated to him often depict a replica of the peak at their center. Among the many tales of his legendary deeds are his youthful escapades stealing from the six-armed calikangs of Astangapur, his wooing of his hundred brides, and his crossing the sea on the back of a celestial garuda. While both Ragdya and Lahkgya feature monkeys within their portfolios, the two gods are different, and often placed at odds with one another.",
-  "domains": [],
+  "anathema": "Make a joke out suffering, own a slave, discriminate based on social status",
+  "description": "Ragdya is a male Vudrani monkey god, commonly worshiped by vanaras and rural Vudrani in the region of Sikari. He is believed to have been born and have resided on the great mountain Bahmenu, and temples dedicated to him often depict a replica of the peak at their center. Among the many tales of his legendary deeds are his youthful escapades stealing from the six-armed calikangs of Astangapur, his wooing of his hundred brides, and his crossing the sea on the back of a celestial garuda. While both Ragdya and Lahkgya feature monkeys within their areas of concern, the two gods are different, and often placed at odds with one another.",
+  "domains": ["Air", "Confidence", "Might", "Perfection"],
+  "edicts": "Seek enlightenment through worldly experience, create humour, use harmless pranks to teach others",
+  "favoredWeapon": "Mace",
   "isMajor": false,
   "name": "Ragdya",
   "pantheons": ["Vudran"],

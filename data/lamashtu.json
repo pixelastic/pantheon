@@ -1,7 +1,19 @@
 {
   "alignment": "Chaotic Evil",
+  "anathema": "Attempt to treat a mental illness or deformity, provide succour to Lamashtu's enemies",
   "description": "Lamashtu is the mother and patroness of many misshapen and malformed creatures that crawl, slither, or flap on, above, or below the surface of Golarion. Her unholy symbol is a three-eyed jackal head, which may be represented in many ways, and her sacred animal is the jackal.",
-  "domains": ["Chaos", "Evil", "Madness", "Strength", "Trickery"],
+  "domains": [
+    "Change",
+    "Chaos",
+    "Evil",
+    "Family",
+    "Madness",
+    "Might",
+    "Nightmares",
+    "Strength",
+    "Trickery"
+  ],
+  "edicts": "Bring power to outcasts and the downtrodden, indoctrinate children in Lamashtu's teachings, make the beautiful monstrous, reveal the corruption and flaws in all things",
   "favoredWeapon": "Falchion (kukri)",
   "isMajor": true,
   "name": "Lamashtu",
@@ -40,8 +52,10 @@
     "Lamias",
     "Medusas",
     "Minotaurs",
+    "Monsters",
     "Morlocks",
     "Ogres",
+    "Outcasts",
     "The Insane"
   ]
 }

@@ -1,8 +1,19 @@
 {
   "alignment": "Chaotic Evil",
+  "anathema": "Spare a foe after you have chosen to kill them, forgive a slight",
   "description": "Dahak is the patron deity of evil dragons, particularly the chromatic dragons.",
-  "domains": ["Chaos", "Destruction", "Evil", "Scalykind", "Trickery"],
-  "favoredWeapon": "Bite or whip",
+  "domains": [
+    "Chaos",
+    "Destruction",
+    "Evil",
+    "Fire",
+    "Scalykind",
+    "Trickery",
+    "Wyrmkin",
+    "Zeal"
+  ],
+  "edicts": "Kill metallic dragons, destroy things at your whim",
+  "favoredWeapon": "Bite, jaws, or whip",
   "isMajor": false,
   "name": "Dahak",
   "pantheons": ["Draconic"],

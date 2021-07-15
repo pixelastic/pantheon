@@ -1,7 +1,9 @@
 {
   "alignment": "Neutral Good",
-  "description": "Qi Zhong is the Tian Xia deity of magic and healing. Originally worshiped by the Tian-Shu, he is now popular in Jinin, Quain, Tianjing, Xidao, and Zi Ha. His holy symbol is a wagon wheel with spokes made of the five elements: water, earth, metal, fire, and wood.",
+  "anathema": "Deal lethal damage to another creature (unless as part of a necessary medical treatment)",
+  "description": "Qi Zhong is the Tian Xia deity of magic and healing. Originally worshiped by the Tian-Shu, he is now popular in Jinin, Quain, Tianjing, Xidao, and Zi Ha. His holy symbol is a wagon wheel with spokes made of the five elements: water, earth, metal, fire, and wood. Qi Zhong is depicted as a kindly looking older man who is dressed in healer's robes that shift between the five elements.",
   "domains": ["Good", "Healing", "Knowledge", "Magic", "Protection"],
+  "edicts": "Teach knowledge to others, relieve suffering despite personal difficulty, heal sickness and injuries",
   "favoredWeapon": "Heavy mace",
   "isMajor": true,
   "name": "Qi Zhong",
@@ -17,6 +19,7 @@
   },
   "remotePicture": "https://pathfinderwiki.com/wiki/Special:Redirect/file/Qi_Zhong_holy_symbol.jpg",
   "slug": "qiZhong",
+  "symbol": "Wagon wheel with spokes of the five elements",
   "titles": ["Master of Medicine"],
   "url": "https://pathfinderwiki.com/wiki/Qi_Zhong",
   "worshipers": ["Healers", "Mystic Theurges", "Scholars", "Wizards"]

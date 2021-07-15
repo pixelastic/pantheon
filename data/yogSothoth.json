@@ -1,7 +1,9 @@
 {
   "alignment": "Chaotic Neutral",
-  "description": "Yog-Sothoth is the Outer God of gates, space and time. One of the most powerful and enigmatic deities of the Great Beyond, he is said to be a terrible, self-aware manifestation of the Dimension of Time.",
-  "domains": ["Chaos", "Darkness", "Knowledge", "Travel", "Void"],
+  "anathema": "None",
+  "description": "Yog-Sothoth is the Outer God of gates, space, and time. One of the most powerful and enigmatic deities of the Great Beyond, he is said to be a terrible, self-aware manifestation of the Dimension of Time, or even the Dark Tapestry.",
+  "domains": ["Chaos", "Darkness", "Knowledge", "Time", "Travel", "Void"],
+  "edicts": "Gather knowledge of gates through space and time, curse or mutate unborn children",
   "favoredWeapon": "Dagger",
   "isMajor": false,
   "name": "Yog-Sothoth",
