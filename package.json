@@ -25,6 +25,7 @@
     "cms": "./scripts/cms",
     "data:indexing": "node ./scripts/data-indexing.js",
     "data:generate": "node ./scripts/data-generate.js",
+    "data:pictures": "node ./scripts/data-pictures.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
