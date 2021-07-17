@@ -11746,10 +11746,10 @@ norska-theme-default@^2.4.1:
   resolved "https://registry.yarnpkg.com/norska-theme-default/-/norska-theme-default-2.4.1.tgz#1218a73b49c73afb387ec311b84bc543abf1a220"
   integrity sha512-eSJhC2hmoSjD0K5CXYBn+KSlWPqp44O7RHumHChON4R7K93RcOJsPiLs9fBmguhBYqqW3lE9kTKje4zA2OJyEA==
 
-norska-theme-search@1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/norska-theme-search/-/norska-theme-search-1.3.0.tgz#aaf5b69c93a64bbb46bbd58e9877a7e4963630c5"
-  integrity sha512-umUpa166yImpITCNkfnLCt6n8POqmHpi7gybGef2/8+13ikO4A7CYdi8Q/8/gakQlyOn+ck64ed4Lo21mjA3bA==
+norska-theme-search@1.3.1:
+  version "1.3.1"
+  resolved "https://registry.npmjs.org/norska-theme-search/-/norska-theme-search-1.3.1.tgz#571518b92053dc70acdad14b05b4b758067db92f"
+  integrity sha512-8YVWUO9aEN7cf1ffEOCFxwZzX001nBVZckC6j3O2UynBZpt3F2B8RObKZ3WoTzjGbvVoxkYIPrQu84RSWWtZ+Q==
   dependencies:
     lodash-es "4.17.21"
 

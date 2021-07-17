@@ -22,7 +22,6 @@ module.exports = {
         attribute: 'alignment',
         limit: 100,
         sortBy: (first, second) => {
-          console.info({ first, second });
           return (
             alignmentOrder.indexOf(first.name) -
             alignmentOrder.indexOf(second.name)
