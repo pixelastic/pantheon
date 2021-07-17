@@ -15,7 +15,7 @@ module.exports = {
     // transformItems
     algoliaHelper = helper;
   },
-  widgets: [
+  sidebar: [
     {
       title: 'Alignment',
       options: {
