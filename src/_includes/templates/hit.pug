@@ -3,19 +3,20 @@ block content
     .flex.flex-col.flex-no-wrap.bg-gray-2.md_h-16.shadow-2.relative
       //- Title
       a.flex-none.bg-indigo-8.flex.flex-cross-center.py-01(href="{{url}}" target="_blank")
-        .__title.flex-none.alegreya.white.text-4.bold.pl-1.lh-2.hover_underline {{{name}}}
-        .flex-none.italic.white.text-1.pl-1.pt-01 {{#pronunciation}}/{{pronunciation}}/{{/pronunciation}}
+        .flex-none.flex.flex-col.md_flex-row
+          .__title.flex-none.alegreya.white.text-4.bold.pl-1.lh-2.hover_underline {{{name}}}
+          .flex-1.italic.white.text-01.md_text-1.pl-1.pt-01 {{#pronunciation}}/{{pronunciation}}/{{/pronunciation}}
         .flex-auto
-        .flex-none.bold.white.pr-02 {{alignment}}
+        .flex-none.bold.white.pr-02.whitespace-pre {{alignment}}
 
       //- Image and text
       .flex-auto.flex.flex-col.md_flex-row.overflow-hidden.border-r-001.border-l-001.border-gray-5
-        .flex-none.w-60p.relative.order-2.md_order-1
+        .flex-none.relative.order-2.md_order-1.md_w-60p
           .__description.p-1.text-1.whitespace-pre-line {{{description}}}
           .hidden.md_block.absolute.bottom-0.left-0.right-0.h-5.bg-gradient-to-b.from-transparent.to-gray-2
-        .flex-none.w-40p.order-1.md_order-2
+        .flex-none.order-1.md_order-2.md_w-40p
           |{{#img}}
-          a.flex-none.h-14.flex.flex-center.p-02(href="{{url}}" target="_blank")
+          a.flex-none.h-12.md_h-14.flex.flex-center.p-02(href="{{url}}" target="_blank")
             img.object-contain.max-w-100p.max-h-100p(class="{{img.cssClass}}" data-src="{{img.dataSrc}}" src="{{img.src}}" width="{{img.width}}" height="{{img.height}}" data-uuid="{{img.dataUuid}}" )
           |{{/img}}
 
