@@ -11681,10 +11681,10 @@ norska-theme-search@1.5.1:
   dependencies:
     lodash-es "4.17.21"
 
-norska@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.npmjs.org/norska/-/norska-2.9.0.tgz#a223481643b0c32a66bba330f09eb4b6f454271e"
-  integrity sha512-ulh8UVogQ9Zd9y7xaars3z68J7ZXWtUbRYwcjNDDNwUOTJTbnZE/gMntf9H2MKW3jJhbztRRf255NPHGCPYEqw==
+norska@2.8.0:
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-2.8.0.tgz#47e172764e524d5bcc5cc68170b8749b53bacc36"
+  integrity sha512-pa0RJ5MSDiR3dwScUVPZG+W9tmvGwokfDU2MiPR/PjHIdLU0uv5euIzb4drxE6QJt74glLkbppJvIqi//zRiXQ==
   dependencies:
     firost "2.16.2"
     golgoth "2.1.0"
