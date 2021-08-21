@@ -1,4 +1,4 @@
-const lazyloadHelper = require('norska-theme-search/lazyloadHelper');
+const lazyloadHelper = require('norska/frontend/algolia/lazyload');
 
 module.exports = {
   img(item) {
