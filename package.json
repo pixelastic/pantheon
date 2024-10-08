@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "lodash": "4.17.21",
-    "norska": "2.10.0",
-    "norska-theme-search": "1.5.1"
+    "norska": "3.0.0",
+    "norska-theme-search": "2.0.0"
   },
   "devDependencies": {
     "aberlaas": "1.25.1",
